@@ -18,8 +18,8 @@
   </teiHeader>
   <text>
       <body>
-         <p>Changing this text.</p>
-         <p>Adding a new paragraph.</p>
+         <p>Changing the text.</p>
+         <p>Let's do another change…</p>
       </body>
   </text>
 </TEI>
