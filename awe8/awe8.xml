@@ -18,7 +18,7 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here. Additional text.</p>
+         <p>Some text here. Additional text. Additional text</p>
       </body>
   </text>
 </TEI>
