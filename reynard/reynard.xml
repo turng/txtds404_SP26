@@ -6,7 +6,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Reynard the Foxe</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -18,8 +18,9 @@
   </teiHeader>
   <text>
       <body>
-         <p>Changing the text.</p>
-         <p>Let's do another change…</p>
+         <p>Blah blah blah.</p>
+         <p>Let's try multiple edits.</p>
+         <p>changes!</p>
       </body>
   </text>
 </TEI>
