@@ -2,7 +2,127 @@ Nursery Poems
 from the
 Ancient and Modern Poets
 
-*insert latin here
+Deus est nobis sol et scutum
+<!-- "God is our sun and shield" -->
 
 Banbury:
 Printed by J. G. Rusher
+
+An three-part image of a man's right side profile, an ornate crown, and a woman's left side profile, from left to right 
+<!-- If you have a better descriptions for the image captions, please replace mine lol- also we should delete these comments before submission-->
+
+Sing a song a sixpence,
+A bag full of rye;
+Four-and-twenty blackbirds
+Baked in a pie;
+When the pie was opened,
+The birds began to sing;
+Was not this a dainty dish
+To set before the king?
+
+The king in his counting house,
+Counting up his money;
+The queen in the parlour,
+Eating bread and honey:
+The maid in the garden,
+Hanging out the clothes;
+By came a little bird,
+And snapt at her nose.
+
+A full-body image of a rooster staring to the right.
+
+Crows Cock-a-doodle-do!
+My dame has lost her shoe;
+Master broke his fiddle-stick,
+And don't know what to do.
+
+A feather quill lays on top of a book, above a pen. The book is framed with a wreath of leaves and with bird wings on either side.
+
+Pretty flowers, tell me why
+All your leaves do open wide,
+Every morning, when on high
+The noble sun begins to ride?
+This is why, my lady fair,
+If you would the reason know;
+For betimes the pleasant air
+Very cheerfully does blow:
+And the birds on every tree
+Sing a very merry tune,
+And the little honey bee
+Comes to suck my sugar soon:
+This is all the reason why
+I my little leaves undo;
+Lady, lady, wake and try,
+If I have not told you true.
+
+A lady, on the left, stands next to a birdcage on a table and touches it with her left arm. A man stands to the right, staring down at the lady.
+
+Little miss, pretty miss,
+May blessings light on you!
+If I'd a crown a day,
+I'd spend it upon you.
+---
+<!--The following line is italicized, I don't think we have to worry about it for now because we're only transcribing plaintext, right?-->
+Song set to the five Toes
+1 This little pig went to market,
+2 That little pig staid at home,
+3 This pig had nice bread and butter,
+4 And that little pig had none;
+5 This little pig cried week, week, week!
+And couldn't find his way home.
+
+A long-haired dog runs to the right with its tongue sticking out, atop grass.
+
+Two little Dogs sat by the fire,
+Over a fender of coal-dust;
+When one said to the other dog,
+If Pompey won't talk, why I must.
+---
+Handy-spandy, Jack-a-dandy,
+Loved plum-cake and sugar candy;
+He bought some at the pastry shop,
+And laughing came out, hop, hop,
+hop!
+
+A circular frame shows the left side of a hog.
+
+Now have you ever heard
+Of Billy Pringle's Pig?
+It was not very small,
+Nor yet so very big:
+
+When alive it lived in clover,
+Now its dead and that's all over;
+Poor Billy, he lay down and died,
+And Betsy, she sat up and cried:
+
+So there's an end of three;
+Of Billy Pringle, he,
+Of Betsy Pringle, she,
+And poor piggy wiggee.
+
+A cat loafs on the left side of a wall atop some straw, with two jugs behind it. A mouse peeks its head out from the right side of the wall.
+
+POOR PUSS.
+---
+Why is Pussy in bed?
+She is sick, says the fly,
+And I fear she will die;
+And that's why she's in bed.
+---
+Pray what's her disorder?
+A lock'd-jaw is come on,
+Said the fine downy swan;
+And that's her disorder.
+
+A circular frame shows a lean, short-haired dog outside on grass besides a tree, with two dog silhouettes running behind it.
+
+Who makes her nice gruel?
+That she might not get worse,
+Dog Tray is her nurse,
+And makes her nice gruel.
+---
+Pray who is her doctor?
+I, said fam'd Mister Punch,
+At my back a great hunch;
+But I am her doctor.
