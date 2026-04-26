@@ -18,10 +18,10 @@ STELAZINE
 1516 2nd Av., Rm 304
 Seattle, Wash. 98101
 
-Name___________
+Name______________
 Address___________
-______________
-State       Zip
+__________________
+ State       Zip
 I want back issue number
 1, 2, or, 3
 WARRANT PRODUCTIONS
