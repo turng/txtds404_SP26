@@ -1,3 +1,5 @@
+# For The Lonesome Mermaid by Carlos Bulosan, we have decided to do a nearly diplomatic transcription, where we have only added some tags where we may want to fix typos, modernize the language, or remember key formatting for later when we mark it up in TEI. We created a key for ourselves for reasons of continuity and to make sure anyone who read it could understand it: (lb) denotes a line break in the text, <corr> is a possible correction, and <orig> is the original text from the document that would be changed. This text is already quite modern in its language so most of these changes are for what we think are typos or mistakes. The title and the page numbers, as represented by the original document, are also included here so that we can create page breaks in TEI.
+
 The Lonesome Mermaid
 
 	
