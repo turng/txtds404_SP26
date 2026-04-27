@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Police de Paris dévoilée — vol. 1, pp. 30–34 (transcription)</title>
+            <author>
+               <persName>
+                  <forename>Louis-Pierre</forename>
+                  <surname>Manuel</surname>
+               </persName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished TEI transcription for class project.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>La Police de Paris dévoilée</title>
+               <biblScope unit="volume">2</biblScope>
+               <biblScope unit="page">30–34</biblScope>
+               <pubPlace>Paris</pubPlace>
+               <date when="1794">1794</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         
+         <pb n="30"/>
+         <p>Alors la librairie eût deux rois. La ligne de démarcation entre leurs empires est le chef-d’œuvre des deux souverains. Après plusieurs conférences, les articles suivans furent arrêtés.</p>
+         
+         <p rend="head">Pour le lieutenant de Police.</p>
+         
+         <list type="ordered">
+            <item n="1">Permettre l’entrée des livres aux barrières.</item>
+            <item n="2">Les faire rendre à la douanne.</item>
+            <item n="3">Les saisies ou suspensions de livres par les commis des fermes, tant aux barrières de Paris que dans la province.</item>
+            <item n="4">Les saisies des livres prohibés faites dans les chambres syndicales, par les inspecteurs de la librairie ou officiers, ainsi que par les commis des fermes dans leurs tournées.</item>
+         </list>
+         
+         <p>La visite qui se fait tous les ans à la chambre syndicale, pour décider du sort des livres qui y sont confisqués ou suspendus.</p>
+         
+         <list type="ordered">
+            <item n="5">Recevoir le serment des nouveaux officiers de la librairie, et celui des nouveaux libraires.</item>
+            <item n="7">Tenir la main à l’exécution du règlement.</item>
+         </list>
+         
+         <pb n="31"/>
+         <list type="ordered">
+            <item n="8">Permettre l’impression d’un ouvrage jusqu’à concurrence de deux feuilles.</item>
+            <item n="9">Défendre ou arrêter la vente de toute espece d’ouvrages suivant les circonstances.</item>
+            <item n="10">Toutes perquisitions ou saisies de l’ordre du roi, ou emprisonnement.</item>
+            <item n="11">Censure des pièces de théâtre.</item>
+            <item n="12">On doit fournir au magistrat une copie des permissions tacites. Il faudroit aussi lui donner copie de tous les jugemens.</item>
+         </list>
+         
+         <p>A quelques subtiles observations près, tout accordé.</p>
+         
+         <p rend="head">Pour le directeur-général de la librairie</p>
+         <p>Détail de la librairie gracieuse.</p>
+         
+         <list type="ordered">
+            <item n="1">Proposer la nomination d’un nouveau censeur.</item>
+            <item n="2">Nommer le censeur d’un ouvrage.</item>
+            <item n="3">Recevoir son jugement.</item>
+            <item n="4">En rendre compte à M. le garde des sceaux.</item>
+            <item n="5">Lui adresser la feuille des jugemens, ou des permissions tacites.</item>
+            <item n="6">Proposer la nomination des inspecteurs de la librairie, tant à Paris qu’en province.</item>
+         </list>
+         
+         <pb n="32"/>
+         <list type="ordered">
+            <item n="7">Signer les ordres pour rendre les livres à la chambre syndicale.</item>
+            <item n="8">Permettre ou suspendre la distribution d’un ouvrage approuvé et permis.</item>
+            <item n="9">Punir un libraire qui aura mis en vente avant la permission.</item>
+            <item n="10">Recevoir les plaintes des auteurs contre les libraires, et en rendre compte à M. le garde des sceaux.</item>
+            <item n="11">Rendre compte à M. le garde des sceaux des demandes de privilèges, des refus d’enregistrement desdits privilèges, à la chambre syndicale.</item>
+            <item n="12">Des plaintes de contrefactions, d’analyses, d’extraits, de plagiats.</item>
+         </list>
+         
+         <p>Le tout accordé, en observant toutefois que le magistrat de la librairie doit avoir le droit de faire exécuter une interdiction prononcée par un arrêt du conseil; mais dans le cas de police civile, il convient de consulter le magistrat de police.</p>
+         
+         <p>On observe encore sur l’article 12, que quand les plaignans se pourvoient en justice réglée, cela regarde M. le lieutenant-général de police en première instance, par appel au conseil ou le bureau des affaires contentieuses.</p>
+         
+         <!-- Handle p.32→p.33 as continuous text across page break -->
+         <p>Une fois à leur place, ces deux magistrats se
+            <pb n="33"/>
+            disputoient la gloire d’entretenir la cour de leurs services.</p>
+         
+         <p>L’un écrivoit au roi: ”Une tolérance trop décidée a enhardi et les auteurs et les libraires. J’ai trouvé établi le système que la librairie étant une branche de commerce, on ne pouvoit lui donner trop d’étendue et de liberté. A la faveur de ce principe, on ferme les yeux sur l’impression, la publication et la distribution de tous les ouvrages prohibés. Le prétexte de ne point faire passer l’argent chez l’étranger, autorise la plus coupable licence, comme si la religion ne devoit pas commander à la politique. Ce qui peut rassurer votre majesté, c’est que les littérateurs sont fortement persuadés qu’au milieu des grands objets dont votre majesté est occupée, elle a daigné descendre aux détails de la librairie, et donner les ordres les plus précis pour la défense de tout livre que je croirai dangereux”.</p>
+         
+         <p>L’autre écrivoit: ”Sire, votre majesté n’ignore pas qu’il y a dans Paris une imprimerie qui n’est pas entièrement soumise à mon inspection. Celle de Simon, est en quelque sorte dépendante du parlement; elle ne devoit être employée qu’à imprimer ses arrêts. Cependant l’intérêt et la complaisance de l’imprimeur lui</p>
+         
+         <pb n="34"/>
+         <p>font quelquefois oublier son devoir; et c’est par cette voie que les ouvrages de parti se sont répandus souvent dans le public... Un abus d’un autre genre que je crois devoir vous dénoncer, c’est l’établissement qu’on a toléré depuis 40 ans des marchands de livres dans les maisons royales, aux spectacles, dans le château même de Versailles, et dans tous les lieux privilégiés”.</p>
+         
+         <p>Tous les deux se faisoient un grand mérite d’avoir fait saisir à la foire de Beaucaire, 40 ballots de livres défendus, destinés pour la France et introduits par Avignon; d’avoir fait arrêter à Lyon, à Bayonne des libraires en contravention.</p>
+         
+         <p>La postérité me pardonnera-t-elle de n’avoir pas déposé au temple de mémoire, les noms de ces magistrats qui sans la gazette ecclésiastique qui leur échappoit toujours, auroient eu, comme Dieu, la réputation d’être présens par-tout?</p>
+         
+         <p rend="head">De la cérémonie du pilon.</p>
+         
+         <p>Rome est si éloignée de Paris, sur-tout depuis la révolution, que Paris a peut-être oublié comment les livres se brûlent à Ro- <gap reason="pageRangeEnds" extent="unknown"></gap></p>
+         
+      </body>
+   </text>
+</TEI>
