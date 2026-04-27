@@ -1,7 +1,57 @@
-# For Be American by Carlos Bulosan, we have decided to do a nearly diplomatic transcription like The Lonesome Mermaid, where we have only added some tags where we may want to fix typos, modernize the language, or remember key formatting for later when we mark it up in TEI. We created a key for ourselves for reasons of continuity and to make sure anyone who read it could understand it: <corr> is where a possible correction would be, <underlined> and <centered> are for future formatting, and notes in parantheses like (overtyped) show where the text is harder to read. This text is already quite modern in its language so most of these changes are for what we think are typos or mistakes. The title, end statement, and the page numbers, as represented by the original document, are also included here so that we can create page breaks in TEI.
+<!-- For Be American by Carlos Bulosan, we have decided to do a nearly diplomatic transcription like The Lonesome Mermaid, where we have only added some tags where we may want to fix typos, modernize the language, or remember key formatting for later when we mark it up in TEI. We created a key for ourselves for reasons of continuity and to make sure anyone who read it could understand it: <corr> is where a possible correction would be, <u> and <centered> are for future formatting underlined and center aligned text, and notes in parantheses like (overtyped) show where the text is harder to read. This text is already quite modern in its language so most of these changes are for what we think are typos or mistakes. The title, end statement, and the page numbers, as represented by the original document, are also included here so that we can create page breaks in TEI. -->
+
+“BE AMERICAN”
+By Carlos Bulosan
+
+It was not Consorcio’s fault. My cousin was an illiterate peasant from the vast plains of Luron. When he came off the boat in San Francisco, he could neither read nor write English or Ilocano, our dialect. I met him when he arrived, and right away he had bright ideas in his head. 
+“Cousin, I want to be American,” he told me.
+“Good,” I said. “That is the right thing to do. But you have plenty of time. You are planning to live permanently in the United States, are you not?”
+“Sure, cousin,” he said. “But I want to be American right away. On the boat I say, ‘Consorcio stoody Engleesh right away.’ Good ideeyas, eh, cousin?”
+“It is,” I said. “But the first thing for you to do is look for a job.”
+“Sure, cousin. You have joob for me?”
+I did. I took him to a countryman of ours who owned a small restaurant on Kearny Street. He had not done any dishwashing in the Philippines, so he broke a few dishes before he realized that the dishes were not coconut shells that he could flagrantly throw around the place, the way he used to do in his village where coconut shells were plates and carved trunks of trees were platters and his fingers were spoons. He had never seen bread and butter before, so he lost some weight before he realized that he had to eat these basic things like the rest of us, and be an American, which was his own idea in the first place. He had never slept in a bed with a mattress before, so he had to suf-
+
+“Be American”
+2
+
+fer from severe cold before he realized that he had to sleep inside of the bed, under the blankets, but not on top of the spread, which was what we had done during his first two weeks in America. And of course he had never worn shoes before, so he had to suffer a few blisters on both feet before he realized that he had to walk light-footed, easy, and even graceful, but not the way he used to do it in his village, which was like wrestling with a carabao or goat.
+All these natural things he had to learn during his first two weeks. But he talked about his Americanization with great confidence. 
+“You see, cousin,” he told me, “I have earned mony quick. I poot and hoot dashes in the sink, wash-wash, day come, day out, week gone - mony! Simple?”
+“Fine,” I said.
+“You know what I done with mony?”
+“No.”
+“I spent all.”
+“On what?”
+“Books. Come see my room.”
+I went with him to his small room at the back of the restaurant where he was working, near the washrooms. And sure enough, he had lined the four walls of his room with big books. I looked at the ti-tles. He had a cheap edition of the classics, books on science, law and mathematics. He even had some brochures on political and govern-mental matters. All were books that a student or even a professor would take time to read.
+I turned to my cousin. He was smiling with pride.
+“Well, I hope these big books will make you an American faster,” I told him. 
+
+“Be American”
+3
+
+“Sure, cousin. How long I wait?”
+“Five years.”
+“<u>Five years?</u>” There was genuine surprise in his dark peasant face. “Too long. I do not wait. I make faster - one year.”
+“It is the law,” I assured him.
+“No good law. One year enough for Consorcio. He make good Ame-rican citizen.”
+“There is nothing you can do about it.”
+“I change law.”
+“Go ahead.”
+“You see, cousin.”
+But he was puzzled. So I left him. I left San Francisco. When I saw him a year later, he was no longer washing dishes. But he still had the pardonable naivete of a peasant from the plains of Luzon.
+“Where are you working now?” I asked him.
+“Bakery,” he said. “I make da bread. I make da donot. I made da pys.”
+“Where?”
+“Come, cousin. I show you.”
+It was a small shop, a three-men affair. Concorcio was the handy-boy in the place, scrubbing the floor, washing the pots and pans; and he was also the messenger. The owner was the baker, while his wife was the saleswoman. My cousin lived at the back of the building, near the washrooms. He had a cot in the corner of a dark room. But the books were gone.
+“What happened to your books?” I asked him.
+He looked sad. Then he said, “I sold, cousin.”
+“Why?”
 
 "Be American"
 4
+
 "I cannot read. I cannot understand. Words too big and too long."
 "You should begin with simple grammar books."
 "Those cannot read also. What to do now, cousin?"
@@ -27,6 +77,7 @@ I worked in Alaska the next two years. When I returned to the mainland, I made i
 
 "Be American"
 5
+
 cousin had left his janitor job and the night school. I could not find his new address, and it seemed that no one knew him well enough in the Filipino community.
 I did not think much of his disappearance because we are a wandering people que to the nature of our lowly occupations, which take us from place to place, following the seasons. When I received a box of grapes from a friend, I knew he was working in the grape fields in either Fresno or Delano, depending on the freight mark. When I received a box of <corr>asparggus</corr>, I knew he was working in Stockton. But when it was a crate of lettuce, he was working in Santa Maria or Salinas, depending on the freight mark again. And in the summertime when I received a large barrel of salmon, I knew he was working in the salmon canneries in Alaska. There were no letters, no post cards - nothing. But these surprising boxes, crates and barrels that arrived periodically were the best letters in the world. What they contained were lovingly distributed among my city friends. Similarly, when I was in one of my own wanderings, which were done in cities and large towns, I sent my friend or friends unsealed envelopes bursting with the colored pictures of actresses and other beautiful women. I addressed these gifts to poolrooms and restaurants in towns where my friends had lived or worked for a season, because they were bound to go to any of these havens of the homeless wanderer. However, when another curious wanderer opened the envelopes and pilfered the <corr>pic-tures</corr>, it was not a crime. The enjoyment which was originally intended for my friends was his and his friends. That is the law of the
 nomad: finders heepers.
@@ -35,6 +86,7 @@ I did not expect him to send me boxes, crates, and barrels from faraway Alaska. 
 
 "Be American"
 6
+
 I wandered in and out of Los Angeles the next two years. At the beginning of the third year, when I was talking to the sleeping birds in Pershing Square, I felt a light hand on my shoulders. I was not usually curious about hands, but it was well after midnight and the cops were wandering in and out of the place. So I turned around - and <corr>jound</corr> Consorcio.
 I found a new Consorcio. He had aged and the peasant naivete was gone from his face. In his eyes was now a hidden fear. His hands danced and flew when he was talking, and even when he was not talking, as though he were slapping the wind with both hands or clapping with one hand. Have you ever heard the noise of one hand clapping?
 That was Consorcio, after five years in America. He was either slapping the wind with both hands or clapping with one hand. So I guided him out of the dark park to a lighted place, where we had coffee until the city awoke to give us another day of hope. Of course, I sat in silence for a long time because it was the year of deep <corr>si-lence</corr>. And Consorcio sat for a long time too, because by now he had learned to hide in the deep silence that was flung like a mourning cloak across the face of the land. When we talked our sentences were short and punctuated by long silences. So we conversed somewhat like this:
@@ -48,6 +100,7 @@ Silence.
 
 "Be American"
 7
+
 “Not American citizen yet?”
 “You should have told me?”
 “Told you what?”
@@ -61,12 +114,13 @@ Silence.
 “How long?”
 “I have forgotten.”
 “Better times will come.”
-“You have a wonderful dream, cousin,” he told me and left. He left Los Angeles for a long time. Then, two years later, I received a crate of oranges from him. The freight mark was San Jose. Now I knew he was working and had learned the unwritten law of the wanderers on this troubled earth. So as I ate the oranges, I recalled his last state- ment: <underlined>You have a wonderful dream, cousin<underlined>…
+“You have a wonderful dream, cousin,” he told me and left. He left Los Angeles for a long time. Then, two years later, I received a crate of oranges from him. The freight mark was San Jose. Now I knew he was working and had learned the unwritten law of the wanderers on this troubled earth. So as I ate the oranges, I recalled his last state- ment: <u>You have a wonderful dream, cousin</u>…
 I had a wonderful dream. But I dreamed it for both of us, for many of us who wandered in silence.
 Then the boxes and crates became more frequent. Then a barrel of salmon came from Alaska. And, finally, the letters came. My cousin Consorcio, the one-time illiterate peasant from the vast plains of Luzon, had indeed become an American without knowing it. <corr>He</corr> letters were full of wondering and pondering about many things in America. Now he realized his naivete when he had landed in San Francisco. But he realized also that he could not ask too  much in a strange land. And it was this realization that liberated him from his peasant pri- 
 
 "Be American"
 8
+
 son, his heritage, and eventually led him to a kind of work to which he dedicated his time and life until the end.
 I was in Oregon when I received a newspaper from Consorcio, post- marked Pismo Beach. It was the first issue of his publication for agricultural workers in California. It was in English. From then on, I received all issues of his publication. All of the five years that it existed <corr>depending</corr> the workers and upholding the rights and liberties of all Americans, native or foreign born, so that, as he began to un- derstand the nature of American society, he became more belligerent in his editorials and had to go to jail a few times for his ideas about freedom and peace. 
 Yes, indeed Corsorcio: you have become an American, a real Ameri- can. And this land that we have known too well is not yet denuded by the rapacity of men. Rolling like a beautiful woman with an overflow- ing abundance of fecundity and murmurous with her eternal mystery, there she lies before us like a great mother. To her we always return from our prodigal wanderings and searchings for an anchorage in the sea of life; from her we always draw our sustenance and noble thoughts, to add to her glorious history.
@@ -74,6 +128,7 @@ But the war came. And the war ended Consorcio’s newspaper work and his crusade
 
 "Be American"
 9
+
 voice a kindness for me - unhappy, perhaps, that he could not impart what he had learned from his wanderings on this earth: unhappy, also, because he knew that it would take all the people to unmake the un- happiness which had caught up with us. And now, fifteen years after his arrival in San Francisco, he was dying. 
 And he died. But at least he received his most (overtyped) cherished (overtyped) dream: American citizenship. He did realize later that he had become an American before he received his papers, when he began to think and write lovingly about our America. He gave up many things, and finally his own life, to realize his dream.
 But Consorcio is not truly dead. He lives in my undying love for the American earth. And soon, when I see the last winter coming to the last leaf, I will be warm with the thought that another wanderer shall inherit the wonderful dream which my cousin and I had dreamed and realized in America.
