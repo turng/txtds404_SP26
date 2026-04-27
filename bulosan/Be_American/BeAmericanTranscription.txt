@@ -1,3 +1,5 @@
+# For Be American by Carlos Bulosan, we have decided to do a nearly diplomatic transcription like The Lonesome Mermaid, where we have only added some tags where we may want to fix typos, modernize the language, or remember key formatting for later when we mark it up in TEI. We created a key for ourselves for reasons of continuity and to make sure anyone who read it could understand it: <corr> is where a possible correction would be, <underlined> and <centered> are for future formatting, and notes in parantheses like (overtyped) show where the text is harder to read. This text is already quite modern in its language so most of these changes are for what we think are typos or mistakes. The title, end statement, and the page numbers, as represented by the original document, are also included here so that we can create page breaks in TEI.
+
 "Be American"
 4
 "I cannot read. I cannot understand. Words too big and too long."
@@ -73,7 +75,7 @@ But the war came. And the war ended Consorcio’s newspaper work and his crusade
 "Be American"
 9
 voice a kindness for me - unhappy, perhaps, that he could not impart what he had learned from his wanderings on this earth: unhappy, also, because he knew that it would take all the people to unmake the un- happiness which had caught up with us. And now, fifteen years after his arrival in San Francisco, he was dying. 
-And he died. But at least he received his most <overtyped>cherished</overtyped> dream: American citizenship. He did realize later that he had become an American before he received his papers, when he began to think and write lovingly about our America. He gave up many things, and finally his own life, to realize his dream.
+And he died. But at least he received his most (overtyped) cherished (overtyped) dream: American citizenship. He did realize later that he had become an American before he received his papers, when he began to think and write lovingly about our America. He gave up many things, and finally his own life, to realize his dream.
 But Consorcio is not truly dead. He lives in my undying love for the American earth. And soon, when I see the last winter coming to the last leaf, I will be warm with the thought that another wanderer shall inherit the wonderful dream which my cousin and I had dreamed and realized in America.
 
 <centered>(End)</centered>
