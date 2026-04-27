@@ -1,16 +1,29 @@
 Transcription for group project item 3
+Statement
+This transcription follows a diplomatic approach, reproducing the text as it appears in the original document as closely as possible. Original spelling, capitalization, punctuation, and formatting have been preserved in order to maintain the historical and material integrity of the source text. Line breaks, paragraph divisions, and spacing have been retained where they are visually evident in the document. Structural features such as headings, section titles, and date markers have also been preserved, as they contribute to the organization and rhetorical presentation of the text. Emphatic capitalization in headings (such as section titles describing events or themes) has been maintained. No modernization or correction of spelling and grammar has been undertaken. Apparent typographical irregularities such as “ammner,” “grraft,” “intende,” “constribution” and hyphenated or broken words such as “in-vestigator” or “cri-minal” have been preserved as they appear in the source. These features are treated as part of the original document rather than errors to be corrected. Editorial intervention has been kept to a minimum. Where necessary, unclear or ambiguous text has been transcribed conservatively without interpretation. This approach ensures consistency across the transcription and preserves the textual features required for accurate TEI encoding, while allowing for the possibility of later normalization or correction using TEI markup. 
 
-Page from Seattle Union Record:
+From Seattle Union Record, Oct. 29, 1926  page 2
+
+Because William B. Severyns is a candidate for sheriff, friends of his oponents have been charging that the amazine "True Confessions of a Chief of Police," written by him, is "mere political propaganda."
+
+This is absolutely untrue. The Severyns articles were written early this year, while he was still chief of police. They aroused nation-wide interest and syndicates bid eagerly for the work. The Union Record simply has Seattle rights. 
+
+The editors of the Union Record honestly believe that Severyns is a high-class citizen and would like to see him elected sheriff. But the UNion Record has made no active campaign for Severyns for sheriff and will make none. Only in this way can it be certain that those who see "political motives" in the publication of the story will be shut up. 
+
+Futher, all matter in any way involving men who are now candidates for office, or which might in any way be interpreted as helpful to the candidacy of Bill Severyns will be held up until after the next Tuesday, the day of election. 
+
+This simply means that until next Tuesday some names will be omitted from the story and the installments may be a trifle shorter. But as the reader will observe, the articles become more amazing from day to day. After next Tuesday all restraint will be off. 
+
+
 
 CONFESSIONS OF A CHIEF OF POLICE
 BY
 William B. Severyns
 Chief of Police, 1922-1926
 -Copied from Seattle Union Record Oct. 25 - Dec. 14, 1926-1926
-Statement
-This transcription follows a diplomatic approach, reproducing the text as it appears in the original document as closely as possible. Original spelling, capitalization, punctuation, and formatting have been preserved in order to maintain the historical and material integrity of the source text. Line breaks, paragraph divisions, and spacing have been retained where they are visually evident in the document. Structural features such as headings, section titles, and date markers have also been preserved, as they contribute to the organization and rhetorical presentation of the text. Emphatic capitalization in headings (such as section titles describing events or themes) has been maintained. No modernization or correction of spelling and grammar has been undertaken. Apparent typographical irregularities such as “ammner,” “grraft,” “intende,” “constribution” and hyphenated or broken words such as “in-vestigator” or “cri-minal” have been preserved as they appear in the source. These features are treated as part of the original document rather than errors to be corrected. Editorial intervention has been kept to a minimum. Where necessary, unclear or ambiguous text has been transcribed conservatively without interpretation. This approach ensures consistency across the transcription and preserves the textual features required for accurate TEI encoding, while allowing for the possibility of later normalization or correction using TEI markup. 
 
-1926
+
+Oct. 25, 1926
 PREFACE
 
   This is the true story of the chief of police of Seattle under an administration charged with having been in league with the underworld. I am not writing either an apology, an explanation or a vindication. I do not intend that the facts I shall set forth shall hold up any particular persons to admiration or scorn.
@@ -129,11 +142,48 @@ Between the two races exists a supreme hatred born of distrust and double-crossi
 Chinese never are stool pigeons, but Japanese often go to the police with tales concerning Chinese or even men of their own race.
 Many Japanese were booked for drunkenness during my term in office, but I do not remember a single Chinese drunk charge.
 The Chinaman's code is "Leave me alone and I will not bother you. Let me pay your political costs and in return give me friendship and protection in my gambling. The rest of my affairs I will administer myself.
+
 November 1 1926 Bannick-Severyns stage 'cleanup' to silence criticism. 
 
-Conclusion
+
+
+December 14, 1926,
+
+MRS LANDERS DOESN'T KNOW WHAT IT'S ALL ABOUT,
+SAY HER FOES
+
+    Although there is, I am sure, as much drinking, gambling, grafting, viciousness and general lawlessness in Seattle today as there was a year ago, the word no longer goes out to the world that Seattle has a wide-open town. 
+    Paradoxically, Seattle today is different, yet no different from the Seattle which Dr. B.j. Brown presided as mayor and whose chief of police I was. 
+    This paradox is not characteristic only of Seattle. It is characteristic of American cities. The difference between the Seattle of today and the " wide-open" Seattle is very largely the difference in the state of mind of the citizens of Seattle. But there is an additional difference, which grows out of a situation peculiar to Seattle. This peculiar difference is the difference in the personalities of the present mayor and the previous mayor. 
+    The critics of Mts. Landes, our lady mayor, say that " she doesn't know what it's all about." I am no judge of this. But I must admiringly declare that if Mrs. Landes " doesn't know what it's all about" she certainly doesn't know enough to refrain from talking so much that people can find out everything she does know.
+
+MRS LANDERS RARE POLITICAL SAGACITY IN KEEPING STILL;AVOIDS 
+DOC BROWN'S MISTAKE; MAKES SILENT CAL SEEM GARRULOUS 
+
+    It is a great political asset to know when to keep still. The present administration never makes the mistake of talking too much. IN fact, Mrs. Landes gives the lie to those critics of the fair sex who declare that women cant keep from talking. Compared with Mrs. Landes, " Silent" Cal Coolidge is a circus spieler. She utters no learned data, as did her predecessor. Mrs. Landes seems to have as a fixed rule of politics the admonition: Do not feed or annoy the animals. Mayor Brown's idea was: Rile 'em up. 
+    Mayor Brown used to answer his critics publicly long before they opened their mouths to criticize him. In order to do this , he had to first criticize himself and then to answer the criticism. Mayor Mrs. Landes is quite different. She doesn't even answer her critics. She calmly ignores them. 
+    For instance: 
+    The one outstanding thing that brought Mrs. Landes prominence, even national prominence, was her dismissal of the present writer when he was chief of police. 
+    " Fire a hundred policeman or I will fire you," Mrs. Landes commanded me, taking advantage of the absence of the mayor. 
+
+-2-
+
+LADY MAYOR, INVITED TO FIRE 100 COPS AS SHE ONCE COMMANDED
+SEVERYNS TO DO, SIMPLY KEEPS QUITE;COPS ARE STILL ON FORCE
+
+    I didn't fire the policemen and Mrs. Landes fired me. In the course of these articles I have publicly invited Mrs. Landes to fire those hundred policemen. Did Mrs. Landes do so? Not she. She simply didn't pay any attention to the invitation. It was all right to want a hundred policemen fired while someone else was mayor, but when one becomes mayor one's self one does not discuss such things. 
+    And still they say that women have no place in politics! If Mayor Brown were as shrewd a politician as his successor he would still be mayor today. Had such an invitation been addressed to Mayor Brown he would have uttered half a dozen statements denouncing the whole thing as " a scheme to ruin the good name of our fair city." At the same time he would have taken occasion to say a few kind words for policemen, the chief of police, the mayor, and would probably wound up with the statement that he had in mind a great scheme which would double the population of the city in ten years, but that this scheme would surely fall through if the vile plotters against the fair name of the city were not silenced. 
+    When a murder occurred under the previous administration the mayor would rush into print. He would personally see to it that the murderer was caught in a few hours. One would think that he has inside knowledge of the crime. As a matter of fact, these actions of the mayor were the result of a burning desire to make good in the eyes of the people. When a serious crime was committed, he seems to feel that it was his personal business to see to it that the criminal was apprehended. His enemies were quick to take advantage of this trait of the mayor. They sent so far as to charge that his administra-tion was the cause of all the crimes that occurred and one murder was directly laid at his door. A man, in fit of jealous rage, killed a man he found with his sweetheart. The jury, in finding the murderer guilty, decleared that the crime was the result of drinking of whisky by the slayer who would not have been able to obtain it if the mayor hadn't permitted whisky to be sold! 
+    Two girls and two young boys were found in a room in a nearby city. They had been drinking and had been asphyxiated when the flame was extinguished in a gas burner. The mayor of Seattle was one of those blamed for the death. Such was the state of public mind. 
+    The present mayor does not publicly concern herself with murders. She is largely connected in the public mind with the quiet, pleasant, ladylike phases of public affairs. People go about their business, whether that business be banking or bootlegging, in comparative peace. 
+
+-3-
+
+CITY PEACFUL NOW DESPITE BOOTLEGGING AND LAW VIOLATIONS; 
+HOW LONG WILL IT BE BEFORE SNOOPERS BECOME ACTIVE AGAIN?
+
   And so we come to the conclusion of this story of a certain phase of political life in a great American city. Seattle, with its reform administraion, is not the only American city ruled by a lady. Our mayor happens to wear skirts. Some other lady maors are poorly disguised in pants.
-  As to the police department in Seattle today: All the police men who were on the force, with less than ten exceptions, are atill on the force. Only I have gone. A man is chief who was a member of the force when I was chief. If I contaminated the whole police department by my pressence, the source of contamination is gone. But can the whole problem of the administration of police affairs be so easily solved? I think not.
+  As to the police department in Seattle today: All the police-men who were on the force, with less than ten exceptions, are atill on the force. Only I have gone. A man is chief who was a member of the force when I was chief. If I contaminated the whole police department by my pressence, the source of contamination is gone. But can the whole problem of the administration of police affairs be so easily solved? I think not.
   Today there is comparative peace so far as criticism of police affairs is concerned. But tomorrow ---? How long can the people who snoop for evidence in ash cans be silent? When they start snooping again they will find practically everything they found before.
   If the reading of these series of series of articles has helped anyone to a better understanding of the great problem of police administration, my work has been justified. I freely admit that I have not gone very far toward pointing the way to solutions of the many problems presented. I have only tried to give some of the facts neccessary to a clearer understanding.
   A lastword: If I have hurt the feelings of any named in the course of these articles, I am sorry. I have tried throughout to use names only where they were necessary to the narrative, and I am certain that, in a considerable degree, I have avoided the senseational.
