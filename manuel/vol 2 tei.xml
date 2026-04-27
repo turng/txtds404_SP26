@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Police de Paris dévoilée — vol. 2, pp. 23–25 (line-by-line diplomatic transcription)</title>
+            <author>
+               <persName>
+                  <forename>Louis-Pierre</forename>
+                  <surname>Manuel</surname>
+               </persName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished TEI transcription for class project.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>La Police de Paris dévoilée</title>
+               <biblScope unit="volume">2</biblScope>
+               <biblScope unit="page">23–25</biblScope>
+               <date when="1794">1794</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <div type="excerpt" n="vol2_p23-25">
+            
+            <pb n="23"/>
+            <p rend="head">DE LA POLICE<lb/>SUR LES<lb/>MAISONS DE FORCE.</p>
+            
+            <p>QUAND un Roi s’imagine que vingt mil-<lb break="no"/>lions d’hommes sont faits pour lui seul, et<lb/>
+               qu’il veut être lui seul plus fort qu’eux<lb/>
+               tous; quand il a des ministres, dont le<lb/>
+               plus doux a expédié, sur l’affaire de la<lb/>
+               bulle Unigenitus, plus de 54,000 lettres de<lb/>
+               cachet, il faut qu’il ait des prisons par-<lb break="no"/>tout où il a à craindre qu’un Blasktone<lb/>
+               réveille le peuple pour lui dire que la con-<lb break="no"/>servation de la liberté particulière est si im-<lb break="no"/>portante, que s’il étoit laissé à la volonté des<lb/>
+               magistrats, et même du magistrat suprême ,<lb/>
+               d’emprisonner arbitrairement ceux que lui ou<lb/>
+               ses Officiers jugent devoir l’être, tous les droits ,<lb/>
+               toutes les immunités seroient bientôt anéanties.</p>
+            
+            <p>La France étoit hérissée de ces maisons<lb/>
+               de force, où le despotisme qui ne parois-<lb break="no"/>soit doux que parce qu’il étoit corrompu ,<lb/>
+               et qui eût été moins dur s’il eût été plus<lb/>
+               méchant , avoit la lâcheté de renfermer des<lb/>
+               victimes qu’il n’eût eu pas le courage de tuer.</p>
+            
+            <p>B 4</p>
+            
+            <pb n="24"/>
+            <p>Chaque province étoit son géolier. La Bre-<lb break="no"/>tagne lui gardoit le Château du Taureau,<lb/>
+               l’Anjou , celui de Saumur , la Guyenne ,<lb/>
+               le Château - Trompette, le Lyonnois, celui<lb/>
+               de Pierre-Encise , le Languedoc, le fort de<lb/>
+               Bréhon , la Normandie , le Mont-Saint-Mi-<lb break="no"/>chel , la Picardie , le Château de Ham, la<lb/>
+               Provence , les îles Sainte-Marguerite. Ce<lb/>
+               n’est pas tout. Comme la capitale qui a<lb/>
+               Saint-Lazare , Bicêtre et Charenton , chaque<lb/>
+               ville offroit ses couvens, où des moines, qui<lb/>
+               ne prioient que Dieu, gardoient des hommes<lb/>
+               qui ne prioient souvent que le Roi. Cé-<lb break="no"/>toient à Angers, à Nancy, à Rouen, les Ecoles<lb/>
+               chrétiennes : à Mont-Jean, à Beauvais,<lb/>
+               à Tanlay, à Châtillon-sur-Seine, à Amboise,<lb/>
+               les Cordeliers : à Saint - Venant, à Armen-<lb break="no"/>tieres , à Lille , les Bons-fils : à Senlis , à<lb/>
+               Château - Thierry , à Romans , à Cadillac,<lb/>
+               à Pontorson , à Poitiers , les Frères de la<lb/>
+               Charité : à Vailly , les Picpus ; &amp;c. Ce n’est<lb/>
+               pas tout encore. Que faire des femmes,<lb/>
+               quand n’étant plus assez jolies pour avoir<lb/>
+               toujours raison, leurs défauts passent pour<lb/>
+               des vices , et leurs foiblesses pour des crimes?<lb/>
+               Il faut les cacher ou les perdre. Mais la<lb/>
+               Salpêtrière, Sainte-Pélagie, les Magdalonnettes,<lb/>
+               ni le couvent de Valdonne , ne les con-<pb n="25"/><lb break="no"/>tiendroient pas toutes. Le Refuge à Dijon ,<lb/>
+               les Annonciades à Clermont-Margone , la Ma-<lb break="no"/>deleine à la Flèche , Notre-Dame-de-Charité<lb/>
+               à Guimgamp , celle de la Riche à Tours ,<lb/>
+               les Ursulines à Chinon , les Hospitalières ,<lb/>
+               à Comond , s’ouvroient complaisamment à<lb/>
+               des prisonnières d’Etat qui souvent étoient<lb/>
+               des Messalines que des Vestales avoient or-<lb break="no"/>dre de surveiller et de servir.</p>
+            
+            <p>C’est dans ces fosses religieuses que s’en-<lb break="no"/>gloutissoient pour long-temps, pour toujours<lb/>
+               quelquefois , des jeunes gens dont le pre-<lb break="no"/>mier malheur a été leur éducation , qui<lb/>
+               sans avoir troublé l’ordre public par des<lb/>
+               délits , coupables de quelques infidélités ,<lb/>
+               de quelques abus de confiance que dénon-<lb break="no"/>çoient leurs pères , n’avoient enfin rien fait<lb/>
+               qui les exposât à la sévérité des lois ; c’est<lb/>
+               là que des familles que les préjugés rendoient<lb/>
+               barbares , condamnoient à une mort lente<lb/>
+               ceux qui devoient expier leur vie en don-<lb break="no"/>nant l’exemple utile des échafauds. Mais<lb/>
+               il paroît que la fureur ou la démence étoit<lb/>
+               un prétexte qui valoit encore mieux que<lb/>
+               des raisons , lorsque la faveur vouloit servir<lb/>
+               la haine : et les bourreaux prenoient le mas-<lb break="no"/>que hypocrite de la bienfaisance. Enchaîner<lb/>
+               ces malheureux , disoient-il , c’est leur ôter</p>
+            
+         </div>
+      </body>
+   </text>
+</TEI>

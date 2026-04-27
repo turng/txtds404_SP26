@@ -25,8 +25,7 @@ Printed by J. G. Rusher
 
 2
 
-An three-part image of a man's right side profile, an ornate crown, and a
-woman's left side profile, from left to right 
+[[image: An three-part image of a man's right side profile, an ornate crown, and a woman's left side profile, from left to right]]
 
 Sing a song a sixpence,
 A bag full of rye;
@@ -48,7 +47,7 @@ And snapt at her nose.
 
 3
 
-A full-body image of a rooster staring to the right.
+[[image: A full-body image of a rooster staring to the right.]]
 
 Crows Cock-a-doodle-do!
 My dame has lost her shoe;
@@ -57,8 +56,7 @@ And don't know what to do.
 
 4
 
-A feather quill lays on top of a book, above a pen. The book is framed with a 
-wreath of leaves and with bird wings on either side.
+[[image: A feather quill lays on top of a book, above a pen. The book is framed with a wreath of leaves and with bird wings on either side.]]
 
 Pretty flowers, tell me why
 All your leaves do open wide,
@@ -79,8 +77,7 @@ If I have not told you true.
 
 5
 
-A lady, on the left, stands next to a birdcage on a table and touches it with 
-her left arm. A man stands to the right, staring down at the lady.
+[[image: A lady, on the left, stands next to a birdcage on a table and touches it with her left arm. A man stands to the right, staring down at the lady.]]
 
 Little miss, pretty miss,
 May blessings light on you!
@@ -99,7 +96,7 @@ And could n't find his way home.
 
 6
 
-A long-haired dog runs to the right with its tongue sticking out, atop grass.
+[[image: A long-haired dog runs to the right with its tongue sticking out, atop grass.]]
 
 Two little Dogs sat by the fire,
 Over a fender of coal-dust;
@@ -116,7 +113,7 @@ hop!
 
 7
 
-A circular frame shows the left side of a hog.
+[[image: A circular frame shows the left side of a hog.]]
 
 Now have you ever heard
 Of Billy Pringle's Pig?
@@ -135,8 +132,7 @@ And poor piggy wiggee.
 
 8
 
-A cat loafs on the left side of a wall atop some straw, with two jugs behind it. 
-A mouse peeks its head out from the right side of the wall.
+[[image: A cat loafs on the left side of a wall atop some straw, with two jugs behind it. A mouse peeks its head out from the right side of the wall.]]
 
 POOR PUSS.
 
@@ -156,8 +152,7 @@ And that's her disorder.
 
 9
 
-A circular frame shows a lean, short-haired dog outside on grass besides a tree, 
-with two dog silhouettes running behind it.
+[[image: A circular frame shows a lean, short-haired dog outside on grass besides a tree, with two dog silhouettes running behind it.]]
 
 Who makes her nice gruel?
 That she might not get worse,
@@ -173,15 +168,14 @@ But I am her doctor.
 
 10
 
-A gazelle runs towards the right upon an open grassy plain.
+[[image: A gazelle runs towards the right upon an open grassy plain.]]
 
 Who thinks she'll recover?
 I do, sir, sasid the Deer,
 And I thought so last year;
 I think she'll recover.
 
-A small image of a thin-faced man with the horns of a ram smiles with two flowers 
-coming out either end of his mouth.
+[[image: A small image of a thin-faced man with the horns of a ram smiles with two flowers coming out either end of his mouth.]]
 
 And when Puss is quite well,
 All shall have noble fare;
@@ -190,7 +184,7 @@ And we'll ring the great bell.
 
 11
 
-A rabbit stands facing to the right, it's eye staring at the reader.
+[[image: A rabbit stands facing to the right, it's eye staring at the reader.]]
 
 There was a little Rabbit sprig,
 Which being little was not big;
@@ -209,8 +203,7 @@ He never has been walking since.
 
 12
 
-A person stands with one arm holding up a hammer and the other hand on their hip, 
-staring down at five spikes connected in a half-circle rising from the ground.
+[[image: A person stands with one arm holding up a hammer and the other hand on their hip, staring down at five spikes connected in a half-circle rising from the ground.]]
 
 Is John Smith within?
 Yes, Mister Griffin.
@@ -232,8 +225,7 @@ Jiggety jog.
 
 13
 
-A wide octagonal frame shows a group of men on the right holding muskets and 
-aiming at a brick wall on the left.
+[[image: A wide octagonal frame shows a group of men on the right holding muskets and aiming at a brick wall on the left.]]
 
 There was a little man,
 Who had a little gun,
@@ -279,8 +271,7 @@ When mettle's put to test.
 
 15
 
-A oval frame shows a lady wearing a dark cloack and hood carrying a basket 
-and poking at a group of three swans with a stick.
+[[image: A oval frame shows a lady wearing a dark cloack and hood carrying a basket and poking at a group of three swans with a stick.]]
 
 I'll tell you a story
 About Peg Amo-re,
@@ -302,7 +293,7 @@ And pray how are you?
 
 16
 
-A rectangular frame shows a man wearing a hat leading a horse towards the right.
+[[image: A rectangular frame shows a man wearing a hat leading a horse towards the right.]]
 
 I had a little Pony,
 And call'd it Dapple Grey;
