@@ -18,7 +18,8 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+         <p>example text</p>
+         <p>second line of example text</p>
       </body>
   </text>
 </TEI>
