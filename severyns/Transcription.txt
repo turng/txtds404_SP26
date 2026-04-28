@@ -1,1 +1,247 @@
 Transcription for group project item 3
+Statement
+This transcription follows a diplomatic approach, reproducing the text as it appears in the original document as closely as possible. Original spelling, capitalization, punctuation, and formatting have been preserved in order to maintain the historical and material integrity of the source text. Line breaks, paragraph divisions, and spacing have been retained where they are visually evident in the document. Structural features such as headings, section titles, and date markers have also been preserved, as they contribute to the organization and rhetorical presentation of the text. Emphatic capitalization in headings (such as section titles describing events or themes) has been maintained. No modernization or correction of spelling and grammar has been undertaken. Apparent typographical irregularities such as “ammner,” “grraft,” “intende,” “constribution” and hyphenated or broken words such as “in-vestigator” or “cri-minal” have been preserved as they appear in the source. These features are treated as part of the original document rather than errors to be corrected. Editorial intervention has been kept to a minimum. Where necessary, unclear or ambiguous text has been transcribed conservatively without interpretation. This approach ensures consistency across the transcription and preserves the textual features required for accurate TEI encoding, while allowing for the possibility of later normalization or correction using TEI markup. 
+
+From Seattle Union Record, Oct. 29, 1926  page 2
+
+Because William B. Severyns is a candidate for sheriff, friends of his oponents have been charging that the amazine "True Confessions of a Chief of Police," written by him, is "mere political propaganda."
+
+This is absolutely untrue. The Severyns articles were written early this year, while he was still chief of police. They aroused nation-wide interest and syndicates bid eagerly for the work. The Union Record simply has Seattle rights. 
+
+The editors of the Union Record honestly believe that Severyns is a high-class citizen and would like to see him elected sheriff. But the Union Record has made no active campaign for Severyns for sheriff and will make none. Only in this way can it be certain that those who see "political motives" in the publication of the story will be shut up. 
+
+Futher, all matter in any way involving men who are now candidates for office, or which might in any way be interpreted as helpful to the candidacy of Bill Severyns will be held up until after the next Tuesday, the day of election. 
+
+This simply means that until next Tuesday some names will be omitted from the story and the installments may be a trifle shorter. But as the reader will observe, the articles become more amazing from day to day. After next Tuesday all restraint will be off. 
+
+
+
+CONFESSIONS OF A CHIEF OF POLICE
+BY
+William B. Severyns
+Chief of Police, 1922-1926
+-Copied from Seattle Union Record Oct. 25 - Dec. 14, 1926-1926
+
+
+Oct. 25, 1926
+PREFACE
+
+  This is the true story of the chief of police of Seattle under an administration charged with having been in league with the underworld. I am not writing either an apology, an explanation or a vindication. I do not intend that the facts I shall set forth shall hold up any particular persons to admiration or scorn.
+  When I went into office as chief of police of Seattle four years ago I expected that at the end of my term of office I would leave behind a record of public service. I expected this record of public service to become a heritage of my children. I did not expect a grateful public to erect any statues to me. But neither did I expect that the time would ever come when any men would ask: "How much do you suppose Bill Severyns cleared up at headquarters?"
+  After four years in the police station, I am looking for a job. I need it if I am going to support my family in the comfortable American amnner to which whey became accustomed before I became chief of police.
+  I worked my way through college and became a lawyer. After four years at police headquarters it may not be easy for me to reestablish myself at the bar. Not that I fear that I shall be unable to make a living now, as I did before I became chief of police, but I now realize why it is that so many men refuse to accept any public office. The price they must pay, both in the respect of their fellows and in the sacrifice of their own careers, is too great.
+And there you have the reason why I am undertaking to write this book. I believe that people do not understamd the police problem as they should. The police function is one of the most important functions of the state. Yet it is, to most people, a thing apart, a branch government which multitudes either fear or hold in contempt.
+  It is my purpose now to relate the history of my experience in office. The temptations of policemen, from the chief down, I will reveal.
+  I will speak about the graft problem in seattle as I have known it. There is a grraft problem. But I will speak of the other police problems which must be talked about and understood if we are ever to get anywhere in the police administration.
+  I do not intende to write a technical text for policemen. When I tell about the way money was offered me, of the pressure that was brought to bear upon me to influence my policies, I do not do it to bring discredit upon any person, only as a means of illustrating a particular problem of police administration.
+  I hope that this narrative will be accepted as a sincere and earnest constribution to the people of Seattle in their efforts toward better and cleaner government.
+
+October 29. 1926.
+
+FORTUNE IS OFFERED SEVERYNS BY COP TO HEAD MORALS SQUAD.
+
+I was offered $ 60,000 by a policeman for the post of head of the morals squad. 
+The offer was not made directly.
+Such offers are not made unless those who make them have taken proper safeguards in case they should be re-fused. 
+In this case the offer was made through " Bobby" Kernan, my special investigator. This is how it happened: 
+I had been beset by people wanting to be special in-vestigator for the chief. The special investigator works directly out of the chief's office and is responsible to him alone. Friends of the various candidates had been to see the mayor. I was afraid that I would be forced into the position of having to employ a professional stool pigeon as my investigator. There are many things a chief cannot know or find out for himself. The public ex-pects the chief of police to be at his desk with a smile and a glad hand and a helping hand all day and all night, and at the same time walk side by side with every patrol-man on the force as the keeper of his conscience. 
+I knew this couldn't be done, and I didn't want a stool pigeon as my special investigator. So I acted quick-ly, employing Robert Kernan, a neighbor of mine, whose children has played with mine and whom I had come to know. 
+
+HUGE BRIBE WAS COMMUNICATED TO CHIEF SEVERYNS THROUGH BOB KERNAN. 
+
+It was through Kernan that the $ 60,000 offer came to me. Apparently some policeman had the mistaken impression that Kernan was my brother-in-law. Kernan reported to me that he had been approached and that he had been told to tell his brother-in-law, the chief, that there was $ 60,000 in it if the chief would see to it that this man had the position of head of the morals squad. 
+-2-
+
+I abolished the squad and the man Kernan said had made the offer I moved into " the sticks." This man is still on the police force. He will be more fully identi-fied later in these articles. 
+
+GENERAL ORDER FOR VICE CLEANUP IS ALWAYS SOURCE OF PROFIT TO CROOKS AND LAWYERS. 
+
+Always a general order for a vice cleanup is a source of profit for those who want to be crooked. Such an order is used as the basis for a general " Knockover" of the cri-minal world. Certain types of lawyers are jubilant when it is made. There may be several hundred arrests as a result. In each case $ 100 bail is posted. Then the prisoner fails to put in an appearance, appearing by counsel instead. The usual fine is $ 10. The difference is returned to the attor-ney in each case and he pockets the $ 90 as his fee. 
+Don't think either, that a vice crusade perforce results in improved condisions. It may take the graft from the cop for a time, but it gives it to others/ Take the case of Mary --- :
+
+'MARY' CHARGED THAT COPS 'KNOCKED HER OVER' AND 'CLEANED' HER AFTER VICE CLEANUP ARREST
+
+Mary was arrested in a cleanup growing out of a general order. She has been arrested before, times innumerable, but she always returns to the joint she runs on upper Main st. 
+When she was arrested this time the cops " shook her down." Then, she claims, some of the higherups at headquarters "knocked her over." Then came the lawyers. 
+Mary is back on upper Main St. She claims she was " cleaned" before she was " sprung." "  Sprung" is underworld for being turned loose. Mary --- has no legitimate profesaion, nothing to turn to even to earn the necessities of life except her old, old trade. 
+Following a vice cleanup, the aftermath is a poverty - stricken vice element determined to get the wherewithal by the one and only method in which it is proficient. The answer to this social problem does not lie in sudden passionate outbursts of community righteousness, baying at crime, sudden arrests and equally sudden releases. 
+-3-
+
+It lies rather in day by day upbuilding of wholesome social conditions, conductive to theh breeding of self-respect. 
+Teachers, parents, preachers -- these, more than all the police in the world, have the moral destinies of mankind in their hands. 
+In passing, let me add that there is hardly a vice resort being conducted in this or any other city that does not pay its tribute, its magnificent tribute, to the highly respected. 
+
+REAL ESTATE OWNER PAYS $ 12,000 A YEAR TAXES THINKS COPS SHOULD LEAVE HIS TENANTS ALONE
+
+Vice circles ordinarily do not go in for the ownership of real estate. Nearly every vice den is housed in a building owned by some highly respected and outwardly righteous person, and the rents paid for these quarters are always more than a legitimate business could afford. 
+Many places are unsuited for any business except an immoral business. The attributes of vice are not shiny trappings and splendor, but dirt and squalor bough from our best citizens at a high price. 
+For instance: 
+A prominent Seattle business man came to my office complai-ning that the cops would not let his tenants alone. I will not mention this man's name because, unlike many others, he was not a hypocrite, but frankly admitted that his property was being used for immoral purposes.
+" I am pating $ 12,000 a year in taxes. Your cops won't let my tenants alone. How do you expect me to pay my taxes?" he demanded. 
+"Don't you know your tenants are operating disorderly houses and blind pigs?" I asked. 
+"Yes", he replied. "But who else would rent the places and pay me enough to meet carrying charges?"
+This man was frank. Most owners of premises on which dives are located are not. They hide behind some large and prominnent rental offices. You can guess the names of these real estate agents. They are among the largest in town. 
+***
+
+October 30, 1926
+
+AMAZING SECRETS OF ORIENTAL UNDERWORLD RELATED BY SEVERYNS
+Few citizens realize how large a part Chinatown plays in civic affairs—
+or how seldom its citizens call in the white police for aid in settling its internal disputes.
+Seattle, with its huge Chinese colony, came to realize years ago that the Chinese provided an important and interesting police problem and, I think, the various items where East and West meet and overlap have been met rather well.
+The majority of citizens unthinkingly catalogue the Chinese as a race apart. Nothing could be more untrue, except from the geographical and physical standpoint.
+Chinese have a finger in many community affairs, more than the outsider can imagine.
+For illustration: Chinatown plays a larger part in Seattle's political affairs than any other single group in the city. I feel safe in saying that Chinatown has provided funds—and lavishly—for campaigns for every important political office in both city and county.
+
+THEY PAY, AND PAY
+Money, given unquestioningly by Chinese, has been spent in mayoralty campaigns, and in the drives of sheriffs, judges, prosecuting attorneys and city councilmen.
+The leaders of the Chinese colony have been "knocked over" times innumerable by candidates for every office within the gift of the people of King county. Later in these articles specific cases will form a necessary part of the narrative.
+And the beautiful part of it, from the standpoint of the politicians, is that they never squeal when hard pinched, though they are imposed upon constantly.
+Actually they seem to expect it—and are lonely if neglected too long!
+Every large coast city, and many of those in the interior, has a Chinese problem because each has a Chinatown.
+In our coast cities Chinatown is a tourist attraction and the business men like to have them about.
+
+
+Oct. 30, 1926
+
+GAMBLING THEIR VICE
+
+Realizing their value to the community, they stage various little attractive shows, such as a joss-house, a supposedly secret gambling house, remarkable little displays of jade and other valuables in out-of-the-way stores—in fact, everything to add the right Oriental touch for visitors.
+Contrary to the general belief, the Chinese in Seattle are among the most peaceable of the alien residents, but they love to gamble—and they WILL gamble despite every police regulation.
+I believe you could provide a police guard of two officers for every Chinaman and that before they have been under guard two minutes there would be a wager which policeman would sneeze first.
+A Chinaman will gamble on anything which bears the element of chance, particularly which way a fly will depart from a given spot!
+In order to satisfy this passion for gambling, Chinese always have paid graft for the privilege—and they expect always to pay graft.
+In China the officials sell their favors to the highest bidder, and the Chinese in America seem to have found that officials are the same the world over.
+The only difference is that here the bidding is carried on behind closed doors and man to man.
+Nearly every Chinese laundry is the agency for some lottery syndicate. Lottery tickets sell from 10 cents to a dollar apiece. Hundreds, perhaps thousands, of whites buy these tickets each week.
+Seattle's Chinatown, like that of any other city, is filled with gambling resorts. The Chinese are successful operators of such places and quickly ruin the business of white or Negro gamblers within the district.
+Whites know that Chinese games are conducted squarely and quickly pass to the Chinatown houses when they are "rooked" in the other places.
+Loggers and Alaskan miners are good patrons of the Chinese gamblers.
+They know they will get a run for their money and that if they go "broke" the game will advance them enough money to return to their place of employment. Show me a white game where this is done.
+
+A STITCH IN TIME
+But the canny Chinese do not pretend to stand or fall on the protection they pay for.
+Anything but that.
+
+Oct. 30, 1926
+
+They construct secret passages under the ground or between the walls of buildings, sometimes creating a serious fire hazard.
+
+They are splendid engineers, and are especially crafty in building hidden rooms, installing signalling systems, and in making unbreakable doors and electrically guarded entrances and exits.
+They live very largely within their own social group and have a rule never to appeal to the police for protection from violence emanating from their own kind. They have a code of ethics and government which is administered rapidly and they believe in direct action in settling disputes. Often this settlement is made through the agency of paid mercenaries—hatchet men—who have a fixed scale of prices for anything from felonious assault to murder.
+If a man feels he is being assailed unjustly, he forgets the white police and calmly hires his own thugs to protect him and to punish his enemies.
+Murders are never reported to the police if the Chinese can avoid it.
+From their standpoint there is no reason for local revenge; the murdered man's friends will attend to that little matter, expeditiously and well.
+Sometimes this situation leads to a tong war which flames from end to end of Chinatown.
+
+PEACE ONLY DEMAND
+
+Actually the Chinese is willing to pay the police to let him alone.
+He desires peace above all things—except in the matter of the Japanese.
+Between the two races exists a supreme hatred born of distrust and double-crossing.
+Chinese never are stool pigeons, but Japanese often go to the police with tales concerning Chinese or even men of their own race.
+Many Japanese were booked for drunkenness during my term in office, but I do not remember a single Chinese drunk charge.
+The Chinaman's code is "Leave me alone and I will not bother you. Let me pay your political costs and in return give me friendship and protection in my gambling. The rest of my affairs I will administer myself.
+
+
+November 1 1926
+
+BANNICK, SEVERYNS STAGE 'CLEANUP' TO
+SILENCE CRITICISM
+
+  Everybody knows, of course, that you can't always believe everything that is printed in the newspapers. This is not necessarily the fault of papers. Policeman learned long ago to what extent the newspapers can be "handled." There are " old heads" in every police department who could make an excellent living as press agents, if they weren't engaged in police work.
+  I don't mean to say that newspapers are " bought." Years ago when police graft was organized along lines far diffrent than those which prevail today, some police reporters used to get a regular " divvy" from the membeers of the headquarters force. But I don't think there is a police reporter today who would be guilty of such a thing. Nowadays other and more scientific means are used to fool the papers and through them the public. The competition for news among the papers is keener than ever. All that is neccesary today to get something across with the papers is an understanding of what constitutes "news". Once you know this, the rest is comparitively easy. " News" can then be manufactured and the papers will eagerly " eat it up."
+
+  POLICE"MANUFACTURE" NEWS TO GET FAVORABLE
+PUBLICITY IN NEWSPAPERS;REPORTERS NOT BOUGHT
+
+  The manufactured " news" needn't necessarily be untrue. Nearly always it is absolutely true. But the fact remains that it might not have happened unless the newspapers were eagerly waiting to publish it. Most newspapers -- it must be said in all fairness -- are so eager for news that they will publish it, no matter whom it helps or hurts. The news that helps the department is the news that is eagerly brought to the attention of the reporters for the various papers. Unfavorable news is usually dug up by the reporters themselves except when it is brought to their attention by someone in the department who wants discredit reflected upon someone else.
+  When I first went into the department I knew none of these things. But I got my schooling fast.
+  I got my first lesson in how to handle the newspapers soon after I became chief. It was my first knowledge of one of the
+- 2 -
+usual practices of chiefs of police when things began to " get warm."
+  One day, Hans Damm, who was then inspector of police, came into my office and told me he had a hot tip that a campaign was to be launched in the newspapers against the " wide-open" town."
+  " Is the town more wide-open than it was a month ago, before I came on the job?" I asked.
+
+HAND DAMM GAVE SEVERYNS HIS FIRST LESSON IN
+POLICE PUBLICITY:"GET OUT A GENERAL ORDER"
+
+  " Well, no, not exactly that," replied Damm, " but it's up to you to do something before she busts in the papers. When you see hell going to bust loose, you ought to act to protect yourself. Get the favorable publicity first, before the others use the papers to take a crack at you. You can't just sit still. Do something, man, do something!"
+  " What ought I to do?" I asked.
+  " Get out a good stiff order on a vice cleanup," he said. " The boys may not take it seriously, but anyway, the newspaper reporters will, and you will get the headlines first."
+  "Has it been the policy of former chiefs when things are breaking tough to hide behind a general order?' I inquired.
+  " Yes," He replied. "That's been the policy in all the years I've been here."
+  I didn't know just what to get out. In my perplexity I read through the general orders of previous chiefs and found that they, too, had apparently been expected to mumble the same formula about a general cleanup within 60 days of taking office. I hesitated about using the same language the others had used before me, but, really, there was nothing else that could be said.
+
+BANNICK FOUND SEVERYNS' ORDER OKEH, ISSUED IT OVER
+  AGAIN UNDER HIS OWN NAME WHEN CHIEF
+
+  So I undertook to compose my first general vice cleanup order. I am not a literary man, but I remember that I took a little pride in the fact that I had been able to change the words of previous orders a little. There was the demand for immediate arrests of known vice resor keepers and the implied threat that something terrible would happen to cops who failed to act on the orders at once.
+
+- 3 -
+
+  Whether the results of my orders would be diffrent from that brought about the others because I had changed the wording remained to be seen.
+  Incedentally when I was out of office for a few days during my second term and Capt. Bannick was chief, he, too, looked around for a good stiff general order. Apparently mine filled the requirment, because he issued it over again in his own name.
+  It must be remembered that the chief of police is the temporary head of a permanent organization. A crooked chief could not make culprits out of a large body of honest men without getting caught; neither could an honest chief make saints of all the sinners in the police department.
+  Damm's plan for issuing a general order worked. At least it had the effect on the newspapers that he predicted. The day the order was issued the newspapers came out with big headlines across the top of their front pages: " Vice Crusade On."
+  So, for a time, the great reform wave was held up.
+
+COPS ON BEAT SOMETIMES TRY TO "GET THEIRS"
+  BEFORE PATROL WAGON ARRIVES FOR PRISONER
+
+  We have disscussed " rolling" of drunks as a form of police graft. I have told you how I have found it impossible to get to the bottom of this practice of robbing drunken and unconscious prisoners. The cop on the beat, if he happens to be crooked, resents the fact that he does not "cut-in" on the loot obtained at headquarters by " rolling." So, sometimes, he tries to " get his" before the patrol wagon arrives. The hard boiled cop, after he has telephones for the patrol wagon might strike a deal with the prisoner and turn him loose for a consideration. Imagine the feelings of the man in the patrol wagon when they arrive to find the cop who called them out without a prisoner. He is open to suspicion at once. The hard boiled crooked cop, when he finds himself in a situation of this kind, runs to the nearest resort, grabs the most drunken man he can find, and is equipped with a prisoner when the patrol arrives. Mind you, this is not a common practice, but it has happaned.
+  Think of the position of a rookie who has made an arrest,
+- 4 -
+
+phoned for the wagon and, because of his inexperience, has permitted his prisoner to escape!
+  There is a story of a rookie who was sent out to work for the first time. He was assigned to a grizzled old Irish sergeant.
+  " Young feller, " said the sergeant in his kindly brogue, " you're a policeman now. I want to give you yer first lesson, and it's the only lesson you'll need. Remember this rule:
+  " Eat and drink
+    and pay nothing.
+  Get what you can
+    And say nothing."
+
+December 14, 1926,
+
+MRS LANDERS DOESN'T KNOW WHAT IT'S ALL ABOUT,
+SAY HER FOES
+
+    Although there is, I am sure, as much drinking, gambling, grafting, viciousness and general lawlessness in Seattle today as there was a year ago, the word no longer goes out to the world that Seattle has a wide-open town. 
+    Paradoxically, Seattle today is different, yet no different from the Seattle which Dr. B.j. Brown presided as mayor and whose chief of police I was. 
+    This paradox is not characteristic only of Seattle. It is characteristic of American cities. The difference between the Seattle of today and the " wide-open" Seattle is very largely the difference in the state of mind of the citizens of Seattle. But there is an additional difference, which grows out of a situation peculiar to Seattle. This peculiar difference is the difference in the personalities of the present mayor and the previous mayor. 
+    The critics of Mts. Landes, our lady mayor, say that " she doesn't know what it's all about." I am no judge of this. But I must admiringly declare that if Mrs. Landes " doesn't know what it's all about" she certainly doesn't know enough to refrain from talking so much that people can find out everything she does know.
+
+MRS LANDERS RARE POLITICAL SAGACITY IN KEEPING STILL;AVOIDS 
+DOC BROWN'S MISTAKE; MAKES SILENT CAL SEEM GARRULOUS 
+
+    It is a great political asset to know when to keep still. The present administration never makes the mistake of talking too much. IN fact, Mrs. Landes gives the lie to those critics of the fair sex who declare that women cant keep from talking. Compared with Mrs. Landes, " Silent" Cal Coolidge is a circus spieler. She utters no learned data, as did her predecessor. Mrs. Landes seems to have as a fixed rule of politics the admonition: Do not feed or annoy the animals. Mayor Brown's idea was: Rile 'em up. 
+    Mayor Brown used to answer his critics publicly long before they opened their mouths to criticize him. In order to do this , he had to first criticize himself and then to answer the criticism. Mayor Mrs. Landes is quite different. She doesn't even answer her critics. She calmly ignores them. 
+    For instance: 
+    The one outstanding thing that brought Mrs. Landes prominence, even national prominence, was her dismissal of the present writer when he was chief of police. 
+    " Fire a hundred policeman or I will fire you," Mrs. Landes commanded me, taking advantage of the absence of the mayor. 
+
+-2-
+
+LADY MAYOR, INVITED TO FIRE 100 COPS AS SHE ONCE COMMANDED
+SEVERYNS TO DO, SIMPLY KEEPS QUITE;COPS ARE STILL ON FORCE
+
+    I didn't fire the policemen and Mrs. Landes fired me. In the course of these articles I have publicly invited Mrs. Landes to fire those hundred policemen. Did Mrs. Landes do so? Not she. She simply didn't pay any attention to the invitation. It was all right to want a hundred policemen fired while someone else was mayor, but when one becomes mayor one's self one does not discuss such things. 
+    And still they say that women have no place in politics! If Mayor Brown were as shrewd a politician as his successor he would still be mayor today. Had such an invitation been addressed to Mayor Brown he would have uttered half a dozen statements denouncing the whole thing as " a scheme to ruin the good name of our fair city." At the same time he would have taken occasion to say a few kind words for policemen, the chief of police, the mayor, and would probably wound up with the statement that he had in mind a great scheme which would double the population of the city in ten years, but that this scheme would surely fall through if the vile plotters against the fair name of the city were not silenced. 
+    When a murder occurred under the previous administration the mayor would rush into print. He would personally see to it that the murderer was caught in a few hours. One would think that he has inside knowledge of the crime. As a matter of fact, these actions of the mayor were the result of a burning desire to make good in the eyes of the people. When a serious crime was committed, he seems to feel that it was his personal business to see to it that the criminal was apprehended. His enemies were quick to take advantage of this trait of the mayor. They sent so far as to charge that his administra-tion was the cause of all the crimes that occurred and one murder was directly laid at his door. A man, in fit of jealous rage, killed a man he found with his sweetheart. The jury, in finding the murderer guilty, decleared that the crime was the result of drinking of whisky by the slayer who would not have been able to obtain it if the mayor hadn't permitted whisky to be sold! 
+    Two girls and two young boys were found in a room in a nearby city. They had been drinking and had been asphyxiated when the flame was extinguished in a gas burner. The mayor of Seattle was one of those blamed for the death. Such was the state of public mind. 
+    The present mayor does not publicly concern herself with murders. She is largely connected in the public mind with the quiet, pleasant, ladylike phases of public affairs. People go about their business, whether that business be banking or bootlegging, in comparative peace. 
+
+-3-
+
+CITY PEACFUL NOW DESPITE BOOTLEGGING AND LAW VIOLATIONS; 
+HOW LONG WILL IT BE BEFORE SNOOPERS BECOME ACTIVE AGAIN?
+
+  And so we come to the conclusion of this story of a certain phase of political life in a great American city. Seattle, with its reform administraion, is not the only American city ruled by a lady. Our mayor happens to wear skirts. Some other lady maors are poorly disguised in pants.
+  As to the police department in Seattle today: All the police-men who were on the force, with less than ten exceptions, are atill on the force. Only I have gone. A man is chief who was a member of the force when I was chief. If I contaminated the whole police department by my pressence, the source of contamination is gone. But can the whole problem of the administration of police affairs be so easily solved? I think not.
+  Today there is comparative peace so far as criticism of police affairs is concerned. But tomorrow ---? How long can the people who snoop for evidence in ash cans be silent? When they start snooping again they will find practically everything they found before.
+  If the reading of these series of series of articles has helped anyone to a better understanding of the great problem of police administration, my work has been justified. I freely admit that I have not gone very far toward pointing the way to solutions of the many problems presented. I have only tried to give some of the facts neccessary to a clearer understanding.
+  A lastword: If I have hurt the feelings of any named in the course of these articles, I am sorry. I have tried throughout to use names only where they were necessary to the narrative, and I am certain that, in a considerable degree, I have avoided the senseational.
+  Some time later I hope to write for the readers of the Union Record some articles on police affairs not touched upin in the series now concluded. 
+
+THE END.
+
