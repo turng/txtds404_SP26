@@ -1,15 +1,31 @@
+Brief statement regarding transcription choices:
+I've tried to exactly match the text as it is written in plain text. 
+This means that I've attempted to match the capitalization from the 
+original version, as well as maintained some it its spelling oddities
+notably "staid" and "could n't" on page 5.
+We've also maintained the formatting of lines from the book, particularly 
+at the end of page 6, with the lines:
+"And laughing came out, hop, hop,
+hop!"
+As the last "hop!" is on another line even though it is a continuation of the 
+previous sentence that couldn't fit on the page.
+Also, while some punctuation, like the question mark and exclamation mark, 
+seem to leave a small amount of whitespace in front, it seems to be more of a 
+printed character trait than an intentional space (the period and comma do not have this),
+so we did not include a space in front of those characters.
+
 Nursery Poems
 from the
 Ancient and Modern Poets
 
-Deus est nobis sol et scutum
-<!-- "God is our sun and shield" -->
+DEUS. EST. NOBIUS. SOL. ET. SCUTUM
 
 Banbury:
 Printed by J. G. Rusher
 
-An three-part image of a man's right side profile, an ornate crown, and a woman's left side profile, from left to right 
-<!-- If you have a better descriptions for the image captions, please replace mine lol- also we should delete these comments before submission-->
+2
+
+[[image: An three-part image of a man's right side profile, an ornate crown, and a woman's left side profile, from left to right]]
 
 Sing a song a sixpence,
 A bag full of rye;
@@ -29,14 +45,18 @@ Hanging out the clothes;
 By came a little bird,
 And snapt at her nose.
 
-A full-body image of a rooster staring to the right.
+3
+
+[[image: A full-body image of a rooster staring to the right.]]
 
 Crows Cock-a-doodle-do!
 My dame has lost her shoe;
 Master broke his fiddle-stick,
 And don't know what to do.
 
-A feather quill lays on top of a book, above a pen. The book is framed with a wreath of leaves and with bird wings on either side.
+4
+
+[[image: A feather quill lays on top of a book, above a pen. The book is framed with a wreath of leaves and with bird wings on either side.]]
 
 Pretty flowers, tell me why
 All your leaves do open wide,
@@ -55,36 +75,45 @@ I my little leaves undo;
 Lady, lady, wake and try,
 If I have not told you true.
 
-A lady, on the left, stands next to a birdcage on a table and touches it with her left arm. A man stands to the right, staring down at the lady.
+5
+
+[[image: A lady, on the left, stands next to a birdcage on a table and touches it with her left arm. A man stands to the right, staring down at the lady.]]
 
 Little miss, pretty miss,
 May blessings light on you!
 If I'd a crown a day,
 I'd spend it upon you.
----
-<!--The following line is italicized, I don't think we have to worry about it for now because we're only transcribing plaintext, right?-->
+
+———
+
 Song set to the five Toes
 1 This little pig went to market,
 2 That little pig staid at home,
 3 This pig had nice bread and butter,
 4 And that little pig had none;
 5 This little pig cried week, week, week!
-And couldn't find his way home.
+And could n't find his way home.
 
-A long-haired dog runs to the right with its tongue sticking out, atop grass.
+6
+
+[[image: A long-haired dog runs to the right with its tongue sticking out, atop grass.]]
 
 Two little Dogs sat by the fire,
 Over a fender of coal-dust;
 When one said to the other dog,
 If Pompey won't talk, why I must.
----
+
+———
+
 Handy-spandy, Jack-a-dandy,
 Loved plum-cake and sugar candy;
 He bought some at the pastry shop,
 And laughing came out, hop, hop,
 hop!
 
-A circular frame shows the left side of a hog.
+7
+
+[[image: A circular frame shows the left side of a hog.]]
 
 Now have you ever heard
 Of Billy Pringle's Pig?
@@ -101,28 +130,183 @@ Of Billy Pringle, he,
 Of Betsy Pringle, she,
 And poor piggy wiggee.
 
-A cat loafs on the left side of a wall atop some straw, with two jugs behind it. A mouse peeks its head out from the right side of the wall.
+8
+
+[[image: A cat loafs on the left side of a wall atop some straw, with two jugs behind it. A mouse peeks its head out from the right side of the wall.]]
 
 POOR PUSS.
----
+
+———
+
 Why is Pussy in bed?
 She is sick, says the fly,
 And I fear she will die;
 And that's why she's in bed.
----
+
+———
+
 Pray what's her disorder?
 A lock'd-jaw is come on,
 Said the fine downy swan;
 And that's her disorder.
 
-A circular frame shows a lean, short-haired dog outside on grass besides a tree, with two dog silhouettes running behind it.
+9
+
+[[image: A circular frame shows a lean, short-haired dog outside on grass besides a tree, with two dog silhouettes running behind it.]]
 
 Who makes her nice gruel?
 That she might not get worse,
 Dog Tray is her nurse,
 And makes her nice gruel.
----
+
+———
+
 Pray who is her doctor?
 I, said fam'd Mister Punch,
 At my back a great hunch;
 But I am her doctor.
+
+10
+
+[[image: A gazelle runs towards the right upon an open grassy plain.]]
+
+Who thinks she'll recover?
+I do, sir, sasid the Deer,
+And I thought so last year;
+I think she'll recover.
+
+[[image: A small image of a thin-faced man with the horns of a ram smiles with two flowers coming out either end of his mouth.]]
+
+And when Puss is quite well,
+All shall have noble fare;
+Beasts, and fowls of the air,
+And we'll ring the great bell.
+
+11
+
+[[image: A rabbit stands facing to the right, it's eye staring at the reader.]]
+
+There was a little Rabbit sprig,
+Which being little was not big;
+He always walked upon his feet,
+And never fasted when he eat.
+When from a place he ran away,
+He never at that place did stay;
+And when he ran, as I am told,
+He ne'er stood still for young or old.
+Tho' ne'er instructed by a cat,
+He knew a mouse was not a rat:
+One day, as I am certified,
+He took a whim and fairly died;
+And, as I'm told, by men of sense,
+He never has been walking since.
+
+12
+
+[[image: A person stands with one arm holding up a hammer and the other hand on their hip, staring down at five spikes connected in a half-circle rising from the ground.]]
+
+Is John Smith within?
+Yes, Mister Griffin.
+Can he set a shoe?
+Yes, sir, one or two:
+Here's a nail, there's a nail,
+Tit, tat, too!
+
+———
+
+To market, to market,
+To buy a fat pig;
+Home again, home again,
+Jiggety jig:
+To Banbury market,
+To buy a fat hog;
+Home again, home again,
+Jiggety jog.
+
+13
+
+[[image: A wide octagonal frame shows a group of men on the right holding muskets and aiming at a brick wall on the left.]]
+
+There was a little man,
+Who had a little gun,
+And his bullets were made of lead;
+And he shot Johnny Sprig
+On the top of his wig,
+And sent it pop-bang off his head.
+
+———
+
+At reck'ning let's play,
+And, prithee, let's lay
+A wager, and let it be this,—
+Who first to the sum
+Of twenty doth come,
+Shall win, be they master or miss.
+
+14
+
+Robin and Richard
+Were two little men,
+They did not awake
+Till the clock struck ten:
+Then up starts Robin,
+And looks at the sky;
+Oh! brother Richard,
+The sun's very high!
+They both were ashamed,
+On such a fine day,
+When they were wanted
+To make the new hay.
+Do you go before
+With bottle and bag,
+I will come after
+On little jack nag.
+
+———
+
+Dick, the first of the race,
+His racer is the best;
+The fleetest in the chase
+When mettle's put to test.
+
+15
+
+[[image: A oval frame shows a lady wearing a dark cloack and hood carrying a basket and poking at a group of three swans with a stick.]]
+
+I'll tell you a story
+About Peg Amo-re,
+And now is my story begun:
+I'll tell you another
+'Bout Peg and her brother,
+And now my short story is done.
+
+———
+
+Pussy sat beside the fire,
+So pretty and so fair;
+In came Prin, the little dog,
+Says pussy, Are you there?
+And now, Mistress Pussy,
+Pray how do you do?
+Quite well, my little dog;
+And pray how are you?
+
+16
+
+[[image: A rectangular frame shows a man wearing a hat leading a horse towards the right.]]
+
+I had a little Pony,
+And call'd it Dapple Grey;
+I lent it to a lady,
+To ride a mile away:
+She whipped it, and she lashed it,
+She rode it through the mire;
+I would'nt give my pony pet,
+For all the lady's hire.
+
+———
+
+Little Robin Redbreast,
+So pretty and so good,
+Did cover o'er with leaves
+The Children in the Wood.
