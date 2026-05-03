@@ -3,10 +3,10 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>My Awe #8</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -15,10 +15,92 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
-         <p>Some text here. Additional text. Additional text</p>
+         <div type="news" subtype="handwritten">
+
+            <head>
+               <hi rend="allCaps">Zero Page by<name type="person" ref="#verna">Verna</name></hi>
+            </head>
+
+            <p>
+               <hi rend="allCaps"> Touch down. The zero page. What is going on? Here? In town? You
+                  tell me. Here's some "news": <hi rend="bold"><name type="band"
+                        ref="#false_liberty">False Liberty</name></hi> needs a practice place,
+                     <corr>preferrably</corr> one that is a low-rent pay-per-hour. If anyone knows
+                  of a place they could practice, in the northend Seattle <del rend="scribble"><gap
+                        reason="illegible"/></del> or just Seattle area, please contact me, <name
+                     type="person" ref="#verna">Verna</name>, at 527-8834. Also, <name type="band"
+                     ref="#false_liberty">False Liberty</name>
+                  <del rend="scribble"><gap reason="illegible"/></del> is open to doing gigs around
+                  the state. Please contact <hi rend="bold"><name type="person" ref="#greg"
+                        >Greg</name> at 363-7485</hi> or <name type="person" ref="#mg">MG</name> at
+                  the number above <del rend="scribble"><gap reason="illegible"/></del> if you're
+                  doing a show or know someone who is <del rend="scribble"><gap reason="illegible"
+                     /></del><add place="above">and</add> need(s) an inexpensive but excellant
+                  opening band. <hi rend="bold"><name type="band" ref="#false_liberty">False
+                        Liberty</name></hi> will also be touring this summer. If you would like them
+                  to play in your town, call me at <hi rend="bold">(206)527-8834</hi> and we'll
+                  talk, OK.? Cool.</hi>
+            </p>
+            <p>
+               <hi rend="allCaps"><hi rend="bold"><name type="band" ref="#the_melvins">The
+                        Melvins</name></hi>' album should be out soon, if it's not out already.</hi>
+            </p>
+            <p>
+               <hi rend="allCaps"><hi rend="bold"><name type="band" ref="#skin_yard">Skin
+                        Yard</name></hi>' has an album out. Most local stores should have it. I know
+                     <name type="place" ref="#fallout">Fallout</name> does. </hi>
+            </p>
+            <p>
+               <hi rend="allCaps"><hi rend="bold"><name type="zine" ref="#wig_out"
+                     >WigOut</name>!</hi> is a happening 'zine put out by the folks in <hi
+                     rend="bold"><name type="band" ref="#girl_trouble">Girl Trouble</name></hi>. The
+                  only <corr>publication</corr> I know that had <hi rend="bold"><name type="band"
+                        ref="#horseheads">Tex&amp;TheHorseheads</name></hi> on one page and a review
+                  of an early 70's movie, <hi rend="bold">Cleopatra Jones</hi>, on another! Alright.
+                  well put-together and hilarious. Write to: <name type="zine" ref="#wig_out">Wig
+                     Out</name>! PO box 44633 Tacoma WA 98444 </hi>
+            </p>
+         </div>
       </body>
-  </text>
+
+      <back>
+         <div type="editorial">
+            <listPerson>
+               <person xml:id="verna">
+                  <persName>
+                     <surname>Doherty</surname>
+                     <forename>Verna</forename>
+                  </persName>
+               </person>
+               <person xml:id="greg">
+                  <persName>
+                     <surname>Anderson</surname>
+                     <forename>Greg</forename>
+                  </persName>
+               </person>
+               <person xml:id="mg">
+                  <persName>
+                     <forename>MG</forename>
+                  </persName>
+               </person>
+            </listPerson>
+
+            <listPlace>
+               <place xml:id="Fallout"> </place>
+            </listPlace>
+
+            <listOrg>
+               <org xml:id="false_liberty"> </org>
+               <org xml:id="the_melvins"> </org>
+               <org xml:id="skin_yard"> </org>
+               <org xml:id="wig_out"> </org>
+               <org xml:id="girl_trouble"> </org>
+               <org xml:id="horseheads"> </org>
+            </listOrg>
+         </div>
+      </back>
+   </text>
 </TEI>
