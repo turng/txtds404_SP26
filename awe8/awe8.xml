@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>My Awe #8</title>
+            <title/>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -64,6 +64,84 @@
                      Out</name>! PO box 44633 Tacoma WA 98444 </hi>
             </p>
          </div>
+
+         <div type="prose" subtype="news">
+            <p> Members of radical organization chant anti-U.S. slogans and burn a mock American
+               flag. </p>
+         </div>
+         <div type="poem">
+            <head>Ol Gory</head>
+            <lg type="poem">
+               <lg type="stanza">
+                  <l><unclear reason="faded">S</unclear>ee ol gory waving high,</l>
+                  <l><unclear reason="faded">I</unclear>n uh sun tanned land against blue sky.</l>
+                  <l><unclear reason="faded">T</unclear>hree colors, stars, and stripes no more,</l>
+                  <l>to honor the heroes who die in war.</l>
+                  <l>Dust to dust, ashes to ashes, and some mumbo jumbo about the lord.</l>
+                  <l>If you ask me, uh mighty piss-poor sorta reward.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l><unclear reason="faded">M</unclear>t. RushNomore to have got nowhere,</l>
+                  <l>at so their stone faces stare.</l>
+                  <l>Plastic surgeons rush to rescue lady lib.</l>
+                  <l>The botto<unclear reason="faded">m</unclear>'s breakin' out of this crib.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l>One nation under uh thousand competitive gods in confliction,</l>
+                  <l>with their will to power being the cause of our affliction.</l>
+                  <l>And of course it's all just uh lotta baloney, but see um</l>
+                  <l>there at the ceremony- shake hands with one another,</l>
+                  <l>pretending to be uh patriotic brother.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l>Meanwhile, here is me in this rich country</l>
+                  <l>with an ocean on each side.</l>
+                  <l>Here is me in this rich country</l>
+                  <l>left with little pride.</l>
+                  <l>And on either side of all that water,</l>
+                  <l>I know, I know, there's nothing any hotter.</l>
+                  <l>This here lands the best there is no matter where ya go.</l>
+                  <l>This here lands the best there is, I guess that's what</l>
+                  <l>depresses me so.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>You see, along the way ol gorys been stained by the certain</l>
+                  <l>things it did, and instead of facing up it only ran and hid.</l>
+                  <l>You see, right now ol gorys being stained by the certain</l>
+                  <l>things it does, it's being brought back to the way of</l>
+                  <l>which it was.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l>O1 gorys getting stained as it moves backward in its track.</l>
+                  <l>O1 gorys becoming so stained its turning black.</l>
+               </lg>
+
+               <lg type="stanza">
+                  <l><unclear reason="faded">B</unclear>ut will it ever do the certain things it
+                     needs to,</l>
+                  <l>the opposite of what it has, so as, to wipe it all</l>
+                  <l>clean? Just to stop is not enough. But will it</l>
+                  <l><unclear reason="faded">ever</unclear> do what it needs to re<unclear
+                        reason="faded">m</unclear>ains to be seen.</l>
+               </lg>
+            </lg>
+         </div>
+         <div type="image">
+            <p>Coming home: a final salute for slain Navy hostage</p>
+         </div>
+
+         <closer>
+            <signed>
+               <name type="person" ref="#randy">Randy Strickfaden</name>
+               <name type="person" ref="#bruce">Bruce Storm</name>
+            </signed>
+            <date when="1985">1985</date>
+         </closer>
+
       </body>
 
       <back>
@@ -73,6 +151,18 @@
                   <persName>
                      <surname>Doherty</surname>
                      <forename>Verna</forename>
+                  </persName>
+               </person>
+               <person xml:id="randy">
+                  <persName>
+                     <surname>Strickfaden</surname>
+                     <forename>Randy</forename>
+                  </persName>
+               </person>
+               <person xml:id="bruce">
+                  <persName>
+                     <surname>Storm</surname>
+                     <forename>Bruce</forename>
                   </persName>
                </person>
                <person xml:id="greg">
