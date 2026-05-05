@@ -136,8 +136,11 @@
          </div>
 
          <div type="prose" subtype="rant">
-            <head><hi rend="creepy">Creeping Orwellionism</hi></head>
-            <head>by <name type="person" ref="randy">Randy Strickfaden</name></head>
+            <head><hi rend="creepy">Creeping Orwellionism</hi><note type="editorial">This is
+                  centered</note></head>
+            <!-- I do not know what to label the font of the title -->
+            <head>by <name type="person" ref="randy">Randy Strickfaden</name><note type="editorial"
+                  >This header is oriented on the right side of the page</note></head>
 
             <p>So, you want uh job here do ya, security and steady pay, and mabe even uh chance to
                move up, well then peon piss in this cup! And if your urine's clean then we just
@@ -294,15 +297,15 @@
             <p>And what's the result for all of us? What is our reward? Well let's celebrate, time
                to pour the champagne, just like the president promised throughout his campaign we
                get ta see um bring America back, but never move 'er forward.</p>
-            <p><hi rend="allCaps">Reagan's Law</hi><note> This pasted ssignificantly larger than the
-                  rest of the text and at about a 40 degree angle with REAGAN'S above LAW. Below it
-                  is an image of Ronald Reagan</note></p>
-            <note>All "corrections" are places in the original text where the word is cut off due to
-               a line break and continued on the next page using a hyphen. We have made the word
-               whole and removed the hyphen.</note>
+            <p><hi rend="allCaps">Reagan's Law</hi><note type="editorial"> This pasted
+                  ssignificantly larger than the rest of the text and at about a 40 degree angle
+                  with REAGAN'S above LAW. Below it is an image of Ronald Reagan</note></p>
+            <note type="editorial">All "corrections" are places in the original text where the word
+               is cut off due to a line break and continued on the next page using a hyphen. We have
+               made the word whole and removed the hyphen.</note>
          </div>
 
-
+         <!-- It would not let me place a <div/> after this closer... -->
          <closer>
             <signed>
                <name type="person" ref="#randy">Randy Strickfaden</name>
