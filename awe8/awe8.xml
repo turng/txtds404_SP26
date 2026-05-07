@@ -28,11 +28,11 @@
                <hi rend="allCaps"> Touch down. The zero page. What is going on? Here? In town? You
                   tell me. Here's some "news": <hi rend="bold"><name type="band"
                         ref="#false_liberty">False Liberty</name></hi> needs a practice place,
-                  pre-<lb break="no"/>ferrably  one that is a low-rent pay-per-hour. If anyone knows
-                  of a place they could practice, in the northend Seattle <del rend="scribble"><gap
-                        reason="illegible"/></del> or just Seattle area, please contact me, <name
-                     type="person" ref="#verna">Verna</name>, at 527-8834. Also, <name type="band"
-                     ref="#false_liberty">False Liberty</name>
+                     pre-<lb break="no"/>ferrably one that is a low-rent pay-per-hour. If anyone
+                  knows of a place they could practice, in the northend Seattle <del rend="scribble"
+                        ><gap reason="illegible"/></del> or just Seattle area, please contact me,
+                     <name type="person" ref="#verna">Verna</name>, at 527-8834. Also, <name
+                     type="band" ref="#false_liberty">False Liberty</name>
                   <del rend="scribble"><gap reason="illegible"/></del> is open to doing gigs around
                   the state. Please contact <hi rend="bold"><name type="person" ref="#greg"
                         >Greg</name> at 363-7485</hi> or <name type="person" ref="#mg">MG</name> at
@@ -57,10 +57,11 @@
                <hi rend="allCaps"><hi rend="bold"><name type="zine" ref="#wig_out"
                      >WigOut</name>!</hi> is a happening 'zine put out by the folks in <hi
                      rend="bold"><name type="band" ref="#girl_trouble">Girl Trouble</name></hi>. The
-                  only publica-<lb break="no"/>tion I know that had <hi rend="bold"><name type="band"
-                        ref="#horseheads">Tex&amp;TheHorseheads</name></hi> on one page and a review
-                  of an early 70's movie, <hi rend="bold">Cleopatra Jones</hi>, on another! Allright.
-                  well put-together and hilarious. Write to: <name type="zine" ref="#wig_out">Wig
+                  only publica-<lb break="no"/>tion I know that had <hi rend="bold"><name
+                        type="band" ref="#horseheads">Tex&amp;TheHorseheads</name></hi> on one page
+                  and a review of an early 70's movie, <hi rend="bold"><name type="film"
+                        ref="#cleopatra">Cleopatra Jones</name></hi>, on another! Allright. well
+                  put-together and hilarious. Write to: <name type="zine" ref="#wig_out">Wig
                      Out</name>! PO box 44633 Tacoma WA 98444 </hi>
             </p>
          </div>
@@ -69,83 +70,108 @@
             <p> Members of radical organization chant anti-U.S. slogans and burn a mock American
                flag. </p>
          </div>
+
+         <figure>
+            <graphic url="filename.jpg"/>
+            <figDesc>This image is in black and white, most probably photo-copied. A group of 3 to
+               four people have their arms raised, holding up a crumpled American flag.</figDesc>
+            <note type="editorial">This image is formatted behind the lines of the poem. Stripped
+               are whited out to house the text.</note>
+         </figure>
+
+         <!-- I REALLY CAN'T MAKE OUT THE IMAGE THAT IS FORMATTED TO THE LEFT IN THE MIDDLE OF THE PAGE -->
+
          <div type="poem">
             <head>Ol Gory</head>
             <lg type="poem">
+               <lg type="stanza" rhyme="aabbaa">
+                  <l><unclear reason="faded">S</unclear>ee ol gory waving <rhyme label="a"
+                        >high</rhyme>,</l>
+                  <l><unclear reason="faded">I</unclear>n uh sun tanned land against blue <rhyme
+                        label="a">sky</rhyme>.</l>
+                  <l><unclear reason="faded">T</unclear>hree colors, stars, and stripes no <rhyme
+                        label="b">more</rhyme>,</l>
+                  <l>to honor the heroes who die in <rhyme label="b">war</rhyme>.</l>
+                  <l>Dust to dust, ashes to ashes, and some mumbo jumbo<lb/>about the <rhyme
+                        label="a">lord</rhyme>.</l>
+                  <l>If you ask me, uh mighty piss-poor sorta <rhyme label="a">reward</rhyme>.</l>
+               </lg>
+
+               <lg type="stanza" rhyme="aabb">
+                  <l><unclear reason="faded">M</unclear>t. RushNomore to have got <rhyme label="a"
+                        >nowhere</rhyme>,</l>
+                  <l>at so their stone faces <rhyme label="a">stare</rhyme>.</l>
+                  <l>Plastic surgeons rush to rescue lady <rhyme label="b">lib</rhyme>.</l>
+                  <l>The botto<unclear reason="faded">m</unclear>'s breakin' out of this <rhyme
+                        label="b">crib</rhyme>.</l>
+               </lg>
+
+               <lg type="stanza" rhyme="aabb">
+                  <l>One nation under uh thousand competitive gods in <rhyme label="a"
+                        >confliction,</rhyme></l>
+                  <l>with their will to power being the cause of our <rhyme label="a"
+                        >affliction.</rhyme></l>
+                  <l>And of course it's all just uh lotta baloney, but see um<lb/>there at the
+                     ceremony- shake hands with one <rhyme label="b">another</rhyme>,</l>
+                  <l>pretending to be uh patriotic <rhyme label="b">brother</rhyme>.</l>
+               </lg>
+
+               <lg type="stanza" rhyme="ababaabb">
+                  <l>Meanwhile, here is me in this rich <rhyme label="a">country</rhyme></l>
+                  <l>with an ocean on each <rhyme label="b">side</rhyme>.</l>
+                  <l>Here is me in this rich <rhyme label="a">country</rhyme></l>
+                  <l>left with little <rhyme label="b">pride</rhyme>.</l>
+                  <l>And on either side of all that <rhyme label="a">water</rhyme>,</l>
+                  <l>I know, I know, there's nothing any <rhyme label="a">hotter</rhyme>.</l>
+                  <l>This here lands the best there is no matter where ya <rhyme label="b"
+                        >go</rhyme>.</l>
+                  <l>This here lands the best there is, I guess that's what<lb/>depresses me <rhyme
+                        label="b">so</rhyme>.</l>
+               </lg>
                <lg type="stanza">
-                  <l><unclear reason="faded">S</unclear>ee ol gory waving high,</l>
-                  <l><unclear reason="faded">I</unclear>n uh sun tanned land against blue sky.</l>
-                  <l><unclear reason="faded">T</unclear>hree colors, stars, and stripes no more,</l>
-                  <l>to honor the heroes who die in war.</l>
-                  <l>Dust to dust, ashes to ashes, and some mumbo jumbo about the lord.</l>
-                  <l>If you ask me, uh mighty piss-poor sorta reward.</l>
+                  <l>You see, along the way ol gorys been stained by the <rhyme>certain</rhyme></l>
+                  <l>things it did, and instead of facing up it only ran and<lb/>hid.</l>
+                  <l>You see, right now ol gorys being stained by the <rhyme>certain</rhyme></l>
+                  <l>things it does, it's being brought back to the way of<lb/>which it was.</l>
                </lg>
 
                <lg type="stanza">
-                  <l><unclear reason="faded">M</unclear>t. RushNomore to have got nowhere,</l>
-                  <l>at so their stone faces stare.</l>
-                  <l>Plastic surgeons rush to rescue lady lib.</l>
-                  <l>The botto<unclear reason="faded">m</unclear>'s breakin' out of this crib.</l>
-               </lg>
-
-               <lg type="stanza">
-                  <l>One nation under uh thousand competitive gods in confliction,</l>
-                  <l>with their will to power being the cause of our affliction.</l>
-                  <l>And of course it's all just uh lotta baloney, but see um</l>
-                  <l>there at the ceremony- shake hands with one another,</l>
-                  <l>pretending to be uh patriotic brother.</l>
-               </lg>
-
-               <lg type="stanza">
-                  <l>Meanwhile, here is me in this rich country</l>
-                  <l>with an ocean on each side.</l>
-                  <l>Here is me in this rich country</l>
-                  <l>left with little pride.</l>
-                  <l>And on either side of all that water,</l>
-                  <l>I know, I know, there's nothing any hotter.</l>
-                  <l>This here lands the best there is no matter where ya go.</l>
-                  <l>This here lands the best there is, I guess that's what</l>
-                  <l>depresses me so.</l>
-               </lg>
-               <lg type="stanza">
-                  <l>You see, along the way ol gorys been stained by the certain</l>
-                  <l>things it did, and instead of facing up it only ran and hid.</l>
-                  <l>You see, right now ol gorys being stained by the certain</l>
-                  <l>things it does, it's being brought back to the way of</l>
-                  <l>which it was.</l>
-               </lg>
-
-               <lg type="stanza">
-                  <l>O1 gorys getting stained as it moves backward in its track.</l>
-                  <l>O1 gorys becoming so stained its turning black.</l>
+                  <l>O1 gorys getting stained as it moves backward in its <rhyme>track</rhyme>.</l>
+                  <l>O1 gorys becoming so stained its turning <rhyme>black</rhyme>.</l>
                </lg>
 
                <lg type="stanza">
                   <l><unclear reason="faded">B</unclear>ut will it ever do the certain things it
                      needs to,</l>
-                  <l>the opposite of what it has, so as, to wipe it all</l>
-                  <l>clean? Just to stop is not enough. But will it</l>
+                  <l>the opposite of what it has, so as, to wipe it
+                     all<lb/><rhyme>clean</rhyme>?</l>
+                  <l>Just to stop is not enough. But will it</l>
                   <l><unclear reason="faded">ever</unclear> do what it needs to re<unclear
-                        reason="faded">m</unclear>ains to be seen.</l>
+                        reason="faded">m</unclear>ains to be <rhyme>seen</rhyme>.</l>
                </lg>
             </lg>
-            
-            <figure>
-               <graphic url=
-                  
-                  "filename.jpg"/> <!-- I dunno if it's worth it to save the images manually to be put into the graphic url -->
-               
-               <p rend="bottom">Coming home: a final salute for slain Navy hostage </p>
-               <figDesc> . . . </figDesc>
-            </figure>
-            
+
          </div>
+
+         <figure>
+            <graphic url="filename.jpg"/>
+            <!-- I dunno if it's worth it to save the images manually to be put into the graphic url -->
+            <p rend="bottom">Coming home: a final salute for slain Navy hostage </p>
+            <figDesc> This photo is in black-and-white. As the caption insinuates, the photo
+               comprises of people in military uniform surrounding a closed casket, saluting. Above
+               them, a looming figure smiles down at them with his hand raised.</figDesc>
+         </figure>
+         
+         <figure>
+            <graphic url="filename.jpg"/>
+            <figDesc> A man in a suit and tie is smiling in the direction of the reader. </figDesc>
+         </figure>
 
          <div type="prose" subtype="rant">
             <head><hi rend="creepy">Creeping Orwellionism</hi><note type="editorial">This is
                   centered</note></head>
             <!-- I do not know what to label the font of the title -->
-            <head>by <name type="person" ref="randy">Randy Strickfaden</name><note type="editorial"
+            <head>by <name type="person" ref="#randy">Randy Strickfaden</name><note type="editorial"
                   >This header is oriented on the right side of the page</note></head>
 
             <p>So, you want uh job here do ya, security and steady pay, and mabe even uh chance to
@@ -370,6 +396,12 @@
                <org xml:id="girl_trouble"> </org>
                <org xml:id="horseheads"> </org>
             </listOrg>
+            <listBibl>
+
+               <bibl xml:id="cleopatra">
+                  <title type="movie">Cleopatra Jones</title>
+               </bibl>
+            </listBibl>
          </div>
       </back>
    </text>
