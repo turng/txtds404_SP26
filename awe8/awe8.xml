@@ -10,13 +10,13 @@
             <title type="sub"><num type="currency" value="0.50">50¢</num><hi rend="allCaps">or
                   Not</hi></title>
 
-            <author><name type="person" ref="#verna">Verna Doherty</name></author>
-            <author><name type="person" ref="#randy">Randy Strickfaden</name></author>
-            <author><name type="person" ref="#bruce">Bruce Storm</name></author>
+            <author>>Verna Doherty</author>
+            <author>Randy Strickfaden</author>
+            <author>Bruce Storm</author>
 
-            <editor><name type="person">Hannah Mendro</name></editor>
-            <editor><name type="person">Kai VanNood</name></editor>
-            <editor><name type="person">Gabrielle Boland</name></editor>
+            <editor>Hannah Mendro</editor>
+            <editor>Kai VanNood</editor>
+            <editor>Gabrielle Boland</editor>
 
          </titleStmt>
          <publicationStmt>
@@ -38,22 +38,23 @@
                illustrations or the typed text on each page. The selections we have chosen are a
                representative sample of the types of text included within the zine, including some
                illustrations, pages with typed text, and pages with handwritten text.</p>
-            
+
             <p>Location information: The zine comes from the “Seattle Arts Scene Zines, Chapbooks,
                and Ephemera” collection at the UW Libraries.</p>
-               <p>Archival information: Special Collections acc6357-001 Box 1--2.5 in.; Location: T0250c</p>
+            <p>Archival information: Special Collections acc6357-001 Box 1--2.5 in.; Location:
+               T0250c</p>
             <p><bibl>
-               <title>My Awe #8: The Winter Desperation Issue</title>
+                  <title>My Awe #8: The Winter Desperation Issue</title>
                   <date>1987</date>
-                <bibl><title>Zero Page</title>
-                <author>Verna Doherty</author></bibl>
+                  <bibl><title>Zero Page</title>
+                     <author>Verna Doherty</author></bibl>
                   <bibl><title>Denny's Was Closed, A Saga in Portland</title>
                      <author>Verna D.</author></bibl>
                   <bibl><title>Creeping Orwellianism</title>
-                  <author>Randy Strickfaden</author></bibl>
-               <bibl><title>Ol'Gory</title>
-                  <author>Randy Strickfaden</author>
-                  <author>Bruce Storm</author></bibl>
+                     <author>Randy Strickfaden</author></bibl>
+                  <bibl><title>Ol'Gory</title>
+                     <author>Randy Strickfaden</author>
+                     <author>Bruce Storm</author></bibl>
                   <editor>Kai vanNood</editor>
                   <editor>Gabrielle Boland</editor>
                   <editor>Hannah Mendro</editor></bibl></p>
@@ -85,7 +86,13 @@
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
-         <creation>This zine represents much of the rhetoric and aesthetics of what would be known as the Grunge movement, which has its origins traced to Seattle in the 1980s. References are made to punk and grunge bands, musicians, and locations of the era. The political commentary of the zine often either directly or indirectly addresses the reader with the intent of expressing frustration or warning about the governments and institutions the zine is pushing back against.</creation></profileDesc>
+         <creation>This zine represents much of the rhetoric and aesthetics of what would be known
+            as the Grunge movement, which has its origins traced to Seattle in the 1980s. References
+            are made to punk and grunge bands, musicians, and locations of the era. The political
+            commentary of the zine often either directly or indirectly addresses the reader with the
+            intent of expressing frustration or warning about the governments and institutions the
+            zine is pushing back against.</creation>
+      </profileDesc>
    </teiHeader>
    <text>
       <body>
