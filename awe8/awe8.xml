@@ -9,18 +9,27 @@
             <title type="main">Selections from "My Awe #8: The Winter Desperation Issue"</title>
             <title type="sub"><num type="currency" value="0.50">50¢</num><hi rend="allCaps">or
                   Not</hi></title>
-            
+
             <author><name type="person" ref="#verna">Verna Doherty</name></author>
             <author><name type="person" ref="#randy">Randy Strickfaden</name></author>
             <author><name type="person" ref="#bruce">Bruce Storm</name></author>
-            
+
             <editor><name type="person">Hannah Mendro</name></editor>
-               <editor><name type="person">Kai VanNood</name></editor>
-                  <editor><name type="person">Gabrielle Boland</name></editor>
-                     
+            <editor><name type="person">Kai VanNood</name></editor>
+            <editor><name type="person">Gabrielle Boland</name></editor>
+
          </titleStmt>
          <publicationStmt>
-            <p>This publication is part of the assigned work for the University of Washington class "Texts, Publics, and Publication." Our team chose to digitize selections of "My Awe #8" for people like ourselves: who are interested in zines as counterculture and as representations of artistic and political movements, and who are interested in the form as a collaborative artistic endeavor free of the expectations of traditional publication. We feel that this particular zine represents an interesting moment in Seattle’s political and art history. We chose selections that we believe highlight the patchwork nature of the zine, spotlighting pieces of prose, poetry, political commentary, illustrations, and the front matter, for what they all reveal about the ethos behind the zine’s publication.</p>
+            <p>This publication is part of the assigned work for the University of Washington class
+               "Texts, Publics, and Publication." Our team chose to digitize selections of "My Awe
+               #8" for people like ourselves: who are interested in zines as counterculture and as
+               representations of artistic and political movements, and who are interested in the
+               form as a collaborative artistic endeavor free of the expectations of traditional
+               publication. We feel that this particular zine represents an interesting moment in
+               Seattle’s political and art history. We chose selections that we believe highlight
+               the patchwork nature of the zine, spotlighting pieces of prose, poetry, political
+               commentary, illustrations, and the front matter, for what they all reveal about the
+               ethos behind the zine’s publication.</p>
          </publicationStmt>
          <sourceDesc>
             <p>Information about the source</p>
@@ -28,8 +37,27 @@
       </fileDesc>
       <encodingDesc>
          <editorialDecl>
-            <normalization><p>In our edition, we maintain the distinction between type and handwriting, the incorporation of visual elements into text pages, and typographic features (including errors), which are part of the low-polish appeal of this art form. We annotate the difference between type and handwriting, as well as the pattern the typewriting takes; political context such as local and national government; information about relevant music or art, as best we are able to find it; and what author information we can find.</p></normalization>
-            <correction><p>We have maintained typewriter errors and misspellings where we found them, but have annotated such errors.</p></correction>
+            <normalization>
+               <p>In our edition, we maintain the distinction between type and handwriting, the
+                  incorporation of visual elements into text pages, and typographic features
+                  (including errors), which are part of the low-polish appeal of this art form. We
+                  annotate the difference between type and handwriting, as well as the pattern the
+                  typewriting takes; political context such as local and national government;
+                  information about relevant music or art, as best we are able to find it; and what
+                  author information we can find.</p>
+            </normalization>
+            <correction>
+               <p>We have maintained typewriter errors and misspellings where we found them, but
+                  have annotated such errors. We did not maintain line breaks in prose, so anytime
+                  that there is a word sepreated by a hyphen, we replaced with the full word; this
+                  is marked with <corr/> tag</p>
+            </correction>
+            <segmentation>
+               <p>We digitized the following sections: “Page Zero” by Verna, “Denny’s Was Closed, A
+                  Saga in Portland” by Verna D. (pp.14-18); “Creeping Orwellianism” by Randy
+                  Strickfaden (pp.22-26); and “Ol Gory” by Randy Strickfaden and Bruce Storn (p.27,
+                  1985)</p>
+            </segmentation>
          </editorialDecl>
       </encodingDesc>
    </teiHeader>
@@ -178,7 +206,7 @@
                comprises of people in military uniform surrounding a closed casket, saluting. Above
                them, a looming figure smiles down at them with his hand raised.</figDesc>
          </figure>
-         
+
          <figure>
             <graphic url="filename.jpg"/>
             <figDesc> A man in a suit and tie is smiling in the direction of the reader. </figDesc>
