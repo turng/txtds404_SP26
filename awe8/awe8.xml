@@ -6,7 +6,19 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title/>
+            <title type="main">My Awe #8</title>
+            <title type="sub"><num type="currency" value="0.50">50¢</num><hi rend="allCaps">or
+                  Not</hi></title>
+            <title type="sub"><hi rend="allCaps">The Winter Desperation Issue</hi>.</title>
+            
+            <author><name type="person" ref="#verna">Verna Doherty</name></author>
+            <author><name type="person" ref="#randy">Randy Strickfaden</name></author>
+            <author><name type="person" ref="#bruce">Bruce Storm</name></author>
+            
+            <editor><name type="person">Hannah Medro</name></editor>
+               <editor><name type="person">Kai VanNood</name></editor>
+                  <editor><name type="person">Gabrielle Boland</name></editor>
+                     
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
