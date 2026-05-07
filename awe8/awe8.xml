@@ -44,6 +44,7 @@
                <p>Archival information: Special Collections acc6357-001 Box 1--2.5 in.; Location: T0250c</p>
             <p><bibl>
                <title>My Awe #8: The Winter Desperation Issue</title>
+                  <date>1987</date>
                 <bibl><title>Zero Page</title>
                 <author>Verna Doherty</author></bibl>
                   <bibl><title>Denny's Was Closed, A Saga in Portland</title>
@@ -83,6 +84,8 @@
             </segmentation>
          </editorialDecl>
       </encodingDesc>
+      <profileDesc>
+         <creation>This zine represents much of the rhetoric and aesthetics of what would be known as the Grunge movement, which has its origins traced to Seattle in the 1980s. References are made to punk and grunge bands, musicians, and locations of the era. The political commentary of the zine often either directly or indirectly addresses the reader with the intent of expressing frustration or warning about the governments and institutions the zine is pushing back against.</creation></profileDesc>
    </teiHeader>
    <text>
       <body>
