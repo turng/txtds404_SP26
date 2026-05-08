@@ -1,0 +1,35 @@
+body {
+    background-color:black;
+}
+
+h1 {
+    color:black;
+    font-family:courier;
+    font-size:50px;
+    background-color:red;
+    border:5px solid black;
+}
+
+#author {
+    color:white;
+    font-family:courier;
+    font-size:40px;
+}
+
+#entry1 {
+    color:black;
+    font-family:courier;
+    background-color:red;
+    border:5px solid black;
+    font-size:35px;
+}
+
+p {
+    color:white;
+    font-family:courier;
+    font-size:20px;
+}
+
+a {
+    color:red;
+}
