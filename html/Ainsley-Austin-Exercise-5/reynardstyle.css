@@ -1,0 +1,17 @@
+h1 {
+    font-family: inhereit;
+
+}
+
+h2 {
+    font-family: inherit;
+    color: #bf4239;
+}
+
+p {
+    font-family: roman, 'times new roman', times, serif;
+}
+
+div {
+    text-align: center;
+}
