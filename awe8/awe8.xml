@@ -15,7 +15,7 @@
             <author>Bruce Storm</author>
 
             <editor>Hannah Mendro</editor>
-            <editor>Kai VanNood</editor>
+            <editor>Kai vanNood</editor>
             <editor>Gabrielle Boland</editor>
 
          </titleStmt>
@@ -523,7 +523,7 @@
                   <persName>
                      <forename>MG</forename>
                   </persName>
-               </person>
+               </person>s
                <person xml:id="rollins">
                   <persName>
                      <forename>Henry</forename>
