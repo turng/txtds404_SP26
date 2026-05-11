@@ -17,12 +17,13 @@
 <sourceDesc>
 <p>The source is located at the University of Washington Seattle, in the Suzzallo and Allen Libraries Special Collections, Book Arts/Rare Books.</p> 
 <p>This manuscript is roughly 8 by 12 inches and around 160 pages long. It begins with a title page and table of contents, then contains the main text (stories), and ends with a glossary and publication information. It contains a variety of illustrations, including illuminated letters and a decorated title page that we include in our digital edition. It is printed in a Gothic script in mostly black ink, with some sentences in red ink.</p>
-<bibl>
+<p>
+  <bibl>
 <title>The History of Reynard the Foxe</title>
 <author>William Caxton (translator)</author>
 <publisher>William Morris, Kelmscott Press</publisher>
 <date>15 December 1892</date>
-<idno @ type="call number">389.3 R332Esp</idno>
+<idno type="callnumber">389.3 R332Esp</idno>
 </bibl>
 </p>
 </sourceDesc>
