@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ghora Gali Preservation Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="hero">
+         <h1>Petrified Wedding of the Himalayas</h1>
+        <h2>A Digital Archaeological Preservation Project of Ghora Gali Gool in Indian Occupied Kashmir</h2>
+ <p class="author"> By Ashfaq Ahmed</p>
+</div> <div class="content">
+<h3>Abstract</h3>
+<p>This project digitally documents Ghora Gali, an archaeological
+            site in the Himalayan mountains of Indian Occupied Kashmir
+            featuring around 200 stone sculptures.</p>
+        <p>Using photography, videography, GPS geotagging, and 3D modeling,
+            the project seeks to create an online archive preserving the
+            material history and folklore associated with the site.</p>
+<blockquote>“At Ghora Gali, history did not end. It hardened and waited.”</blockquote>
+<a href="https://github.com/" target="_blank"> View Digital Archive</a>
+ </div>
+</body>
+</html>
+
+style.css
+
+body { margin: 0; padding: 0; background-color: white;font-family: Arial, Helvetica, sans-serif; color:black; line-height: 1.8;}
+
+/* HERO SECTION */
+
+.hero { background-image: linear-gradient(rgba(0,0,0,0.65),
+    rgba(0,0,0,0.65));
+    
+    background-color: gray; color: white;
+   text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 30px;
+    padding-right: 30px}
+
+.hero h1 {
+    font-size: 52px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 25px;}
+
+.hero h2 {
+    font-size: 24px;
+    font-weight: normal;
+    width: 70%;
+    margin: auto;
+    line-height: 1.6;}
+
+.author {
+    margin-top: 35px;
+    font-size: 18px;
+    font-style: italic;
+    color: #d8d8d8;}
+
+/* MAIN CONTENT */
+
+.content {
+    width: 70%;
+    margin: auto;
+    background-color: white;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: 0px 0px 12px rgba(0,0,0,0.1);}
+
+.content h3 {
+    font-size: 32px;
+    color: darkred; border-bottom: 3px solid darkred; padding-bottom: 12px;
+    margin-bottom: 30px;}
+
+.content p {font-size: 18px; margin-bottom: 25px;}
+
+/* QUOTE */
+
+blockquote {
+    background-color: #ece7dd;
+    border-left: 6px solid darkred;
+padding: 25px;
+ margin-top: 40px;
+    margin-bottom: 40px;
+font-size: 24px;
+    font-style: italic;
+    color: #444444;}
+/* BUTTON LINK */
+a {display: inline-block;
+background-color: darkred;
+    color: white; padding: 14px 22px;text-decoration: none;
+border-radius: 4px;
+font-weight: bold;
+ transition: background-color 0.3s ease;}
+a:hover {background-color: black;}
+/* MOBILE RESPONSIVE */
+@media screen and (max-width: 768px) {
+    .hero h1 {font-size: 36px;}
+    .hero h2 { width: 100%;
+        font-size: 20px;}
+    .content {width: 90%;
+        padding: 30px;}
+    blockquote {font-size: 20px; }
+}
