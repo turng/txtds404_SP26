@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div> 
+<head>AUX AMIS DE LA CONSTIUTION</head>
+            
+<opener>
+   <salute>MESSIEURS,</salute>
+</opener> 
+            
+<p>Je n'ai quitté Paris qu'après m'être assuré que de l'herbe <choice><reg>couvrait</reg><orig>couvroit</orig></choice> la <hi rend="italic">bastille</hi>.</p> 
+            
+            <p>Ma tâche <choice><reg>était</reg><orig>étoit</orig></choice> finie : car le peuple m'<choice><reg>avait</reg><orig>avoit</orig></choice> relevé de mon poste : et j'<choice><reg>emportais</reg><orig>emportois</orig></choice> son estime.</p>
+            
+            <p>Mais c'<choice><reg>était</reg><orig>étoit</orig></choice> pour mieux le servir que je m'<choice><reg>éloignais</reg><orig>éloignois</orig></choice> du théâtre de la <hi rend="italic">révolution</hi>. Il m'a semblé que c'<choice><reg>était</reg><orig>étoit</orig></choice> entrer dans ses vues comme dans ses besoins , que de lui révéler toutes les turpitudes de cette <hi rend="italic">police</hi> qui n'a jamais rien trouvé d'impossible , parce que pour elle il n'y eut jamais rien ni d'injuste ni de malhonnête. Quand il connoîtra les magistrats que lui <choice><reg>donnaient</reg><orig>donnoient</orig></choice> des rois , il sentira tout ce que vaut le droit qu'il n'<choice><reg>aurait</reg><orig>auroit</orig></choice> jamais dû perdre , de les choisir lui-même.</p> 
+            
+<p>Il m'a fallu du courage pour dénoncer les coupables : car ce sont presque tous des <hi rend="italic">très-hauts</hi> et <hi rend="italic">très-<choice><reg>puissants</reg><orig>puissans</orig></choice> seigneurs</hi>. Mais si, quand on veut se corriger , on se confesse , ils ne me sauront pas mauvais gré de les avoir montrés tels que je les ai surpris , avec leurs foiblesses , leurs vices et leurs crimes. Après tout , je ne les damne pas encore. Dieu lui-même, comme le <choice><reg>disait</reg><orig>disoit</orig></choice> madame de <hi rend="italic">Thiange</hi>, quand il s'agira de personnes de si <hi rend="italic">haute extraction</hi>, Dieu y regardera à deux fois.</p> 
+            
+<p>Il résultera du moins de cette instruction publique une vérité consolante, que, des <hi rend="italic">trois ordres</hi>, celui qui a été le moins riche, a toujours été le plus sage, et par conséquent le mieux disposé aux formes républicaines de la liberté.</p> 
+            
+<p>S'il est un moyen d'arrêter la gangrenne d'une Nation, c'est d'abandonner tous les citoyens à la censure, jusqu'à ce que chacun se croye digne d'occuper une maison de verre.</p> 
+            
+<p>La grande puissance sur les mœurs c'est <hi rend="italic">l'opinion</hi> : et avec la molle indulgence des procédés, elle ne se <choice><reg>formerait</reg><orig>formeroit</orig></choice> jamais. Une politesse hypocrite énerve tous les caractères. Par elle, on s'embrasse, quand on se hait ; on se flatte, quand on se méprise. Des leçons, des vérités ! voilà ce que nous nous devons tous : et qu'une franche médisance éloigne de nos foyers la lâche calomnie.</p> 
+            
+            <p>Lorsque les <hi rend="italic">Athéniens</hi>, qui prirent si long-temps le plaisir pour le bonheur, se furent enfin apperçu que les femmes <choice><reg>avaient</reg><orig>avoient</orig></choice> tout-à-fait oublié que leur gloire <choice><reg>était</reg><orig>étoit</orig></choice> de donner des hommes au monde, ils créèrent des magistrats pour veiller sur elles : et leurs sentences, inscrites sur des tablettes, <choice><reg>étaient</reg><orig>étoient</orig></choice> suspendues à l'un des platanes de la promenade publique. Peu-à-peu la Grèce se régénéra : et les <hi rend="italic">Vénus de Praxitelle</hi> se cachèrent au moins devant la <hi rend="italic">Minerve de Phidias</hi>.</p> 
+            
+<p>Comme ses lois, la France doit changer ses mœurs : et cette réforme dépend de la répartition qu'elle saura faire de l'estime et du mépris. Il ne faut plus qu'elle juge ses <choice><reg>enfants</reg><orig>enfans</orig></choice> sur ce qu'ils payent, mais sur ce qu'ils valent. Elle a des honneurs et des places à donner; c'est à la vertu , c'est au talent qu'ils sont dûs.</p> 
+            
+<p>Mais disons-le souvent, disons-le toujours : c'est sur-tout la liberté de la <hi rend="italic">presse</hi>, qui conservera au peuple tous les bienfaits de la <hi rend="italic">révolution</hi>. Des imprimeries sont plus utiles que des paroisses : et si la patrie avoit déjà des apôtres, comme en a eu la religion , les riches qui ne savent pas encore à quoi sert la fortune , s'<choice><reg>empresseraient</reg><orig>empresseroient</orig></choice> de fonder des imprimeries , comme jadis on <choice><reg>fondait</reg><orig>fondoit</orig></choice> des chapelles ; et collateurs de ces bénéfices, ils les <choice><reg>feraient</reg><orig>feroient</orig></choice> deservir par des missionaires de la philosophie qui <choice><reg>semeraient</reg><orig>semeroient</orig></choice> par-tout les principes de la <hi rend="italic">constitution</hi>.</p> 
+            
+<p>Des journaux sont les phares d'un peuple libre.</p> 
+            
+<p>Il <choice><reg>faudrait</reg><orig>faudroit</orig></choice> qu'il y eut dans chaque ville un homme de lettres qui, avec toute l'énergie que donne l'amour de l'ordre, doué de ce vrai mérite qui est trop modeste pour espérer des honneurs , et trop fier pour en chercher, fut chargé par les législateurs eux-mêmes , de relever tous les préjugés de ces administrations naissantes , où l'art de commander n'est pas plus avancé que l'art d'obéir. Il <choice><reg>apprendrait</reg><orig>apprendroit</orig></choice> <hi rend="italic">au peuple</hi>, tout souverain qu'il est , à avoir pour ceux à qui il a remis et ses forces et ses droits, cette déférence que Lacédémone <choice><reg>avait</reg><orig>avoit</orig></choice> pour ses <hi rend="italic">Ephores</hi> , que Rome <choice><reg>avait</reg><orig>avoit</orig></choice> pour ses tribuns : <hi rend="italic">aux municipalités</hi>, que leurs fonctions sont une espèce de sacerdoce où les moeurs ne sont pas moins indispensable que les <choice><reg>talents</reg><orig>talens</orig></choice> ; et qu'avec une <hi rend="italic">écharpe</hi> on ressemble à ces <hi rend="italic">archontes</hi> que les grecs condamnoient à mort, lorsque perdant leur raison dans l'ivresse des repas, ils <choice><reg>exposaient</reg><orig>exposoient</orig></choice> au mépris les marques de leurs dignité ; aux <hi rend="italic">prêtres</hi> enfin, que la religion dans un état ne doit défendre que ce que défend la loi ; que les actions des hommes ne sont point bonnes , parce qu'elles plaisent à Dieu, mais qu'elles plaisent à Dieu parce qu'elles sont bonnes et que tout citoyen peut naître, vivre et mourir sans eux, qui n'ont de pouvoir, ni sur les opinions, ni sur les consciences.</p> 
+            
+<closer>
+   <salute>C'est dans ces <choice><reg>sentiments</reg><orig>sentimens</orig></choice> que je suis avec autant de respect que d'attachement ,
+            
+Messieurs, 
+            
+Votre très-dévoué frère,
+   </salute> 
+            
+<signed>
+   P. MANUEL
+</signed>
+</closer>
+         </div>
+      </body>
+  </text>
+</TEI>
