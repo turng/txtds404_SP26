@@ -23,15 +23,7 @@
         <h4>A Digital Archaeological Preservation Project of Ghora Gali Gool in Indian Occupied Kashmir</h4>
         <h4>by Ashfaq Ahmed</h4>
         <div style="display: flex; align-items: flex-start;" class="centered-div">  
-            <!-- LEFT COLUMN: images -->
-            <div style="display: flex; flex-direction: column;">
-                <img src="img1.jpg" alt="Stone sculpture 1" style="margin-top: 80px" width="75" />
-                <img src="img2.jpg" alt="Stone sculpture 2" style="margin-top: 400px" width="75" />
-                <img src="img3.jpg" alt="Stone sculpture 3" style="margin-top: 300px" width="75" />
-                <img src="img4.jpg" alt="Stone sculpture 4" style="margin-top: 250px" width="75" />
-            </div> 
-            <!-- RIGHT COLUMN: text -->
-            <div>
+          <div>
               <h3>Abstract</h3>
               <p>This project digitally documents Ghora Gali, an archaeological
                     site in the Himalayan mountains of Indian Occupied Kashmir
@@ -164,11 +156,6 @@
                     and scholarly intervention, producing counter-infrastructures
                     resisting disappearance by stabilizing endangered material culture
                     in accessible form.</p>
-           </div>
-        </div>
-        <!-- BOTTOM IMAGE spanning full width -->
-        <div class="centered-div">
-            <img src="img-bottom.jpg" alt="Ghora Gali panorama" width="890" />
         </div>   
     </body>
 </html>
