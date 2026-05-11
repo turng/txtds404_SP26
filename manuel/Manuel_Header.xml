@@ -11,24 +11,39 @@
             <editor>Brandon Hrnjak</editor>
             <editor>Haylee Weisner</editor>
          </titleStmt>
-         <publicationStmt>
-            <p>
-               This edition strives to connect modern students and researchers interested in the history of policing, the French Revolution, and how state power is organized and justified with an 18th-century, firsthand account of administrative power in Paris. The selections included in this excerpt provide an accessible entry-point for those unfamiliar with obsolete French (perhaps French language learners) who want to begin to engage primary documents without needing to read the entire work. Through robust indexing and the addition of contextual footnotes, 
-            </p>
-         </publicationStmt>
+        <publicationStmt>
+   <publisher>University of Washington, TXTDS 404 (Spring 2026)</publisher>
+   <pubPlace>Seattle, WA</pubPlace>
+   <date when="2026">2026</date>
+   <p>
+      This student digital edition of selections from
+      <title>La Police de Paris Dévoilée</title> is designed to connect
+      modern students and researchers interested in the history of
+      policing, the French Revolution, and the organization of state
+      power with an eighteenth‑century firsthand account of
+      administrative authority in Paris.
+      The selections presented here offer an accessible entry point for
+      readers who may be unfamiliar with obsolete French, including
+      language learners, and who wish to engage with primary documents
+      without reading the entire work.
+      Through robust indexing and the addition of contextual footnotes,
+      this edition aims to clarify references, explain historical
+      institutions, and highlight patterns in the text’s treatment of
+      surveillance and public order.
+   </p>
+</publicationStmt>
          <sourceDesc>
-            <p>Information about the source
-            <bibl>
-               <title>La Police de Paris Dévoilée</title>
-               <author>Pierre-Louis Manuel</author>
-               <publisher>J.B. Garnery</publisher>
-               <pubPlace>17 rue Serpente, Paris</pubPlace>
-               <date>1791</date>
-               <idno type="callNumber">HV8206.P3 M3 1791</idno>
-               <idno type="OCLC">573635075</idno>
-            </bibl>
-            </p>
-         </sourceDesc>
+   <p>Information about the source.</p>
+   <bibl>
+      <title>La Police de Paris Dévoilée</title>
+      <author>Pierre-Louis Manuel</author>
+      <publisher>J.B. Garnery</publisher>
+      <pubPlace>17 rue Serpente, Paris</pubPlace>
+      <date>1791</date>
+      <idno type="callNumber">HV8206.P3 M3 1791</idno>
+      <idno type="OCLC">573635075</idno>
+   </bibl>
+</sourceDesc>
       </fileDesc>
      <encodingDesc>
         <editorialDecl>
