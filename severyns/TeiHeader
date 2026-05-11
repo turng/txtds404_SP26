@@ -32,6 +32,7 @@
             <publisher>Seattle Union Record</publisher>
             <pubPlace>Seattle</pubPlace>
             <date when="1926">1926</date>
+           <idno type="OCLC">39904529</idno>
          </bibl>
       </sourceDesc>
    </fileDesc>
