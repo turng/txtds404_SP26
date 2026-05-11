@@ -17,7 +17,21 @@
             .centered-div { width: 600px;
                 margin: 0 auto;}
         </style>
+</style>
     </head>
+    <body>
+        <h2>Petrified Wedding of the Himalayas</h2>
+        <h4>A Digital Archaeological Preservation Project of Ghora Gali Gool in Indian Occupied Kashmir</h4>
+        <h4>by Ashfaq Ahmed</h4>
+        <div style="display: flex; align-items: flex-start;" class="centered-div">  
+            <!-- LEFT COLUMN: images -->
+            <div style="display: flex; flex-direction: column;">
+                <img src="img1.jpg" alt="Stone sculpture 1" style="margin-top: 80px" width="75" />
+                <img src="img2.jpg" alt="Stone sculpture 2" style="margin-top: 400px" width="75" />
+                <img src="img3.jpg" alt="Stone sculpture 3" style="margin-top: 300px" width="75" />
+                <img src="img4.jpg" alt="Stone sculpture 4" style="margin-top: 250px" width="75" />
+            </div>
+</head>
     <body>
         <h2>Petrified Wedding of the Himalayas</h2>
         <h4>A Digital Archaeological Preservation Project of Ghora Gali Gool in Indian Occupied Kashmir</h4>
