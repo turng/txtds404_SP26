@@ -14,7 +14,7 @@
                 text-indent: 1.5em;
                 font-family: courier, fixed, monospace;}
             body {background-color: rgb(235, 235, 235);}
-            .centered-div { width: 890px;
+            .centered-div { width: 600px;
                 margin: 0 auto;}
         </style>
     </head>
