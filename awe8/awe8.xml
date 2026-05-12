@@ -481,6 +481,12 @@
                </lg>
             </lg>
 
+            <signed>
+               <name type="person" ref="#randy">Randy Strickfaden</name>
+               <name type="person" ref="#bruce">Bruce Storm</name>
+            </signed>
+            <dateline>1985</dateline>
+
          </div>
 
          <figure>
@@ -664,14 +670,6 @@
                   with REAGAN'S above LAW. Below it is an image of Ronald Reagan</note></p>
          </div>
 
-         <!-- It would not let me place a <div/> after this closer... -->
-         <closer>
-            <signed>
-               <name type="person" ref="#randy">Randy Strickfaden</name>
-               <name type="person" ref="#bruce">Bruce Storm</name>
-            </signed>
-            <date when="1985">1985</date>
-         </closer>
 
 
       </body>
