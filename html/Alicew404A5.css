@@ -1,0 +1,52 @@
+body {
+background-color:SeaShell;
+}
+h1{ 
+color:SeaShell;
+font-family:"gill sans";
+background-color: SandyBrown;
+border: 5px Sienna;
+padding: 30px;
+text-transform: uppercase;
+text-align: center;
+}
+title {
+    text-align:center;
+}
+p {
+color:black;
+}
+h2{ 
+color:brown;
+font-family:helvetica;
+text-align: center;
+
+}
+h3{ 
+color:brown;
+font-family:helvetica;
+text-align: center;
+
+}
+#highlight {
+    color: Navy;
+    background-color:Seashell;
+    border: 2px sienna;
+    }
+.top {
+    background-color: SandyBrown; 
+    float: left;
+}
+p {
+text-align: center;
+}
+a {
+    text-align: center;
+}
+img {
+    border: 5px solid;
+    width: 50%;
+    Height: 50%;
+    margin-left: 200px;
+    text-align: center; 
+}

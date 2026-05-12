@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+<titleStmt>
+<title>The History of Reynard the Foxe</title>
+<author>William Caxton (translator)</author>
+<editor>Ainsley Austin, Blythe Brown, Naomi Brown, Elijah Glesener</editor>
+</titleStmt>
+<publicationStmt>
+  <p>Transcription of the title page through page 11. Digitization published via GitHub Pages for TXTDS 404.</p>
+</publicationStmt>
+<sourceDesc>
+<p>The source is located at the University of Washington Seattle, in the Suzzallo and Allen Libraries Special Collections, Book Arts/Rare Books.</p> 
+<p>This manuscript is roughly 8 by 12 inches and around 160 pages long. It begins with a title page and table of contents, then contains the main text (stories), and ends with a glossary and publication information. It contains a variety of illustrations, including illuminated letters and a decorated title page that we include in our digital edition. It is printed in a Gothic script in mostly black ink, with some sentences in red ink.</p>
+<p>
+  <bibl>
+<title>The History of Reynard the Foxe</title>
+<author>William Caxton (translator)</author>
+<publisher>William Morris, Kelmscott Press</publisher>
+<date>15 December 1892</date>
+<idno type="callnumber">389.3 R332Esp</idno>
+</bibl>
+</p>
+</sourceDesc>
+</fileDesc>
+
+
+<encodingDesc>
+<editorialDecl>
+<normalization>
+<p>In order to keep the text most accurate to the original, we chose to diplomatically transcribe without modernizing spelling. However, we provided some modernized spellings in editorial notes for clarity.</p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>
