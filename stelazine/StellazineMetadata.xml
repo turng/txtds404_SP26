@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title type="main">STELAZINE Vol.2 No.1</title>
+            <author>Stella Kramer</author>
+            <respStmt>
+                <resp>Creation of a digital version</resp>
+                <name>Madison McLean</name>
+                <name>Karina McSwiney</name>
+                <name>Evanora Pearce</name>
+                <name>Pascal Diamond</name>
+            </respStmt>
+        </titleStmt>
+        
+        <publicationStmt>
+            <publisher>
+                Published through TXTDS 404 — Spring 2025, at the University of Washington, Seattle
+            </publisher>
+            <date>2026-06-08</date>
+            <availability>
+                Published with explicit permission from the author.
+            </availability>
+        </publicationStmt>
+        
+        <sourceDesc>
+            <bibl>
+                <title>Stelazine vol. 2 no. 1</title>
+                <author>Stella Kramer</author>
+                <pubPlace> Seattle, WA </pubPlace>
+                <date when="1979"> 1979 </date>
+                <publisher> Warrant Productions </publisher>
+                <biblScope unit="volume"> 2 </biblScope> 
+                <biblScope unit="issue"> 1 </biblScope>
+                <idno type="call number"> ML3534.3.S74 </idno>    
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+   
+    <encodingDesc>
+        <editorialDecl>
+            <normalization>
+                <p>No spelling modernizations were needed nor made in this text.</p>
+            </normalization>
+            <punctuation>
+                <p>punctuation and grammatical errors are corrected, though the presence of columns, line breaks, section indents, and dispersed text is originally maintained</p>
+            </punctuation>
+            <quotation>
+                <p>quotes from interview columns are originally maintained, formatted interview-style with the first initial of the interviewer/interviewee followed by a colon before the quote</p>
+                <p>dispersed quotes maintain original quotation marks with author elements</p> 
+            </quotation>
+            <correction>
+                <p> Corrections of typos, larger editorial errors, and revisions of word divisions will be made for the prioritization of clarity and readability of the text</p>
+            </correction>
+        </editorialDecl>
+    </encodingDesc>
+    
+    
+</teiHeader>
+
