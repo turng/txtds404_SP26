@@ -175,8 +175,9 @@
                         ref="#horseheads">Tex&amp;TheHorseheads</name></hi> on one page and a review
                   of an early 70's movie, <hi rend="bold"><name type="film" ref="#cleopatra"
                         >Cleopatra Jones</name></hi>, on another! Allright. Well put-together and
-                  hilarious. Write to: <name type="zine" ref="#wig_out">Wig Out</name>! PO box 44633
-                  Tacoma WA 98444 </hi>
+                  hilarious. Write to: <name type="zine" ref="#wig_out">Wig Out</name>! <name
+                     type="place" ref="#po_tacoma">PO box 44633 Tacoma WA 98444</name>
+               </hi>
             </p>
          </div>
 
@@ -850,7 +851,8 @@
             </listPerson>
 
             <listPlace>
-               <place xml:id="Fallout"> </place>
+               <place xml:id="fallout"> </place>
+               <place xml:id="po_tacoma"/>
                <place xml:id="Olympia"/>
                <place xml:id="Portland"/>
                <place xml:id="Chehalis"/>
