@@ -878,29 +878,42 @@
                <org xml:id="bobs"/>
                <org xml:id="qp"/>
             </listOrg>
-            <listBibl>
 
-               <bibl xml:id="cleopatra">
-                  <title type="movie">Cleopatra Jones</title>
-               </bibl>
-               <bibl xml:id="hallucinations">
-                  <title type="book">Hallucinations of Grandeur</title>
-               </bibl>
-               <bibl xml:id="chunks">
-                  <title type="album">Blown' Chunks</title>
-               </bibl>
-               <bibl xml:id="arms">
-                  <title type="song">In Your Arms</title>
-               </bibl>
-               <bibl xml:id="cheap">
-                  <title type="song">Life Is Cheap</title>
-               </bibl>
-               <bibl xml:id="one_day">
-                  <title type="song">Just One Day!</title>
-               </bibl>
-               <bibl xml:id="scream">
-                  <title type="song">Somebody Help Me Scream</title>
-               </bibl>
+            <list type="song">
+               <item xml:id="arms">
+                  <title>In Your Arms</title>
+               </item>
+               <item xml:id="cheap">
+                  <title>Life is Cheap</title>
+               </item>
+               <item xml:id="one_day">
+                  <title>Just One Day!</title>
+               </item>
+               <item xml:id="scream">
+                  <title>Somebody Help Me Scream</title>
+               </item>
+            </list>
+
+            <list type="movie">
+               <item xml:id="cleopatra">
+                  <title>Cleopatra Jones</title>
+               </item>
+            </list>
+
+            <list type="book">
+               <item xml:id="hallucinations">
+                  <title>Hallucinations of Grandeur</title>
+               </item>
+            </list>
+            
+            <list type="album">
+               <item>
+                  <title>Blown' Chunks</title>
+               </item>
+            </list>
+
+            <listBibl>
+               <bibl></bibl>
             </listBibl>
          </div>
       </back>
