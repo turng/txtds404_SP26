@@ -95,7 +95,7 @@
    <text>
       <front>
          <div type="editorial_intro">
-            <p> Seattle, Washington has long been a center of counterculture in the United States,
+            <p>Seattle, Washington has long been a center of counterculture in the United States,
                especially for the grunge rock scene in the 1980s and 1990s, which was sometimes
                called the “Seattle sound” (Misiroglu). The zine “My Awe #8: The Winter Desperation
                Issue” emerges from this culture in winter 1987. Published by a variety of creators,
@@ -103,15 +103,15 @@
                dates; personal narratives of attending and planning concerts; political commentary
                in the form of poetry and essay; and more. This piece provides an excellent
                overview/sampling both of the kinds of writing and affiliations from this period and
-               of the contents of zines more generally. </p>
-            <p> Zines are a form of independently published publication that often represent
+               of the contents of zines more generally.</p>
+            <p>Zines are a form of independently published publication that often represent
                countercultural movements or ideas. “Often the work of one author and either free or
                nominally priced, zines offer an intensely personal, highly affordable, and often
                subversive method of independent grassroots communication” (Misiroglu). Originating
                in the science fiction community as “fanzines,” the form was taken up by the
                hardcore-punk music scene in the 1980s and 1990s, when “My Awe” was created. As a
                group, we are fascinated by the counterculture ethos of zines and seek to represent
-               this one in a way as consistent with the principles of its creators as possible. </p>
+               this one in a way as consistent with the principles of its creators as possible.</p>
             <p>Because of this desire to remain consistent with the ethos of this zine, our team is
                navigating an ambivalence towards the idea of publishing this content in digital
                form, concerned that circulating it outside of its context might contribute to the
@@ -122,11 +122,11 @@
                chose to digitize selections that we feel best represent the community and artistic
                connections of the zine (the "Zero Page"), the diversity of its content (two
                different prose pieces and one poem), the political commentary that zines allow
-               ("Creeping Orwellianism" <ref target="n2"/> and "Ol' Gory"<ref target="n3"/>), and
-               the personal stories of those involved in the scene ("Denny's Was Closed, A Saga in
+               ("Creeping Orwellianism"<ref target="n2"/> and "Ol' Gory"<ref target="n3"/>), and the
+               personal stories of those involved in the scene ("Denny's Was Closed, A Saga in
                Portland"). When possible, we have retained formatting mistakes and typewriter errors
                   <ref target="n4"/>, to best represent the homemade nature of the publication. We
-               have also distinguished between handwriting and type, as the zine involves both <ref
+               have also distinguished between handwriting and type, as the zine involves both<ref
                   target="n5"/>.</p>
          </div>
       </front>
@@ -464,7 +464,7 @@
          <!-- I REALLY CAN'T MAKE OUT THE IMAGE THAT IS FORMATTED TO THE LEFT IN THE MIDDLE OF THE PAGE -->
 
          <div type="poem">
-            <head>Ol Gory</head>
+            <head>Ol Gory<ref target="n3"/></head>
             <lg type="poem">
                <lg type="stanza" rhyme="aabbaa">
                   <l><unclear reason="faded">S</unclear>ee ol gory waving <rhyme label="a"
@@ -557,7 +557,7 @@
 
          <div type="prose" subtype="rant">
             <head><hi rend="creepy">Creeping Orwellionism</hi><note type="editorial">This is
-                  centered</note></head>
+                  centered</note><ref target="n2"/></head>
             <!-- I do not know what to label the font of the title -->
             <head>by <name type="person" ref="#randy">Randy Strickfaden</name><note type="editorial"
                   >This header is oriented on the right side of the page</note></head>
@@ -743,12 +743,14 @@
                which was "the Reagan Administration’s response to a national moral panic around
                crack cocaine" and drastically increased criminalization of drugs, which has
                contributed to mass incarceration (Lipke)</note>
-            <note xml:id="n3">“Ol Gory” is a politically charged poem criticizing what was then the
+            <note xml:id="n3">"Ol Gory" is a politically charged poem criticizing what was then the
                current state of US militarism and nationalism. The name "Ol Gory" is a play on words
-               for the term "Old Glory," as in the flag of the United States (which in and of itself
-               is a simple, but necessary thing to note). The imagery portrays the staining of the
-               flag through the wrongdoings of the American Government, and specifically the Reagan
-               administration and their own foreign policy of militarism (Dixon).</note>
+               for the term "Old Glory," as in the flag of the United States. The imagery portrays
+               the staining of the flag through the wrongdoings of the American Government. In many
+               radical eyes at the time, America was no longer the leader of the "free world," but
+               rather a "fanatically capitalist power, willing to follow militarist policies of
+               nuclear intimidation and conventional military intervention to protect its
+               politico-economic interests" (Dixon).</note>
             <note xml:id="n4">In the case of typewritten or handwritten text in which one letter was
                typed or written on top of the previous, however, we have read the word as we assumed
                it was meant to be written for simplicity's sake.</note>
@@ -905,7 +907,7 @@
                   <title>Hallucinations of Grandeur</title>
                </item>
             </list>
-            
+
             <list type="album">
                <item>
                   <title>Blown' Chunks</title>
@@ -913,7 +915,7 @@
             </list>
 
             <listBibl>
-               <bibl></bibl>
+               <bibl/>
             </listBibl>
          </div>
       </back>
