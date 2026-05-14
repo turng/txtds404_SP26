@@ -917,7 +917,7 @@
             </list>
 
             <listBibl>
-               <biblStruct type="newspaper">
+               <biblStruct type="newspaper" xml:id="japenga">
                   <analytic>
                      <title>Grunge 'R Us Exploitating, Co-Opting and Neutralizing the Counter
                         Culture: Home Edition.</title>
@@ -933,7 +933,7 @@
                      </imprint>
                   </monogr>
                </biblStruct>
-               <biblStruct type="ebook">
+               <biblStruct type="ebook" xml:id="lipke">
                   <analytic>
                      <title>The Failure of Reagan Era Drug Policy and D.A.R.E.</title>
                      <author><forename>Anna</forename>
@@ -948,7 +948,7 @@
                      </imprint>
                   </monogr>
                </biblStruct>
-               <biblStruct type="ebook">
+               <biblStruct type="ebook" xml:id="misiroglu">
                   <monogr>
                      <title type="main">American Countercultures</title>
                      <title type="sub">An Encyclopedia of Nonconformists, Alternative Lifestyles,
