@@ -97,18 +97,18 @@
          <div type="editorial_intro">
             <p>Seattle, Washington has long been a center of counterculture in the United States,
                especially for the grunge rock scene in the 1980s and 1990s, which was sometimes
-               called the “Seattle sound” (Misiroglu). The zine “My Awe #8: The Winter Desperation
-               Issue” emerges from this culture in winter 1987. Published by a variety of creators,
+               called the <ref target="misiroglu">"Seattle sound"</ref>. The zine "My Awe #8: The Winter Desperation
+               Issue" emerges from this culture in winter 1987. Published by a variety of creators,
                it includes information about the local music scene, including pamphlets and concert
                dates; personal narratives of attending and planning concerts; political commentary
                in the form of poetry and essay; and more. This piece provides an excellent
                overview/sampling both of the kinds of writing and affiliations from this period and
                of the contents of zines more generally.</p>
             <p>Zines are a form of independently published publication that often represent
-               countercultural movements or ideas. “Often the work of one author and either free or
+               countercultural movements or ideas. <ref target="misiroglu">"Often the work of one author and either free or
                nominally priced, zines offer an intensely personal, highly affordable, and often
-               subversive method of independent grassroots communication” (Misiroglu). Originating
-               in the science fiction community as “fanzines,” the form was taken up by the
+               subversive method of independent grassroots communication"</ref>. Originating
+               in the science fiction community as "fanzines," the form was taken up by the
                hardcore-punk music scene in the 1980s and 1990s, when “My Awe” was created. As a
                group, we are fascinated by the counterculture ethos of zines and seek to represent
                this one in a way as consistent with the principles of its creators as possible.</p>
@@ -718,7 +718,7 @@
             <p>And what's the result for all of us? What is our reward? Well let's celebrate, time
                to pour the champagne, just like the president promised throughout his campaign we
                get ta see um bring America back, but never move 'er forward.</p>
-            <p><hi rend="allCaps">Reagan's Law</hi><note type="editorial"> This pasted
+            <p><hi rend="allCaps">Reagan's Law</hi><note> <!-- FIX THIS LATER --> This pasted
                   ssignificantly larger than the rest of the text and at about a 40 degree angle
                   with REAGAN'S above LAW. Below it is an image of Ronald Reagan</note></p>
          </div>
