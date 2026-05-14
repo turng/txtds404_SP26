@@ -124,15 +124,50 @@
                one poem), the political commentary that zines allow (“Creeping Orwellianism” and
                “Ol’ Gory”), and the personal stories of those involved in the scene (“Denny’s Was
                Closed, A Saga in Portland”). When possible, we have retained formatting mistakes and
-               typewriter errors <ref target="n5"/>, to best represent the homemade nature of the publication.
-               We have also distinguished between handwriting and type, as the zine involves both
-               <ref target="n4"/> of the zine (zero page); the diversity of content (poetry &amp; prose); the
-               personal nature of this kind of publication (“Denny’s Was Closed”); and the political
-               affiliations (“Creeping Orwellianism” <ref target="n2"/> and “Ol’ Gory” <ref target="n3"/>); also
-               retained typos and typewriter errors </p>
+               typewriter errors <ref target="n"/>, to best represent the homemade nature of the
+               publication. We have also distinguished between handwriting and type, as the zine
+               involves both <ref target="n4"/> of the zine (zero page); the diversity of content
+               (poetry &amp; prose); the personal nature of this kind of publication (“Denny’s Was
+               Closed”); and the political affiliations (“Creeping Orwellianism” <ref target="n2"/>
+               and “Ol’ Gory” <ref target="n3"/>); also retained typos and typewriter errors </p>
          </div>
       </front>
       <body>
+         <div type="endnotes">
+            <note xml:id="n1">In deciding what to publicize and whether to publicize it, we are
+               aware of the tendency of more formal publishing to co-opt underground (and often very
+               personal) cultural objects such as zines, bringing them into mainstream culture and
+               thereby both robbing them of their subversive power and exposing those who
+               participate in these movements. Ann Japenga writes about the mainstream co-optation
+               of Riot Grrl culture, arguing that “An authentic counterculture is as necessary to
+               the larger society as the rain forest is to the planet. It's a protected laboratory
+               where evolution can take place.” She writes about Riot Grrls crying over the exposure
+               of their privacy and the secrets they shared in their zines. Although several decades
+               have passed since this zine was created, and it is now closer to a historical
+               artifact than an immediate revelation, we try to maintain this ethos in our editorial
+               choices. For this reason, we have chosen to censor personally identifying information
+               such as phone numbers.</note>
+            <note xml:id="n2">"Creeping Orwellianism" is a political prose piece/rant about
+               invasive drug testing policies. It is likely a reference to the Anti-Drug Abuse Act
+               of 1986, which was “the Reagan Administration’s response to a national moral panic
+               around crack cocaine” and drastically increased criminalization of drugs, which has
+               contributed to mass incarceration (Lipke)</note>
+            <note xml:id="n3">“Ol Gory” is a politically charged poem criticizing what was then the
+               current state of US militarism and nationalism. The name “Ol Gory” is a play on words
+               for the term “Old Glory,” as in the flag of the United States (which in and of itself
+               is a simple, but necessary thing to note). The imagery portrays the staining of the
+               flag through the wrongdoings of the American Government, and specifically the Reagan
+               administration and their own foreign policy of militarism (Dixon).</note>
+            <note xml:id="n4">In the case of typewritten or handwritten text in which one letter was
+               typed or written on top of the previous, however, we have read the word as we assumed
+               it was meant to be written for simplicity’s sake.</note>
+            <note xml:id="n5">In the physical layout of “Denny’s Was Closed, A Saga in Portland,”
+               each page is mostly typed, but includes handwritten prose in spirals around the page.
+               To represent this in TEI, we have placed all the handwritten text together in a
+               section at the beginning of the entry with page breaks entered into it to indicate
+               which page it surrounds.</note>
+
+         </div>
          <div type="news" subtype="handwritten">
             <head>
                <hi rend="allCaps">Zero Page by<name type="person" ref="#verna">Verna</name></hi>
