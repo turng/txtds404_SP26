@@ -911,13 +911,58 @@
             </list>
 
             <list type="album">
-               <item>
+               <item xml:id="chunks">
                   <title>Blown' Chunks</title>
                </item>
             </list>
 
             <listBibl>
-               <bibl/>
+               <biblStruct type="newspaper">
+                  <analytic>
+                     <title>Grunge 'R Us Exploitating, Co-Opting and Neutralizing the Counter
+                        Culture: Home Edition.</title>
+                     <author><forename>Ann</forename>
+                        <surname>Japenga</surname></author>
+                  </analytic>
+                  <monogr>
+                     <title>The Los Angeles times</title>
+                     <imprint>
+                        <publisher>Los Angeles, Calif: Tribune Interactive, LLC</publisher>
+                        <pubPlace>Los Angeles, California</pubPlace>
+                        <date when="1993-11-14">November 14, 1993</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="ebook">
+                  <analytic>
+                     <title>The Failure of Reagan Era Drug Policy and D.A.R.E.</title>
+                     <author><forename>Anna</forename>
+                        <surname>Lipke</surname></author>
+                  </analytic>
+                  <monogr>
+                     <title type="main">The Diversity of Drugs</title>
+                     <title type="sub">History, Effects, and Everything in Between</title>
+                     <imprint>
+                        <publisher>Clemson University</publisher>
+                        <pubPlace>Clemson, South Carolina</pubPlace>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="ebook">
+                  <monogr>
+                     <title type="main">American Countercultures</title>
+                     <title type="sub">An Encyclopedia of Nonconformists, Alternative Lifestyles,
+                        and Radical Ideas in U.S. History</title>
+                     <author><forename>Gina</forename>
+                        <surname>Misiroglu</surname></author>
+                     <edition>first edition</edition>
+                     <imprint>
+                        <publisher>Routledge</publisher>
+                        <pubPlace>Armonk, New York</pubPlace>
+                        <date>2015</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
             </listBibl>
          </div>
       </back>
