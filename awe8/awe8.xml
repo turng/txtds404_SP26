@@ -1017,6 +1017,7 @@
                         <date when="1993-11-14">November 14, 1993</date>
                      </imprint>
                   </monogr>
+                  <note>https://orbiscascade-washington.primo.exlibrisgroup.com/permalink/01ALLIANCE_UW/1asafqm/cdi_proquest_newspapers_282079835</note>
                </biblStruct>
                <biblStruct type="ebook" xml:id="lipke">
                   <analytic>
@@ -1032,6 +1033,7 @@
                         <pubPlace>Clemson, South Carolina</pubPlace>
                      </imprint>
                   </monogr>
+                  <note>https://opentextbooks.clemson.edu/hlth4000holcombtugman/chapter/the-failure-of-reagan-era-drug-policy-and-d-a-r-e/</note>
                </biblStruct>
                <biblStruct type="ebook" xml:id="misiroglu">
                   <monogr>
@@ -1047,6 +1049,7 @@
                         <date>2015</date>
                      </imprint>
                   </monogr>
+                  <note>https://orbiscascade-washington.primo.exlibrisgroup.com/permalink/01ALLIANCE_UW/1asafqm/cdi_informaworld_taylorfrancisbooks_9781315706580</note>
                </biblStruct>
                <biblStruct type="article" xml:id="dixon">
                   <analytic>
@@ -1064,6 +1067,7 @@
                      <biblScope unit="issue">10</biblScope>
                      <biblScope unit="page">i-xxiii</biblScope>
                   </monogr>
+                  <note>https://www.jstor.org/stable/29765812?seq=24</note>
                </biblStruct>
             </listBibl>
          </div>
