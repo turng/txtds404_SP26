@@ -44,6 +44,25 @@
             <p>Archival information: Special Collections acc6357-001 Box 1--2.5 in.; Location:
                T0250c</p>
             <p><idno type="OCLC">1297063069</idno></p>
+
+            <!-->I WAS MESSING AROUND WITH THE TAGGING AND I THINK MAYBE THIS IS WHAT PROFESSOR MEANT?</-->
+            <p><bibl>
+                  <title level="m">My Awe #8: The Winter Desperation Issue</title>
+                  <date when="1987">1987</date>
+                  <orgName>University of Washington Libraries Special Collections</orgName>
+                  <note type="collection"> Seattle Arts Scene Zines, Chapbooks, and Ephemera </note>
+                  <idno type="callNumber">acc6357-001 Box 1</idno>
+                  <idno type="location">T0250c</idno>
+                  <idno type="OCLC">1297063069</idno>
+                  <idno type="almaIZ">99162512111301452</idno>
+                  <idno type="almaNZ">99332935346101451</idno>
+                  <ref
+                     target="https://orbiscascade-washington.primo.exlibrisgroup.com/permalink/01ALLIANCE_UW/1lcdegr/alma99162512111301452"
+                     > UW Libraries catalog record </ref>
+               </bibl></p>
+            <!-->OF COURSE, IF YOU WANT TO ADD ANYTHING OR THINK THAT THIS FORMAT IS ACTUALLY UNECCESARY, FEEL FREE TO DELETE/ALTER!</-->
+
+
             <p><bibl>
                   <title>My Awe #8: The Winter Desperation Issue</title>
                   <date>1987</date>
@@ -56,6 +75,41 @@
                   <bibl><title>Ol'Gory</title>
                      <author>Randy Strickfaden</author>
                      <author>Bruce Storm</author></bibl></bibl></p>
+
+            <!-->ALSO, I AM NOT CONVINCED THAT SEGMENTATION WILL VALIDATE FOR HOW WE MAY WANT TO USE IT. WHAT STOPS US FROM JUST USING ANOTHER LISTBIBL FOR CLARITY?</-->
+            <p>The following selections were digitized for this edition:</p>
+
+            <p>
+               <listBibl>
+
+                  <bibl>
+                     <author>Verna Doherty</author>
+                     <title>"Zero Page"</title>
+                  </bibl>
+
+                  <bibl>
+                     <author>Verna D.</author>
+                     <title>"Denny's Was Closed, A Saga in Portland"</title>
+                     <biblScope unit="page">14–18</biblScope>
+                  </bibl>
+
+                  <bibl>
+                     <author>Randy Strickfaden</author>
+                     <title>"Creeping Orwellianism"</title>
+                     <biblScope unit="page">22–26</biblScope>
+                  </bibl>
+
+                  <bibl>
+                     <author>Randy Strickfaden</author>
+                     <author>Bruce Storm</author>
+                     <title>"Ol' Gory"</title>
+                     <biblScope unit="page">27</biblScope>
+                     <date when="1985">1985</date>
+                  </bibl>
+
+               </listBibl>
+            </p>
+
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
