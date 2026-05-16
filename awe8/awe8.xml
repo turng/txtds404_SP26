@@ -67,13 +67,16 @@
                   annotate the difference between type and handwriting, as well as the pattern the
                   typewriting takes; political context such as local and national government;
                   information about relevant music or art, as best we are able to find it; and what
-                  author information we can find.</p>
+                  author information we can find. In order to stay faithful to the ephemeral nature
+                  of zines, we have decided not to include images in this transcription; we will
+                  include the location of where images occur and a description of what they are, but
+                  not the image itself.</p>
             </normalization>
             <correction>
                <p>We have maintained typewriter errors and misspellings where we found them, but
                   have annotated such errors. We did not maintain line breaks in prose, so anytime
                   that there is a word sepreated by a hyphen, we replaced with the full word; this
-                  is marked with <corr/> tag</p>
+                  is marked with <corr/> tag.</p>
             </correction>
             <segmentation>
                <p>We digitized the following sections: “Page Zero” by Verna, “Denny’s Was Closed, A
@@ -97,37 +100,38 @@
          <div type="editorial_intro">
             <p>Seattle, Washington has long been a center of counterculture in the United States,
                especially for the grunge rock scene in the 1980s and 1990s, which was sometimes
-               called the <ref target="misiroglu">"Seattle sound"</ref>. The zine "My Awe #8: The Winter Desperation
-               Issue" emerges from this culture in winter 1987. Published by a variety of creators,
-               it includes information about the local music scene, including pamphlets and concert
-               dates; personal narratives of attending and planning concerts; political commentary
-               in the form of poetry and essay; and more. This piece provides an excellent
-               overview/sampling both of the kinds of writing and affiliations from this period and
-               of the contents of zines more generally.</p>
+               called the <ref target="#misiroglu">"Seattle sound"</ref>. The zine "My Awe #8: The
+               Winter Desperation Issue" emerges from this culture in winter 1987. Published by a
+               variety of creators, it includes information about the local music scene, including
+               pamphlets and concert dates; personal narratives of attending and planning concerts;
+               political commentary in the form of poetry and essay; and more. This piece provides
+               an excellent overview/sampling both of the kinds of writing and affiliations from
+               this period and of the contents of zines more generally.</p>
             <p>Zines are a form of independently published publication that often represent
-               countercultural movements or ideas. <ref target="misiroglu">"Often the work of one author and either free or
-               nominally priced, zines offer an intensely personal, highly affordable, and often
-               subversive method of independent grassroots communication"</ref>. Originating
-               in the science fiction community as "fanzines," the form was taken up by the
-               hardcore-punk music scene in the 1980s and 1990s, when “My Awe” was created. As a
-               group, we are fascinated by the counterculture ethos of zines and seek to represent
-               this one in a way as consistent with the principles of its creators as possible.</p>
+               countercultural movements or ideas. <ref target="#misiroglu">"Often the work of one
+                  author and either free or nominally priced, zines offer an intensely personal,
+                  highly affordable, and often subversive method of independent grassroots
+                  communication"</ref>. Originating in the science fiction community as "fanzines,"
+               the form was taken up by the hardcore-punk music scene in the 1980s and 1990s, when
+               “My Awe” was created. As a group, we are fascinated by the counterculture ethos of
+               zines and seek to represent this one in a way as consistent with the principles of
+               its creators as possible.</p>
             <p>Because of this desire to remain consistent with the ethos of this zine, our team is
                navigating an ambivalence towards the idea of publishing this content in digital
                form, concerned that circulating it outside of its context might contribute to the
                larger trend of co-opting and incorporating countercultural trends into mainstream
-                  culture<ref target="n1"/>. Our selections and editorial choices therefore
+                  culture<ref target="#n1"/>. Our selections and editorial choices therefore
                represent only a small sample of the zine, with identifying information such as phone
                numbers censored (though the numbers are unlikely to still be in service). We also
                chose to digitize selections that we feel best represent the community and artistic
                connections of the zine (the "Zero Page"), the diversity of its content (two
                different prose pieces and one poem), the political commentary that zines allow
-               ("Creeping Orwellianism"<ref target="n2"/> and "Ol' Gory"<ref target="n3"/>), and the
-               personal stories of those involved in the scene ("Denny's Was Closed, A Saga in
+               ("Creeping Orwellianism"<ref target="#n2"/> and "Ol' Gory"<ref target="#n3"/>), and
+               the personal stories of those involved in the scene ("Denny's Was Closed, A Saga in
                Portland"). When possible, we have retained formatting mistakes and typewriter errors
-                  <ref target="n4"/>, to best represent the homemade nature of the publication. We
+                  <ref target="#n4"/>, to best represent the homemade nature of the publication. We
                have also distinguished between handwriting and type, as the zine involves both<ref
-                  target="n5"/>.</p>
+                  target="#n5"/>.</p>
          </div>
       </front>
       <body>
@@ -556,12 +560,20 @@
             <figDesc> A man in a suit and tie is smiling in the direction of the reader. </figDesc>
          </figure>
 
-         <div type="prose" subtype="rant">
-            <head><hi rend="creepy">Creeping Orwellionism</hi><note type="editorial">This is
-                  centered</note><ref target="n2"/></head>
-            <!-- I do not know what to label the font of the title -->
-            <head>by <name type="person" ref="#randy">Randy Strickfaden</name><note type="editorial"
-                  >This header is oriented on the right side of the page</note></head>
+         <div type="prose" subtype="rant" rend="align(left) font(typewriter)">
+            <figure>
+               <figDesc>The figure encompasses nearly the entire page and is in black and white. It
+                  depits Ronald Reagan using three different images that are pasted on top of each
+                  other giving the illusion of movement. In the background, there is a pillar and
+                  half of a window visible. The image itself is fairly grainy. Below the image on
+                  the right there is handwritten text</figDesc>
+               <p><hi rend="align(right) font(handwritten)">Bruce Storm</hi></p>
+            </figure>
+            <pb/>
+            <head><hi rend="align(center) font(jagged/creepy)"><ref target="#n2">Creeping
+                     Orwellionism</ref></hi></head>
+            <head><hi rend="align(center)">by <name type="person" ref="#randy">Randy
+                     Strickfaden</name></hi></head>
 
             <p>So, you want uh job here do ya, security and steady pay, and mabe even uh chance to
                move up, well then peon piss in this cup! And if your urine's clean then we just
@@ -576,6 +588,14 @@
                law-abiding co-worker shows up with an aching head, swollen face, incoherent still
                with every crooked step uh stagger, trip, and toddle after spending their whole
                weekend nippin' from uh bottle.</p>
+            <figure>
+               <figDesc>The image lies in the left margin of the page and spands about 15 lines of
+                  text. It depicts a person facing and pointing towards the right. The image is
+                  grainy which makes its hard to definitively tell who it is.</figDesc>
+               <p><unclear reason="illegible"/>
+                  <hi rend="align(center) font(Times New Roman)">will come down on civil-liberties
+                     and civil-rights</hi></p>
+            </figure>
             <p>Yet, the test results show that your the one that has to go. Your drug of choice is
                not approved by law ya know. And it renders you unfit for work, while that other
                drunken jerk, with his <corr>bloodshot</corr> eyes and big red snout, passes the test
@@ -616,6 +636,16 @@
                Latin America hanging from their carnivorous tooth, they <unclear reason="faded"
                   >c</unclear>onveniently close down the peaceful venues of their opposition used
                   <unclear reason="faded">b</unclear>y those who care and speak the truth.</p>
+            <figure>
+               <figDesc>The image lies in the left margin of the page and spands about 13 lines of
+                  text. The image depicts a man at about a 45 degree angle towards the right with
+                  his hands overlapping in front of his abdomin. There is a white line through the
+                  image.</figDesc>
+               <p><unclear reason="illegible">Free sprs</unclear><hi rend="font(Times New Roman)"
+                     >Scalia has <unclear reason="faded">co</unclear>nsistenly expressed narrow
+                        <unclear reason="faded">vie</unclear>w of the <unclear reason="faded"
+                        >F</unclear>irst A<unclear reason="faded">men</unclear>dment.</hi></p>
+            </figure>
             <p>And they want to get all the smut and naked bare fannies away from the children, and
                the God-fearin' great grannies. In fact they say, that nowhere at all should this
                stuff be within a trule wholesome society. They wanna get all the dirt of the t.v.,
@@ -718,9 +748,10 @@
             <p>And what's the result for all of us? What is our reward? Well let's celebrate, time
                to pour the champagne, just like the president promised throughout his campaign we
                get ta see um bring America back, but never move 'er forward.</p>
-            <p><hi rend="allCaps">Reagan's Law</hi><note> <!-- FIX THIS LATER --> This pasted
-                  ssignificantly larger than the rest of the text and at about a 40 degree angle
-                  with REAGAN'S above LAW. Below it is an image of Ronald Reagan</note></p>
+            <p><hi rend="allCaps">Reagan's Law</hi><note>
+                  <!-- FIX THIS LATER --> This pasted ssignificantly larger than the rest of the
+                  text and at about a 40 degree angle with REAGAN'S above LAW. Below it is an image
+                  of Ronald Reagan</note></p>
          </div>
       </body>
 
@@ -749,16 +780,16 @@
                for the term "Old Glory," as in the flag of the United States. The imagery portrays
                the staining of the flag through the wrongdoings of the American Government. In many
                radical eyes at the time, America was no longer the leader of the "free world," but
-               rather a "fanatically capitalist power, willing to follow militarist policies of
-               nuclear intimidation and conventional military intervention to protect its
-               politico-economic interests" (Dixon).</note>
+               rather a <ref target="#dixon">"fanatically capitalist power, willing to follow
+                  militarist policies of nuclear intimidation and conventional military intervention
+                  to protect its politico-economic interests"</ref>.</note>
             <note xml:id="n4">In the case of typewritten or handwritten text in which one letter was
                typed or written on top of the previous, however, we have read the word as we assumed
                it was meant to be written for simplicity's sake.</note>
             <note xml:id="n5">In the physical layout of "Denny's Was Closed, A Saga in Portland,"
-               each page is mostly typed, but includes handwritten prose in spirals around the page.
-               To represent this in TEI, we have placed all the handwritten text together in a
-               section at the beginning of the entry with page breaks entered into it to indicate
+               each page is mostly typed, but includes handwritten prose in spirals around the
+               page.re To represent this in TEI, we have placed all the handwritten text together in
+               a section at the beginning of the entry with page breaks entered into it to indicate
                which page it surrounds.</note>
          </div>
          <div type="editorial">
@@ -961,6 +992,23 @@
                         <pubPlace>Armonk, New York</pubPlace>
                         <date>2015</date>
                      </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article" xml:id="dixon">
+                  <analytic>
+                     <title>Overview: Militarism as Foreign Policy — Reagan's Second Term</title>
+                     <author><forename>Marlene</forename>
+                        <surname>Dixon</surname></author>
+                  </analytic>
+                  <monogr>
+                     <title>Contempory Marxism</title>
+                     <imprint>
+                        <publisher>Social Justice/Global Options</publisher>
+                        <pubPlace>1985</pubPlace>
+                     </imprint>
+                     <biblScope unit="volume">Islands of Discontent</biblScope>
+                     <biblScope unit="issue">10</biblScope>
+                     <biblScope unit="page">i-xxiii</biblScope>
                   </monogr>
                </biblStruct>
             </listBibl>
