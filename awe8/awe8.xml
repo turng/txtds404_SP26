@@ -203,18 +203,19 @@
                      >Seattle</name>
                   <del rend="scribble"><gap reason="illegible"/></del> or just <name type="place"
                      ref="#seattle">Seattle</name> area, please contact me, <name type="person"
-                     ref="#verna">Verna</name>, at 527-8834. Also, <name type="band"
-                     ref="#false_liberty">False Liberty</name>
+                     ref="#verna">Verna</name>, at <num type="phone">527-8834</num>. Also, <name
+                     type="band" ref="#false_liberty">False Liberty</name>
                   <del rend="scribble"><gap reason="illegible"/></del> is open to doing gigs around
                   the state. Please contact <hi rend="bold"><name type="person" ref="#greg"
-                        >Greg</name> at 363-7485</hi> or <name type="person" ref="#mg">MG</name> at
-                  the number above <del rend="scribble"><gap reason="illegible"/></del> if you're
-                  doing a show or know someone who is <del rend="scribble"><gap reason="illegible"
-                     /></del><add place="above">and</add> need(s) an inexpensive but excellant
-                  opening band. <hi rend="bold"><name type="band" ref="#false_liberty">False
-                        Liberty</name></hi> will also be touring this summer. If you would like them
-                  to play in your town, call me at <hi rend="bold">(206)527-8834</hi> and we'll
-                  talk, OK.? Cool.</hi>
+                        >Greg</name> at <num type="phone">363-7485</num></hi> or <name type="person"
+                     ref="#mg">MG</name> at the number above <del rend="scribble"><gap
+                        reason="illegible"/></del> if you're doing a show or know someone who is
+                     <del rend="scribble"><gap reason="illegible"/></del><add place="above"
+                     >and</add> need(s) an inexpensive but excellant opening band. <hi rend="bold"
+                        ><name type="band" ref="#false_liberty">False Liberty</name></hi> will also
+                  be touring this summer. If you would like them to play in your town, call me at
+                     <hi rend="bold"><num type="phone">(206)527-8834</num></hi> and we'll talk, OK.?
+                  Cool.</hi>
             </p>
             <p>
                <hi rend="allCaps"><hi rend="bold"><name type="band" ref="#the_melvins">The
@@ -223,7 +224,7 @@
             <p>
                <hi rend="allCaps"><hi rend="bold"><name type="band" ref="#skin_yard">Skin
                         Yard</name></hi>' has an album out. Most local stores should have it. I know
-                     <name type="place" ref="#fallout">Fallout</name> does. </hi>
+                     <name type="org" ref="#fallout">Fallout</name> does. </hi>
             </p>
             <p>
                <hi rend="allCaps"><hi rend="bold"><name type="zine" ref="#wig_out"
@@ -868,8 +869,9 @@
                </person>
                <person xml:id="greg">
                   <persName>
-                     <surname>Anderson</surname>
                      <forename>Greg</forename>
+                     <note><p>The Greg mentioned here, is most likely the same Greg Anderson who is
+                           a member of False Liberty</p></note>
                   </persName>
                </person>
                <person xml:id="mg">
@@ -936,7 +938,6 @@
             </listPerson>
 
             <listPlace>
-               <place xml:id="fallout"> </place>
                <place xml:id="po_tacoma"/>
                <place xml:id="Olympia"/>
                <place xml:id="Portland"/>
@@ -948,12 +949,54 @@
             </listPlace>
 
             <listOrg>
-               <org xml:id="false_liberty"> </org>
-               <org xml:id="the_melvins"> </org>
-               <org xml:id="skin_yard"> </org>
-               <org xml:id="wig_out"> </org>
-               <org xml:id="girl_trouble"> </org>
-               <org xml:id="horseheads"> </org>
+               <org xml:id="false_liberty" type="band">
+                  <orgName>False Liberty</orgName>
+                  <desc>Seattle-based hardcore punk band active in the mid-1980s. According to
+                     concert records, the band included member Greg Anderson, and released demo and
+                     EP recordings in 1986. <ref
+                        target="https://www.concertarchives.org/bands/false-liberty">Concert
+                        Archives</ref>
+                  </desc>
+               </org>
+               <org xml:id="the_melvins">
+                  <orgName>The Melvins</orgName>
+                  <desc>Rock band formed in 1983 in Montesano, Washington, associated with early
+                     grunge and sludge metal. <ref target="https://en.wikipedia.org/wiki/Melvins"
+                        >Wikipedia</ref></desc>
+               </org>
+               <org xml:id="skin_yard">
+                  <orgName>Skin Yard</orgName>
+                  <desc>Seattle rock band formed in 1985 and associated with the early grunge scene.
+                     Founded by Daniel House and Jack Endino, the band was part of the Seattle
+                     underground music movement. <ref target="https://www.skin-yard.com/skinfo.htm"
+                        >Official site</ref></desc>
+               </org>
+               <org xml:id="fallout">
+                  <orgName>Fallout Records</orgName>
+                  <desc>Independent Seattle record store founded in 1984 that supported underground
+                     music, zines, and skateboards before closing in 2003. <ref
+                        target="https://falloutrecords.com/about.html">Official site</ref></desc>
+               </org>
+               <org xml:id="girl_trouble">
+                  <orgName>Girl Trouble</orgName>
+                  <desc>Rock band known for its DIY attitude and humorous, low-tech approach to
+                     music and media. <ref target="https://wig-out.com">Official site</ref></desc>
+               </org>
+               <org xml:id="wig_out">
+                  <orgName>Wig Out!</orgName>
+                  <desc>Zine created by Girl Trouble in 1984 to get more coverage on themselves,
+                     featuring humor, cultural commentary, and recurring lifestyle columns. <ref
+                        target="https://wig-out.com">Official site</ref></desc>
+               </org>
+               <org xml:id="horseheads">
+                  <orgName>Tex &amp; the Horseheads</orgName>
+                  <desc> Los Angeles punk rock band formed in 1980, associated with early cowpunk
+                     and deathrock-influenced punk scenes. Known for blending country, punk, and
+                     blues styles, the band originally disbanded in 1986 and reunited in 2007. <ref
+                        target="https://en.wikipedia.org/wiki/Tex_%26_the_Horseheads"
+                        >Wikipedia</ref>
+                  </desc>
+               </org>
                <org xml:id="seconds"/>
                <org xml:id="flipper"/>
                <org xml:id="yobs"/>
@@ -986,12 +1029,25 @@
             <list type="movie">
                <item xml:id="cleopatra">
                   <title>Cleopatra Jones</title>
+                  <date when="1973">1973</date>
+                  <desc> Directed by Jack Starrett. A 1973 "Blaxploitation" action film about a U.S.
+                     government agent who fights drug trafficking and corruption. </desc>
+                  <note> Produced by Warner Bros. and starring Tamara Dobson in the title role. </note>
+                  <idno type="imdb">tt0071361</idno>
                </item>
             </list>
 
             <list type="book">
                <item xml:id="hallucinations">
                   <title>Hallucinations of Grandeur</title>
+                  <note type="author">Henry Rollins</note>
+                  <note type="format">205 pages, paperback</note>
+                  <note type="language">English</note>
+                  <date when="1986-01-01">January 1, 1986</date>
+                  <note type="publication"> Published by Illiterati Press </note>
+                  <idno type="isbn">9780937837030</idno>
+                  <idno type="isbn10">0937837032</idno>
+                  <idno type="asin">0937837032</idno>
                </item>
             </list>
 
