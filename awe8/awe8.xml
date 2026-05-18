@@ -62,26 +62,9 @@
                </bibl></p>
             <!-->OF COURSE, IF YOU WANT TO ADD ANYTHING OR THINK THAT THIS FORMAT IS ACTUALLY UNECCESARY, FEEL FREE TO DELETE/ALTER!</-->
 
-
-            <p><bibl>
-                  <title>My Awe #8: The Winter Desperation Issue</title>
-                  <date>1987</date>
-                  <bibl><title>Zero Page</title>
-                     <author>Verna Doherty</author></bibl>
-                  <bibl><title>Denny's Was Closed, A Saga in Portland</title>
-                     <author>Verna D.</author></bibl>
-                  <bibl><title>Creeping Orwellianism</title>
-                     <author>Randy Strickfaden</author></bibl>
-                  <bibl><title>Ol'Gory</title>
-                     <author>Randy Strickfaden</author>
-                     <author>Bruce Storm</author></bibl></bibl></p>
-
             <!-->ALSO, I AM NOT CONVINCED THAT SEGMENTATION WILL VALIDATE FOR HOW WE MAY WANT TO USE IT. WHAT STOPS US FROM JUST USING ANOTHER LISTBIBL FOR CLARITY?</-->
-            <p>The following selections were digitized for this edition:</p>
-
-            <p>
+            <p> The following selections were digitized for this edition:
                <listBibl>
-
                   <bibl>
                      <author>Verna Doherty</author>
                      <title>"Zero Page"</title>
