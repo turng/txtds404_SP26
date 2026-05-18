@@ -18,16 +18,14 @@
   </teiHeader>
   <text>
      <front>
-        
-        <div type="introduction">
-           
+        <div type="editorial_intro">
            <head>Editorial Introduction</head>
-           
            <p>This digital edition presents selected excerpts from <title>Confessions of a Chief of Police</title>, a serialized narrative written by former Seattle Chief of Police William B. Severyns and published in the <title>Seattle Union Record</title> between October and December 1926. Written during the Prohibition era and amid debates concerning corruption, vice regulation, and municipal reform, the articles combine autobiography, political defense, and public commentary. Severyns reflects on his years as chief of police while addressing allegations concerning graft, police misconduct, gambling, vice districts, and political interference in Seattle policing. The serialization also reveals the importance of newspapers in shaping public perceptions of crime, morality, and civic order in early twentieth-century American cities.</p>
            <p>This edition focuses on preserving the documentary and historical features of the original newspaper publication while making the text accessible for digital analysis and modern readers. Particular attention has been given to recurring themes such as police corruption, vice “cleanups,” Prohibition, police publicity, and the relationship between political reform and law enforcement. The selected excerpts additionally reveal contemporary racialized discourse concerning Seattle’s Chinatown and illustrate how immigrant communities were represented within urban political debates. Contemporary newspaper reports and municipal correspondence related to Bertha Henry Landes and William B. Severyns provide further historical context for understanding the political controversies surrounding police administration in Seattle during the 1920s.</p>
-           <p>The transcription follows a diplomatic editorial approach. Original spelling, punctuation, capitalization, spacing, and formatting have been preserved wherever possible in order to retain the historical and material qualities of the source text. Apparent typographical irregularities, broken words, and period-specific language have not been silently corrected. Editorial intervention has been intentionally limited to support accurate TEI encoding while maintaining fidelity to the original newspaper publication. Annotations have been added to explain historical references, political figures, policing terminology, and contextual issues related to Prohibition-era Seattle.</p>
-           
+           <p>The transcription follows a diplomatic editorial approach. Original spelling, punctuation, capitalization, spacing, and formatting have been preserved wherever possible in order to retain the historical and material qualities of the source text. Apparent typographical irregularities, broken words, and period-specific language have not been silently corrected and have been marked with proper encoding elements. Editorial intervention has been intentionally limited to support accurate TEI encoding while maintaining fidelity to the original newspaper publication. Annotations have been added to explain historical references, political figures, policing terminology, and contextual issues related to Prohibition-era Seattle.</p>   
         </div>
+     </front>
+     <body> 
         <div type="annotations">
            <head>Annotations</head>
            <note xml:id="note1">
@@ -48,6 +46,8 @@
                  <ref target="#bibl3"/></p>
            </note>
         </div>
+     </body>
+  <back>
         <div type="bibliography">
            <head>Bibliography</head>
            <listBibl>
@@ -60,10 +60,6 @@
               <bibl xml:id="bibl7">Landes, Bertha Henry. Letter to William B. Severyns, June 25, 1924. Executive Office, City of Seattle. Manuscript Collection, University of Washington Library.</bibl>
            </listBibl>
         </div> 
-     </front>
-     
-      <body>
-         <p>Some text here.</p>
-      </body>
+  </back>
   </text>
 </TEI>
