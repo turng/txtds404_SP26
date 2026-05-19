@@ -227,7 +227,7 @@
             <head><hi rend="allcaps"><orgName ref="#dennys">Denny's</orgName> Was Closed, A Saga in
                      <placeName ref="#portland">Portland</placeName></hi></head>
             <head>by <persName ref="#verna">Verna D.</persName></head>
-            <p><hi rend="handwritten">THERE WAS THIS YOUNG WOMAN WHO THOUGHT SHE COULD, YOU KNOW,
+            <ab><hi rend="handwritten">THERE WAS THIS YOUNG WOMAN WHO THOUGHT SHE COULD, YOU KNOW,
                   TAKE ON,NOT THE WORLD, BUT A THING/SOMETHING IN HER GUT <hi rend="underlined"
                      >DROVE</hi> HER TO DO IT/WHAT WAS IT? NO ONE KNOWS<pb/> FOR SURE JUST WHAT IT
                   WAS/MOST OF THE TIME SHE FELT LONELY AND MUCH LIKE AN OUTSIDER, NEVER FITTING IN,
@@ -241,7 +241,7 @@
                   THINGS SURROUNDING THE THING/CAN ANYONE UNDERSTAND/UNTIL THEY SEE/AGAIN, SHE WAS
                   REJECTED/BACK TO THE NORMAL STATE OF AFFAIRS/AND IT'S HARD TO SEE, SO HARD TO
                   SEE/SHE DIDN'T WANT ANYONE TO KNOW/HER FEARS/THEY CAN'T KNOW/BUT SHE LET IT OUT
-                  ANYWAY/WHY? "IT'S ONLY PAIN, IT DOESN'T HURT" WH</hi></p>
+                  ANYWAY/WHY? "IT'S ONLY PAIN, IT DOESN'T HURT" WH</hi></ab>
 
             <p>This is a true and actual (if not always factual) account of my experiences during
                the weekend of the <orgName ref="#seconds">7 SECONDS</orgName> shows,one of which I
@@ -252,8 +252,8 @@
                inappropriate and/or incriminating. Mostly, it is just a personapb l account of my
                thoughts at that time, which began <date>Oct 18th, 1986</date>, and ended <date>Oct.
                   19th</date> (or 20th,actually.). So here goes nothing:</p>
-            <p><date>SATURDAY, OCT. 18th</date>, PART ONE — CARRIDE TO
-                  <placeName>OLYMPIA</placeName>,FROM <placeName>PORTLAND</placeName>.</p>
+            <ab type="subheading"><date>SATURDAY, OCT. 18th</date>, PART ONE — CARRIDE TO
+                  <placeName>OLYMPIA</placeName>,FROM <placeName>PORTLAND</placeName>.</ab>
             <p>Coffee. The initial buzz is good.My eyes are out and shining . Lucid. No towel,no
                shower — no dice. I feel like a scummy heap o' NO USE.NO use for me today. Hangin'
                around like a noose around someone's neck. I hate relying on people.I would rather
@@ -313,7 +313,7 @@
                   >Flipper</orgName> songs. <bibl ref="#arms">"In Your Arms"</bibl>,followed by
                   <bibl ref="#cheap">"Life is Cheap."</bibl></p>
             <p>Night has left me hollow.</p>
-            <p>PART TWO — SHOW IN <placeName ref="#olympia">OLYMPIA</placeName></p>
+            <ab type="subheading">PART TWO — SHOW IN <placeName ref="#olympia">OLYMPIA</placeName></ab>
             <p>(Finally here. all right . Startin' to warm up a bit and get a little excited. So I
                go to the door ,or where they take your money,and I go, "I think I'm on the guest
                lis". I'm not,but they let me in anyway,because I tell them I'm promoting the
@@ -329,7 +329,7 @@
                sendin' shivers in me.Woa. By the stage writing. No headbangin'. Neck sore from last
                nightss <orgName ref="#saccharine">Saccharine Trust</orgName> show. Feelin' just a
                little bit sick. Don't know why. Just a little.</p>
-            <p>EARLY MORNING <date>OCT. 19th.</date></p>
+            <ab type="subheading">EARLY MORNING <date>OCT. 19th.</date></ab>
             <p>So full of shit last night I thought I would scream. I thought someone would get wise
                and beat the crap out of me.</p>
             <p><orgName ref="#unseen">Unseen Force</orgName> were good. <orgName ref="#yobs"
@@ -339,10 +339,10 @@
                either go with the medics or with the cop. Now which would you choose?)</p>
             <p>Did <persName ref="#stan">Stan</persName> ( promoter of the show in <placeName
                   ref="#olympia">Olympia</placeName>) do okay? I wonder.</p>
-            <p>8:40 a.m. Sunday.Sleep okay.Not good yet.When will it be? I wonder. I told the bands
+            <ab type="subheading">8:40 a.m. Sunday.Sleep okay.Not good yet.When will it be? I wonder. I told the bands
                their soundchecks were at 2 and 3,etc. Fuck is the sound <del rend="scribble"><gap
                      reason="illegible"/></del>even gonna be there?That would be kind of stupid if
-               it weren't.</p>
+               it weren't.</ab>
             <p>This place, this place is a castle. <persName ref="#jeannie">Jeannie</persName> and
                   <persName ref="#steven">Steven's</persName> place is rather the cool spot. Nice.
                Plushy almost.Roomy enough to hold all three bands. No,not really. Want to get to
@@ -356,7 +356,7 @@
                what I hate. I look sick,stupid,and lame.I feel strong ,absorbant,reliable, like a
                human tampon or paper towel. Kinda bummin'. Fuck! Why!?I feel stupid here,
                   <soCalled>"turning even less than stupid..."</soCalled> Ahahahahahahaha.</p>
-            <p>PART THREE — THE SHOW. BEFORE AND AFTER.</p>
+            <ab type="subheading">PART THREE — THE SHOW. BEFORE AND AFTER.</ab>
             <p>( This whole thing is written from memory,because I had no time or desire to write in
                my journal at this time.If it seems fragmented, it is justifiably so, for this is
                being penned months after the fact.All right?)</p>
@@ -435,7 +435,7 @@
                Sometimes I wish I could just express, without fear, what I am thinking, what I am
                feeling, at the exact moment I am thinking it. Perhaps I would have been better off a
                drunken groupie, I don't know.</p>
-            <p>PART FOUR — <orgName ref="#dennys">DENNY'S</orgName> WAS CLOSED...</p>
+            <ab type="subheading">PART FOUR — <orgName ref="#dennys">DENNY'S</orgName> WAS CLOSED...</ab>
             <p><orgName ref="dennys">Dennyss</orgName> was closed ! What?! Yes , that's right, three
                carloads of people(four carlodas?) Like, eighteen fuckin' possible customers and the
                damn place is closed! I am feeling so strange ,so , just like I'm in a dream or a bad
@@ -459,7 +459,7 @@
                   <persName ref="#jeannie">Jeanniess</persName> for rest and chatter.then ,
                sleep.</p>
             <p>(end of memory-writing,back to journal)<pb/></p>
-            <p><hi rend="handwritten"><date>10/19/86</date></hi></p>
+            <ab type="subheading"><hi rend="handwritten"><date>10/19/86</date></hi></ab>
             <p>I lost my shirt,and my pants and my shoes and socks. Itcs hard to let it all sink
                in.I don't like people much right now.But then I'm sure they like me even less. It's
                here that my writing falls apart.I'm hittin' the burnin' stuff(vodka) and feel like I
@@ -471,7 +471,7 @@
                going on inside my head.No one wants to. I know I don't. Lucidity is a lie. I'm
                susceptible.Hurtin' Haha. O.k., now wait a minute there.Hold on a second.Feeling
                divorced.Alienated.</p>
-            <p>10:58 A.M. <date>10/20/86</date></p>
+            <ab type="subheading">10:58 A.M. <date>10/20/86</date></ab>
             <p>Early morning smog walk to <orgName ref="#qp">Quality Pies</orgName> was good. The
                smog is rich.I like it because it allows me to hide.I especially dug it <del
                   rend="scribble"><gap reason="illegible"/></del> last night. So (around 5 a.m.) I'm
@@ -481,7 +481,7 @@
                butter,thinking suicidal as I write,no,but he doesn't need to hear my ramblings at a
                late nite/all nite diner,foggy from lack of sleep... Augghhh! Had to bail from this
                house. Nothing to lose.</p>
-            <p><placeName ref="#couch_park">COUCH PARK</placeName></p>
+            <ab type="subheading"><placeName ref="#couch_park">COUCH PARK</placeName></ab>
             <p>I'm ugly today.Good.Will keep the assholes away.(?) When will I come to an
                understanding. When will they come to an understanding of me?Never.</p>
             <p>Beautiful day out.Children yelling their guts out at <placeName ref="#couch_park"
