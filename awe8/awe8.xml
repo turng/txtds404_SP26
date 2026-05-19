@@ -280,7 +280,7 @@
                   place...)</hi></p>
             <p>I'm so witty.Pass the chloroform.O.K. Carrying only one tape with me — <orgName
                   ref="#flipper">Flipper</orgName>
-               <bibl ref="#chunks">Blown' Chunks</bibl> . Pass the ludes.<ref target="#n6"/>No
+               <bibl ref="#chunks">Blown' Chunks</bibl> . Pass the <ref target="#n6">ludes</ref>.No
                seriously.I'm swelling up, gettin' too big for my britches.Cracks,cracks and more
                cracks. Mouth full of shit.Head full of shit. Riding in this car.With this girl and
                this guy. How do I know I can trust 'em. How do I know they won't drop me off in
@@ -510,7 +510,7 @@
          <!-- I REALLY CAN'T MAKE OUT THE IMAGE THAT IS FORMATTED TO THE LEFT IN THE MIDDLE OF THE PAGE -->
 
          <div type="poem">
-            <head>Ol Gory<ref target="n3"/></head>
+            <head><ref target="n3">Ol Gory</ref></head>
             <lg type="poem">
                <lg type="stanza" rhyme="aabbaa">
                   <l><unclear reason="faded">S</unclear>ee ol gory waving <rhyme label="a"
