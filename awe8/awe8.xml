@@ -63,8 +63,7 @@
             <!-->OF COURSE, IF YOU WANT TO ADD ANYTHING OR THINK THAT THIS FORMAT IS ACTUALLY UNECCESARY, FEEL FREE TO DELETE/ALTER!</-->
 
             <!-->ALSO, I AM NOT CONVINCED THAT SEGMENTATION WILL VALIDATE FOR HOW WE MAY WANT TO USE IT. WHAT STOPS US FROM JUST USING ANOTHER LISTBIBL FOR CLARITY?</-->
-            <p> The following selections were digitized for this edition:
-               <listBibl>
+            <p> The following selections were digitized for this edition: <listBibl>
                   <bibl>
                      <author>Verna Doherty</author>
                      <title>"Zero Page"</title>
@@ -153,22 +152,22 @@
                “My Awe” was created. As a group, we are fascinated by the counterculture ethos of
                zines and seek to represent this one in a way as consistent with the principles of
                its creators as possible.</p>
-            <p>Because of this desire to remain consistent with the ethos of this zine, our team is
-               navigating an ambivalence towards the idea of publishing this content in digital
-               form, concerned that circulating it outside of its context might contribute to the
-               larger trend of co-opting and incorporating countercultural trends into mainstream
-                  culture<ref target="#n1"/>. Our selections and editorial choices therefore
-               represent only a small sample of the zine, with identifying information such as phone
-               numbers censored (though the numbers are unlikely to still be in service). We also
-               chose to digitize selections that we feel best represent the community and artistic
-               connections of the zine (the "Zero Page"), the diversity of its content (two
-               different prose pieces and one poem), the political commentary that zines allow
-               ("Creeping Orwellianism"<ref target="#n2"/> and "Ol' Gory"<ref target="#n3"/>), and
-               the personal stories of those involved in the scene ("Denny's Was Closed, A Saga in
-               Portland"). When possible, we have retained formatting mistakes and typewriter errors
-                  <ref target="#n4"/>, to best represent the homemade nature of the publication. We
-               have also distinguished between handwriting and type, as the zine involves both<ref
-                  target="#n5"/>.</p>
+            <p><ref target="#n1">Because of this desire to remain consistent with the ethos of this
+                  zine, our team is navigating an ambivalence towards the idea of publishing this
+                  content in digital form, concerned that circulating it outside of its context
+                  might contribute to the larger trend of co-opting and incorporating
+                  countercultural trends into mainstream culture</ref>. Our selections and editorial
+               choices therefore represent only a small sample of the zine, with identifying
+               information such as phone numbers censored (though the numbers are unlikely to still
+               be in service). We also chose to digitize selections that we feel best represent the
+               community and artistic connections of the zine (the "Zero Page"), the diversity of
+               its content (two different prose pieces and one poem), the political commentary that
+               zines allow (<ref target="#n2">"Creeping Orwellianism"</ref> and <ref target="#n3"
+                  >"Ol' Gory"</ref>), and the personal stories of those involved in the scene
+               ("Denny's Was Closed, A Saga in Portland"). When possible, <ref target="#n4">we have
+                  retained formatting mistakes and typewriter errors</ref> , to best represent the
+               homemade nature of the publication. <ref target="#n5">We have also distinguished
+                  between handwriting and type, as the zine involves both</ref>.</p>
          </div>
       </front>
       <body>
@@ -281,16 +280,17 @@
                   place...)</hi></p>
             <p>I'm so witty.Pass the chloroform.O.K. Carrying only one tape with me — <orgName
                   ref="#flipper">Flipper</orgName>
-               <bibl ref="#chunks">Blown' Chunks</bibl> . Pass the ludes.<ref target="#n6"/>No seriously.I'm swelling
-               up, gettin' too big for my britches.Cracks,cracks and more cracks. Mouth full of
-               shit.Head full of shit. Riding in this car.With this girl and this guy. How do I know
-               I can trust 'em. How do I know they won't drop me off in <placeName ref="#chehalis"
-                  >Chehalis</placeName>? And book. Or bail.Book, that's a word <del rend="scribble"
-                     ><gap reason="illegible"/></del> used when I was in jr. high school, meaning
-               leave a place. There are so many words for leaving . So many ends to a mean (a
-               way).One mean can have a thousand ends.More than I can think about. I wouldn't write
-               this if I weren't on the road...(on heavy drugs, haha)... when I close my eyes and
-               let the music in it cuts deep. It hurts and feels good all at once...<pb/></p>
+               <bibl ref="#chunks">Blown' Chunks</bibl> . Pass the ludes.<ref target="#n6"/>No
+               seriously.I'm swelling up, gettin' too big for my britches.Cracks,cracks and more
+               cracks. Mouth full of shit.Head full of shit. Riding in this car.With this girl and
+               this guy. How do I know I can trust 'em. How do I know they won't drop me off in
+                  <placeName ref="#chehalis">Chehalis</placeName>? And book. Or bail.Book, that's a
+               word <del rend="scribble"><gap reason="illegible"/></del> used when I was in jr. high
+               school, meaning leave a place. There are so many words for leaving . So many ends to
+               a mean (a way).One mean can have a thousand ends.More than I can think about. I
+               wouldn't write this if I weren't on the road...(on heavy drugs, haha)... when I close
+               my eyes and let the music in it cuts deep. It hurts and feels good all at
+               once...<pb/></p>
          </div>
          <div type="poem">
             <lg type="stanza">
@@ -313,7 +313,8 @@
                   >Flipper</orgName> songs. <bibl ref="#arms">"In Your Arms"</bibl>,followed by
                   <bibl ref="#cheap">"Life is Cheap."</bibl></p>
             <p>Night has left me hollow.</p>
-            <ab type="subheading">PART TWO — SHOW IN <placeName ref="#olympia">OLYMPIA</placeName></ab>
+            <ab type="subheading">PART TWO — SHOW IN <placeName ref="#olympia"
+               >OLYMPIA</placeName></ab>
             <p>(Finally here. all right . Startin' to warm up a bit and get a little excited. So I
                go to the door ,or where they take your money,and I go, "I think I'm on the guest
                lis". I'm not,but they let me in anyway,because I tell them I'm promoting the
@@ -322,9 +323,10 @@
                   Mouse</orgName> visiting with the <orgName ref="#yobs">Yobs</orgName>. I barely
                recognize anybody, and make lots of stupid cracks ,generally being a jerk. Out of
                sheer nervousness I think.Yeah. What I saw of <orgName ref="#dangermouse">Danger
-                  Mouse</orgName> I really ,really liked. For one thing, <ref target="#kurt">Kurt</ref> is an awesome
-               performer, and him and the whole band were fun to watch. I was pretty distracted,
-               which is understandable because of lack of sleep ...Back to the journal.)</p>
+                  Mouse</orgName> I really ,really liked. For one thing, <ref target="#kurt"
+                  >Kurt</ref> is an awesome performer, and him and the whole band were fun to watch.
+               I was pretty distracted, which is understandable because of lack of sleep ...Back to
+               the journal.)</p>
             <p><orgName ref="#the_melvins">Melvins</orgName> real hot tonight.Smokin' long songs
                sendin' shivers in me.Woa. By the stage writing. No headbangin'. Neck sore from last
                nightss <orgName ref="#saccharine">Saccharine Trust</orgName> show. Feelin' just a
@@ -339,10 +341,10 @@
                either go with the medics or with the cop. Now which would you choose?)</p>
             <p>Did <persName ref="#stan">Stan</persName> ( promoter of the show in <placeName
                   ref="#olympia">Olympia</placeName>) do okay? I wonder.</p>
-            <ab type="subheading">8:40 a.m. Sunday.Sleep okay.Not good yet.When will it be? I wonder. I told the bands
-               their soundchecks were at 2 and 3,etc. Fuck is the sound <del rend="scribble"><gap
-                     reason="illegible"/></del>even gonna be there?That would be kind of stupid if
-               it weren't.</ab>
+            <ab type="subheading">8:40 a.m. Sunday.Sleep okay.Not good yet.When will it be? I
+               wonder. I told the bands their soundchecks were at 2 and 3,etc. Fuck is the sound
+                  <del rend="scribble"><gap reason="illegible"/></del>even gonna be there?That would
+               be kind of stupid if it weren't.</ab>
             <p>This place, this place is a castle. <persName ref="#jeannie">Jeannie</persName> and
                   <persName ref="#steven">Steven's</persName> place is rather the cool spot. Nice.
                Plushy almost.Roomy enough to hold all three bands. No,not really. Want to get to
@@ -435,7 +437,8 @@
                Sometimes I wish I could just express, without fear, what I am thinking, what I am
                feeling, at the exact moment I am thinking it. Perhaps I would have been better off a
                drunken groupie, I don't know.</p>
-            <ab type="subheading">PART FOUR — <orgName ref="#dennys">DENNY'S</orgName> WAS CLOSED...</ab>
+            <ab type="subheading">PART FOUR — <orgName ref="#dennys">DENNY'S</orgName> WAS
+               CLOSED...</ab>
             <p><orgName ref="dennys">Dennyss</orgName> was closed ! What?! Yes , that's right, three
                carloads of people(four carlodas?) Like, eighteen fuckin' possible customers and the
                damn place is closed! I am feeling so strange ,so , just like I'm in a dream or a bad
@@ -799,15 +802,15 @@
                aware of the tendency of more formal publishing to co-opt underground (and often very
                personal) cultural objects such as zines, bringing them into mainstream culture and
                thereby both robbing them of their subversive power and exposing those who
-               participate in these movements. <ref target="#japenga">Ann Japenga</ref> writes about the mainstream co-optation
-               of Riot Grrl culture, arguing that “An authentic counterculture is as necessary to
-               the larger society as the rain forest is to the planet. It's a protected laboratory
-               where evolution can take place.” She writes about Riot Grrls crying over the exposure
-               of their privacy and the secrets they shared in their zines. Although several decades
-               have passed since this zine was created, and it is now closer to a historical
-               artifact than an immediate revelation, we try to maintain this ethos in our editorial
-               choices. For this reason, we have chosen to censor personally identifying information
-               such as phone numbers.</note>
+               participate in these movements. <ref target="#japenga">Ann Japenga</ref> writes about
+               the mainstream co-optation of Riot Grrl culture, arguing that “An authentic
+               counterculture is as necessary to the larger society as the rain forest is to the
+               planet. It's a protected laboratory where evolution can take place.” She writes about
+               Riot Grrls crying over the exposure of their privacy and the secrets they shared in
+               their zines. Although several decades have passed since this zine was created, and it
+               is now closer to a historical artifact than an immediate revelation, we try to
+               maintain this ethos in our editorial choices. For this reason, we have chosen to
+               censor personally identifying information such as phone numbers.</note>
             <note xml:id="n2">"Creeping Orwellianism" is a political prose piece/rant about invasive
                drug testing policies. It is likely a reference to the Anti-Drug Abuse Act of 1986,
                which was "the Reagan Administration’s response to a national moral panic around
@@ -829,7 +832,8 @@
                page.re To represent this in TEI, we have placed all the handwritten text together in
                a section at the beginning of the entry with page breaks entered into it to indicate
                which page it surrounds.</note>
-            <note xml:id="n6">"Lude" here is likely referring to a pill of methaqualone, a sedative. The term is short for Quaalude, a brand name for methaqualone.</note>
+            <note xml:id="n6">"Lude" here is likely referring to a pill of methaqualone, a sedative.
+               The term is short for Quaalude, a brand name for methaqualone.</note>
          </div>
          <div type="editorial">
             <listPerson>
@@ -867,7 +871,11 @@
                   <persName>
                      <forename>Henry</forename>
                      <surname>Rollins</surname>
-                     <note>Henry Rollins is a singer, spoken-word artist, writer, and creator who performed with the rock band Black Flag during the 1980s. He is known as one of the most recognizable artists of the punk era. <ref target="https://www.britannica.com/biography/Henry-Rollins">Encyclopedia Brittanica</ref></note>
+                     <note>Henry Rollins is a singer, spoken-word artist, writer, and creator who
+                        performed with the rock band Black Flag during the 1980s. He is known as one
+                        of the most recognizable artists of the punk era. <ref
+                           target="https://www.britannica.com/biography/Henry-Rollins">Encyclopedia
+                           Brittanica</ref></note>
                   </persName>
                </person>
                <person xml:id="hank">
@@ -943,7 +951,8 @@
                   <desc>A town in Washington State</desc>
                </place>
                <place xml:id="Seattle">
-                  <desc>A city in Washington, well known for its association with grunge music during the erra of this zine's creation</desc>
+                  <desc>A city in Washington, well known for its association with grunge music
+                     during the erra of this zine's creation</desc>
                </place>
                <place xml:id="Salem">
                   <desc>The capital of Oregon</desc>
@@ -1007,50 +1016,78 @@
                </org>
                <org xml:id="seconds">
                   <orgName>7 Seconds</orgName>
-                  <desc>Nevada hardcore punk band. <ref target="https://en.wikipedia.org/wiki/7_Seconds_(band)">Wikipedia</ref></desc>
+                  <desc>Nevada hardcore punk band. <ref
+                        target="https://en.wikipedia.org/wiki/7_Seconds_(band)"
+                     >Wikipedia</ref></desc>
                </org>
                <org xml:id="flipper">
                   <orgName>Flipper</orgName>
-                  <desc>Flipper is a band formed in 1979 which endured several on-again off-again breakups over the next few decades, and which specializes in “haunting drone rock” and “philosophizes about boredom” as part of punk’s general expression of dissatisfaction with the status quo (<ref target="#goldberg">Goldberg</ref>).</desc>
+                  <desc>Flipper is a band formed in 1979 which endured several on-again off-again
+                     breakups over the next few decades, and which specializes in “haunting drone
+                     rock” and “philosophizes about boredom” as part of punk’s general expression of
+                     dissatisfaction with the status quo (<ref target="#goldberg"
+                     >Goldberg</ref>).</desc>
                </org>
                <org xml:id="yobs">
                   <orgName>The Yobs</orgName>
-                  <desc>"The Yobs" is likely the reversed name for the band "The Boys," an English punk rock band formed in 1976. Every Christmas, the band reversed their name to read "The Yobs" and released an album under that name. <ref target="https://en.wikipedia.org/wiki/The_Boys_(English_band)">Wikipedia</ref></desc>
+                  <desc>"The Yobs" is likely the reversed name for the band "The Boys," an English
+                     punk rock band formed in 1976. Every Christmas, the band reversed their name to
+                     read "The Yobs" and released an album under that name. <ref
+                        target="https://en.wikipedia.org/wiki/The_Boys_(English_band)"
+                        >Wikipedia</ref></desc>
                </org>
                <org xml:id="dangermouse">
                   <orgName>Dangermouse</orgName>
-                  <desc>An Olympia punk band. <ref target="https://www.olympiamusichistory.org/bands/dangermouse">Olympia Music History website</ref></desc>
+                  <desc>An Olympia punk band. <ref
+                        target="https://www.olympiamusichistory.org/bands/dangermouse">Olympia Music
+                        History website</ref></desc>
                </org>
                <org xml:id="dennys">
                   <desc>A restaurant chain known in part for breakfast food served all day.</desc>
                </org>
                <org xml:id="saccharine">
                   <orgName>Saccharine Trust</orgName>
-                  <desc>A California punk rock band. <ref target="https://en.wikipedia.org/wiki/Saccharine_Trust">Wikipedia</ref></desc>
+                  <desc>A California punk rock band. <ref
+                        target="https://en.wikipedia.org/wiki/Saccharine_Trust"
+                     >Wikipedia</ref></desc>
                </org>
                <org xml:id="unseen">
                   <orgName>Unseen Force</orgName>
-                  <desc>A hardcore punk band from Virginia which only released one album in 1986. <ref target="https://daily.bandcamp.com/hidden-gems/unseen-force-in-search-of-the-truth-review">Bandcamp Hidden Gems.</ref></desc>
+                  <desc>A hardcore punk band from Virginia which only released one album in 1986.
+                        <ref
+                        target="https://daily.bandcamp.com/hidden-gems/unseen-force-in-search-of-the-truth-review"
+                        >Bandcamp Hidden Gems.</ref></desc>
                </org>
                <org xml:id="rebel_skates">
                   <orgName>Rebel Skates</orgName>
-                  <desc>A Portland skate shop that started in 1985. <ref target="https://www.rebelskates.com/heritage ">Company website</ref></desc>
+                  <desc>A Portland skate shop that started in 1985. <ref
+                        target="https://www.rebelskates.com/heritage ">Company website</ref></desc>
                </org>
                <org xml:id="fallen_angels">
                   <orgName>The Fallen Angels</orgName>
-                  <desc>A psychedelic rock band formed in 1966, popular in the American underground. <ref target="https://en.wikipedia.org/wiki/The_Fallen_Angels_(band)">Wikipedia</ref></desc>
+                  <desc>A psychedelic rock band formed in 1966, popular in the American underground.
+                        <ref target="https://en.wikipedia.org/wiki/The_Fallen_Angels_(band)"
+                        >Wikipedia</ref></desc>
                </org>
                <org xml:id="monqui">
                   <orgName>Monqui Presents</orgName>
-                  <desc>A Portland-based concert promotion company. <ref target="https://monqui.com/">Company website</ref></desc>
+                  <desc>A Portland-based concert promotion company. <ref
+                        target="https://monqui.com/">Company website</ref></desc>
                </org>
                <org xml:id="bobs">
                   <orgName>Bob's Big Boy</orgName>
-                  <desc>A burger restaurant chain. <ref target="https://www.bigboy.com/bobs">Company website</ref></desc>
+                  <desc>A burger restaurant chain. <ref target="https://www.bigboy.com/bobs">Company
+                        website</ref></desc>
                </org>
                <org xml:id="qp">
                   <orgName>Quality Pie</orgName>
-                  <desc>“This landmark Northwest 23rd Avenue coffee shop was open 24 hours a day, making it a haven for 1980s punk rockers and club kids, who would flock here after bars closed for pre-dawn scrambled eggs. Before Oregon’s indoor smoking ban, this was a restaurant that eagerly welcomed smokers, and it seemed like everyone at the counter took drags of cigarettes between sips of strong coffee. “QP,” as it was called by regulars, closed in 1992 after 58 years of great people-watching.” <ref target="#umbrella">(Umbrella Project)</ref></desc>
+                  <desc>“This landmark Northwest 23rd Avenue coffee shop was open 24 hours a day,
+                     making it a haven for 1980s punk rockers and club kids, who would flock here
+                     after bars closed for pre-dawn scrambled eggs. Before Oregon’s indoor smoking
+                     ban, this was a restaurant that eagerly welcomed smokers, and it seemed like
+                     everyone at the counter took drags of cigarettes between sips of strong coffee.
+                     “QP,” as it was called by regulars, closed in 1992 after 58 years of great
+                     people-watching.” <ref target="#umbrella">(Umbrella Project)</ref></desc>
                </org>
             </listOrg>
 
@@ -1173,7 +1210,7 @@
                   </monogr>
                   <note>https://www.jstor.org/stable/29765812?seq=24</note>
                </biblStruct>
-                
+
                <biblStruct type="article" xml:id="goldberg">
                   <analytic>
                      <title>Black Flag, Husker Du, and The Replacements Lead Punk’s New Wave</title>
@@ -1186,7 +1223,8 @@
                         <date>1985</date>
                      </imprint>
                      <biblScope unit="issue">452</biblScope>
-                  </monogr>  <note>https://www.rollingstone.com/music/music-news/black-flag-husker-du-and-the-replacements-lead-punks-new-wave-117690/</note>
+                  </monogr>
+                  <note>https://www.rollingstone.com/music/music-news/black-flag-husker-du-and-the-replacements-lead-punks-new-wave-117690/</note>
                </biblStruct>
                <biblStruct type="webpage" xml:id="umbrella">
                   <analytic>
