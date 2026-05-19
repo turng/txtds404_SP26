@@ -185,18 +185,18 @@
                      >Seattle</name>
                   <del rend="scribble"><gap reason="illegible"/></del> or just <name type="place"
                      ref="#seattle">Seattle</name> area, please contact me, <name type="person"
-                     ref="#verna">Verna</name>, at <num type="phone">527-8834</num>. Also, <name
+                     ref="#verna">Verna</name>, at <num type="phone"><ref target="#n1">[censored]</ref></num>. Also, <name
                      type="band" ref="#false_liberty">False Liberty</name>
                   <del rend="scribble"><gap reason="illegible"/></del> is open to doing gigs around
                   the state. Please contact <hi rend="bold"><name type="person" ref="#greg"
-                        >Greg</name> at <num type="phone">363-7485</num></hi> or <name type="person"
+                        >Greg</name> at <num type="phone"><ref target="#n1">[censored]</ref></num></hi> or <name type="person"
                      ref="#mg">MG</name> at the number above <del rend="scribble"><gap
                         reason="illegible"/></del> if you're doing a show or know someone who is
                      <del rend="scribble"><gap reason="illegible"/></del><add place="above"
-                     >and</add> need(s) an inexpensive but excellant opening band. <hi rend="bold"
+                     >and</add> need(s) an inexpensive but excellant<sic/> opening band. <hi rend="bold"
                         ><name type="band" ref="#false_liberty">False Liberty</name></hi> will also
                   be touring this summer. If you would like them to play in your town, call me at
-                     <hi rend="bold"><num type="phone">(206)527-8834</num></hi> and we'll talk, OK.?
+                     <hi rend="bold"><num type="phone"><ref target="#n1">[censored]</ref></num></hi> and we'll talk, OK.?
                   Cool.</hi>
             </p>
             <p>
@@ -217,7 +217,7 @@
                   of an early 70's movie, <hi rend="bold"><name type="film" ref="#cleopatra"
                         >Cleopatra Jones</name></hi>, on another! Allright. Well put-together and
                   hilarious. Write to: <name type="zine" ref="#wig_out">Wig Out</name>! <name
-                     type="place" ref="#po_tacoma">PO box 44633 Tacoma WA 98444</name>
+                     type="place" ref="#po_tacoma"><ref target="#n1">PO box 44633 Tacoma WA 98444</ref></name>
                </hi>
             </p>
          </div>
@@ -810,7 +810,7 @@
                their zines. Although several decades have passed since this zine was created, and it
                is now closer to a historical artifact than an immediate revelation, we try to
                maintain this ethos in our editorial choices. For this reason, we have chosen to
-               censor personally identifying information such as phone numbers.</note>
+               censor personally identifying information such as phone numbers. (However, we have retained addresses that lead to PO boxes, as we imagine those are not directly associated with specific people.)</note>
             <note xml:id="n2">"Creeping Orwellianism" is a political prose piece/rant about invasive
                drug testing policies. It is likely a reference to the Anti-Drug Abuse Act of 1986,
                which was "the Reagan Administration’s response to a national moral panic around
