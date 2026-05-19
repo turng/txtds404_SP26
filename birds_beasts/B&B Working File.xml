@@ -44,11 +44,11 @@
       </front>
       <body>
             <div type="endnotes">
-				<note xml:id=”n1”>We edited the line groups of verse into quatrains separate from the following prose <ref type=”biblio” target=”#source4”> See source 4. </ref>.</note>
-               <note xml:id=”n13”>Section 13: The Lion references the biblical story of Daniel in the lions’ den.</note>
-               <note xml:id=”n14”>Section 14: The Whale references the biblical story of Jonah, who was swallowed by a whale.</note>
-               <note xml:id=”n21”>Section 21: The Ass references the biblical story of Samson.</note>
-               <note xml:id=”n22”>Section 22: The Ant references and quotes the biblical king Solomon.</note>
+               <note xml:id="n1"> We edited the line groups of verse into quatrains separate from the following prose <ref type="biblio" target="#source4"> See source 4. </ref> </note>
+               <note xml:id="n13">Section 13: The Lion references the biblical story of Daniel in the lions’ den.</note>
+               <note xml:id="n14">Section 14: The Whale references the biblical story of Jonah, who was swallowed by a whale.</note>
+               <note xml:id="n21">Section 21: The Ass references the biblical story of Samson.</note>
+               <note xml:id="n22">Section 22: The Ant references and quotes the biblical king Solomon.</note>
             </div>
       </body>
       <back>
