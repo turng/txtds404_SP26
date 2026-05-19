@@ -281,7 +281,7 @@
                   place...)</hi></p>
             <p>I'm so witty.Pass the chloroform.O.K. Carrying only one tape with me — <orgName
                   ref="#flipper">Flipper</orgName>
-               <bibl ref="#chunks">Blown' Chunks</bibl> . Pass the ludes.No seriously.I'm swelling
+               <bibl ref="#chunks">Blown' Chunks</bibl> . Pass the ludes.<ref target="#n6"/>No seriously.I'm swelling
                up, gettin' too big for my britches.Cracks,cracks and more cracks. Mouth full of
                shit.Head full of shit. Riding in this car.With this girl and this guy. How do I know
                I can trust 'em. How do I know they won't drop me off in <placeName ref="#chehalis"
@@ -322,7 +322,7 @@
                   Mouse</orgName> visiting with the <orgName ref="#yobs">Yobs</orgName>. I barely
                recognize anybody, and make lots of stupid cracks ,generally being a jerk. Out of
                sheer nervousness I think.Yeah. What I saw of <orgName ref="#dangermouse">Danger
-                  Mouse</orgName> I really ,really liked. For one thing, Kurt is an awesome
+                  Mouse</orgName> I really ,really liked. For one thing, <ref target="#kurt">Kurt</ref> is an awesome
                performer, and him and the whole band were fun to watch. I was pretty distracted,
                which is understandable because of lack of sleep ...Back to the journal.)</p>
             <p><orgName ref="#the_melvins">Melvins</orgName> real hot tonight.Smokin' long songs
@@ -799,7 +799,7 @@
                aware of the tendency of more formal publishing to co-opt underground (and often very
                personal) cultural objects such as zines, bringing them into mainstream culture and
                thereby both robbing them of their subversive power and exposing those who
-               participate in these movements. Ann Japenga writes about the mainstream co-optation
+               participate in these movements. <ref target="#japenga">Ann Japenga</ref> writes about the mainstream co-optation
                of Riot Grrl culture, arguing that “An authentic counterculture is as necessary to
                the larger society as the rain forest is to the planet. It's a protected laboratory
                where evolution can take place.” She writes about Riot Grrls crying over the exposure
@@ -812,7 +812,7 @@
                drug testing policies. It is likely a reference to the Anti-Drug Abuse Act of 1986,
                which was "the Reagan Administration’s response to a national moral panic around
                crack cocaine" and drastically increased criminalization of drugs, which has
-               contributed to mass incarceration (Lipke)</note>
+               contributed to mass incarceration (<ref target="#lipke">Lipke</ref>)</note>
             <note xml:id="n3">"Ol Gory" is a politically charged poem criticizing what was then the
                current state of US militarism and nationalism. The name "Ol Gory" is a play on words
                for the term "Old Glory," as in the flag of the United States. The imagery portrays
@@ -829,6 +829,7 @@
                page.re To represent this in TEI, we have placed all the handwritten text together in
                a section at the beginning of the entry with page breaks entered into it to indicate
                which page it surrounds.</note>
+            <note xml:id="n6">"Lude" here is likely referring to a pill of methaqualone, a sedative. The term is short for Quaalude, a brand name for methaqualone.</note>
          </div>
          <div type="editorial">
             <listPerson>
@@ -866,6 +867,7 @@
                   <persName>
                      <forename>Henry</forename>
                      <surname>Rollins</surname>
+                     <note>Henry Rollins is a singer, spoken-word artist, writer, and creator who performed with the rock band Black Flag during the 1980s. He is known as one of the most recognizable artists of the punk era. <ref target="https://www.britannica.com/biography/Henry-Rollins">Encyclopedia Brittanica</ref></note>
                   </persName>
                </person>
                <person xml:id="hank">
@@ -918,17 +920,40 @@
                      <forename>Bruce</forename>
                   </persName>
                </person>
+               <person xml:id="kurt">
+                  <persName>
+                     <forename>Kurt</forename>
+                     <surname>Flansburg</surname>
+                  </persName>
+                  <note>The vocalist of Dangermouse.</note>
+               </person>
             </listPerson>
 
             <listPlace>
-               <place xml:id="po_tacoma"/>
-               <place xml:id="Olympia"/>
-               <place xml:id="Portland"/>
-               <place xml:id="Chehalis"/>
-               <place xml:id="Seattle"/>
-               <place xml:id="Salem"/>
-               <place xml:id="Wilsonville"/>
-               <place xml:id="Couch_Park"/>
+               <place xml:id="po_tacoma">
+                  <desc>A city in Washington State</desc>
+               </place>
+               <place xml:id="Olympia">
+                  <desc>The capital of Washington State</desc>
+               </place>
+               <place xml:id="Portland">
+                  <desc>A city in Oregon</desc>
+               </place>
+               <place xml:id="Chehalis">
+                  <desc>A town in Washington State</desc>
+               </place>
+               <place xml:id="Seattle">
+                  <desc>A city in Washington, well known for its association with grunge music during the erra of this zine's creation</desc>
+               </place>
+               <place xml:id="Salem">
+                  <desc>The capital of Oregon</desc>
+               </place>
+               <place xml:id="Wilsonville">
+                  <desc>A town in Oregon</desc>
+               </place>
+               <place xml:id="Couch_Park">
+                  <desc>A park in Portland.</desc>
+               </place>
             </listPlace>
 
             <listOrg>
@@ -980,32 +1005,71 @@
                         >Wikipedia</ref>
                   </desc>
                </org>
-               <org xml:id="seconds"/>
-               <org xml:id="flipper"/>
-               <org xml:id="yobs"/>
-               <org xml:id="dangermouse"/>
-               <org xml:id="dennys"/>
-               <org xml:id="saccharine"/>
-               <org xml:id="unseen"/>
-               <org xml:id="rebel_skates"/>
-               <org xml:id="fallen_angels"/>
-               <org xml:id="monqui"/>
-               <org xml:id="bobs"/>
-               <org xml:id="qp"/>
+               <org xml:id="seconds">
+                  <orgName>7 Seconds</orgName>
+                  <desc>Nevada hardcore punk band. <ref target="https://en.wikipedia.org/wiki/7_Seconds_(band)">Wikipedia</ref></desc>
+               </org>
+               <org xml:id="flipper">
+                  <orgName>Flipper</orgName>
+                  <desc>Flipper is a band formed in 1979 which endured several on-again off-again breakups over the next few decades, and which specializes in “haunting drone rock” and “philosophizes about boredom” as part of punk’s general expression of dissatisfaction with the status quo (<ref target="#goldberg">Goldberg</ref>).</desc>
+               </org>
+               <org xml:id="yobs">
+                  <orgName>The Yobs</orgName>
+                  <desc>"The Yobs" is likely the reversed name for the band "The Boys," an English punk rock band formed in 1976. Every Christmas, the band reversed their name to read "The Yobs" and released an album under that name. <ref target="https://en.wikipedia.org/wiki/The_Boys_(English_band)">Wikipedia</ref></desc>
+               </org>
+               <org xml:id="dangermouse">
+                  <orgName>Dangermouse</orgName>
+                  <desc>An Olympia punk band. <ref target="https://www.olympiamusichistory.org/bands/dangermouse">Olympia Music History website</ref></desc>
+               </org>
+               <org xml:id="dennys">
+                  <desc>A restaurant chain known in part for breakfast food served all day.</desc>
+               </org>
+               <org xml:id="saccharine">
+                  <orgName>Saccharine Trust</orgName>
+                  <desc>A California punk rock band. <ref target="https://en.wikipedia.org/wiki/Saccharine_Trust">Wikipedia</ref></desc>
+               </org>
+               <org xml:id="unseen">
+                  <orgName>Unseen Force</orgName>
+                  <desc>A hardcore punk band from Virginia which only released one album in 1986. <ref target="https://daily.bandcamp.com/hidden-gems/unseen-force-in-search-of-the-truth-review">Bandcamp Hidden Gems.</ref></desc>
+               </org>
+               <org xml:id="rebel_skates">
+                  <orgName>Rebel Skates</orgName>
+                  <desc>A Portland skate shop that started in 1985. <ref target="https://www.rebelskates.com/heritage ">Company website</ref></desc>
+               </org>
+               <org xml:id="fallen_angels">
+                  <orgName>The Fallen Angels</orgName>
+                  <desc>A psychedelic rock band formed in 1966, popular in the American underground. <ref target="https://en.wikipedia.org/wiki/The_Fallen_Angels_(band)">Wikipedia</ref></desc>
+               </org>
+               <org xml:id="monqui">
+                  <orgName>Monqui Presents</orgName>
+                  <desc>A Portland-based concert promotion company. <ref target="https://monqui.com/">Company website</ref></desc>
+               </org>
+               <org xml:id="bobs">
+                  <orgName>Bob's Big Boy</orgName>
+                  <desc>A burger restaurant chain. <ref target="https://www.bigboy.com/bobs">Company website</ref></desc>
+               </org>
+               <org xml:id="qp">
+                  <orgName>Quality Pie</orgName>
+                  <desc>“This landmark Northwest 23rd Avenue coffee shop was open 24 hours a day, making it a haven for 1980s punk rockers and club kids, who would flock here after bars closed for pre-dawn scrambled eggs. Before Oregon’s indoor smoking ban, this was a restaurant that eagerly welcomed smokers, and it seemed like everyone at the counter took drags of cigarettes between sips of strong coffee. “QP,” as it was called by regulars, closed in 1992 after 58 years of great people-watching.” <ref target="#umbrella">(Umbrella Project)</ref></desc>
+               </org>
             </listOrg>
 
             <list type="song">
                <item xml:id="arms">
                   <title>In Your Arms</title>
+                  <note type="artist">Flipper</note>
                </item>
                <item xml:id="cheap">
                   <title>Life is Cheap</title>
+                  <note type="artist">Flipper</note>
                </item>
                <item xml:id="one_day">
                   <title>Just One Day!</title>
+                  <note type="artist">7 Seconds</note>
                </item>
                <item xml:id="scream">
                   <title>Somebody Help Me Scream</title>
+                  <note type="artist">7 Seconds</note>
                </item>
             </list>
 
@@ -1037,6 +1101,7 @@
             <list type="album">
                <item xml:id="chunks">
                   <title>Blown' Chunks</title>
+                  <note type="artist">Flipper</note>
                </item>
             </list>
 
@@ -1107,6 +1172,34 @@
                      <biblScope unit="page">i-xxiii</biblScope>
                   </monogr>
                   <note>https://www.jstor.org/stable/29765812?seq=24</note>
+               </biblStruct>
+                
+               <biblStruct type="article" xml:id="goldberg">
+                  <analytic>
+                     <title>Black Flag, Husker Du, and The Replacements Lead Punk’s New Wave</title>
+                     <author><forename>Michael</forename>
+                        <surname>Goldberg</surname></author>
+                  </analytic>
+                  <monogr>
+                     <title>Rolling Stone</title>
+                     <imprint>
+                        <date>1985</date>
+                     </imprint>
+                     <biblScope unit="issue">452</biblScope>
+                  </monogr>  <note>https://www.rollingstone.com/music/music-news/black-flag-husker-du-and-the-replacements-lead-punks-new-wave-117690/</note>
+               </biblStruct>
+               <biblStruct type="webpage" xml:id="umbrella">
+                  <analytic>
+                     <title>Quality Pie</title>
+                     <author>The Umbrella Project</author>
+                  </analytic>
+                  <monogr>
+                     <imprint>
+                        <publisher>Triangle Productions</publisher>
+                        <date>2022</date>
+                     </imprint>
+                  </monogr>
+                  <note>https://www.umbrellaprojectoregon.com/quality-pie</note>
                </biblStruct>
             </listBibl>
          </div>
