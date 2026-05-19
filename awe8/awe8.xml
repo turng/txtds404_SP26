@@ -171,7 +171,7 @@
          </div>
       </front>
       <body>
-         <div type="news" subtype="handwritten">
+         <div type="news" subtype="handwritten" rend="font(allCaps)">
             <head>
                <hi rend="allCaps">Zero Page by<name type="person" ref="#verna">Verna</name></hi>
             </head>
