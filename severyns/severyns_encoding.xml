@@ -19,9 +19,8 @@
   <text>
       <body>
          <div type="chapter">
-               <date when="1926-10-29">October 29. 1926.</date>
-               <head rend="caps">FORTUNE IS OFFERED SEVERYNS BY COP TO HEAD MORALS SQUAD.</head>
-               
+            <head><date when="1926-10-29">October 29. 1926.</date> </head>
+            <head rend="caps">Fortune is offered Severyns By Cop To Head Morals Squad.</head>             
             <p>I was offered <label>$60,000</label> by a policeman for the post of head of the morals squad.</p> 
                <p>The offer was not made directly.</p>
                <p>Such offers are not made unless those who make them have taken proper safeguards in case they should be re-fused.</p>
@@ -29,7 +28,7 @@
                <p>I had been beset by people wanting to be special in-vestigator for the chief. The special investigator works directly out of the chief's office and is responsible to him alone. Friends of the various candidates had been to see the mayor. I was afraid that I would be forced into the position of having to employ a professional stool pigeon as my investigator. There are many things a chief cannot know or find out for himself. The public ex-pects the chief of police to be at his desk with a smile and a glad hand and a helping hand all day and all night, and at the same time walk side by side with every patrol-man on the force as the keeper of his conscience.</p>
                <p>I knew this couldn't be done, and I didn't want a stool pigeon as my special investigator. So I acted quick-ly, employing Robert Kernan, a neighbor of mine, whose children has played with mine and whom I had come to know.</p> 
                
-            <head rend="caps">Huge Bribe Was Communicated to Chief Severyns Through Bob Kernan.</head> 
+            <label rend="caps">Huge Bribe Was Communicated to Chief Severyns Through Bob Kernan.</label>
                
                <p>It was through Kernan that the <label>$60,000</label>offer came to me. Apparently some policeman had the mistaken impression that Kernan was my brother-in-law. Kernan reported to me that he had been approached and that he had been told to tell his brother-in-law, the chief, that there was <label>$60,000</label> in it if the chief would see to it that this man had the position of head of the morals squad.</p><pb/>
                
@@ -37,12 +36,12 @@
                
                <p>I abolished the squad and the man Kernan said had made the offer I moved into " the sticks." This man is still on the police force. He will be more fully identi-fied later in these articles.</p> 
                
-            <head rend="caps">General Order For Vice Cleanup is Always Source of Profit to Crooks And Lawyers.</head>
+            <label rend="caps">General Order For Vice Cleanup is Always Source of Profit to Crooks And Lawyers.</label>
                
                <p>Always a general order for a vice cleanup is a source of profit for those who want to be crooked. Such an order is used as the basis for a general "Knockover" of the cri-minal world. Certain types of lawyers are jubilant when it is made. There may be several hundred arrests as a result. In each case $ 100 bail is posted. Then the prisoner fails to put in an appearance, appearing by counsel instead. The usual fine is $ 10. The difference is returned to the attor-ney in each case and he pockets the $ 90 as his fee.</p>
                <p>Don't think either, that a vice crusade perforce results in improved condisions. It may take the graft from the cop for a time, but it gives it to others/ Take the case of Mary --- :</p>
                
-            <head>'MARY' CHARGED THAT COPS 'KNOCKED HER OVER' AND 'CLEANED' HER AFTER VICE CLEANUP ARREST</head>
+            <label rend="caps">'Mary' Charges That Cops 'Knocked Her Over' And 'Cleaned' Her After Vice Cleanup Arrest</label>
                
                <p>Mary was arrested in a cleanup growing out of a general order. She has been arrested before, times innumerable, but she always returns to the joint she runs on upper Main st.</p> 
                <p>When she was arrested this time the cops " shook her down." Then, she claims, some of the higherups at headquarters "knocked her over." Then came the lawyers.</p> 
@@ -54,7 +53,7 @@
                <p>Teachers, parents, preachers -- these, more than all the police in the world, have the moral destinies of mankind in their hands.</p> 
                <p>In passing, let me add that there is hardly a vice resort being conducted in this or any other city that does not pay its tribute, its magnificent tribute, to the highly respected.</p>
                
-                  <head rend="caps">Real Estate Owner Pays $12,000 a Year Taxes Thinks Cops Should Leave His Tenants Alone.</head>
+                  <label rend="caps">Real Estate Owner Pays $12,000 a Year Taxes Thinks Cops Should Leave His Tenants Alone.</label>
                
                <p>Vice circles ordinarily do not go in for the ownership of real estate. Nearly every vice den is housed in a building owned by some highly respected and outwardly righteous person, and the rents paid for these quarters are always more than a legitimate business could afford.</p>
                <p>Many places are unsuited for any business except an immoral business. The attributes of vice are not shiny trappings and splendor, but dirt and squalor bough from our best citizens at a high price.</p>
