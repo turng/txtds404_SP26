@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title type="main">Selections from "My Awe #8: The Winter Desperation Issue"</title>
-            <title type="sub"><num type="currency" value="0.50">50¢</num><hi rend="allCaps">or
+            <title type="sub"><num type="currency" value="0.50">50¢</num><hi rend="font(allCaps)">or
                   Not</hi></title>
 
             <author>>Verna Doherty</author>
@@ -171,14 +171,14 @@
          </div>
       </front>
       <body>
-         <div type="news" subtype="handwritten" rend="font(allCaps)">
+         <div type="news" subtype="handwritten">
             <head>
-               <hi rend="allCaps">Zero Page by<name type="person" ref="#verna">Verna</name></hi>
+               <hi rend="font(allCaps)">Zero Page by<name type="person" ref="#verna">Verna</name></hi>
             </head>
 
             <p>
-               <hi rend="allCaps"> Touch down. The zero page. What is going on? Here? In town? You
-                  tell me. Here's some "news": <hi rend="bold"><name type="band"
+               <hi rend="font(allCaps)"> Touch down. The zero page. What is going on? Here? In town? You
+                  tell me. Here's some "news": <hi rend="format(bold)"><name type="band"
                         ref="#false_liberty">False Liberty</name></hi> needs a practice place,
                      <corr>preferrably</corr> one that is a low-rent pay-per-hour. If anyone knows
                   of a place they could practice, in the northend <name type="place" ref="#seattle"
@@ -188,7 +188,7 @@
                      ref="#verna">Verna</name>, at <num type="phone"><ref target="#n1">[censored]</ref></num>. Also, <name
                      type="band" ref="#false_liberty">False Liberty</name>
                   <del rend="scribble"><gap reason="illegible"/></del> is open to doing gigs around
-                  the state. Please contact <hi rend="bold"><name type="person" ref="#greg"
+                  the state. Please contact <hi rend="format(bold)"><name type="person" ref="#greg"
                         >Greg</name> at <num type="phone"><ref target="#n1">[censored]</ref></num></hi> or <name type="person"
                      ref="#mg">MG</name> at the number above <del rend="scribble"><gap
                         reason="illegible"/></del> if you're doing a show or know someone who is
@@ -196,25 +196,25 @@
                      >and</add> need(s) an inexpensive but excellant<sic/> opening band. <hi rend="bold"
                         ><name type="band" ref="#false_liberty">False Liberty</name></hi> will also
                   be touring this summer. If you would like them to play in your town, call me at
-                     <hi rend="bold"><num type="phone"><ref target="#n1">[censored]</ref></num></hi> and we'll talk, OK.?
+                     <hi rend="format(bold)"><num type="phone"><ref target="#n1">[censored]</ref></num></hi> and we'll talk, OK.?
                   Cool.</hi>
             </p>
             <p>
-               <hi rend="allCaps"><hi rend="bold"><name type="band" ref="#the_melvins">The
+               <hi rend="font(allCaps)"><hi rend="format(bold)"><name type="band" ref="#the_melvins">The
                         Melvins</name></hi>' album should be out soon, if it's not out already.</hi>
             </p>
             <p>
-               <hi rend="allCaps"><hi rend="bold"><name type="band" ref="#skin_yard">Skin
+               <hi rend="font(allCaps)"><hi rend="format(bold)"><name type="band" ref="#skin_yard">Skin
                         Yard</name></hi>' has an album out. Most local stores should have it. I know
                      <name type="org" ref="#fallout">Fallout</name> does. </hi>
             </p>
             <p>
-               <hi rend="allCaps"><hi rend="bold"><name type="zine" ref="#wig_out"
+               <hi rend="font(allCaps)"><hi rend="format(bold)"><name type="zine" ref="#wig_out"
                      >WigOut</name>!</hi> is a happening 'zine put out by the folks in <hi
-                     rend="bold"><name type="band" ref="#girl_trouble">Girl Trouble</name></hi>. The
-                  only <corr>publication</corr> I know that had <hi rend="bold"><name type="band"
+                     rend="format(bold)"><name type="band" ref="#girl_trouble">Girl Trouble</name></hi>. The
+                  only <corr>publication</corr> I know that had <hi rend="format(bold)"><name type="band"
                         ref="#horseheads">Tex&amp;TheHorseheads</name></hi> on one page and a review
-                  of an early 70's movie, <hi rend="bold"><name type="film" ref="#cleopatra"
+                  of an early 70's movie, <hi rend="format(bold)"><name type="film" ref="#cleopatra"
                         >Cleopatra Jones</name></hi>, on another! Allright. Well put-together and
                   hilarious. Write to: <name type="zine" ref="#wig_out">Wig Out</name>! <name
                      type="place" ref="#po_tacoma"><ref target="#n1">PO box 44633 Tacoma WA 98444</ref></name>
@@ -223,10 +223,10 @@
          </div>
 
          <div type="prose" subtype="diary">
-            <head><hi rend="allcaps"><orgName ref="#dennys">Denny's</orgName> Was Closed, A Saga in
+            <head><hi rend="font(allcaps)"><orgName ref="#dennys">Denny's</orgName> Was Closed, A Saga in
                      <placeName ref="#portland">Portland</placeName></hi></head>
             <head>by <persName ref="#verna">Verna D.</persName></head>
-            <ab><hi rend="allCaps"><hi rend="handwritten">There was this young woman who thought she could, you know, take on, not the world, but a thing/something in her gut <hi rend="underlined">drove</hi> her to do it/what was it? No one knows<pb/> for sure just what it was/Most of the time she felt lonely and much like an outsider, never fitting in, though she tried, not to get in, but just make peace for once <pb/> be accepted as she was/Of course this never happened/Close but no . . . And the times it was close/enough so she could touch it/she got scared and ran away/no one knows why/another instinct perhaps or her head just kind of got fucked up/Anyway, this thing she decided to do—it was never clear in her mind how to go about doing it/She knew the basics but <pb/> something got in the way/She invited failure like it, too, was a drive/She failed at the thing/Not failed in the thing itself but things surrounding the thing/Can anyone understand/Until they see/Again, she was rejected/Back to the normal state of affairs/And it's hard to see, so hard to see/She didn't want anyone to know/her fears/They can't know/But she let it out anyway/Why? <soCalled>"It's only pain, it doesn't hurt"</soCalled> WH</hi></hi></ab>
+            <ab><hi rend="font(allCaps)"><hi rend="font(handwritten)">There was this young woman who thought she could, you know, take on, not the world, but a thing/something in her gut <hi rend="underlined">drove</hi> her to do it/what was it? No one knows<pb/> for sure just what it was/Most of the time she felt lonely and much like an outsider, never fitting in, though she tried, not to get in, but just make peace for once <pb/> be accepted as she was/Of course this never happened/Close but no . . . And the times it was close/enough so she could touch it/she got scared and ran away/no one knows why/another instinct perhaps or her head just kind of got fucked up/Anyway, this thing she decided to do—it was never clear in her mind how to go about doing it/She knew the basics but <pb/> something got in the way/She invited failure like it, too, was a drive/She failed at the thing/Not failed in the thing itself but things surrounding the thing/Can anyone understand/Until they see/Again, she was rejected/Back to the normal state of affairs/And it's hard to see, so hard to see/She didn't want anyone to know/her fears/They can't know/But she let it out anyway/Why? <soCalled>"It's only pain, it doesn't hurt"</soCalled> WH</hi></hi></ab>
 
             <p>This is a true and actual (if not always factual) account of my experiences during
                the weekend of the <orgName ref="#seconds">7 SECONDS</orgName> shows,one of which I
@@ -255,7 +255,7 @@
                the sun on <name type="person">Hank's</name> back,will it have <del rend="scribble"
                      ><gap reason="illegible"/></del> the same effect?(I been readin' <persName
                   ref="#rollins">Rollins'</persName>
-               <bibl ref="#hallucinations"><hi rend="underlined">Hallucinations of
+               <bibl ref="#hallucinations"><hi rend="format(underlined)">Hallucinations of
                   Grandeur</hi></bibl>, on the way down here Friday, and it stuck in my haid)<sic/>...</p>
             <p>I'm bummin'. I don't know why. Not really as "up" for the show as I would like to be.
                At this point , I will settle for a few recognizable faces.</p>
@@ -448,7 +448,7 @@
                   <persName ref="#jeannie">Jeanniess</persName> for rest and chatter.then ,
                sleep.</p>
             <p>(end of memory-writing,back to journal)<pb/></p>
-            <ab type="subheading"><hi rend="handwritten"><date>10/19/86</date></hi></ab>
+            <ab type="subheading"><hi rend="font(handwritten)"><date>10/19/86</date></hi></ab>
             <p>I lost my shirt,and my pants and my shoes and socks. Itcs hard to let it all sink
                in.I don't like people much right now.But then I'm sure they like me even less. It's
                here that my writing falls apart.I'm hittin' the burnin' stuff(vodka) and feel like I
@@ -576,7 +576,7 @@
          <figure>
             <graphic url="filename.jpg"/>
             <!-- I dunno if it's worth it to save the images manually to be put into the graphic url -->
-            <p rend="bottom">Coming home: a final salute for slain Navy hostage </p>
+            <p rend="location(bottom)">Coming home: a final salute for slain Navy hostage </p>
             <figDesc> This photo is in black-and-white. As the caption insinuates, the photo
                comprises of people in military uniform surrounding a closed casket, saluting. Above
                them, a looming figure smiles down at them with his hand raised.</figDesc>
@@ -775,7 +775,7 @@
             <p>And what's the result for all of us? What is our reward? Well let's celebrate, time
                to pour the champagne, just like the president promised throughout his campaign we
                get ta see um bring America back, but never move 'er forward.</p>
-            <p><hi rend="allCaps">Reagan's Law</hi><note>
+            <p><hi rend="font(allCaps)">Reagan's Law</hi><note>
                   <!-- FIX THIS LATER --> This pasted ssignificantly larger than the rest of the
                   text and at about a 40 degree angle with REAGAN'S above LAW. Below it is an image
                   of Ronald Reagan</note></p>
