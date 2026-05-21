@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="editorial_intro">
+            <p>This digital edition presents three related texts from the Ella Evanson Scrapbooks
+               held in University of Washington Special Collections: Ella Evanson’s “Ming Chin and
+               the Baby Giant Panda” and “The Little Professor,” and her student Tooji’s essay “My
+               Ambition.” Produced in Seattle in the early 1940s, these texts emerge from the
+               wartime classroom of Washington School, where Evanson taught students from diverse
+               racial backgrounds. As Yoon K. Pak argues in <ref target="#source1">
+                  <title>Wherever I Go, I Will Always Be a Loyal American</title>
+               </ref>, Seattle’s Japanese American schoolchildren experienced a painful
+               contradiction between democratic citizenship education and the racial exclusion
+               authorized by Executive Order 9066. Read together, the three documents in this
+               edition show how children’s literature and student writing were shaped by the
+               historical context of the imminent forced removal and incarceration of Japanese
+               Americans from the West Coast.</p>
+            <p>Our edition treats these texts not only as literary or educational documents, but
+               also as social and archival artifacts. “Ming Chin” and “The Little Professor”
+               fictionalize students’ lives through children’s perspectives, while “My Ambition”
+               preserves the voice of a Japanese American student whose aspirations resonate with
+               the fictional figure of Toji in Evanson’s stories. Although this relationship cannot
+               be confirmed with certainty, the similarity between Tooji and Toji invites readers to
+               compare Evanson’s representation of her students with a student’s own
+               self-presentation. Frank Abe and Tamiko Nimura’s <ref target="#source2">
+                  <title>We Hereby Refuse: Japanese American Resistance to Wartime
+                     Incarceration</title>
+               </ref> and Stephen Fugita and Marilyn Fernandez’s <ref target="#source3">
+                  <title>Altered Lives, Enduring Community</title>
+               </ref> help frame our edition’s attention to Japanese American agency, memory, and
+               community under wartime incarceration.</p>
+            <p>Our editorial approach is primarily diplomatic. We preserve original spelling,
+               punctuation, capitalization, and historically charged language rather than
+               modernizing or sanitizing the documents. We also use TEI markup to connect fictional
+               characters, real students, places, and historical events through notes and indexes.
+               This apparatus helps readers confront the historical tensions of the texts while also
+               recognizing their value as records of wartime student experience and local Asian
+               American history in Seattle.</p>
+         </div>
+      </front>
+
+      <body>
+         <p>Some text here.</p>
+      </body>
+
+      <back>
+         <div type="endnotes">
+            <note xml:id="n1"><label>“Japs”</label> This pejorative word reflects the strong
+               anti-Japanese sentiment and wartime hysteria that broke out on the Pacific coast
+               after the Pearl Harbor incident. As the Puget Sound area was mobilized for the war,
+               the local Japanese-American community suffered a severe burden, which eventually led
+               to the emptying of Seattle's vibrant Japantown and thousands of residents being
+               forcibly relocated and detained. A student in the story uses this word to show how
+               deeply these geopolitical tensions permeate the daily social dynamics of children in
+               the classroom.<ref type="biblio" target="#source4">See Warren</ref>.</note>
+            <note xml:id="n2"><label>Baby Giant Panda Fund</label> During the late 1930s and early
+               1940s, the acquisition of a live giant panda from China became a major cultural event
+               in American zoos, often accompanied by large-scale public fundraising campaigns
+               initiated by children. The efforts of the students in the story reflect this real
+               historical “panda craze,” and the content announced by the teacher highlights how the
+               outbreak of the Pacific War suddenly ended these trans-Pacific cultural and
+               diplomatic exchanges.<ref type="biblio" target="#source5">See Croke</ref>.</note>
+            <note xml:id="n3"><label>Executive Order 9066</label> Executive Order 9066 was signed by
+               President Franklin D. Roosevelt on 19 February 1942. It authorized the Secretary of
+               War and designated military commanders to establish military areas from which “any or
+               all persons” could be excluded. Although the order did not name Japanese Americans
+               directly, it was enforced primarily against people of Japanese ancestry, leading to
+               the forced removal and incarceration of approximately 120,000 people, many of whom
+               were American citizens.<ref type="biblio" target="#source6">See National
+                  Archives</ref>.</note>
+            <note xml:id="n4"><label>Washington School</label> Washington School, also known as
+               George Washington School, was a public junior high school in Seattle’s Central
+               District where Ella Evanson taught seventh and eighth grade from 1928 until her
+               retirement in 1956. The school served students from Japanese American, Chinese
+               American, Jewish, African American, and white families, and it was associated with
+               democratic ideals and racial tolerance. This setting is important for understanding
+               how Evanson’s classroom writings combined progressive educational values with the
+               racial tensions of wartime Seattle.</note>
+            <note xml:id="n5"><label>Tooji and Toji</label>The name Tooji, used by the student
+               author of “My Ambition,” closely echoes Toji, the fictional Japanese American pupil
+               who appears in Evanson’s classroom stories. This similarity suggests a possible
+               relationship between the student essay and Evanson’s fictional representation, though
+               the connection cannot be confirmed with certainty from the available materials.
+               Reading the student essay alongside the stories allows readers to compare Evanson’s
+               representation of her students with a student’s own self-presentation.</note>
+         </div>
+
+         <div type="bibliography">
+            <listBibl>
+               <bibl xml:id="source1">
+                  <author>Pak, Yoon K.</author>
+                  <title level="m">Wherever I Go, I Will Always Be a Loyal American: Schooling
+                     Seattle’s Japanese Americans During World War II</title>. <pubPlace>New
+                     York</pubPlace>: <publisher>Routledge</publisher>, <date when="2002"
+                     >2002</date>. </bibl>
+               <bibl xml:id="source2">
+                  <author>Abe, Frank</author>, and <author>Tamiko Nimura</author>. <title level="m"
+                     >We Hereby Refuse: Japanese American Resistance to Wartime
+                     Incarceration</title>. <pubPlace>Seattle</pubPlace>: <publisher>Chin Music
+                     Press</publisher>, <date when="2021">2021</date>. </bibl>
+               <bibl xml:id="source3">
+                  <author>Fugita, Stephen</author>, and <author>Marilyn Fernandez</author>. <title
+                     level="m">Altered Lives, Enduring Community: Japanese Americans Remember Their
+                     World War II Incarceration</title>. <pubPlace>Seattle</pubPlace>:
+                     <publisher>University of Washington Press</publisher>, <date when="2004"
+                     >2004</date>. </bibl>
+               <bibl xml:id="source4">
+                  <author>Warren, James R.</author>
+                  <title level="a">World War II Home Front on Puget Sound</title>.<title level="j"
+                     >HistoryLink</title>. <date when="1999-09-13">13 September 1999</date>. <ref
+                     target="https://www.historylink.org/File/1664"
+                     >https://www.historylink.org/File/1664</ref>. </bibl>
+               <bibl xml:id="source5">
+                  <author>Croke, Vicki Constantine</author>. <title level="m">The Lady and the
+                     Panda: The True Adventures of the First American Explorer to Bring Back China's
+                     Most Exotic Animal</title>. <pubPlace>New York</pubPlace>: <publisher>Random
+                     House</publisher>, <date when="2005">2005</date>. </bibl>
+               <bibl xml:id="source6">
+                  <author>National Archives</author>. <title level="a">Executive Order 9066:
+                     Resulting in Japanese-American Incarceration</title>. <title level="j">National
+                     Archives</title>. <ref
+                     target="https://www.archives.gov/milestone-documents/executive-order-9066"
+                     >https://www.archives.gov/milestone-documents/executive-order-9066</ref>.
+               </bibl>
+            </listBibl>
+         </div>
+      </back>
+
+   </text>
+</TEI>
