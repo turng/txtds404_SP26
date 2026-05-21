@@ -173,60 +173,80 @@
       <body>
          <div type="news" subtype="handwritten">
             <head>
-               <hi rend="font(allCaps)">Zero Page by<name type="person" ref="#verna">Verna</name></hi>
+               <hi rend="font(allCaps)">Zero Page by<name type="person" ref="#verna"
+                  >Verna</name></hi>
             </head>
 
             <p>
-               <hi rend="font(allCaps)"> Touch down. The zero page. What is going on? Here? In town? You
-                  tell me. Here's some "news": <hi rend="format(bold)"><name type="band"
+               <hi rend="font(allCaps)"> Touch down. The zero page. What is going on? Here? In town?
+                  You tell me. Here's some "news": <hi rend="format(bold)"><name type="band"
                         ref="#false_liberty">False Liberty</name></hi> needs a practice place,
                      <corr>preferrably</corr> one that is a low-rent pay-per-hour. If anyone knows
                   of a place they could practice, in the northend <name type="place" ref="#seattle"
                      >Seattle</name>
                   <del rend="scribble"><gap reason="illegible"/></del> or just <name type="place"
                      ref="#seattle">Seattle</name> area, please contact me, <name type="person"
-                     ref="#verna">Verna</name>, at <num type="phone"><ref target="#n1">[censored]</ref></num>. Also, <name
-                     type="band" ref="#false_liberty">False Liberty</name>
+                     ref="#verna">Verna</name>, at <num type="phone"><ref target="#n1"
+                        >[censored]</ref></num>. Also, <name type="band" ref="#false_liberty">False
+                     Liberty</name>
                   <del rend="scribble"><gap reason="illegible"/></del> is open to doing gigs around
                   the state. Please contact <hi rend="format(bold)"><name type="person" ref="#greg"
-                        >Greg</name> at <num type="phone"><ref target="#n1">[censored]</ref></num></hi> or <name type="person"
-                     ref="#mg">MG</name> at the number above <del rend="scribble"><gap
-                        reason="illegible"/></del> if you're doing a show or know someone who is
-                     <del rend="scribble"><gap reason="illegible"/></del><add place="above"
-                     >and</add> need(s) an inexpensive but excellant<sic/> opening band. <hi rend="bold"
-                        ><name type="band" ref="#false_liberty">False Liberty</name></hi> will also
-                  be touring this summer. If you would like them to play in your town, call me at
-                     <hi rend="format(bold)"><num type="phone"><ref target="#n1">[censored]</ref></num></hi> and we'll talk, OK.?
-                  Cool.</hi>
+                        >Greg</name> at <num type="phone"><ref target="#n1"
+                     >[censored]</ref></num></hi> or <name type="person" ref="#mg">MG</name> at the
+                  number above <del rend="scribble"><gap reason="illegible"/></del> if you're doing
+                  a show or know someone who is <del rend="scribble"><gap reason="illegible"
+                     /></del><add place="above">and</add> need(s) an inexpensive but excellant<sic/>
+                  opening band. <hi rend="bold"><name type="band" ref="#false_liberty">False
+                        Liberty</name></hi> will also be touring this summer. If you would like them
+                  to play in your town, call me at <hi rend="format(bold)"><num type="phone"><ref
+                           target="#n1">[censored]</ref></num></hi> and we'll talk, OK.? Cool.</hi>
             </p>
             <p>
-               <hi rend="font(allCaps)"><hi rend="format(bold)"><name type="band" ref="#the_melvins">The
-                        Melvins</name></hi>' album should be out soon, if it's not out already.</hi>
+               <hi rend="font(allCaps)"><hi rend="format(bold)"><name type="band" ref="#the_melvins"
+                        >The Melvins</name></hi>' album should be out soon, if it's not out
+                  already.</hi>
             </p>
             <p>
-               <hi rend="font(allCaps)"><hi rend="format(bold)"><name type="band" ref="#skin_yard">Skin
-                        Yard</name></hi>' has an album out. Most local stores should have it. I know
-                     <name type="org" ref="#fallout">Fallout</name> does. </hi>
+               <hi rend="font(allCaps)"><hi rend="format(bold)"><name type="band" ref="#skin_yard"
+                        >Skin Yard</name></hi>' has an album out. Most local stores should have it.
+                  I know <name type="org" ref="#fallout">Fallout</name> does. </hi>
             </p>
             <p>
                <hi rend="font(allCaps)"><hi rend="format(bold)"><name type="zine" ref="#wig_out"
-                     >WigOut</name>!</hi> is a happening 'zine put out by the folks in <hi
-                     rend="format(bold)"><name type="band" ref="#girl_trouble">Girl Trouble</name></hi>. The
-                  only <corr>publication</corr> I know that had <hi rend="format(bold)"><name type="band"
-                        ref="#horseheads">Tex&amp;TheHorseheads</name></hi> on one page and a review
-                  of an early 70's movie, <hi rend="format(bold)"><name type="film" ref="#cleopatra"
-                        >Cleopatra Jones</name></hi>, on another! Allright. Well put-together and
-                  hilarious. Write to: <name type="zine" ref="#wig_out">Wig Out</name>! <name
-                     type="place" ref="#po_tacoma"><ref target="#n1">PO box 44633 Tacoma WA 98444</ref></name>
+                        >WigOut</name>!</hi> is a happening 'zine put out by the folks in <hi
+                     rend="format(bold)"><name type="band" ref="#girl_trouble">Girl
+                     Trouble</name></hi>. The only <corr>publication</corr> I know that had <hi
+                     rend="format(bold)"><name type="band" ref="#horseheads"
+                        >Tex&amp;TheHorseheads</name></hi> on one page and a review of an early 70's
+                  movie, <hi rend="format(bold)"><name type="film" ref="#cleopatra">Cleopatra
+                        Jones</name></hi>, on another! Allright. Well put-together and hilarious.
+                  Write to: <name type="zine" ref="#wig_out">Wig Out</name>! <name type="place"
+                     ref="#po_tacoma"><ref target="#n1">PO box 44633 Tacoma WA 98444</ref></name>
                </hi>
             </p>
          </div>
 
          <div type="prose" subtype="diary">
-            <head><hi rend="font(allcaps)"><orgName ref="#dennys">Denny's</orgName> Was Closed, A Saga in
-                     <placeName ref="#portland">Portland</placeName></hi></head>
+            <head><hi rend="font(allcaps)"><orgName ref="#dennys">Denny's</orgName> Was Closed, A
+                  Saga in <placeName ref="#portland">Portland</placeName></hi></head>
             <head>by <persName ref="#verna">Verna D.</persName></head>
-            <ab><hi rend="font(allCaps)"><hi rend="font(handwritten)">There was this young woman who thought she could, you know, take on, not the world, but a thing/something in her gut <hi rend="underlined">drove</hi> her to do it/what was it? No one knows<pb/> for sure just what it was/Most of the time she felt lonely and much like an outsider, never fitting in, though she tried, not to get in, but just make peace for once <pb/> be accepted as she was/Of course this never happened/Close but no . . . And the times it was close/enough so she could touch it/she got scared and ran away/no one knows why/another instinct perhaps or her head just kind of got fucked up/Anyway, this thing she decided to do—it was never clear in her mind how to go about doing it/She knew the basics but <pb/> something got in the way/She invited failure like it, too, was a drive/She failed at the thing/Not failed in the thing itself but things surrounding the thing/Can anyone understand/Until they see/Again, she was rejected/Back to the normal state of affairs/And it's hard to see, so hard to see/She didn't want anyone to know/her fears/They can't know/But she let it out anyway/Why? <soCalled>"It's only pain, it doesn't hurt"</soCalled> WH</hi></hi></ab>
+            <ab><hi rend="font(allCaps)"><hi rend="font(handwritten)">There was this young woman who
+                     thought she could, you know, take on, not the world, but a thing/something in
+                     her gut <hi rend="underlined">drove</hi> her to do it/what was it? No one
+                     knows<pb/> for sure just what it was/Most of the time she felt lonely and much
+                     like an outsider, never fitting in, though she tried, not to get in, but just
+                     make peace for once <pb/> be accepted as she was/Of course this never
+                     happened/Close but no . . . And the times it was close/enough so she could
+                     touch it/she got scared and ran away/no one knows why/another instinct perhaps
+                     or her head just kind of got fucked up/Anyway, this thing she decided to do—it
+                     was never clear in her mind how to go about doing it/She knew the basics but
+                     <pb/> something got in the way/She invited failure like it, too, was a
+                     drive/She failed at the thing/Not failed in the thing itself but things
+                     surrounding the thing/Can anyone understand/Until they see/Again, she was
+                     rejected/Back to the normal state of affairs/And it's hard to see, so hard to
+                     see/She didn't want anyone to know/her fears/They can't know/But she let it out
+                     anyway/Why? <soCalled>"It's only pain, it doesn't hurt"</soCalled>
+               WH</hi></hi></ab>
 
             <p>This is a true and actual (if not always factual) account of my experiences during
                the weekend of the <orgName ref="#seconds">7 SECONDS</orgName> shows,one of which I
@@ -256,7 +276,8 @@
                      ><gap reason="illegible"/></del> the same effect?(I been readin' <persName
                   ref="#rollins">Rollins'</persName>
                <bibl ref="#hallucinations"><hi rend="format(underlined)">Hallucinations of
-                  Grandeur</hi></bibl>, on the way down here Friday, and it stuck in my haid)<sic/>...</p>
+                     Grandeur</hi></bibl>, on the way down here Friday, and it stuck in my
+               haid)<sic/>...</p>
             <p>I'm bummin'. I don't know why. Not really as "up" for the show as I would like to be.
                At this point , I will settle for a few recognizable faces.</p>
             <p><hi rend="indent">(Stopped at a <placeName ref="#chehalis">Chehalis,WA</placeName>
@@ -341,8 +362,8 @@
                   ref="#jennifer">Jennifer</persName> will forget. I feel crummy for lying to her. I
                lied so much last nightf. I'm just a liar. Panik was there. Good.<pb/></p>
             <p>I look in the mirror and I hate what I see. I hate what I see ,and can almost like
-               what I hate. I look sick,stupid,and lame.I feel strong ,absorbant<sic/>,reliable, like a
-               human tampon or paper towel. Kinda bummin'. Fuck! Why!?I feel stupid here,
+               what I hate. I look sick,stupid,and lame.I feel strong ,absorbant<sic/>,reliable,
+               like a human tampon or paper towel. Kinda bummin'. Fuck! Why!?I feel stupid here,
                   <soCalled>"turning even less than stupid..."</soCalled> Ahahahahahahaha.</p>
             <ab type="subheading">PART THREE — THE SHOW. BEFORE AND AFTER.</ab>
             <p>( This whole thing is written from memory,because I had no time or desire to write in
@@ -409,17 +430,17 @@
                I can get to pay everyone off...</p>
             <p>I ran out into the room twice during <orgName ref="#seconds">7 Seconds</orgName>'
                set. Once for "<bibl ref="#one_day">Just One Day!</bibl>" and once for "<bibl
-                  ref="#scream">Somebody Help Me Scream</bibl>". That was really fun,k<sic/> intense,
-               awesome, just lettin' loose and dancing and shouting along to those songs. It meant
-               so much to me right then and there, moreso than at any other time that whole day. It
-               was magic,just beautiful.</p>
-            <p>By the end of the eveningg<sic/> I felt really, well, insecure. I felt that I had done all
-               the wrong things, that the whole problem centered on what I personally fucked up. I
-               felt bad that I couldn't pay the <orgName ref="#yobs">Yobs</orgName> what I had
-               promised them, but they were pretty good natured about it. It was fun to hang out
-               with the bands and just listen and feel almost like we were friends, or something
-               silly like that. There are many things I wanted to ask and say, but held back
-               because, well, I don't really know these people, except through their music/
+                  ref="#scream">Somebody Help Me Scream</bibl>". That was really fun,k<sic/>
+               intense, awesome, just lettin' loose and dancing and shouting along to those songs.
+               It meant so much to me right then and there, moreso than at any other time that whole
+               day. It was magic,just beautiful.</p>
+            <p>By the end of the eveningg<sic/> I felt really, well, insecure. I felt that I had
+               done all the wrong things, that the whole problem centered on what I personally
+               fucked up. I felt bad that I couldn't pay the <orgName ref="#yobs">Yobs</orgName>
+               what I had promised them, but they were pretty good natured about it. It was fun to
+               hang out with the bands and just listen and feel almost like we were friends, or
+               something silly like that. There are many things I wanted to ask and say, but held
+               back because, well, I don't really know these people, except through their music/
                Sometimes I wish I could just express, without fear, what I am thinking, what I am
                feeling, at the exact moment I am thinking it. Perhaps I would have been better off a
                drunken groupie, I don't know.</p>
@@ -433,10 +454,10 @@
                   >Salem</placeName>.</p>
             <p>We all come to rest at <orgName ref="#bobs">Bob's Big Boy</orgName>,in <placeName
                   ref="#wilsonville">Wilsonville,OR</placeName>.Not a big town. The poor waitress.
-               All of a sudden ,here's thes e people, not g<sic/> quite what they expected I'll bet. These
-               scraggley, hardcore,not-so-hardcore, not-so-scraggly, pretty boisterous, group of
-               folks. Oh, okay. She handled it pretty well and the scarier people were served by the
-               manager! These kids were mighty hungry. Obligatory <orgName ref="#yobs"
+               All of a sudden ,here's thes e people, not g<sic/> quite what they expected I'll bet.
+               These scraggley, hardcore,not-so-hardcore, not-so-scraggly, pretty boisterous, group
+               of folks. Oh, okay. She handled it pretty well and the scarier people were served by
+               the manager! These kids were mighty hungry. Obligatory <orgName ref="#yobs"
                   >Yobs</orgName>/<orgName ref="#seconds">7Seconds</orgName> food fight,stolen
                silverware(okay,so I was feeling desperate!). Lucky for the <orgName ref="#bobs"
                   >Bob's Big Boy</orgName> crew we didn't stay very long.</p>
@@ -796,7 +817,9 @@
                their zines. Although several decades have passed since this zine was created, and it
                is now closer to a historical artifact than an immediate revelation, we try to
                maintain this ethos in our editorial choices. For this reason, we have chosen to
-               censor personally identifying information such as phone numbers. (However, we have retained addresses that lead to PO boxes, as we imagine those are not directly associated with specific people.)</note>
+               censor personally identifying information such as phone numbers. (However, we have
+               retained addresses that lead to PO boxes, as we imagine those are not directly
+               associated with specific people.)</note>
             <note xml:id="n2">"Creeping Orwellianism" is a political prose piece/rant about invasive
                drug testing policies. It is likely a reference to the Anti-Drug Abuse Act of 1986,
                which was "the Reagan Administration’s response to a national moral panic around
@@ -859,9 +882,8 @@
                      <surname>Rollins</surname>
                      <note>Henry Rollins is a singer, spoken-word artist, writer, and creator who
                         performed with the rock band Black Flag during the 1980s. He is known as one
-                        of the most recognizable artists of the punk era (<ref
-                           target="#britannica">Encyclopedia
-                           Britannica).</ref></note>
+                        of the most recognizable artists of the punk era (<ref target="#britannica"
+                           >Encyclopedia Britannica).</ref></note>
                   </persName>
                </person>
                <person xml:id="hank">
@@ -973,8 +995,8 @@
                <org xml:id="fallout">
                   <orgName>Fallout Records</orgName>
                   <desc>Independent Seattle record store founded in 1984 that supported underground
-                     music, zines, and skateboards before closing in 2003 (<ref
-                        target="#for">Official site</ref>).</desc>
+                     music, zines, and skateboards before closing in 2003 (<ref target="#for"
+                        >Official site</ref>).</desc>
                </org>
                <org xml:id="girl_trouble">
                   <orgName>Girl Trouble</orgName>
@@ -1011,44 +1033,44 @@
                   <orgName>The Yobs</orgName>
                   <desc>"The Yobs" is likely the reversed name for the band "The Boys," an English
                      punk rock band formed in 1976. Every Christmas, the band reversed their name to
-                     read "The Yobs" and released an album under that name (<ref target="#wikipedia">Wikipedia</ref>).</desc>
+                     read "The Yobs" and released an album under that name (<ref target="#wikipedia"
+                        >Wikipedia</ref>).</desc>
                </org>
                <org xml:id="dangermouse">
                   <orgName>Dangermouse</orgName>
-                  <desc>An Olympia punk band. <ref target="#omh">Olympia Music History website</ref></desc>
+                  <desc>An Olympia punk band. <ref target="#omh">Olympia Music History
+                     website</ref></desc>
                </org>
                <org xml:id="dennys">
                   <desc>A restaurant chain known in part for breakfast food served all day.</desc>
                </org>
                <org xml:id="saccharine">
                   <orgName>Saccharine Trust</orgName>
-                  <desc>A California punk rock band. <ref
-                        target="#wikipedia">Wikipedia</ref></desc>
+                  <desc>A California punk rock band. <ref target="#wikipedia">Wikipedia</ref></desc>
                </org>
                <org xml:id="unseen">
                   <orgName>Unseen Force</orgName>
-                  <desc>A hardcore punk band from Virginia which only released one album in 1986 (<ref
-                        target="#rettman"
-                        >Rettman).</ref></desc>
+                  <desc>A hardcore punk band from Virginia which only released one album in 1986
+                        (<ref target="#rettman">Rettman).</ref></desc>
                </org>
                <org xml:id="rebel_skates">
                   <orgName>Rebel Skates</orgName>
-                  <desc>A Portland skate shop that started in 1985 (<ref
-                        target="#rebelskates">Company website</ref>).</desc>
+                  <desc>A Portland skate shop that started in 1985 (<ref target="#rebelskates"
+                        >Company website</ref>).</desc>
                </org>
                <org xml:id="fallen_angels">
                   <orgName>The Fallen Angels</orgName>
-                  <desc>A psychedelic rock band formed in 1966, popular in the American underground (<ref target="#Wikipedia">Wikipedia</ref>).</desc>
+                  <desc>A psychedelic rock band formed in 1966, popular in the American underground
+                        (<ref target="#Wikipedia">Wikipedia</ref>).</desc>
                </org>
                <org xml:id="monqui">
                   <orgName>Monqui Presents</orgName>
-                  <desc>A Portland-based concert promotion company (<ref
-                        target="#monquisite">Company website</ref>).</desc>
+                  <desc>A Portland-based concert promotion company (<ref target="#monquisite"
+                        >Company website</ref>).</desc>
                </org>
                <org xml:id="bobs">
                   <orgName>Bob's Big Boy</orgName>
-                  <desc>A burger restaurant chain (<ref target="#bbb">Company
-                        website</ref>).</desc>
+                  <desc>A burger restaurant chain (<ref target="#bbb">Company website</ref>).</desc>
                </org>
                <org xml:id="qp">
                   <orgName>Quality Pie</orgName>
@@ -1161,9 +1183,9 @@
                         <date>2015</date>
                      </imprint>
                   </monogr>
-                  </biblStruct>
-                  
-              
+               </biblStruct>
+
+
                <biblStruct type="article" xml:id="dixon">
                   <analytic>
                      <title>Overview: Militarism as Foreign Policy — Reagan's Second Term</title>
@@ -1211,7 +1233,7 @@
                   </monogr>
                   <note>https://www.umbrellaprojectoregon.com/quality-pie</note>
                </biblStruct>
-               
+
                <biblStruct type="article" xml:id="britannica">
                   <analytic>
                      <title>Henry Rollins</title>
@@ -1229,7 +1251,7 @@
                   </monogr>
                   <note>https://www.britannica.com/biography/Henry-Rollins</note>
                </biblStruct>
-               
+
                <biblStruct type="article" xml:id="wikipedia">
                   <analytic>
                      <title>7 Seconds (band)</title>
@@ -1252,7 +1274,7 @@
                   <note>https://en.wikipedia.org/wiki/Melvins</note>
                   <note>https://en.wikipedia.org/wiki/Saccharine_Trust</note>
                </biblStruct>
-               
+
                <biblStruct type="webpage" xml:id="concertarchives">
                   <analytic>
                      <title>False Liberty Tours &amp; Concerts</title>
@@ -1265,7 +1287,7 @@
                   </monogr>
                   <note>https://www.concertarchives.org/bands/false-liberty</note>
                </biblStruct>
-               
+
                <biblStruct type="webpage" xml:id="sy">
                   <analytic>
                      <title>Biography</title>
@@ -1278,7 +1300,7 @@
                   </monogr>
                   <note>https://www.skin-yard.com/skinfo.htm</note>
                </biblStruct>
-               
+
                <biblStruct type="webpage" xml:id="omh">
                   <analytic>
                      <title>Dangermouse</title>
@@ -1291,7 +1313,7 @@
                   </monogr>
                   <note>https://www.olympiamusichistory.org/bands/dangermouse</note>
                </biblStruct>
-               
+
                <biblStruct type="webpage" xml:id="wigout">
                   <analytic>
                      <title>Girl Trouble official web page</title>
@@ -1304,7 +1326,7 @@
                   </monogr>
                   <note>https://wig-out.com/</note>
                </biblStruct>
-               
+
                <biblStruct type="webpage" xml:id="for">
                   <analytic>
                      <title>All About Fallout</title>
@@ -1317,7 +1339,7 @@
                   </monogr>
                   <note>https://falloutrecords.com/about.html</note>
                </biblStruct>
-               
+
                <biblStruct type="webpage" xml:id="rettman">
                   <analytic>
                      <title>Unseen Force Were a Cornerstone of Richmond Hardcore</title>
@@ -1327,14 +1349,14 @@
                      </author>
                   </analytic>
                   <monogr>
-                  <title>Bandcamp Daily</title>
-                  <imprint>
-                     <date>June 10, 2022</date>
-                  </imprint>
+                     <title>Bandcamp Daily</title>
+                     <imprint>
+                        <date>June 10, 2022</date>
+                     </imprint>
                   </monogr>
                   <note>https://daily.bandcamp.com/hidden-gems/unseen-force-in-search-of-the-truth-review</note>
                </biblStruct>
-               
+
                <biblStruct type="webpage" xml:id="rebelskates">
                   <analytic>
                      <title>Our Heritage</title>
@@ -1347,7 +1369,7 @@
                   </monogr>
                   <note>https://www.rebelskates.com/heritage</note>
                </biblStruct>
-               
+
                <biblStruct type="webpage" xml:id="monquisite">
                   <analytic>
                      <title>Monqui Presents</title>
@@ -1360,7 +1382,7 @@
                   </monogr>
                   <note>https://monqui.com/</note>
                </biblStruct>
-               
+
                <biblStruct type="webpage" xml:id="bbb">
                   <analytic>
                      <title>About Bob's Big Boy</title>
