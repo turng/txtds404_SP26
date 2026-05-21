@@ -3,19 +3,29 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Be American and The Lonesome Mermaid</title>
+            <author> Carlos Bulosan</author>
+            <editor>Naomi Roper, Ioana Cheldiu, Alice Leppert, Alice Wagar, Blythe Windle, Poe Claudio</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>These are transcriptions and encoded versions of 'Be American' and 'The Lonesome Mermaid' by Carlos Bulosan.Our goal with this project is to make his typed drafts of these short stories available digitally as well as more readable.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>Transcribed from papers kept by Bulsan that are now held in UW Special Collections. The files used were originally typed on a typewriter and feature handmade corrections by the author.</p>
+            <p> 'Be American' and 'The Lonesome Mermaid' are short stories by Filipino-American author and poet, Carlos Bulosan. 'Be American' tells the story of a narrator trying to help his cousin (a Filipino immigrant) adjust to live in the US.'The Lonesome Mermaid' is a fantasy following a child (presumably in the Philippines) who observes a strange man in his village who claims to be in love with a mermaid who has been kidnapping promising young men.</p>
+            <p>'Be American' location:UW Special Collection in Seattle, WA, USA, Container: Box 0581-012 Box 1, Folder 14 Accession No. 0581-012: Carlos Bulosan papers, 1936-1976 (bulk 1948-1956) / Writings / Prose
+               ‘The Lonesome Mermaid' location: UW Special Collection in Seattle, WA, USA, Container: Box 0581-012 Box 1, Folder 22 Accession No. 0581-012: Carlos Bulosan papers, 1936-1976 (bulk 1948-1956) / Writings / Prose </p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
+      <encodingDesc>
+         <editorialDecl>
+            <p>We have decided to correct Bulosan's spelling errors but have included notes stating when these changes were made. We have also done this when the text was smudged or illegible.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
   <text>
       <body>
          <p>testing testing testing.</p>
