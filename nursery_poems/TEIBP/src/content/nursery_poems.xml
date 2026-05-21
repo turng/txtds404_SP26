@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nursery Poems: From the Ancient and Modern Poets</title>
+            <editor>Michael J. Weller</editor>
+            <editor>Jolin Nie</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>As of yet unpublished.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A 16 page chapbook, with woodblock illustrations. This text was fisrt published in Banbury, Engand, in the 17th century (the exact date of publishment is unknown, often estimated as being published around 1840). It is attributed as having been printed by J. G. Rusher. The copy we've adapted is stored in the University of Washington's historical children's literature collection in the rare books archive.
+               <bibl>
+                  <title>Nursery Poems: From the Ancient and Modern Poets</title>
+                  <publisher>J. G. Rusher</publisher>
+                  <pubPlace>Banbury</pubPlace>
+                  <date notBefore="1830" notAfter="1877"></date>
+                  <idno type="OCLC">270951267</idno>
+               </bibl>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>This edition examines the 20 poems present in the original document, aiming to compare them with popular modern versions of the same, or similar rhymes. This project was created as an undergraduate project in the University of Washington's Textual Studies Program.</p>
+        </projectDesc>
+        <editorialDecl>
+           <normalization>
+              <p>In this edition we have aimed to retain the original formatting, and spelling of the text as possible.</p>
+           </normalization>
+           <segmentation>
+              <p>Poem separation has been emphasized in our encoding, though poems will be tagged to reflect their presence on the same page(s) if needed.</p>
+           </segmentation>
+        </editorialDecl>
+     </encodingDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">The main text is in English</language>
+           <language ident="la">On the first page, the Banbury motto is written in Latin, encircling a smiling sun.</language>
+        </langUsage>
+     </profileDesc>
+  </teiHeader>
+  <text>
+     <front>
+        <head rend="center">Nursery Poems</head>
+        <head rend="center">from the</head>
+        <head rend="center">Ancient and Modern Poets</head>
+        <figure type="image">
+           <graphic url="example.png"/>
+           <figDesc>A smiling sun icon surronded by the text <lang xml:lang="la">DEUS. EST. NOBIUS. SOL. ET.SCUTUM</lang></figDesc>
+        </figure>
+        <p>Banbury:</p>
+        <p>Printed by J. G. Rusher</p>
+        <pb n="1"/>
+     </front>
+      <body>
+         <p>example text</p>
+      </body>
+  </text>
+</TEI>
