@@ -18,7 +18,30 @@
   </teiHeader>
   <text>
       <body>
-         <div type="chapter">
+         <div type="introduction">
+            <head>Seattle Union Record, <date when="1926-10-29">Oct. 29, 1926</date> page 2</head>
+            <p>Because William B. Severyns is a candidate for sheriff, friends of his oponents have been charging that the amazine "True Confessions of a Chief of Police," written by him, is "mere political propaganda."</p>
+            <p>This is absolutely untrue. The Severyns articles were written early this year, while he was still chief of police. They aroused nation-wide interest and syndicates bid eagerly for the work. The Union Record simply has Seattle rights.</p>
+            <p>The editors of the Union Record honestly believe that Severyns is a high-class citizen and would like to see him elected sheriff. But the Union Record has made no active campaign for Severyns for sheriff and will make none. Only in this way can it be certain that those who see "political motives" in the publication of the story will be shut up.</p>
+            <p>Futher, all matter in any way involving men who are now candidates for office, or which might in any way be interpreted as helpful to the candidacy of Bill Severyns will be held up until after the next Tuesday, the day of election.</p>
+            <p>This simply means that until next Tuesday some names will be omitted from the story and the installments may be a trifle shorter. But as the reader will observe, the articles become more amazing from day to day. After next Tuesday all restraint will be off.</p>
+         </div>
+        <div type="preface">
+           <head><date when= "1926-10-25">Oct. 25, 1926</date></head>
+           <head rend="caps">PREFACE</head>   
+           <p>This is the true story of the chief of police of <placeName><settlement>Seattle</settlement></placeName>under an administration charged with having been in league with the underworld. I am not writing either an apology, an explanation or a vindication. I do not intend that the facts I shall set forth shall hold up any particular persons to admiration or scorn.</p>
+           <p>When I went into office as chief of police of <placeName><settlement>Seattle</settlement></placeName>four years ago I expected that at the end of my term of office I would leave behind a record of public service. I expected this record of public service to become a heritage of my children. I did not expect a grateful public to erect any statues to me. But neither did I expect that the time would ever come when any men would ask: <said>"How much do you suppose <persName>Bill Severyns</persName>cleared up at headquarters?"</said></p>
+           <p>After four years in the police station, I am looking for a job. I need it if I am going to support my family in the comfortable American manner to which they became accustomed before I became chief of police.</p>
+           <p>I worked my way through college and became a lawyer. After four years at police headquarters it may not be easy for me to reestablish myself at the bar. Not that I fear that I shall be unable to make a living now, as I did before I became chief of police, but I now realize why it is that so many men refuse to accept any public office. The price they must pay, both in the respect of their fellows and in the sacrifice of their own careers, is too great.</p>
+           <p>And there you have the reason why I am undertaking to write this book. I believe that people do not understand the police problem as they should. The police function is one of the most important functions of the state. Yet it is, to most people, a thing apart, a branch government which multitudes either fear or hold in contempt.</p>
+           <p>It is my purpose now to relate the history of my experience in office. The temptations of policemen, from the chief down, I will reveal.</p>
+           <p>I will speak about the graft problem in <placeName><settlement>Seattle</settlement></placeName>as I have known it. There is a graft problem. But I will speak of the other police problems which must be talked about and understood if we are ever to get anywhere in the police administration.</p><pb/>
+           <fw type="date" place="top_left">Oct. 25, 1926</fw>
+           <fw type="page_number" place="right">2.</fw>
+           <p>I do not intend to write a technical text for policemen. When I tell about the way money was offered me, of the pressure that was brought to bear upon me to influence my policies, I do not do it to bring discredit upon any person, only as a means of illustrating a particular problem of police administration.</p>
+           <p>I hope that this narrative will be accepted as a sincere and earnest constribution to the people of Seattle in their efforts toward better and cleaner government.</p>
+        </div>
+         <div xml:id="WS01" type="chapter">
             <head><date when="1926-10-29">October 29. 1926.</date> </head>
             <head rend="caps">Fortune is offered Severyns By Cop To Head Morals Squad.</head>             
             <p>I was offered <label>$60,000</label> by a policeman for the post of head of the morals squad.</p> 
@@ -34,7 +57,7 @@
                
                <fw type="page_number" place="top_center">-2-</fw>
                
-               <p>I abolished the squad and the man Kernan said had made the offer I moved into " the sticks." This man is still on the police force. He will be more fully identi-fied later in these articles.</p> 
+               <p>I abolished the squad and the man Kernan said had made the offer I moved into "the sticks." This man is still on the police force. He will be more fully identi-fied later in these articles.</p> 
                
             <label rend="caps">General Order For Vice Cleanup is Always Source of Profit to Crooks And Lawyers.</label>
                
@@ -44,12 +67,12 @@
             <label rend="caps">'Mary' Charges That Cops 'Knocked Her Over' And 'Cleaned' Her After Vice Cleanup Arrest</label>
                
                <p>Mary was arrested in a cleanup growing out of a general order. She has been arrested before, times innumerable, but she always returns to the joint she runs on upper Main st.</p> 
-               <p>When she was arrested this time the cops " shook her down." Then, she claims, some of the higherups at headquarters "knocked her over." Then came the lawyers.</p> 
-               <p>Mary is back on upper Main St. She claims she was " cleaned" before she was "sprung." "Sprung" is underworld for being turned loose. Mary --- has no legitimate profesaion, nothing to turn to even to earn the necessities of life except her old, old trade.</p> 
+            <p>When she was arrested this time the cops <said>"shook her down."</said> Then, she claims, some of the higherups at headquarters <said>"knocked her over."</said> Then came the lawyers.</p> 
+               <p>Mary is back on upper Main St. She claims she was "cleaned" before she was "sprung." "Sprung" is underworld for being turned loose. Mary --- has no legitimate profesaion, nothing to turn to even to earn the necessities of life except her old, old trade.</p> 
                <p>Following a vice cleanup, the aftermath is a poverty - stricken vice element determined to get the wherewithal by the one and only method in which it is proficient. The answer to this social problem does not lie in sudden passionate outbursts of community righteousness, baying at crime, sudden arrests and equally sudden releases.</p><pb/>
             <fw type="page_number" place="top_center">-3-</fw>
                
-               <p>It lies rather in day by day upbuilding of wholesome social conditions, conductive to theh breeding of self-respect.</p> 
+               <p>It lies rather in day by day upbuilding of wholesome social conditions, conductive to the breeding of self-respect.</p> 
                <p>Teachers, parents, preachers -- these, more than all the police in the world, have the moral destinies of mankind in their hands.</p> 
                <p>In passing, let me add that there is hardly a vice resort being conducted in this or any other city that does not pay its tribute, its magnificent tribute, to the highly respected.</p>
                
@@ -59,9 +82,9 @@
                <p>Many places are unsuited for any business except an immoral business. The attributes of vice are not shiny trappings and splendor, but dirt and squalor bough from our best citizens at a high price.</p>
                <p>For instance: 
                A prominent Seattle business man came to my office complai-ning that the cops would not let his tenants alone. I will not mention this man's name because, unlike many others, he was not a hypocrite, but frankly admitted that his property was being used for immoral purposes.</p>
-               <p>"I am pating $ 12,000 a year in taxes. Your cops won't let my tenants alone. How do you expect me to pay my taxes?" he demanded.</p>
-               <p>"Don't you know your tenants are operating disorderly houses and blind pigs?" I asked.</p>
-              <p>"Yes", he replied. "But who else would rent the places and pay me enough to meet carrying charges?"</p>
+            <p><said>"I am pating $ 12,000 a year in taxes. Your cops won't let my tenants alone. How do you expect me to pay my taxes?"</said>he demanded.</p>
+            <p><said>"Don't you know your tenants are operating disorderly houses and blind pigs?"</said>I asked.</p>
+            <p><said>"Yes"</said>, he replied. <said>"But who else would rent the places and pay me enough to meet carrying charges?"</said></p>
                <p>This man was frank. Most owners of premises on which dives are located are not. They hide behind some large and prominnent rental offices. You can guess the names of these real estate agents. They are among the largest in town. 
                ***
               </p>
