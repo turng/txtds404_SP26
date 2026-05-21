@@ -2,6 +2,8 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -46,6 +48,18 @@
      </profileDesc>
   </teiHeader>
   <text>
+     <front>
+        <head rend="center">Nursery Poems</head>
+        <head rend="center">from the</head>
+        <head rend="center">Ancient and Modern Poets</head>
+        <figure type="image">
+           <graphic url="example.png"/>
+           <figDesc>A smiling sun icon surronded by the text <lang xml:lang="la">DEUS. EST. NOBIUS. SOL. ET.SCUTUM</lang></figDesc>
+        </figure>
+        <p>Banbury:</p>
+        <p>Printed by J. G. Rusher</p>
+        <pb n="1"/>
+     </front>
       <body>
          <p>example text</p>
       </body>
