@@ -4,7 +4,6 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
 <!-- use this processing statement  to link an XML file with a styelsheet: whether CSS or XSLT (adjust the @type value if XSLT: text/xsl)-->
-<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
 <?xml-stylesheet type="text/css" href="pygmalion.css"?>
 
 
