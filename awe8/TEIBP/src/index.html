@@ -205,5 +205,33 @@ p {text-align:left;}
 
 <div id="footer"> Powered by <a href="http://dcl.slis.indiana.edu/teibp/">TEI Boilerplate</a>. TEI Boilerplate is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0
 				Unported License</a>. <a href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0;" src="http://i.creativecommons.org/l/by/3.0/80x15.png" /></a></div>
+	<script>
+function makeNamesClickable() {
+
+  const names = document.getElementsByTagName("name");
+
+  for (const el of names) {
+    const text = el.textContent.trim();
+    const slug = text.toLowerCase().replace(/\s+/g, "-");
+
+    el.style.cursor = "pointer";
+
+    el.addEventListener("click", () => {
+      window.location.href = `index.html#${slug}`;
+    });
+  }
+
+}
+
+// run repeatedly until TEI finishes loading
+const interval = setInterval(() => {
+  const names = document.getElementsByTagName("name");
+
+  if (names.length > 0) {
+    clearInterval(interval);
+    makeNamesClickable();
+  }
+}, 300);
+</script>
 </body>
 </html>
