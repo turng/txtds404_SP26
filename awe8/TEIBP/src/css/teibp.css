@@ -1166,12 +1166,7 @@ pause {
   /* Empty Rule Set*/
 }
 pb {
-  display: block;
-  width: 100%;
-  text-align: right;
-  color: gray;
-  margin: 2em 0 2em 0;
-  font-size: 11pt;
+  display: none;
 }
 .pb {
   display: block;
