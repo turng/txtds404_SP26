@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"
+type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"
+type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   <teiHeader>
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Nursery Poems: From the Ancient and Modern Poets</title>
+            
+            <author>John Golby Rusher</author>
+            
+            <editor>Saisriyaa Patro</editor>
+            <editor>Jolin Nie</editor>
+            <editor>Michael Weller</editor>
+            
+            <respStmt>
+               <resp>TEI transcription and encoding</resp>
+               <name>Saisriyaa Patro</name>
+               <name>Jolin Nie</name>
+               <name>Michael Weller</name>
+            </respStmt>
+            
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <p>
+               This TEI edition was created for the TXTDS 404 course project
+               at the University of Washington during Spring 2026.
+               The project encodes selections from
+               <title>Nursery Poems: From the Ancient and Modern Poets</title>
+               using TEI P5 guidelines in order to preserve the literary
+               and material characteristics of the nineteenth-century chapbook.
+            </p>
+            
+         </publicationStmt>
+         
+         <sourceDesc>
+            
+            <p>
+               This transcription is based on the nineteenth-century chapbook
+               <title>Nursery Poems: From the Ancient and Modern Poets</title>,
+               attributed to John Golby Rusher.
+               
+               <bibl>
+                  <author>Rusher, John Golby</author>
+                  <title>Nursery Poems: From the Ancient and Modern Poets</title>
+                  <pubPlace>Banbury</pubPlace>
+                  <publisher>J. G. Rusher</publisher>
+                  <date>19th century</date>
+               </bibl>
+               
+            </p>
+            
+         </sourceDesc>
+         
+      </fileDesc>
+      
+      <encodingDesc>
+         
+         <editorialDecl>
+            
+            <p>
+               This project follows a semi-diplomatic transcription approach.
+               Original spelling, capitalization, punctuation,
+               and formatting are preserved wherever possible.
+               Editorial normalization and correction may later be encoded
+               using TEI elements such as choice, orig, reg, sic, and corr.
+            </p>
+            
+         </editorialDecl>
+         
+      </encodingDesc>
+      
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <p>Some text here.</p>
+         
+      </body>
+      
+   </text>
+   
+</TEI>
