@@ -1962,3 +1962,9 @@ div.facsImage img:first-child {
 #teibpToolbox {
   display: none;
 }
+bibl, biblStruct, listBibl, item {
+  display: block;
+  margin-bottom: 1.2em;
+  padding-bottom: 0.8em;
+  border-bottom: 1px solid #e5e5e5;
+}
