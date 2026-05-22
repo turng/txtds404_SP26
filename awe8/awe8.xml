@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title type="main">Selections from "My Awe #8: The Winter Desperation Issue"</title>
-            <title type="sub"><num type="currency" value="0.50">50¢</num><hi rend="font(allCaps)">or
+            <title type="sub"><num type="currency" value="0.50">50¢</num><hi rend="font(allCaps)"> or
                   Not</hi></title>
 
             <author>>Verna Doherty</author>
@@ -199,14 +199,14 @@
             </p>
             <p>
                <hi rend="font(allCaps)"><hi rend="format(bold)"><name type="zine" ref="#wig_out"
-                        >WigOut</name>!</hi> is a happening 'zine put out by the folks in <hi
+                        >WigOut!</name></hi> is a happening 'zine put out by the folks in <hi
                      rend="format(bold)"><name type="band" ref="#girl_trouble">Girl
                      Trouble</name></hi>. The only <corr>publication</corr> I know that had <hi
                      rend="format(bold)"><name type="band" ref="#horseheads"
                         >Tex&amp;TheHorseheads</name></hi> on one page and a review of an early 70's
                   movie, <hi rend="format(bold)"><name type="film" ref="#cleopatra">Cleopatra
-                        Jones</name></hi>, on another! Allright. Well put-together and hilarious.
-                  Write to: <name type="zine" ref="#wig_out">Wig Out</name>! <name type="place"
+                        Jones</name></hi>, on another! Allright<sic/>. Well put-together and hilarious.
+                  Write to: <name type="zine" ref="#wig_out">Wig Out!</name> <name type="place"
                      ref="#po_tacoma"><ref target="#n1">PO box 44633 Tacoma WA 98444</ref></name>
                </hi>
             </p>
@@ -492,16 +492,18 @@
                flag.</p>
          </div>
 
-         <figure>
-            <graphic url="filename.jpg"/>
+         <figure place="top">
             <figDesc>This image is in black and white, most probably photo-copied. A group of 3 to
                four people have their arms raised, holding up a crumpled American flag.</figDesc>
-            <note type="editorial">This image is formatted behind the lines of the poem. Stripped
+            <note type="editorial">This image is formatted behind the lines of the poem. Strips
                are whited out to house the text.</note>
          </figure>
 
-         <!-- I REALLY CAN'T MAKE OUT THE IMAGE THAT IS FORMATTED TO THE LEFT IN THE MIDDLE OF THE PAGE -->
-
+         <figure place="middle right">
+            <figDesc>A black and white photo of a figure crouching over a shadowy plane.</figDesc>
+            <note type="editorial">This figure is hard to discern and is generally amorphous</note>
+         </figure>
+         
          <div type="poem">
             <head><ref target="n3">Ol Gory</ref></head>
             <lg type="poem">
@@ -580,18 +582,16 @@
 
          </div>
 
-         <figure>
-            <graphic url="filename.jpg"/>
-            <!-- I dunno if it's worth it to save the images manually to be put into the graphic url -->
+         <figure place="bottom left">
             <p rend="location(bottom)">Coming home: a final salute for slain Navy hostage </p>
             <figDesc> This photo is in black-and-white. As the caption insinuates, the photo
                comprises of people in military uniform surrounding a closed casket, saluting. Above
                them, a looming figure smiles down at them with his hand raised.</figDesc>
          </figure>
 
-         <figure>
+         <figure place="bottom right">
             <graphic url="filename.jpg"/>
-            <figDesc> A man in a suit and tie is smiling in the direction of the reader. </figDesc>
+            <figDesc>A man in a suit and tie is smiling in the direction of the reader. </figDesc>
          </figure>
 
          <div type="prose" subtype="rant" rend="align(left) font(typewriter)">
