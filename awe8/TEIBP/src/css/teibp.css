@@ -1078,6 +1078,7 @@ note {
   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  
 }
 notesStmt {
   /* do we want to box each individual <note> if they're in a <notesStmt>? */
@@ -1960,4 +1961,7 @@ div.facsImage img:first-child {
 .head-font {
   font-family: Arvo, sans-serif;
   font-weight: normal;
+}
+#teibpToolbox {
+  display: none;
 }
