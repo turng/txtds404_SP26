@@ -1968,3 +1968,11 @@ bibl, biblStruct, listBibl, item {
   padding-bottom: 0.8em;
   border-bottom: 1px solid #e5e5e5;
 }
+author::after,
+editor::after,
+orgName::after,
+publisher::after,
+pubPlace::after,
+date::after {
+  content: " ";
+}
