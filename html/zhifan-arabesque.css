@@ -1,0 +1,75 @@
+body {
+  background-color: #dbefff;
+  color: #1f3f5b;
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  width: 70%;
+  max-width: 700px;
+  margin: 60px auto;
+  padding: 40px;
+  background-color: #f8fcff;
+  border: 2px solid #9ccce8;
+}
+
+h1 {
+  color: #1a5f8f;
+  font-size: 42px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin-bottom: 40px;
+}
+
+#intro {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #4f6675;
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+.lyrics {
+  font-size: 22px;
+  line-height: 1.8;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 45px;
+}
+
+.refrain {
+  color: #006da8;
+}
+
+.flower-section {
+  color: #5f6f7a;
+}
+
+.flower-name {
+  color: #7a7a7a;
+  font-style: italic;
+}
+
+.red-flower {
+  color: #b64040;
+  font-size: 24px;
+  margin-top: 60px;
+}
+
+.short {
+  margin-top: 20px;
+  
+}
+.film-image {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  display: block;
+  margin: 0 auto 40px auto;
+  border: 2px solid #9ccce8;
+}

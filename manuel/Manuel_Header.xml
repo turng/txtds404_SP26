@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Police de Paris Dévoilée</title>
+            <author>Pierre-Louis Manuel</author>
+            <editor>Brandon Hrnjak</editor>
+            <editor>Haylee Weisner</editor>
+         </titleStmt>
+        <publicationStmt>
+   <publisher>University of Washington, TXTDS 404 (Spring 2026)</publisher>
+   <pubPlace>Seattle, WA</pubPlace>
+   <date when="2026">2026</date>
+   <p>
+     This edition strives to connect modern students and researchers interested in the history of policing, the French Revolution, and how state power is organized and justified with an 18th-century, firsthand account of administrative power in Paris. The selections included in this excerpt provide an accessible entry-point for those unfamiliar with obsolete French (perhaps French language learners) who want to begin to engage primary documents without needing to read the entire work. Through robust indexing and the addition of contextual footnotes,
+   </p>
+</publicationStmt>
+         <sourceDesc>
+   <sourceDesc>
+   <p>
+      This edition is based on the 1791 Paris imprint of
+      <title>La Police de Paris Dévoilée</title>, published by
+      J.B. Garnery. The volume offers a contemporary account of the
+      practices, personnel, and institutions of the Paris police,
+      written from the perspective of Pierre-Louis Manuel, who served
+      as a municipal official during the early years of the French
+      Revolution. Our work focuses on selected sections of this
+      printed book, using the copy held by the University of
+      Washington Libraries.
+   </p>
+   <bibl>
+      <title>La Police de Paris Dévoilée</title>
+      <author>Pierre-Louis Manuel</author>
+      <publisher>J.B. Garnery</publisher>
+      <pubPlace>17 rue Serpente, Paris</pubPlace>
+      <date>1791</date>
+      <idno type="callNumber">HV8206.P3 M3 1791</idno>
+      <idno type="OCLC">573635075</idno>
+   </bibl>
+</sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <editorialDecl>
+           <normalization>
+              <p>
+               In this publication, spelling was modernized for ease of contemporary readers. Each instance of modernized spelling will be tagged with the choice element, and the original and regularized spellings will be listed using "orig" and "reg".  
+              </p>
+           </normalization>
+           <punctuation>
+              <p>
+                 Punctuation has not been regularized as it does not meaningfully impede textual comprehension. The editors have done their best to transcribe punctuation exactly as it appears in the text, which entails inconsistent patterns of spacing before/after punctuation marks.
+              </p>
+           </punctuation>
+           <interpretation>
+              <p>
+                 Sentence construction and other grammatical aspects were left as found in the original to best maintain the voice of the author and avoid divorcing the text from the temporal context in which it emerged. 
+              </p>
+           </interpretation>
+        </editorialDecl>
+     </encodingDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>

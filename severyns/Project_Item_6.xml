@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+     <front>
+        <div type="editorial_intro">
+           <head>Editorial Introduction</head>
+           <p>This digital edition presents selected excerpts from <title>Confessions of a Chief of Police</title>, a serialized narrative written by former Seattle Chief of Police William B. Severyns and published in the <title>Seattle Union Record</title> between October and December 1926. Written during the Prohibition era and amid debates concerning corruption, vice regulation, and municipal reform, the articles combine autobiography, political defense, and public commentary. Severyns reflects on his years as chief of police while addressing allegations concerning graft, police misconduct, gambling, vice districts, and political interference in Seattle policing. The serialization also reveals the importance of newspapers in shaping public perceptions of crime, morality, and civic order in early twentieth-century American cities.</p>
+           <p>This edition focuses on preserving the documentary and historical features of the original newspaper publication while making the text accessible for digital analysis and modern readers. Particular attention has been given to recurring themes such as police corruption, vice “cleanups,” Prohibition, police publicity, and the relationship between political reform and law enforcement. The selected excerpts additionally reveal contemporary racialized discourse concerning Seattle’s Chinatown and illustrate how immigrant communities were represented within urban political debates. Contemporary newspaper reports and municipal correspondence related to Bertha Henry Landes and William B. Severyns provide further historical context for understanding the political controversies surrounding police administration in Seattle during the 1920s.</p>
+           <p>The transcription follows a diplomatic editorial approach. Original spelling, punctuation, capitalization, spacing, and formatting have been preserved wherever possible in order to retain the historical and material qualities of the source text. Apparent typographical irregularities, broken words, and period-specific language have not been silently corrected and have been marked with proper encoding elements. Editorial intervention has been intentionally limited to support accurate TEI encoding while maintaining fidelity to the original newspaper publication. Annotations have been added to explain historical references, political figures, policing terminology, and contextual issues related to Prohibition-era Seattle.</p>   
+        </div>
+     </front>
+     <body> 
+        <div type="annotations">
+           <head>Annotations</head>
+           <note xml:id="note1">
+              <p>The <title>Seattle Union Record</title> was a labor newspaper associated with organized labor movements in Seattle during the early twentieth century. The newspaper frequently published political commentary, labor news, and investigative reporting related to municipal governance and public corruption.
+                 <ref target="#bibl1"/> </p>
+           </note>
+           <note xml:id="note2">
+              <p>The phrase “wide-open town” referred to cities perceived as tolerating vice activities such as gambling, prostitution, bootlegging, and political corruption. During the Prohibition era, reform campaigns frequently used the term to criticize police departments and municipal administrations accused of allowing illegal activity to continue openly.
+                 <ref target="#bibl5"/></p>
+           </note>
+           <note xml:id="note3"> <p>Bertha Henry Landes served as acting mayor of Seattle before becoming the city’s first female mayor in 1926. Landes became nationally known for advocating municipal reform and anti-corruption campaigns, particularly concerning illegal liquor activity and police corruption during Prohibition. Her dismissal of William B. Severyns became a highly publicized political controversy in Seattle.
+                 <ref target="#bibl6"/> </p>
+           </note>
+           <note xml:id="note4"> <p>Severyns’ discussion of Chinatown reflects racialized attitudes common in early twentieth-century American urban discourse. The articles portray Chinese communities simultaneously as politically influential, socially separate, and associated with gambling networks. Such representations reveal broader anxieties concerning immigration, race, urban governance, and vice regulation during the period.
+                 <ref target="#bibl7"/> </p>
+           </note>
+           <note xml:id="note5"><p> The term “graft” was commonly used during the early twentieth century to describe political corruption, bribery, or illicit financial gain connected to public office and municipal administration. Concerns regarding graft and police corruption were central to reform politics during the Prohibition era.
+                 <ref target="#bibl3"/></p>
+           </note>
+        </div>
+     </body>
+  <back>
+        <div type="bibliography">
+           <head>Bibliography</head>
+           <listBibl>
+              <bibl xml:id="bibl1"> Seattle Union Record. <title>Confessions of a Chief of Police</title>. Seattle, WA, October–December 1926.</bibl>
+              <bibl xml:id="bibl2">Berner, Richard C. <title>Seattle 1921–1940: From Boom to Bust</title>. Seattle: University of Washington Press, 1992.</bibl>
+              <bibl xml:id="bibl3">Fogelson, Robert M. <title>Big-City Police</title>. Cambridge, MA: Harvard University Press, 1977.</bibl>
+              <bibl xml:id="bibl4">Monkkonen, Eric H. <title>Police in Urban America, 1860–1920</title>. Cambridge: Cambridge University Press, 1981.</bibl>
+              <bibl xml:id="bibl5"> Seattle Municipal Archives. <title>Prohibition in Seattle</title>. Seattle City Archives. Accessed May 18, 2026.</bibl>
+              <bibl xml:id="bibl6"> Associated Press. “Severyns Back on Job Again as Seattle Chief.” Newspaper clipping, July 1, 1926.</bibl>
+              <bibl xml:id="bibl7">Landes, Bertha Henry. Letter to William B. Severyns, June 25, 1924. Executive Office, City of Seattle. Manuscript Collection, University of Washington Library.</bibl>
+           </listBibl>
+        </div> 
+  </back>
+  </text>
+</TEI>
