@@ -25,15 +25,15 @@
                <l>a country-western singer and I was a</l>
                <l>farmboy. Also, <name type="artist">the Beatles</name> happened…</l>
                <l>KJR was Radio Free Europe for the</l>
-               <l>refugees out in Duvall. To be honest, it</l>
+               <l>refugees out in <name type="location">Duvall</name>. To be honest, it</l>
                <l>took another year or so for this</l>
                <l>particular farmkid to catch on to the</l>
                <l>fact that there was a historic change</l>
                <l>happening.</l>
             </p>
             <p>
-               <l>When I was in third grade in Sedro</l>
-               <l>Wolley, living next to the movie</l>
+               <l>When I was in third grade in <name type="location">Sedro</name></l>
+               <l><name type="location">Wolley</name>, living next to the movie</l>
                <l>House where “Love Me Tender” and “King</l>
                <l>Creole” played, <name type="artist">Elvis</name> was my main</l>
                <l>muse. Dancing in front of mom's stereo</l>
@@ -70,7 +70,7 @@
                <l>throbbing pubescent mind.</l></p>
             <p><l>Unbeknownst to me, the youth, and</l>
                <l>quite a few of the grown-ups in</l>
-               <l>Seattle, Bellevue, Kirkland were on fire</l>
+               <l><name type="location">Seattle</name>, <name type="location">Bellevue</name>, <name type="location">Kirkland</name> were on fire</l>
                <l>—Rock N Roll was the wave of the</l>
                <l>future again. And I met them on the</l>
                <l>traditional meeting ground for city and</l>
@@ -79,10 +79,10 @@
                <l>I was in 4-H, of course, and I had</l>
                <l>a pet Jersey cow to lead around.</l>
                <l>Every year we’d go to at least the</l>
-               <l>Monroe county fair and the King County</l>
-               <l>Fair in Enumclaw. Although Enumclaw</l>
+               <l><name type="location">Monroe</name> county fair and the <name type="location">King County</name></l>
+               <l>Fair in <name type="location">Enumclaw</name>. Although <name type="location">Enumclaw</name></l>
                <l>was the biggest fair, I believe all</l>
-               <l>The hip action was in Monroe.</l>
+               <l>The hip action was in <name type="location">Monroe</name>.</l>
             </p>
             <p>
                <l>There was, of course, the rodeo….</l>
@@ -92,13 +92,13 @@
                <l>there was also stock car races. And</l>
                <l>when there weren’t cars on the track</l>
                <l>the fail officials had found it</l>
-               <l>lucrative to bring half-a-dozen Seattle</l>
+               <l>lucrative to bring half-a-dozen <name type="location">Seattle</name></l>
                <l>rock bands to play for free—----there</l>
                <l>at the racetrack.</l>
             </p>
             <p><l>Little did they know the ultimate</l>
                <l>terror they would help bring upon</l>
-               <l>Washington parents everywhere, as their</l>
+               <l><name type="location">Washington</name> parents everywhere, as their</l>
                <l>kids became Rock N Rollers, and</l>
                <l>forgot about doing the dishes and/or</l>
                <l>feeding the calves. (I noticed they had</l>
@@ -122,7 +122,7 @@
             <p><l>And there was this scheme which now</l>
                <l>seems out of a dream. In a tent in</l>
                <l>some accidental corner of the</l>
-               <l>fairgrounds, kids from Greater Seattle</l>
+               <l>fairgrounds, kids from Greater <name type="location">Seattle</name></l>
                <l>burbs—I swear—were having honest-to-god</l>
                <l><hi rend="ul">sanctioned</hi>, amateur Battle of the</l>
                <l>bands. Thirteen year old, sixteen year old</l>
