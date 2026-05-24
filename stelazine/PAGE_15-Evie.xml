@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>STELAZINE</title>
@@ -15,156 +15,166 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
-         <p>
-Sanctioned
-by franko
-	<p>In 1963 I was thirteen. My mom was
-a country-western singer and I was a
-farmboy. Also, the Beatles happened…
-KJR was Radio Free Europe for the
-refugees out in Duvall. To be honest, it
-took another year or so for this
-particular farmkid to catch on to the
-fact that there was a historic change
-happening.</p>
-	<p>When I was in third grade in Sedro
-Wolley,  living next to the movie
-House where “Love Me Tender” and “King
-creole” played, Elvis was my main 
-muse. Dancing in front of mom's stereo
-to "Hound Dog" and "Don't Be Cruel”..
-groovin’ to the Big Bopper, Bobby
-Darin, Fats Domino and Buddy Holly (the
-skinny kid with the glasses) on the
-radio, I had sanction.</p>
-	<p>Mom took me to hear her sing one
-Night because I learned the Presley
-Two-Step (one forward and one back).</p>
-	<p>But the Beatles, she told me, were
-awful. Dad watched the Stones on Ed
-Sullivan with us, and said, “I can
-see why they’re called dirty. It’s
-not dirt, it’s Filth!” No sanction.
-But all the time on my Packard-Bell
-portable, up in my little room, I was
-groovin’! To the Folkies. I was 
-enraptured and romanced by Simon’s “I am
-A Rock”, and “Young Girls Are Coming
-To The Canyon” with the Mamas & Papas
-Dylan, yea. And somehow, when Dylan
-picked up an electric guitar I wasn’t
-aware of any outrage. I was down in
-the barnyard, making those sounds
-with my mouth.</p>
-	<p>And I knew those Beatles couldn’t
-be as awful as mom said. “I Wanna
-Hold Your Hald” was the truth to this
-throbbing pubescent mind.</p>
-	<p>Unbeknownst to me, the youth, and
-quite a few of the grown-ups in
-Seattle, Bellevue, Kirkland were on
-fire—Rock N Roll was the wave of the
-future again. And I met them on the
-traditional meeting ground for city and
-country: The county fair.</p>
-	<p>I was in 4-H, of course, and I had
-a pet Jersey cow to lead around.
-Every year we’d go to at least the
-Monroe county fair and the King County
-Fair in Enumclaw. Although Enumclaw
-was the biggest fair, I believe all
-The hip action was in Monroe.</p>
-		 <p>There was, of course, the rodeo….
-horse shows, cow shows, and pie shows
-vacuum cleaners, window cleaners,
-floor cleaners, and organ grinders. But
-there was also stock car races. And
-when there weren’t cars on the track
-the fail officials had found it 
-lucrative to bring half-a-dozen Seattle
-rock bands to play for free—there
-at the racetrack.</p>
-	<p>Little did they know the ultimate
-terror they would help bring upon
-Washington parents everywhere, as their
-kids became Rock N Rollers, and
-forgot about doing the dishes and/or
-feeding the calves. (I noticed they had
-this much rock n roll only that one
-year. After that they got all the
-old country stars they could find).</p>
-	<p>I must have shoved cow watch onto
-every kid in the club, so me (I was
-the president) and Rick DeVries (he’s
-the vice-president), could go and
-goggle at Lucky and the Gamblers, the
-Liverpool Five, and numerous other
-tatty costumed bands. Everybody
-looked like Paul Revere and the Raiders…
-everybody in pseudo-Carnaby Street
-duds. And Merilee Rush and the
-turnabout––two shows daily on the midway.
-I was in love with her overbite.</p>
-	<p>And there was this scheme which now
-seems out of a dream. In a tent in
-Some accidental corner of the
-fairgrounds, kids from Greater Seattle
-burbs—I swear—were having honest-to-god
-<emph>sanctioned</emph>, amateur Battle of the
-bands. Thirteen year old, sixteen year
-old Johnny Rays and leather Elvis’s—
-tight blue jeans and greasy curls, 
-were climbing onto this little plywood
-stage with their Fenders and Gibsons
-and singing “House of the Rising Sun”
-while their mothers were crawling
-around in their nylons and Jakie
-Kennedy coats arranging and checking
-power cords. What!!??</p>
-
-[IMAGE]
-
-	<p>No kidding. It was like a 4-H club
-for Rock N Roll. Really, I was out
-there. I don’t know if they won the
-chance to be backup band for the
-bands at PLU, or if they got to cut
-a single, or if they just got a new
-set of strings. But the point is,
-they were playing rock n roll, and
-their mothers were not only watching, but
-brushing their greasy hair before
-they went on stage. Sanction!</p>
-	<p>They weren’t as “good”, of course, as
-the “Professionals” out on the race
-track; nor did they get the money or
-attention that Merilee Rush (who
-would pick up her watch to see how much
-longer the set was—right in the
-middle of “Angel Of The Morning”) got…
-but they felt real-er. They were me,
-living my dream. They seemed to be
-not only supported, but even pushed
-by their mothers to perform and live
-out that dream.</p>
-	<p>Sanction.</p>
-
-“WE HEARD
-THE
-NEWS
-TODAY,
-OH BOY”
-
-FROM JET CITY
-THE NEWS
-BREAKING THE
-SOUND BARRIERS
-
-[IMAGE]
-</p>
+         <div>
+            <p>Sanctioned by franko</p>
+            <p>
+               <l>In 1963 I was thirteen. My mom was</l>
+               <l>a country-western singer and I was a</l>
+               <l>farmboy. Also, the Beatles happened…</l>
+               <l>KJR was Radio Free Europe for the</l>
+               <l>refugees out in Duvall. To be honest, it</l>
+               <l>took another year or so for this</l>
+               <l>particular farmkid to catch on to the</l>
+               <l>fact that there was a historic change</l>
+               <l>happening.</l>
+            </p>
+            <p>
+               <l>When I was in third grade in Sedro</l>
+               <l>Wolley, living next to the movie</l>
+               <l>House where “Love Me Tender” and “King</l>
+               <l>Creole” played, Elvis was my main</l>
+               <l>muse. Dancing in front of mom's stereo</l>
+               <l>to "Hound Dog" and "Don't Be Cruel”..</l>
+               <l>groovin’ to the Big Bopper, Bobby</l>
+               <l>Darin, Fats Domino and Buddy Holly (the</l>
+               <l>skinny kid with the glasses) on the</l>
+               <l>radio, I had sanction.</l>
+            </p>
+            <p>
+               <l>Mom took me to hear her sing one</l>
+               <l>Night because I learned the Presley</l>
+               <l>Two-Step (one forward and one back).</l>
+            </p>
+            <p><l>But the Beatles, she told me, were</l>
+               <l>awful. Dad watched the Stones on Ed</l>
+               <l>Sullivan with us, and said, “I can</l>
+               <l>see why they’re called dirty. It’s</l>
+               <l>not dirt, it’s Filth!” No sanction.</l>
+               <l>But all the time on my Packard-Bell</l>
+               <l>portable, up in my little room, I was</l>
+               <l>groovin’! To the Folkies. I was</l>
+               <l>enraptured and romanced by Simon’s “I Am</l>
+               <l>A Rock”, and “Young Girls Are Coming</l>
+               <l>To The Canyon” with the Mamas &amp; Papas</l>
+               <l>Dylan, yea. And somehow, when Dylan</l>
+               <l>picked up an electric guitar I wasn’t</l>
+               <l>aware of any outrage. I was down in</l>
+               <l>the barnyard, making those sounds</l>
+               <l>with my mouth.</l></p>
+            <p><l>And I knew those Beatles couldn’t</l>
+               <l>be as awful as mom said. “I Wanna</l>
+               <l>Hold Your Hand” was the Truth to this</l>
+               <l>throbbing pubescent mind.</l></p>
+            <p><l>Unbeknownst to me, the youth, and</l>
+               <l>quite a few of the grown-ups in</l>
+               <l>Seattle, Bellevue, Kirkland were on fire</l>
+               <l>—Rock N Roll was the wave of the</l>
+               <l>future again. And I met them on the</l>
+               <l>traditional meeting ground for city and</l>
+               <l>country: The county fair.</l></p>
+            <p>
+               <l>I was in 4-H, of course, and I had</l>
+               <l>a pet Jersey cow to lead around.</l>
+               <l>Every year we’d go to at least the</l>
+               <l>Monroe county fair and the King County</l>
+               <l>Fair in Enumclaw. Although Enumclaw</l>
+               <l>was the biggest fair, I believe all</l>
+               <l>The hip action was in Monroe.</l>
+            </p>
+            <p>
+               <l>There was, of course, the rodeo….</l>
+               <l>horse shows, cow shows, and pie shows</l>
+               <l>Vacuum cleaners, window cleaners,</l>
+               <l>floor cleaners, and organ grinders. But</l>
+               <l>there was also stock car races. And</l>
+               <l>when there weren’t cars on the track</l>
+               <l>the fail officials had found it</l>
+               <l>lucrative to bring half-a-dozen Seattle</l>
+               <l>rock bands to play for free—----there</l>
+               <l>at the racetrack.</l>
+            </p>
+            <p><l>Little did they know the ultimate</l>
+               <l>terror they would help bring upon</l>
+               <l>Washington parents everywhere, as their</l>
+               <l>kids became Rock N Rollers, and</l>
+               <l>forgot about doing the dishes and/or</l>
+               <l>feeding the calves. (I noticed they had</l>
+               <l>this much rock n roll only that one</l>
+               <l>year. After that they got all the old</l>
+               <l>country stars they could find).</l></p>
+            <p>
+               <l>I must have shoved cow watch onto</l>
+               <l>every kid in the club, so me (I was</l>
+               <l>the president) and Rick DeVries (he’s</l>
+               <l>the vice-president), could go and</l>
+               <l>goggle at Lucky and the Gamblers, the</l>
+               <l>Liverpool Five, and numerous other</l>
+               <l>tatty costumed bands. Everybody</l>
+               <l>looked like Paul Revere and the Raiders…</l>
+               <l>everybody in pseudo-Carnaby Street</l>
+               <l>duds. And Merilee Rush and the</l>
+               <l>Turnabouts––two shows daily on the midway.</l>
+               <l>I was in love with her overbite.</l>
+            </p>
+            <p><l>And there was this scheme which now</l>
+               <l>seems out of a dream. In a tent in</l>
+               <l>some accidental corner of the</l>
+               <l>fairgrounds, kids from Greater Seattle</l>
+               <l>burbs—I swear—were having honest-to-god</l>
+               <l><hi rend="ul">sanctioned</hi>, amateur Battle of the</l>
+               <l>bands. Thirteen year old, sixteen year old</l>
+               <l>Johnny Rays and leather Elvis’s—-</l>
+               <l>tight blue jeans and greasy curls,</l>
+               <l>were climbing onto this little plywood</l>
+               <l>stage with their Fenders and Gibsons</l>
+               <l>and singing “House of the Rising Sun”</l>
+               <l>while their mothers were crawling</l>
+               <l>around in their nylons and Jackie</l>
+               <l>Kennedy coats arranging and checking power</l>
+               <l>cords. What!!??</l></p>
+            <p><graphic url= ""/></p>
+            <p>
+               <l>No kidding. It was like a 4-H club</l>
+               <l>for Rock N Roll. Really, I was out</l>
+               <l>there. I don’t know if they won the</l>
+               <l>chance to be backup band for the</l>
+               <l>Bands at PLU, or if they got to cut</l>
+               <l>a single, or if they just got a new</l>
+               <l>set of strings. But the point is,</l>
+               <l>they were playing rock n roll, and</l>
+               <l>their mothers were not only watching, but</l>
+               <l>brushing their greasy hair before</l>
+               <l>they went on stage. Sanction!</l>
+            </p>
+            <p>
+               <l>They weren’t as “good”, of course, as</l>
+               <l>the “Professionals” out on the race</l>
+               <l>track; nor did they get the money or</l>
+               <l>attention that Merilee Rush (who</l>
+               <l>would pick up her watch to see how much</l>
+               <l>longer the set was—right in the</l>
+               <l>middle of “Angel Of The Morning”) got…</l>
+               <l>but they felt real-er. They were me,</l>
+               <l>living my dream. They seemed to be</l>
+               <l>not only supported, but even pushed</l>
+               <l>by their mothers to perform and live</l>
+               <l>out that dream.</l>
+            </p>
+            <p><l>Sanction.</l></p>
+            <p><l>“WE HEARD</l>
+               <l>THE</l>
+               <l>NEWS</l>
+               <l>TODAY,</l>
+               <l>OH BOY”</l></p>
+            <p><l>FROM JET CITY</l>
+               <l>THE NEWS</l>
+               <l>BREAKING THE</l>
+               <l>SOUND BARRIERS</l></p>
+            <p><graphic url= ""/></p>
+         </div>
       </body>
-  </text>
+   </text>
 </TEI>
