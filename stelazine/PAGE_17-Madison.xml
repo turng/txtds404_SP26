@@ -18,32 +18,59 @@
   </teiHeader>
   <text>
       <body>
-         <p>RAMONES
+         
+         <div>
+            <div>
+            <p>RAMONES</p>
+            </div>
             
-            Time Travelers
-            Event
-            RECORDS
-            Records
-            Fantasies
-            Finds
-            WAVE
-            Posters,
-            Fun
-            COMICS!
-            RECORDS
-            Records
-            The Year 1980 The Scene Outer Space
-            Shows
-            Sci-Fi
-            Books
-            Hangout
-            IMPORTS
+            <div>
+               <figure>
+                  
+               </figure>
+            </div>
+         </div>
+         
+         <div>
+            <div>
+               <figure></figure>
+            </div>
             
-            Time Travelers
-            1511 2nd Ave. SEATTLE between Pike and Pine
-            FOR INFORMATION CALL - 624-7806
             
-            page 17</p>
+            <div>
+               <p>Time Travelers</p>
+               <p>Event</p>
+               <p>RECORDS</p>
+               <p>Records</p>
+               <p>Fantasies</p>
+               <p>Finds</p>
+               <p>WAVE</p>
+               <p>Posters,</p>
+               <p>Fun</p>
+               <p>COMICS!</p>
+               <p>RECORDS</p>
+               <p>Records</p>
+               <p>The Year 1980 The Scene Outer Space</p>
+               <p>Shows</p>
+               <p>Sci-Fi</p>
+               <p>Books</p>
+               <p>Hangout</p>
+               <p>IMPORTS</p>
+               
+               <address>  
+                  <addName>Time Travelers</addName>
+                  <addrLine>1511 2nd Ave. SEATTLE between Pike and Pine</addrLine>
+                  <addrLine>FOR INFORMATION CALL - 624-7806</addrLine>
+               </address> 
+            </div>
+            
+            <div>
+               <p>page 17</p>
+            </div>
+         </div>
+         
       </body>
+     
+
   </text>
 </TEI>
