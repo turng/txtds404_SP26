@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>STELAZINE</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information - PAGE 18</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>SUBHUMANS
+Death to the Sickoids/Oh Canaduh
+
+Crass Productions
+no label
+
+	<p>I like these guys. The A-side is good (although I confess I'm not really sure what Sickoids are), with nice harmonies. The vocals are good, it's hard to find a good male voice in Canaduh. I think this band has potential not fully realized!</p>
+	<p>While the mix on side two is lousy, the pace is fast and the music is st-rong. Nice drumming and guitar work, but where is the bass? I think this deserves to be the A-side. It's a great song which could make an anthem for stepped-on Canadians. I can hear Margaret Trudeau humming it now..... "Don't have a job/Can't pay the rent/ And now we're paying interest on the money we've been lent………"</p>
+
+<p>DOA
+The Prisoner/Thirteen
+Quintessence Records
+1869 W. 4th Ave
+Vancouver, Canaduh
+V6J IMU</p>
+
+One of 2 records on this new label Music from the north. What can I say about DOA? Everybody seems to like them. I have a hard time getting past the vocals. Joey Shithead cannot sing. He cannot even get by with what he does. It's too bad, because the band is good and the music fast. But what the hell is he saying? If it's not important enough to hear, why say it at all? All I could pick out was: "Is everybody a bunch of wimps?" I dunno, Joey. Are you?
+The second side suffers from the same problems: lousy vocals. But the drumming of Chuck Biscuits carried the tune along. The only understandable line here is: "I'm one big zero."
+I think he hit it right on the head.
+</p>
+<p>"THE SHIRKERS”
+
+Drunk & Disorderly/Suicide
+Limp Records
+1327-0 |
+Rockville Pike
+Rockville, Maryland 20852
+
+I knew the singer Steve Bailer when I lived in D.C. I always thought he was devo, even before I had ever heard of the band. So, I just to get his record… I never would have thought he'd do it. On the whole it's a bit of a disappointment. Too much rock and roll. It's got a good beat, but the overall impact is too soft. I must say I am surprised at how good Steve can sing. Really. I like the female voice on the chorus, it's a nice change. The music is simple. A make-your-own-record-be-a-star project Capitol city punk without the Capitol city anger.</p>
+<p>POINTED STICKS
+What Do You Want Me To Do/Somebody's Mom
+Quintessence Records
+
+Finally, a great male Canadian singer. It's about time. A perfect pop voice. This is pop! A fun, Jumping song! a little boy’s plea with a great beat. This is a tight band all around. The harmonies are good, the hooks are good, and above all the sound is good. A new label with distinction. I think this first song should be on the radio. Pointed Sticks are like the Bay City Rollers with more integrity. A fine debut single from a band worth checking out. You won't be sorry.
+
+[image]
+Alt text: CUT ME OUT
+
+LEWD
+Kill Yourself/Trashcan Babies/
+Pay or Die
+Scratch Records
+
+2420 1st Ave
+Seattle, Wash. 98121
+
+A Clash-like opening. Enemy-like vocals. Can't these guys be original? I guess not. Boring old Satz. I mean, like wow, man this is PUNK! My first question: Why don't You kill yourself Your music is as repetitive as disco.
+The second song is a horror. I hate it. Vocal retchings, sexist bullshit. Give up.
+The third song. My record player kept rejecting it.
+My second question. Do record players have their own tastes in music?</p>
+<p>Rita Remark</p>
+<p>POLY STYRENE
+Cont.
+
+POLY: In the new wave I only like the Pistols, apart from us. And Reggae. I was brought up on Reggae 'cause I came from Brixton.
+NEVA: Why do you think Reggae has become so popular with punks?
+POLY: Well, I like Reggae anyway ‘cause I'm half black, and I grew up in a black area and was brought up on it... So I can’t judge it by what other punks say in any case. But punk and Reggae are the same in the sense that they're basic...Reggae is a very basic music, it's not very technical, the rhythm rules it. It's got its own little language, its own little scene... But it's changed a lot from Ska and Blue Beat, now it's got heavily into Dub and Rastafarian influences. It’s more cultural. There's a lot of fakes in it too, ‘cause if you're a real Rasta you're not meant to show your locks, you keep them under a hat unless you're praying.
+NEVA: How old were you when you left home?
+POLY: Fifteen. I just moved around for a year, mostly living in squats. I stayed with junkies for a little while. I didn't really like it very much but I didn't have nowhere else to live. There's no flats available for young single people, it's one of the worst problems in London. It's virtually impossible to get somewhere to live, it really is, unless you've got a load of money. These council flats won't let single people in.
+NEVA: Why do the papers over here make such a big deal over everything the punks do?
+
+POLY: You know what the English are like! It was just because it was new and exciting that they had to blow it up out of proportion. And it was fun-ny as well, that thing on "Today"- (when the Pistols swore). It brought the fun back into telly, that, and it made the Pistols bloody famous!
+NEVA: It sure did. Any last words, Poly?
+POLY: Yeah. Do you want a cup of coffee?</p>
+      </body>
+  </text>
+</TEI>
