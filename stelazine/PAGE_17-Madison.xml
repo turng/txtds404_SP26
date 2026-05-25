@@ -3,25 +3,74 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>STELAZINE</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Publication Information - PAGE 17</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Information about the source</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <p>RAMONES Time Travelers Event RECORDS Records Fantasies Finds WAVE Posters, Fun COMICS!
-            RECORDS Records The Year 1980 The Scene Outer Space Shows Sci-Fi Books Hangout IMPORTS
-            Time Travelers 1511 2nd Ave. SEATTLE between Pike and Pine FOR INFORMATION CALL -
-            624-7806 page 17</p>
-      </body>
-   </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>STELAZINE</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information - PAGE 17</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+            <div>
+                <div>
+                    <p>RAMONES</p>
+                </div>
+                
+                <div>
+                    <figure>
+                        
+                    </figure>
+                </div>
+            </div>
+            
+            <div>
+                <div>
+                    <figure></figure>
+                </div>
+                
+                
+                <div>
+                    <p>Time Travelers</p>
+                    <p>Event</p>
+                    <p>RECORDS</p>
+                    <p>Records</p>
+                    <p>Fantasies</p>
+                    <p>Finds</p>
+                    <p>WAVE</p>
+                    <p>Posters,</p>
+                    <p>Fun</p>
+                    <p>COMICS!</p>
+                    <p>RECORDS</p>
+                    <p>Records</p>
+                    <p>The Year 1980 The Scene Outer Space</p>
+                    <p>Shows</p>
+                    <p>Sci-Fi</p>
+                    <p>Books</p>
+                    <p>Hangout</p>
+                    <p>IMPORTS</p>
+                    
+                    <address>  
+                        <addName>Time Travelers</addName>
+                        <addrLine>1511 2nd Ave. SEATTLE between Pike and Pine</addrLine>
+                        <addrLine>FOR INFORMATION CALL - 624-7806</addrLine>
+                    </address> 
+                </div>
+                
+                <div>
+                    <p>page 17</p>
+                </div>
+            </div>
+            
+        </body>
+        
+        
+    </text>
 </TEI>
