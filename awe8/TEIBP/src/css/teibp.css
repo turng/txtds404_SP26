@@ -1976,3 +1976,6 @@ pubPlace::after,
 date::after {
   content: " ";
 }
+hi[rend="font(allCaps)"] {
+  text-transform: uppercase;
+}
