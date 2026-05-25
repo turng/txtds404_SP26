@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>STELAZINE</title>
@@ -15,35 +15,13 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
-         <p>RAMONES
-            
-            Time Travelers
-            Event
-            RECORDS
-            Records
-            Fantasies
-            Finds
-            WAVE
-            Posters,
-            Fun
-            COMICS!
-            RECORDS
-            Records
-            The Year 1980 The Scene Outer Space
-            Shows
-            Sci-Fi
-            Books
-            Hangout
-            IMPORTS
-            
-            Time Travelers
-            1511 2nd Ave. SEATTLE between Pike and Pine
-            FOR INFORMATION CALL - 624-7806
-            
-            page 17</p>
+         <p>RAMONES Time Travelers Event RECORDS Records Fantasies Finds WAVE Posters, Fun COMICS!
+            RECORDS Records The Year 1980 The Scene Outer Space Shows Sci-Fi Books Hangout IMPORTS
+            Time Travelers 1511 2nd Ave. SEATTLE between Pike and Pine FOR INFORMATION CALL -
+            624-7806 page 17</p>
       </body>
-  </text>
+   </text>
 </TEI>
