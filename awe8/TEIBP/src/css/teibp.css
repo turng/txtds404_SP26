@@ -1976,3 +1976,60 @@ pubPlace::after,
 date::after {
   content: " ";
 }
+hi[rend="font(allCaps)"] {
+  text-transform: uppercase;
+}
+listBibl bibl {
+    display: block;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ddd;
+    line-height: 1.6;
+}
+
+/* Make titles stand out */
+bibl title {
+    display: block;
+    font-style: italic;
+    font-size: 1.1em;
+    margin-bottom: 0.2rem;
+}
+
+/* Authors */
+bibl author {
+    display: block;
+    font-weight: bold;
+}
+
+/* Publishers/sites */
+bibl publisher,
+bibl orgName {
+    display: inline;
+    color: #666;
+}
+
+/* Dates */
+bibl date {
+    display: inline;
+    color: #888;
+    margin-left: 0.5rem;
+}
+
+/* URLs on their own line */
+bibl ref[target],
+bibl ptr[target] {
+    display: block;
+    margin-top: 0.5rem;
+    font-size: 0.9em;
+    word-break: break-word;
+}
+
+/* If TEI Boilerplate transforms refs into links */
+bibl a {
+    color: #7a0000;
+    text-decoration: none;
+}
+
+bibl a:hover {
+    text-decoration: underline;
+}
