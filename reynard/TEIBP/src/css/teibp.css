@@ -1672,7 +1672,7 @@ table > head {
   text-align: center;
 }
 teiHeader {
-  display: block;
+  display: none;
   /*
 border-radius: 15px;
 border: 1px solid black;
@@ -1852,6 +1852,7 @@ footer {
   border-top: 1px solid #292929;
   padding-top: .5em;
   font-size: 12pt;
+  display: none
 }
 a:link,
 a:visited,
@@ -1940,4 +1941,8 @@ div.facsImage img:first-child {
 .head-font {
   font-family: Arvo, sans-serif;
   font-weight: normal;
+            padding: 10px;
+            text-align: left;
+            color: red;
+            font-size: 20px
 }
