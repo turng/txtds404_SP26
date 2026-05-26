@@ -1944,7 +1944,7 @@ div.facsImage img:first-child {
   font-weight: normal;
 }
 
-body > div > head > hi {
+body > div > head > hi style {
     font-family: Arvo, sans-serif;
   font-size: 150%;
   color: #1100;
