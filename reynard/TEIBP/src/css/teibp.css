@@ -1845,6 +1845,7 @@ html {
 }
 img {
   border: 1px solid #AAA;
+  width: 100%;
 }
 footer {
   display: none;
