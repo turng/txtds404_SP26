@@ -684,7 +684,7 @@ body > head {
   text-indent: -0.5em;
 }
 div > head {
-  font-size: 170%;
+  font-size: 130%;
   text-indent: -0.5em;
 }
 div > div > head {
@@ -1833,14 +1833,11 @@ html > body {
   padding: 0;
 }
 html {
-  margin: 0;
+  margin: auto;
   padding: 0;
-  margin-left: 2em;
-  margin-right: 4em;
-  padding: 2.5em;
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
-  background-color: #EBEBEB;
+  background-color: white;
   color: #292929;
   width: 33em;
 }
