@@ -1835,7 +1835,7 @@ zone {
 html > body {
   margin: auto;
   padding: 0;
-  padding: 2.5em; /* moved from htlm below. */
+  padding: 2.5em; /* moved from html below. */
   width: 60%;
 }
 html {
