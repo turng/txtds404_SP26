@@ -1941,7 +1941,7 @@ div.facsImage img:first-child {
 body > div > head > hi style {
     font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
-  font-weight: 700;
+  font-weight: bold;
   color: #1100;
   display: inline;
     }
