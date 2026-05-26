@@ -1690,7 +1690,6 @@ table > head {
   text-align: center;
 }
 teiHeader {
-  display: none;
   /*
 border-radius: 15px;
 border: 1px solid black;
@@ -1847,7 +1846,7 @@ zone {
 }
 /* styles for html shell and html elements in TEI (e.g.,<a> and <img>) */
 html > body {
-  margin: 0;
+  margin: auto;
   padding: 0;
   padding: 2.5em;
   width: 33em;
