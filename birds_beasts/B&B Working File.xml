@@ -6,24 +6,32 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A Short History of Birds and Beasts, for the Amusement and Instruction of Children. </title>
+            <title>A Short History of Birds and Beasts, for the Amusement and Instruction of
+               Children. </title>
             <author>Anonymous</author>
             <editor>Audrey Goddard, Phoebe Norton, and Marin Tisdale</editor>
          </titleStmt>
          <publicationStmt>
-            <p>We are interested in this particular text because of how it combines visual and textual elements in a format intended for younger audiences. In other words, we are interested in the intersection between the physicality of the text in relation to its audience, and how this relationship can evolve over time. By preserving our text, we hope to offer insight into the historical evolution of children’s literature in order to better understand the factors contributing to such change.</p>        
+            <p>We are interested in this particular text because of how it combines visual and
+               textual elements in a format intended for younger audiences. In other words, we are
+               interested in the intersection between the physicality of the text in relation to its
+               audience, and how this relationship can evolve over time. By preserving our text, we
+               hope to offer insight into the historical evolution of children’s literature in order
+               to better understand the factors contributing to such change.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>A Short History of Birds and Beasts is a 19th century children's chapbook created for children to both entertain and instill moral teachings. It is written in both prose and verse with entries for thirteen different animals accompanied by corresponding illustrations. This chapbook is accessible through the UW Libraries: physically in their special collections and digitally through Project Gutenberg.
-               <bibl>
+            <p>A Short History of Birds and Beasts is a 19th century children's chapbook created for
+               children to both entertain and instill moral teachings. It is written in both prose
+               and verse with entries for thirteen different animals accompanied by corresponding
+               illustrations. This chapbook is accessible through the UW Libraries: physically in
+               their special collections and digitally through Project Gutenberg. <bibl>
                   <title>A Short History of Birds and Beasts</title>
                   <author>Anonymous</author>
                   <pubPlace> Wellington, Salop</pubPlace>
                   <publisher>F. Houlston and Son</publisher>
                   <date> Published between 1828 and 1840</date>
-                  <msDesc>Small green chapbook bound with single stitch and letterpress printed</msDesc>
                   <idno type="OCLC">746053694</idno>
-               </bibl>
+               </bibl> 
             </p>
          </sourceDesc>
       </fileDesc>
@@ -34,22 +42,42 @@
             <titlePart> </titlePart>
          </titlePage>
          <div type="editorial_intro">
-            <p>Published between 1828 and 1840,  A Short History of Birds and Beasts is a small catalog of birds, insects, and mammals, with images and brief descriptions of each animal underneath—intended for a child audience. The descriptions are presented in a nursery rhyme-like form rather than as a scientific report in order to further audience engagement with the text. Additionally, the pocket-sized nature of the text’s physical form lends itself to portability. With its compact size, variety of fonts, and detailed imagery, A Short History of Birds and Beasts combines rhyming verse with visual imagery to ultimately create a text that is both entertaining and educational in its message. 
-               This edition seeks to draw attention to how the combination of visual and textual elements within children’s literature can play a role in audience engagement and understanding of a text. In doing so, a unique perspective on the historical evolution of children’s literature becomes more distinctly illuminated. To do this, we chose to utilize a diplomatic transcription of the text to highlight this evolution as distinctly as possible. In order to maintain the combination of the textual and visual, the images and fonts used in the original edition were transcribed within our digital edition. Furthermore, by digitizing text previously attainable only through the UW Special Collections, we hope to increase the accessibility of our text in a wider, not purely archival, context. 
-            </p>
+            <p>Published between 1828 and 1840, A Short History of Birds and Beasts is a small
+               catalog of birds, insects, and mammals, with images and brief descriptions of each
+               animal underneath—intended for a child audience. The descriptions are presented in a
+               nursery rhyme-like form rather than as a scientific report in order to further
+               audience engagement with the text. Additionally, the pocket-sized nature of the
+               text’s physical form lends itself to portability. With its compact size, variety of
+               fonts, and detailed imagery, A Short History of Birds and Beasts combines rhyming
+               verse with visual imagery to ultimately create a text that is both entertaining and
+               educational in its message. This edition seeks to draw attention to how the
+               combination of visual and textual elements within children’s literature can play a
+               role in audience engagement and understanding of a text. In doing so, a unique
+               perspective on the historical evolution of children’s literature becomes more
+               distinctly illuminated. To do this, we chose to utilize a diplomatic transcription of
+               the text to highlight this evolution as distinctly as possible. In order to maintain
+               the combination of the textual and visual, the images and fonts used in the original
+               edition were transcribed within our digital edition. Furthermore, by digitizing text
+               previously attainable only through the UW Special Collections, we hope to increase
+               the accessibility of our text in a wider, not purely archival, context. </p>
          </div>
-         <div type= "preface">
-            <p></p>
+         <div type="preface">
+            <p/>
          </div>
       </front>
       <body>
-            <div type="endnotes">
-               <note xml:id="n1"> We edited the line groups of verse into quatrains separate from the following prose <ref type="biblio" target="#source4"> See source 4. </ref> </note>
-               <note xml:id="n13">Section 13: The Lion references the biblical story of Daniel in the lions’ den.</note>
-               <note xml:id="n14">Section 14: The Whale references the biblical story of Jonah, who was swallowed by a whale.</note>
-               <note xml:id="n21">Section 21: The Ass references the biblical story of Samson.</note>
-               <note xml:id="n22">Section 22: The Ant references and quotes the biblical king Solomon.</note>
-            </div>
+         <div type="endnotes">
+            <note xml:id="n1"> We edited the line groups of verse into quatrains separate from the
+               following prose <ref type="biblio" target="#source4"> See source 4. </ref>
+            </note>
+            <note xml:id="n13">Section 13: The Lion references the biblical story of Daniel in the
+               lions’ den.</note>
+            <note xml:id="n14">Section 14: The Whale references the biblical story of Jonah, who was
+               swallowed by a whale.</note>
+            <note xml:id="n21">Section 21: The Ass references the biblical story of Samson.</note>
+            <note xml:id="n22">Section 22: The Ant references and quotes the biblical king
+               Solomon.</note>
+         </div>
       </body>
       <back>
          <div type="bibliography">
@@ -59,15 +87,18 @@
                   <ref>https://tei-c.org/release/doc/tei-p5-doc/en/html/HD.html#HD57.</ref>
                </bibl>
                <bibl xml:id="source2">
-                  <title>Tei-c.org. “3 Elements  Available in All TEI Documents - the TEI Guidelines,” 2026.</title>
+                  <title>Tei-c.org. “3 Elements Available in All TEI Documents - the TEI
+                     Guidelines,” 2026.</title>
                   <ref>https://tei-c.org/release/doc/tei-p5-doc/en/html/CO.html#CONA.</ref>
                </bibl>
                <bibl xml:id="source3">
-                  <title>Teibyexample.org. “TEI by Example | Tutorials | Module 3: Prose,” 2020.</title>
+                  <title>Teibyexample.org. “TEI by Example | Tutorials | Module 3: Prose,”
+                     2020.</title>
                   <ref>https://teibyexample.org/exist/tutorials/TBED03v00.htm.</ref>
                </bibl>
                <bibl xml:id="source4">
-                  <title>Teibyexample.org."TEI by Example.org.“TEI by Example | Tutorials | Module 4: Poetry,” 2020.</title>
+                  <title>Teibyexample.org."TEI by Example.org.“TEI by Example | Tutorials | Module
+                     4: Poetry,” 2020.</title>
                   <ref>https://teibyexample.org/exist/tutorials/TBED04v00.htm.</ref>
                </bibl>
             </listBibl>
@@ -75,4 +106,3 @@
       </back>
    </text>
 </TEI>
-
