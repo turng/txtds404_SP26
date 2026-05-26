@@ -681,10 +681,8 @@ TEI head {
 }
 body > head {
   font-size: 100%;
-  text-indent: -0.5em;
 }
 div > head {
-  text-indent: -0.5em;
 }
 div > div > head {
   font-size: 100%;
@@ -1831,6 +1829,7 @@ html > body {
   margin: auto;
   padding: 2em;
     width: 75%;
+    background-color: #f4eee0;
 }
 html {
   margin: 0;
@@ -1838,7 +1837,7 @@ html {
   padding: 2.5em;
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
-  background-color: #EDE8D0;
+  background-color: #f4eee0;
 }
 img {
   border: 1px solid #AAA;
@@ -1945,5 +1944,6 @@ body > div > head > hi style {
   font-size: 14pt;
   font-weight: 700;
   color: #1100;
+  margin: auto;
     }
 
