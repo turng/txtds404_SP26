@@ -48,20 +48,20 @@
       <body>
          <pb n="7"/>
          <p><seg>"Be American" 7</seg></p>
-         <p><said direct="true">Not American citizen yet?</said></p>
-         <p><said direct="true">You should have told me<ref target="BA7-1">?</ref></said></p>
-         <p><said direct="true">Told you what?</said></p>
-         <p><said direct="true">Filipinos can’t become American citizens.</said></p>
-         <p><said direct="true">Well, I could have told you. But I wanted you to learn.</said></p>
-         <p><said direct="true">At least I speak better English now.</said></p>
-         <p><said direct="true">This is a country of great opportunity.</said></p>
+         <p><said direct="true">"Not American citizen yet?"</said></p>
+         <p><said direct="true">"You should have told me<ref target="BA7-1">?</ref>"</said></p>
+         <p><said direct="true">"Told you what?"</said></p>
+         <p><said direct="true">"Filipinos can’t become American citizens."</said></p>
+         <p><said direct="true">"Well, I could have told you. But I wanted you to learn."</said></p>
+         <p><said direct="true">"At least I speak better English now."</said></p>
+         <p><said direct="true">"This is a country of great opportunity."</said></p>
          <p>Silence.</p>
-         <p><said direct="true">No work?</said></p>
-         <p><said direct="true">No work.</said></p>
-         <p><said direct="true">How long?</said></p>
-         <p><said direct="true">I have forgotten.</said></p>
-         <p><said direct="true">Better times will come.</said></p>
-         <p><said direct="true">You have a wonderful dream, cousin,</said> he told me and left. He
+         <p><said direct="true">"No work?"</said></p>
+         <p><said direct="true">"No work."</said></p>
+         <p><said direct="true">"How long?"</said></p>
+         <p><said direct="true">"I have forgotten."</said></p>
+         <p><said direct="true">"Better times will come."</said></p>
+         <p><said direct="true">"You have a wonderful dream, cousin,"</said> he told me and left. He
             left <lb/><name type="place" ref="#losangeles">Los Angeles</name> for a long time. Then, two
             years later, I received a crate <lb/>of oranges from him. The freight mark was <name
                type="place" ref="#sanjose">San Jose</name>. Now I knew he was <lb/>working and had
