@@ -2021,7 +2021,7 @@ bibl ptr[target] {
     display: block;
     margin-top: 0.5rem;
     font-size: 0.9em;
-    word-break: break-word;
+    overflow-wrap: anywhere;
 }
 
 /* If TEI Boilerplate transforms refs into links */
