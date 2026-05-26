@@ -1943,3 +1943,10 @@ div.facsImage img:first-child {
   font-family: Arvo, sans-serif;
   font-weight: normal;
 }
+
+body > div > head > hi {
+    font-family: Arvo, sans-serif;
+  font-size: 150%;
+  color: #1100;
+    }
+
