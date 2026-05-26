@@ -685,7 +685,8 @@ body > head {
 }
 div > head {
   font-size: 170%;
-  text-indent: -0.5em
+  text-indent: -0.5em;
+  color: #cc1100;
 }
 div > div > head {
   font-size: 155%;
