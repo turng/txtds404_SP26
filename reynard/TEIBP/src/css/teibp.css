@@ -736,8 +736,8 @@ height {
 heraldry {
   /* Empty Rule Set */
 }
-hi {
-  /* GLS: do we want to bold this or change the background color? */
+hi style {
+  color: red;
 }
 history {
   /* Empty Rule Set */
