@@ -676,7 +676,6 @@ handShift {
 /* Need head with TEI parent to distinguish from HTML head */
 TEI head {
   display: block;
-  font-family: Arvo, sans-serif;
   font-weight: normal;
 }
 body > head {
@@ -1942,8 +1941,8 @@ div.facsImage img:first-child {
 body > div > head > hi style {
     font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
-  font-weight: 700;
+  font-weight: bold;
   color: #1100;
-  margin: auto;
+  display: inline;
     }
 
