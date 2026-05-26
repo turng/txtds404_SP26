@@ -126,6 +126,30 @@
             </lg>      
          </lg>
          <pb n="4"/>
+         <figure>
+            <graphic url="enter/url/here"/>
+            <figDesc>On the left, a standing woman touches a birdcage on the table. On the right, a man stares down at her.</figDesc>
+         </figure>
+         <lg type="poem" n="4">
+            <lg type="stanza" rend="center" rhyme="abcb">
+               <l>Little miss, pretty miss,</l>
+               <l rend="indented">May blessings light on you!</l>
+               <l>If I'd a crown a day,</l>
+               <l rend="indented">I'd spend it upon you.</l>
+            </lg>
+         </lg>
+         <lg type="poem" n="5">
+            <l rend="center italicized">Song set to the five Toes</l>
+            <lg type="stanza" rend="center" rhyme="abcdeb">
+               <l>1 This little pig went to market,</l>
+               <l rend="indented">2 That little pig staid at home,</l>
+               <l>3 This pig had nice bread and butter,</l>
+               <l rend="indented">4 And that little pig had none;</l>
+               <l>5 This little pig cried week, week, week!</l>
+               <l rend="indented">And could n't find his way home.</l>
+            </lg>
+         </lg>
+         <pb n="5"/>
       </body>
   </text>
 </TEI>
