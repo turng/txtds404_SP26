@@ -737,7 +737,8 @@ heraldry {
   /* Empty Rule Set */
 }
 hi {
-  /* GLS: do we want to bold this or change the background color? */
+  text-transform: uppercase;
+  
 }
 history {
   /* Empty Rule Set */
@@ -1177,6 +1178,7 @@ pb {
   font-size: 11pt;
 }
 pb:before {
+  display: none;
   content: "page:\a0" attr(n);
 }
 pc {
@@ -1849,7 +1851,7 @@ html > body {
   margin: auto;
   padding: 0;
   padding: 2.5em;
-  width: 33em;
+  width: 60%;
 }
 html {
   margin: 0;
