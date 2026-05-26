@@ -1086,6 +1086,14 @@ note::before{
     font-weight: bold;
 }
 
+person note::before {
+    content: ": ";
+}
+
+person note{
+    display: inline;
+}
+
 notesStmt {
   /* do we want to box each individual <note> if they're in a <notesStmt>? */
   display: none;
