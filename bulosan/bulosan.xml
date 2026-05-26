@@ -205,7 +205,8 @@
          <pb n="-7-"/>
          <p><said direct="true">"I’ll remember everything,"</said>I said.</p> 
          <p><said direct="true">“It is a timeless life,”</said>he
-            said dreamingly.<said direct="true">“But I got lonesome for my<lb/>guitar. I’ve asked the queen, that is the mermaid,
+            said dreamingly.<said direct="true">“But I got lonesome for my<lb/>guitar. I’ve asked the<name type="person" ref="#Mermaid"
+                  >queen</name>, that is the <name type="person" ref="#Mermaid">mermaid</name>,
                to get it back. I’m on<lb/>my way to my house now.”</said></p>
          <p><said direct="true">“Your house is not there any more.”</said>I said.<said direct="true">“It
                disappeared years ago.”</said></p> 
@@ -218,11 +219,11 @@
                </choice>my generation. Then a plague and a famine came after,
                killing the rest including my own generation. What you will see here are remnants of a one
                vigorous race. I don’t know what will happen to us in another generation.”</said><lb/></p> 
-         <p><said direct="true">“My heart beats for you,”</said>he said sadly.<said direct="true">“But I’ve got to go now. The<lb/>queen will be disappointed when she hears that
+         <p><said direct="true">“My heart beats for you,”</said>he said sadly.<said direct="true">“But I’ve got to go now. The<lb/><name type="person" ref="#Mermaid">queen</name> will be disappointed when she hears that
                my guitar is gone.”</said></p> 
          <p><said direct="true">“I’ve a guitar,”</said> I said.<said direct="true">“I want to give it to you. I want you to be<lb/>happy
-               with the queen in that timeless place.”</said></p> 
-         <p><said direct="true">“Thank you, son,”</said>he said. <said direct="true">“You are very understanding
+               with the <name type="person" ref="#Mermaid">queen</name>in that timeless place.”</said></p> 
+         <p><said direct="true">“Thank you,<name type="person" ref="#son">son</name>,”</said>he said.<said direct="true">“You are very understanding
                and kind. I’ve<lb/>sacrificed my life for this town, but that is nothing. If I didn’t go with<lb/>the
                queen, she would have taken many of the young men in this town.”</said></p>
          <p><said direct="true">“But why would she do that?”</said>I asked.</p> 
@@ -233,7 +234,7 @@
          <p>I remained silent.</p>
          <p><said direct="true">“They wouldn’t have understood her,”</said>he said again.<said direct="true">“They are too
                human.”</said></p> 
-         <p><said direct="true">"Thank you for your sacrifice,”</said>I said.<said direct="true">“Please give my best regards to<lb/>the queen.”</said></p>
+         <p><said direct="true">"Thank you for your sacrifice,”</said>I said.<said direct="true">“Please give my best regards to<lb/>the <name type="person" ref="#Mermaid">queen</name>.”</said></p>
          <p><said direct="true">“Now, remember that mermaid are really kind and understanding,”</said>he said.<lb/><said direct="true">“They are cruel
                sometimes because men don’t understand them. Men of the earth</said></p> 
          <pb n="-8-"/>
@@ -246,25 +247,27 @@
                <corr>walk</corr>
          </choice>straight into the water. And the day became sud-<lb/>denly
             dark and murmurous. I heard the turbulent lashing and roaring of<lb/>the water in the momentary
-            darkness. And when the sun came out the man was<lb/>gone, forever.</p>
-         <p>And the mermaid never came out of the secret depths again. Sometimes<lb/>the townspeople could hear the faraway sound of a guitar
+            darkness. And when the sun came out <name type="person" ref="#the_man">the man was</name><lb/>gone, forever.</p>
+         <p>And the <name type="person" ref="#Mermaid">mermaid</name> never came out of the secret depths again. Sometimes<lb/>the townspeople could hear the faraway sound of a guitar
             rising from the<lb/>river when the moon was full in the summer sky.</p></body>
       
       
       <back>
          <div type="charindex">
             <listPerson>
-               <person xml:id="Queen">
-                  <persName>Mermaid</persName>
-                  <note><p>The lonesome Mermaid</p></note>
-               </person>
                <person xml:id="Mermaid">
-                  <persName>Mermaid</persName>
+                  <persName type="primary">Mermaid</persName>
+                  <persName type="secondary">Queen</persName>
                   <note><p>The lonesome Mermaid</p></note>
                </person>
+              
                <person xml:id="son">
                   <persName>unknown</persName>
                   <note><p>main character</p></note>
+               </person>
+               <person xml:id="the_man">
+                  <persName>unknown</persName>
+                  <note><p>Lonesome mermaid's partner</p></note>
                </person>
             </listPerson>
          </div>
