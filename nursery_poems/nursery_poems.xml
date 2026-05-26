@@ -52,16 +52,105 @@
         <head rend="center">Nursery Poems</head>
         <head rend="center">from the</head>
         <head rend="center">Ancient and Modern Poets</head>
-        <figure type="image">
-           <graphic url="example.png"/>
-           <figDesc>A smiling sun icon surronded by the text <lang xml:lang="la">DEUS. EST. NOBIUS. SOL. ET.SCUTUM</lang></figDesc>
+        <figure type="image" rend="center">
+           <graphic url="imgs/banbury_sun.png"/>
+           <figDesc>A smiling sun icon surronded by the text <lang xml:lang="la">DEUS. EST. NOBIUS. SOL. ET. SCUTUM</lang></figDesc>
         </figure>
         <p>Banbury:</p>
         <p>Printed by J. G. Rusher</p>
         <pb n="1"/>
      </front>
       <body>
-         <p>example text</p>
+         <figure type="image" rend="center">
+            <graphic url="imgs/monarchs_and_crown.png"/>
+            <figDesc>three small images, on the left a man's head facing right, in the center a crown, and on the right a woman's head facing left. Each one is framed by a swirling vegetal pattern.</figDesc>
+         </figure>
+         <lg type="poem" n="1">
+            <lg type="stanza" rend="center" rhyme="abcbdefe">
+               <l>Sing a song a sixpence,</l>
+               <l rend="indented">A bag full of rye;</l>
+               <l>Four-and-twenty blackbirds</l>
+               <l rend="indented">Baked in a pie;</l>
+               <l>When the pie was opened,</l>
+               <l rend="indented">The birds began to sing;</l>
+               <l>Was not this a dainty dish</l>
+               <l rend="indented">To set before the king?</l>
+            </lg>
+            <lg type="stanza" rend="center" rhyme="abcbefe">
+               <l>The king in his counting house,</l>
+               <l rend="indented">Counting up his money;</l>
+               <l>The queen in the parlour,</l>
+               <l rend="indented">Eating bread and honey:</l>
+               <l>The maid in the garden,</l>
+               <l rend="indented">Hanging out the clothes;</l>
+               <l>By came a little bird,</l>
+               <l rend="indented">And snapt at her nose.</l>
+            </lg>
+         </lg>
+         <pb n="2"/>
+         <figure type="image" rend="left">
+            <graphic url="imgs/rooster.png"/>
+            <figDesc>A large rooster standing upright facing the right side of the page.</figDesc>
+         </figure>
+         <lg type="poem" n="2">
+            <lg type="stanza" rend="left" rhyme="aaba">
+               <l>Crows Cock-a-doodle-do!</l>
+               <l rend="indented">My dame has lost her shoe;</l>
+               <l>Master broke his fiddle-stick,</l>
+               <l rend="indented">And don't know what to do.</l>
+            </lg>
+         </lg>
+         <pb n="3"/>
+         <figure type="image" rend="center">
+            <graphic url="imgs/book_quill_and_feathers.png"/>
+            <figDesc>An open booklet lies atop a pair of oustretched wings. Piled atop the booklet are three small branches and a quill.</figDesc>
+         </figure>
+         <lg type="poem" n="3">
+            <lg type="stanza" rend="center" rhyme="ababcdcdefefagag">
+               <l rend="indented">Pretty flowers, tell me why</l>
+               <l>All your leaves do open wide,</l>
+               <l rend="indented">Every morning, when on high</l>
+               <l>The noble sun begins to ride?</l>
+               <l rend="indented">This is why, my lady fair,</l>
+               <l>If you would the reason know;</l>
+               <l rend="indented">For betimes the pleasant air</l>
+               <l>Very cheerfully does blow:</l>
+               <l rend="indented">And the birds on every tree</l>
+               <l>Sing a very merry tune,</l>
+               <l rend="indented">And the little honey bee</l>
+               <l>Comes to suck my sugar soon:</l>
+               <l rend="indented">This is all the reason why</l>
+               <l>I my little leaves undo;</l>
+               <l rend="indented">Lady, lady, wake and try,</l>
+               <l>If I have not told you true.</l>
+            </lg>      
+         </lg>
+         <pb n="4"/>
+         <figure>
+            <graphic url="enter/url/here"/>
+            <figDesc>On the left, a standing woman touches a birdcage on the table. On the right, a man stares down at her.</figDesc>
+         </figure>
+         <lg type="poem" n="4">
+            <lg type="stanza" rend="center" rhyme="abcb">
+               <l>Little miss, pretty miss,</l>
+               <l rend="indented">May blessings light on you!</l>
+               <l>If I'd a crown a day,</l>
+               <l rend="indented">I'd spend it upon you.</l>
+            </lg>
+         </lg>
+         <l rend="center">—</l>
+         <lg type="poem" n="5">
+            <l rend="center italicized">Song set to the five Toes</l>
+            <lg type="stanza" rend="center" rhyme="abcdeb">
+               <l>1 This little pig went to market,</l>
+               <l rend="indented">2 That little pig staid at home,</l>
+               <l>3 This pig had nice bread and butter,</l>
+               <l rend="indented">4 And that little pig had none;</l>
+               <l>5 This little pig cried week, week, week!</l>
+               <l rend="indented">And could n't find his way home.</l>
+            </lg>
+         </lg>
+         <pb n="5"/>
       </body>
   </text>
 </TEI>

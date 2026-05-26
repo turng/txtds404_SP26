@@ -47,8 +47,8 @@
 .-teibp-pb {
   display: block;
   width: 100%;
-  text-align: center;
-  color: #EDE8D0;
+  text-align: right;
+  color: gray;
   margin: 2em 0 2em 0;
   font-size: 11pt;
 }
@@ -680,25 +680,28 @@ TEI head {
   font-weight: normal;
 }
 body > head {
-  font-size: 100%;
+  font-size: 180%;
+  text-indent: -0.5em;
 }
 div > head {
+  font-size: 170%;
+  text-indent: -0.5em;
 }
 div > div > head {
-  font-size: 100%;
+  font-size: 155%;
 }
 div > div > div > head {
-  font-size: 100%;
+  font-size: 140%;
 }
 div > div > div > div > head,
 list > head {
-  font-size: 100%;
+  font-size: 130%;
 }
 div > div > div > div > div > head {
-  font-size: 100%;
+  font-size: 120%;
 }
 div > div > div > div > div > div head {
-  font-size: 100%;
+  font-size: 110%;
 }
 figure > head {
   display: block;
@@ -734,7 +737,7 @@ heraldry {
   /* Empty Rule Set */
 }
 hi {
-  color: #cc1100
+  /* GLS: do we want to bold this or change the background color? */
 }
 history {
   /* Empty Rule Set */
@@ -1669,7 +1672,7 @@ table > head {
   text-align: center;
 }
 teiHeader {
-  display: none;
+  display: block;
   /*
 border-radius: 15px;
 border: 1px solid black;
@@ -1826,25 +1829,25 @@ zone {
 }
 /* styles for html shell and html elements in TEI (e.g.,<a> and <img>) */
 html > body {
-  margin: auto;
-  padding: 2em;
-    width: 75%;
-    background-color: #f4eee0;
+  margin: 0;
+  padding: 0;
 }
 html {
   margin: 0;
   padding: 0;
+  margin-left: 2em;
+  margin-right: 4em;
   padding: 2.5em;
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
-  background-color: #f4eee0;
+  background-color: #EBEBEB;
+  color: #292929;
+  width: 33em;
 }
 img {
   border: 1px solid #AAA;
-  width: 100%;
 }
 footer {
-  display: none;
   margin-top: 1em;
   border-top: 1px solid #292929;
   padding-top: .5em;
@@ -1861,7 +1864,6 @@ a:hover {
   text-decoration: underline;
 }
 #teibpToolbox {
-  display: none;
   left: 56em;
   top: 25px;
   position: fixed;
@@ -1936,14 +1938,6 @@ div.facsImage img:first-child {
   margin-top: 0;
 }
 .head-font {
+  font-family: Arvo, sans-serif;
   font-weight: normal;
 }
-
-body > div > head > hi style {
-    font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
-  font-size: 14pt;
-  font-weight: 700;
-  color: #1100;
-  margin: auto;
-    }
-

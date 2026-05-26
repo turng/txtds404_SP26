@@ -14,8 +14,8 @@
   border-radius: 15px;
   width: 325px;
   position: relative;
-  border: 1px solid #AAA;
-  background: #FAFAFA;
+  border: 1px solid #444444;
+  background: #252525;
   /* reset text-indent for note with <l> ancestors. */
   text-indent: 0;
   font-size: 85%;
@@ -47,8 +47,8 @@
 .-teibp-pb {
   display: block;
   width: 100%;
-  text-align: center;
-  color: #EDE8D0;
+  text-align: right;
+  color: gray;
   margin: 2em 0 2em 0;
   font-size: 11pt;
 }
@@ -97,10 +97,10 @@
   margin-left: 2em;
   margin-right: 4em;
   padding: 2.5em;
-  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
+  font-family: Monaco, "Andale Mono", Courier, monospace;
   font-size: 14pt;
-  background-color: #EBEBEB;
-  color: #292929;
+  background-color: black;
+  color: #00FD00;
   width: 33em;
 }
 .table-border {
@@ -108,7 +108,7 @@
 border-left: 2px solid @border-color;
 border-top:2px solid @border-color;
 */
-  border: 1px dotted #AAA;
+  border: 1px dotted #444444;
 }
 /* Choice elements */
 choice abbr + expan:before,
@@ -266,7 +266,7 @@ author {
 }
 titleStmt > author {
   display: block;
-  font-family: Arvo, sans-serif;
+  font-family: Monaco, "Andale Mono", Courier, monospace;
   font-weight: normal;
   margin-bottom: 1em;
 }
@@ -408,7 +408,7 @@ cell {
 border-left: 2px solid @border-color;
 border-top:2px solid @border-color;
 */
-  border: 1px dotted #AAA;
+  border: 1px dotted #444444;
   width: 100%;
 }
 /* for cell or row with @role = label */
@@ -573,7 +573,7 @@ egXML {
   font-size: 80%;
   margin-left: 1em;
   padding-left: 1em;
-  border-left: 1px solid #AAA;
+  border-left: 1px solid #444444;
   margin-top: .75em;
   margin-bottom: .75em;
   padding-top: .75em;
@@ -676,29 +676,32 @@ handShift {
 /* Need head with TEI parent to distinguish from HTML head */
 TEI head {
   display: block;
-  font-family: Arvo, sans-serif;
+  font-family: Monaco, "Andale Mono", Courier, monospace;
   font-weight: normal;
 }
 body > head {
-  font-size: 100%;
+  font-size: 180%;
+  text-indent: -0.5em;
 }
 div > head {
+  font-size: 170%;
+  text-indent: -0.5em;
 }
 div > div > head {
-  font-size: 100%;
+  font-size: 155%;
 }
 div > div > div > head {
-  font-size: 100%;
+  font-size: 140%;
 }
 div > div > div > div > head,
 list > head {
-  font-size: 100%;
+  font-size: 130%;
 }
 div > div > div > div > div > head {
-  font-size: 100%;
+  font-size: 120%;
 }
 div > div > div > div > div > div head {
-  font-size: 100%;
+  font-size: 110%;
 }
 figure > head {
   display: block;
@@ -708,8 +711,8 @@ figure > head {
   border-radius: 15px;
   width: 325px;
   position: relative;
-  border: 1px solid #AAA;
-  background: #FAFAFA;
+  border: 1px solid #444444;
+  background: #252525;
   /* reset text-indent for note with <l> ancestors. */
   text-indent: 0;
   font-size: 85%;
@@ -718,7 +721,7 @@ figure > head {
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   width: 85%;
-  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
+  font-family: Monaco, "Andale Mono", Courier, monospace;
   font-size: 14pt;
 }
 headItem {
@@ -734,7 +737,7 @@ heraldry {
   /* Empty Rule Set */
 }
 hi {
-  color: #cc1100
+  /* GLS: do we want to bold this or change the background color? */
 }
 history {
   /* Empty Rule Set */
@@ -1063,8 +1066,8 @@ note {
   border-radius: 15px;
   width: 325px;
   position: relative;
-  border: 1px solid #AAA;
-  background: #FAFAFA;
+  border: 1px solid #444444;
+  background: #252525;
   /* reset text-indent for note with <l> ancestors. */
   text-indent: 0;
   font-size: 85%;
@@ -1669,7 +1672,7 @@ table > head {
   text-align: center;
 }
 teiHeader {
-  display: none;
+  display: block;
   /*
 border-radius: 15px;
 border: 1px solid black;
@@ -1721,7 +1724,7 @@ title[level=m] {
 /* as a hack to solve a JavaScript/jQuery issue. */
 titleStmt > tei-title {
   display: block;
-  font-family: Arvo, sans-serif;
+  font-family: Monaco, "Andale Mono", Courier, monospace;
   font-weight: normal;
   font-weight: bold !important;
   font-size: 150%;
@@ -1826,42 +1829,41 @@ zone {
 }
 /* styles for html shell and html elements in TEI (e.g.,<a> and <img>) */
 html > body {
-  margin: auto;
-  padding: 2em;
-    width: 75%;
-    background-color: #f4eee0;
+  margin: 0;
+  padding: 0;
 }
 html {
   margin: 0;
   padding: 0;
+  margin-left: 2em;
+  margin-right: 4em;
   padding: 2.5em;
-  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
+  font-family: Monaco, "Andale Mono", Courier, monospace;
   font-size: 14pt;
-  background-color: #f4eee0;
+  background-color: black;
+  color: #00FD00;
+  width: 33em;
 }
 img {
-  border: 1px solid #AAA;
-  width: 100%;
+  border: 1px solid #444444;
 }
 footer {
-  display: none;
   margin-top: 1em;
-  border-top: 1px solid #292929;
+  border-top: 1px solid #00FD00;
   padding-top: .5em;
   font-size: 12pt;
 }
 a:link,
 a:visited,
 a:active {
-  color: #5f0000;
+  color: #1CC0FA;
   text-decoration: none;
 }
 a:hover {
-  color: #5f0000;
+  color: #1CC0FA;
   text-decoration: underline;
 }
 #teibpToolbox {
-  display: none;
   left: 56em;
   top: 25px;
   position: fixed;
@@ -1869,8 +1871,8 @@ a:hover {
   margin-right: 1em;
   padding: 1em;
   border-radius: 15px;
-  border: 1px solid #AAA;
-  background: #FAFAFA;
+  border: 1px solid #444444;
+  background: #252525;
   font-family: Arvo, Verdana, sans-serif;
   text-align: justify;
   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
@@ -1883,7 +1885,7 @@ a:hover {
   font-size: 115%;
   margin-top: 0;
   margin-bottom: .5em;
-  border-bottom: 1px solid #AAA;
+  border-bottom: 1px solid #444444;
 }
 /* xml-serialization */
 .eg-element {
@@ -1901,7 +1903,7 @@ a:hover {
   color: #993300;
 }
 .eg-text {
-  color: #292929;
+  color: #00FD00;
 }
 /* loading animation */
 #loading {
@@ -1915,7 +1917,7 @@ a:hover {
 }
 /* facsViewer */
 #resizable {
-  background-color: #EBEBEB;
+  background-color: black;
   width: 550px;
   height: 700px;
   overflow: hidden;
@@ -1935,15 +1937,8 @@ div.facsImage img {
 div.facsImage img:first-child {
   margin-top: 0;
 }
+/* Terminal Theme */
 .head-font {
+  font-family: Monaco, "Andale Mono", Courier, monospace;
   font-weight: normal;
 }
-
-body > div > head > hi style {
-    font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
-  font-size: 14pt;
-  font-weight: 700;
-  color: #1100;
-  margin: auto;
-    }
-
