@@ -681,11 +681,9 @@ TEI head {
 }
 body > head {
   font-size: 180%;
-  text-indent: -0.5em;
 }
 div > head {
   font-size: 170%;
-  text-indent: -0.5em;
 }
 div > div > head {
   font-size: 155%;
@@ -736,8 +734,18 @@ height {
 heraldry {
   /* Empty Rule Set */
 }
-hi {
-  /* GLS: do we want to bold this or change the background color? */
+
+hi[rend="format(bold)"] {
+  font-weight: bold;
+}
+hi[rend="font(allCaps)"] {
+  text-transform: uppercase;
+}
+hi[rend="format(underlined)"]{
+  text-decoration: underline;
+}
+hi[rend="indent"]{
+  text-indent: 2em;
 }
 history {
   /* Empty Rule Set */
@@ -1002,6 +1010,7 @@ moduleSpec {
 }
 monogr {
   /* block with space above, below */
+  display: none;
 }
 mood {
   /* Empty Rule Set */
@@ -1063,7 +1072,7 @@ normalization {
 }
 note {
   display: block;
-  margin: 1.5em auto 1.5em auto;
+  /* margin: 1.5em auto 1.5em auto;
   padding: .5em 1.5em 1.5em 1.5em;
   border: 1px solid black;
   border-radius: 15px;
@@ -1071,15 +1080,28 @@ note {
   position: relative;
   border: 1px solid #AAA;
   background: #FAFAFA;
-  /* reset text-indent for note with <l> ancestors. */
+  reset text-indent for note with <l> ancestors.
   text-indent: 0;
   font-size: 85%;
   text-align: justify;
   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
-  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);*/
   
 }
+note::before{
+    content: attr(id) ": ";
+    font-weight: bold;
+}
+
+person note::before {
+    content: ": ";
+}
+
+person note{
+    display: inline;
+}
+
 notesStmt {
   /* do we want to box each individual <note> if they're in a <notesStmt>? */
   display: none;
@@ -1177,6 +1199,7 @@ pb {
   font-size: 11pt;
 }
 pb:before {
+  display: none;
   content: "page:\a0" attr(n);
 }
 pc {
@@ -1690,7 +1713,6 @@ table > head {
   text-align: center;
 }
 teiHeader {
-  display: block;
   /*
 border-radius: 15px;
 border: 1px solid black;
@@ -1847,25 +1869,24 @@ zone {
 }
 /* styles for html shell and html elements in TEI (e.g.,<a> and <img>) */
 html > body {
-  margin: 0;
+  margin: auto;
   padding: 0;
+  padding: 2.5em;
+  width: 60%;
 }
 html {
   margin: 0;
   padding: 0;
-  margin-left: 2em;
-  margin-right: 4em;
-  padding: 2.5em;
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
   background-color: #EBEBEB;
   color: #292929;
-  width: 33em;
 }
 img {
   border: 1px solid #AAA;
 }
 footer {
+  display: none;
   margin-top: 1em;
   border-top: 1px solid #292929;
   padding-top: .5em;
@@ -1882,6 +1903,7 @@ a:hover {
   text-decoration: underline;
 }
 #teibpToolbox {
+  display: none;
   left: 56em;
   top: 25px;
   position: fixed;
@@ -1958,21 +1980,4 @@ div.facsImage img:first-child {
 .head-font {
   font-family: Arvo, sans-serif;
   font-weight: normal;
-}
-#teibpToolbox {
-  display: none;
-}
-bibl, biblStruct, listBibl, item {
-  display: block;
-  margin-bottom: 1.2em;
-  padding-bottom: 0.8em;
-  border-bottom: 1px solid #e5e5e5;
-}
-author::after,
-editor::after,
-orgName::after,
-publisher::after,
-pubPlace::after,
-date::after {
-  content: " ";
 }

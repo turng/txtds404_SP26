@@ -684,7 +684,7 @@ body > head {
   text-indent: -0.5em;
 }
 div > head {
-  font-size: 170%;
+  font-size: 130%;
   text-indent: -0.5em;
 }
 div > div > head {
@@ -1672,7 +1672,7 @@ table > head {
   text-align: center;
 }
 teiHeader {
-  display: block;
+  display: none;
   /*
 border-radius: 15px;
 border: 1px solid black;
@@ -1833,14 +1833,11 @@ html > body {
   padding: 0;
 }
 html {
-  margin: 0;
+  margin: auto;
   padding: 0;
-  margin-left: 2em;
-  margin-right: 4em;
-  padding: 2.5em;
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
-  background-color: #EBEBEB;
+  background-color: white;
   color: #292929;
   width: 33em;
 }
@@ -1848,6 +1845,7 @@ img {
   border: 1px solid #AAA;
 }
 footer {
+display: none;
   margin-top: 1em;
   border-top: 1px solid #292929;
   padding-top: .5em;
@@ -1864,6 +1862,7 @@ a:hover {
   text-decoration: underline;
 }
 #teibpToolbox {
+display: none;
   left: 56em;
   top: 25px;
   position: fixed;
