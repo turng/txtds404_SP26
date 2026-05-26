@@ -685,10 +685,11 @@ body > head {
 }
 div > head {
   font-size: 170%;
-  text-indent: -0.5em;
+  text-indent: -0.5em
 }
 div > div > head {
   font-size: 155%;
+  color: red
 }
 div > div > div > head {
   font-size: 140%;
