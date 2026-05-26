@@ -141,7 +141,7 @@
          <l rend="center">—</l>
          <lg type="poem" n="5">
             <l rend="center italicized">Song set to the five Toes</l>
-            <lg type="stanza" rend="center" rhyme="abcdeb">
+            <lg type="stanza" rend="left" rhyme="abcdeb">
                <l>1 This little pig went to market,</l>
                <l rend="indented">2 That little pig staid at home,</l>
                <l>3 This pig had nice bread and butter,</l>
@@ -151,6 +151,54 @@
             </lg>
          </lg>
          <pb n="5"/>
+         <figure>
+            <graphic url="enter/url/here"/>
+            <figDesc>A long-haired dog runs to the right with its tongue sticking out, atop grass.</figDesc>
+         </figure>
+         <lg type="poem" n="6">
+            <lg type="stanza" rend="left" rhyme="abcb">
+               <l>Two little Dogs sat by the fire,</l>
+               <l rend="indented">Over a fender of coal-dust;</l>
+               <l>When one said to the other dog,</l>
+               <l rend="indented">If Pompey won't talk, why I must.</l>
+            </lg>
+         </lg>
+         <l rend="center">—</l>
+         <lg type="poem" n="7">
+            <lg type="stanza" rend="left" rhyme="aabb">
+               <l>Handy-spandy, Jack-a-dandy,</l>
+               <l>Loved plum-cake and sugar candy;</l>
+               <l>He bought some at the pastry shop,</l>
+               <l>And laughing came out, hop, hop,</l>
+               <l rend="indented">hop!</l>
+            </lg>
+         </lg>
+         <pb n="6"/>
+         <figure>
+            <graphic url="enter/url/here"/>
+            <figDesc>A circular frame shows the left side of a hog.</figDesc>
+         </figure>
+         <lg type="poem" n="8">
+            <lg type="stanza" rend="center" rhyme="abcb">
+               <l>Now have you ever heard</l>
+               <l rend="indented">Of Billy Pringle's Pig?</l>
+               <l>It was not very small,</l>
+               <l rend="indented">Nor yet so very big:</l>
+            </lg>
+            <lg type="stanza" rend="left" rhyme="aabb">
+               <l>When alive it lived in clover,</l>
+               <l>Now its dead and that's all over;</l>
+               <l>Poor Billy, he lay down and died,</l>
+               <l>And Betsy, she sat up and cried:</l>
+            </lg>
+            <lg type="stanza" rend="center" rhyme="aaaa">
+               <l>So there's an end of three;</l>
+               <l rend="indented">Of Billy Pringle, he,</l>
+               <l>Of Betsy Pringle, she,</l>
+               <l rend="indented">And poor piggy wiggee.</l>
+            </lg>
+         </lg>
+         <pb n="7"/>
       </body>
   </text>
 </TEI>
