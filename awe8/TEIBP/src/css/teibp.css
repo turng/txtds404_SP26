@@ -681,11 +681,9 @@ TEI head {
 }
 body > head {
   font-size: 180%;
-  text-indent: -0.5em;
 }
 div > head {
   font-size: 170%;
-  text-indent: -0.5em;
 }
 div > div > head {
   font-size: 155%;
