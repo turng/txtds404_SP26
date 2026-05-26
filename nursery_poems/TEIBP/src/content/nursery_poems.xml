@@ -53,7 +53,7 @@
         <head rend="center">from the</head>
         <head rend="center">Ancient and Modern Poets</head>
         <figure type="image">
-           <graphic url="https://github.com/turng/txtds404_SP26/blob/main/nursery_poems/imgs/banbury_sun.png"/>
+           <graphic url="txtds404_SP26/blob/main/nursery_poems/imgs/banbury_sun.png"/>
            <figDesc>A smiling sun icon surronded by the text <lang xml:lang="la">DEUS. EST. NOBIUS. SOL. ET. SCUTUM</lang></figDesc>
         </figure>
         <p>Banbury:</p>
@@ -62,7 +62,7 @@
      </front>
       <body>
          <figure rend="center">
-            <graphic url="https://github.com/turng/txtds404_SP26/blob/main/nursery_poems/imgs/monarchs_and_crown.png"/>
+            <graphic url="txtds404_SP26/blob/main/nursery_poems/imgs/monarchs_and_crown.png"/>
             <figDesc>three small images, on the left a man's head facing right, in the center a crown, and on the right a woman's head facing left. Each one is framed by a swirling vegetal pattern.</figDesc>
          </figure>
          <lg type="poem" n="1">
@@ -89,7 +89,7 @@
          </lg>
          <pb n="2"/>
          <figure rend="left">
-            <graphic url="https://github.com/turng/txtds404_SP26/blob/main/nursery_poems/imgs/rooster.png"/>
+            <graphic url="txtds404_SP26/blob/main/nursery_poems/imgs/rooster.png"/>
             <figDesc>A large rooster standing upright facing the right side of the page.</figDesc>
          </figure>
          <lg type="poem" n="2">
@@ -102,7 +102,7 @@
          </lg>
          <pb n="3"/>
          <figure>
-            <graphic url="https://github.com/turng/txtds404_SP26/blob/main/nursery_poems/imgs/book_quill_and_feathers.png"/>
+            <graphic url="txtds404_SP26/blob/main/nursery_poems/imgs/book_quill_and_feathers.png"/>
             <figDesc>An open booklet lies atop a pair of oustretched wings. Piled atop the booklet are three small branches and a quill.</figDesc>
          </figure>
          <lg type="poem" n="3">
