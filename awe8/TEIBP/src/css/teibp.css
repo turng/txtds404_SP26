@@ -734,11 +734,18 @@ height {
 heraldry {
   /* Empty Rule Set */
 }
+
 hi[rend="format(bold)"] {
   font-weight: bold;
 }
 hi[rend="font(allCaps)"] {
-  font-weight: bold;
+  text-transform: uppercase;
+}
+hi[rend="format(underlined)"]{
+  text-decoration: underline;
+}
+hi[rend="indent"]{
+  text-indent: 2em;
 }
 history {
   /* Empty Rule Set */
