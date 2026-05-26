@@ -1849,18 +1849,16 @@ zone {
 html > body {
   margin: 0;
   padding: 0;
+  padding: 2.5em;
+  width: 33em;
 }
 html {
   margin: 0;
   padding: 0;
-  margin-left: 2em;
-  margin-right: 4em;
-  padding: 2.5em;
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
   background-color: #EBEBEB;
   color: #292929;
-  width: 33em;
 }
 img {
   border: 1px solid #AAA;
@@ -1960,7 +1958,4 @@ div.facsImage img:first-child {
 .head-font {
   font-family: Arvo, sans-serif;
   font-weight: normal;
-}
-hi[rend="font(allCaps)"] {
-  text-transform: uppercase;
 }
