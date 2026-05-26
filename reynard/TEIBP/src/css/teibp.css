@@ -47,8 +47,8 @@
 .-teibp-pb {
   display: block;
   width: 100%;
-  text-align: right;
-  color: gray;
+  text-align: center;
+  color: #EDE8D0;
   margin: 2em 0 2em 0;
   font-size: 11pt;
 }
@@ -1838,8 +1838,7 @@ html {
   padding: 2.5em;
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
-  background-color: #EBEBEB;
-  color: #292929
+  background-color: #EDE8D0;
 }
 img {
   border: 1px solid #AAA;
