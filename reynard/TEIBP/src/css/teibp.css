@@ -738,7 +738,7 @@ heraldry {
   /* Empty Rule Set */
 }
 hi style {
-  color: red;
+  color: #cc1100
 }
 history {
   /* Empty Rule Set */
@@ -1845,6 +1845,7 @@ html {
 }
 img {
   border: 1px solid #AAA;
+  width: 100%;
 }
 footer {
   display: none;
