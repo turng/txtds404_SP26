@@ -93,15 +93,16 @@
         <div type="editorial">
            <listPerson>
               <person xml:id="William" role="Chief of Police">
-                 <p>Also known as "Bill"</p>
                  <persName>
+                    <addName type="nickname">Bill</addName>
                  <surname>Severyns</surname>
                  <forename>William</forename>
                  </persName>
               </person>
              <person xml:id="Robert" role="Special Investigator">
-                <p>Also known as "Bob" and "Bobby"</p>
                 <persName>
+                   <addName type="nickname">Bob</addName>
+                   <addName type="nickname">Bobby</addName>
                    <surname>Kernan</surname>
                    <forename>Robert</forename>
                 </persName>

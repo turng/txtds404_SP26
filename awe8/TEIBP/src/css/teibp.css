@@ -734,9 +734,11 @@ height {
 heraldry {
   /* Empty Rule Set */
 }
-hi {
-  text-transform: uppercase;
-  
+hi[rend="format(bold)"] {
+  font-weight: bold;
+}
+hi[rend="font(allCaps)"] {
+  font-weight: bold;
 }
 history {
   /* Empty Rule Set */
@@ -1001,6 +1003,7 @@ moduleSpec {
 }
 monogr {
   /* block with space above, below */
+  display: none;
 }
 mood {
   /* Empty Rule Set */
