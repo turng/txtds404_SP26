@@ -1076,6 +1076,9 @@ note {
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
 }
+note:before { /* example formatting for a listing structure for notes, beginning each note with an id#*/
+  content: attr(id) ": ";
+}
 notesStmt {
   /* do we want to box each individual <note> if they're in a <notesStmt>? */
   display: none;
@@ -1558,6 +1561,7 @@ spanGrp {
 speaker {
   font-weight: bold;
   margin-right: 0;
+  text-transform: capitalize;
 }
 specDesc {
   /* NOT SURE, look back on */
@@ -1829,25 +1833,26 @@ zone {
 }
 /* styles for html shell and html elements in TEI (e.g.,<a> and <img>) */
 html > body {
-  margin: 0;
+  margin: auto;
   padding: 0;
+  padding: 2.5em; /* moved from htlm below. */
+  width: 60%;
 }
 html {
   margin: 0;
   padding: 0;
-  margin-left: 2em;
-  margin-right: 4em;
-  padding: 2.5em;
+  /*margin-left: 2em;
+  margin-right: 4em; approximately 56 pixels */
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
   background-color: #EBEBEB;
   color: #292929;
-  width: 33em;
 }
 img {
   border: 1px solid #AAA;
 }
 footer {
+  display: none;
   margin-top: 1em;
   border-top: 1px solid #292929;
   padding-top: .5em;
@@ -1930,7 +1935,7 @@ div.facsImage {
   width: 100%;
   height: 98%;
   overflow-y: scroll;
-  border: 1px solid black;
+  border: 0px solid black;
 }
 div.facsImage img {
   max-width: 98% !important;
