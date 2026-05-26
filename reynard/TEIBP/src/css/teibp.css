@@ -1830,25 +1830,23 @@ zone {
 /* styles for html shell and html elements in TEI (e.g.,<a> and <img>) */
 html > body {
   margin: 0;
-  padding: 0;
+  padding: 2em;
+    width: 33em;
 }
 html {
   margin: 0;
   padding: 0;
-  margin-left: 2em;
-  margin-right: 4em;
   padding: 2.5em;
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
   background-color: #EBEBEB;
-  color: #292929;
-  width: 33em;
+  color: #292929
 }
 img {
   border: 1px solid #AAA;
 }
 footer {
-  display: none
+  display: none;
   margin-top: 1em;
   border-top: 1px solid #292929;
   padding-top: .5em;
@@ -1941,8 +1939,4 @@ div.facsImage img:first-child {
 .head-font {
   font-family: Arvo, sans-serif;
   font-weight: normal;
-            padding: 10px;
-            text-align: left;
-            color: red;
-            font-size: 20px
 }
