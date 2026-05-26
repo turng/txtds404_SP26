@@ -52,7 +52,7 @@
         <head rend="center">Nursery Poems</head>
         <head rend="center">from the</head>
         <head rend="center">Ancient and Modern Poets</head>
-        <figure type="image">
+        <figure type="image" rend="center">
            <graphic url="imgs/banbury_sun.png"/>
            <figDesc>A smiling sun icon surronded by the text <lang xml:lang="la">DEUS. EST. NOBIUS. SOL. ET. SCUTUM</lang></figDesc>
         </figure>
@@ -61,7 +61,7 @@
         <pb n="1"/>
      </front>
       <body>
-         <figure rend="center">
+         <figure type="image" rend="center">
             <graphic url="imgs/monarchs_and_crown.png"/>
             <figDesc>three small images, on the left a man's head facing right, in the center a crown, and on the right a woman's head facing left. Each one is framed by a swirling vegetal pattern.</figDesc>
          </figure>
@@ -88,7 +88,7 @@
             </lg>
          </lg>
          <pb n="2"/>
-         <figure rend="left">
+         <figure type="image" rend="left">
             <graphic url="imgs/rooster.png"/>
             <figDesc>A large rooster standing upright facing the right side of the page.</figDesc>
          </figure>
@@ -101,7 +101,7 @@
             </lg>
          </lg>
          <pb n="3"/>
-         <figure>
+         <figure type="image" rend="center">
             <graphic url="imgs/book_quill_and_feathers.png"/>
             <figDesc>An open booklet lies atop a pair of oustretched wings. Piled atop the booklet are three small branches and a quill.</figDesc>
          </figure>
