@@ -1943,6 +1943,6 @@ body > div > head > hi style {
   font-size: 14pt;
   font-weight: 700;
   color: #1100;
-  margin: auto;
+  display: inline;
     }
 
