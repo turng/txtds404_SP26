@@ -735,16 +735,16 @@ heraldry {
   /* Empty Rule Set */
 }
 
-hi[rend="format(bold)"] {
+hi[data-rend="format(bold)"] {
   font-weight: bold;
 }
-hi[rend="font(allCaps)"] {
+hi[data-rend="font(allCaps)"] {
   text-transform: uppercase;
 }
-hi[rend="format(underlined)"]{
+hi[data-rend="format(underlined)"]{
   text-decoration: underline;
 }
-hi[rend="indent"]{
+hi[data-rend="indent"]{
   text-indent: 2em;
 }
 history {
