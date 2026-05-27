@@ -367,6 +367,60 @@
             </lg>
          </lg>
          <pb n="14"/>
+         <figure>
+            <graphic url="imgs/mother_goose.png"/>
+            <figDesc>A oval frame shows a lady wearing a dark cloack and hood carrying a basket with a group of three geese to her left.</figDesc>
+         </figure>
+         <lg type="poem" n="17">
+            <lg type="stanza" rend="left" rhyme="abcddc">
+               <l rend="indented">I'll tell you a story</l>
+               <l rend="indented">About Peg Amo-re,</l>
+               <l>And now is my story begun:</l>
+               <l rend="indented">I'll tell you another</l>
+               <l rend="indented">'Bout Peg and her brother,</l>
+               <l>And now my short story is done.</l>
+            </lg>
+         </lg>
+         <l rend="center">—</l>
+         <lg type="poem" n="18">
+            <lg type="stanza" rend="left" rhyme="abcbdecb">
+               <l>Pussy sat beside the fire,</l>
+               <l rend="indented">So pretty and so fair;</l>
+               <l>In came Prin, the little dog,</l>
+               <l rend="indented">Says pussy, Are you there?</l>
+               <l>And now, Mistress Pussy,</l>
+               <l rend="indented">Pray how do you do?</l>
+               <l>Quite well, my little dog;</l>
+               <l rend="indented">And pray how are you?</l>
+            </lg>
+         </lg>
+         <pb n="15"/>
+         <figure>
+            <graphic url="imgs/man_with_horse.png"/>
+            <figDesc>A rectangular frame shows a man wearing a hat leading a horse towards the right.</figDesc>
+         </figure>
+         <lg type="poem" n="19">
+            <lg type="stanza" rend="left" rhyme="abcbdefe">
+               <l>I had a little Pony,</l>
+               <l rend="indented">And call'd it Dapple Grey;</l>
+               <l>I lent it to a lady,</l>
+               <l rend="indented">To ride a mile away:</l>
+               <l>She whipped it, and she lashed it,</l>
+               <l rend="indented">She rode it through the mire;</l>
+               <l>I would'nt give my pony pet,</l>
+               <l rend="indented">For all the lady's hire.</l>
+            </lg>
+         </lg>
+         <l rend="center">—</l>
+         <lg type="poem" n="20">
+            <lg type="stanza" rend="center" rhyme="abcb">
+               <l>Little Robin Redbreast,</l>
+               <l rend="indented">So pretty and so good,</l>
+               <l>Did cover o'er with leaves</l>
+               <l rend="indented">The Children in the Wood.</l>
+            </lg>
+         </lg>
+         <pb n="16"/>
       </body>
   </text>
 </TEI>
