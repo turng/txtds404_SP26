@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>STELAZINE</title>
@@ -15,10 +15,121 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
-         <p>Some text here.</p>
+         <div>
+            <p>There are many things wrong with the record industry. Any conscious record consumer
+               knows this. But 99% of the record buyers in the world are unconscious.</p>
+
+            <p>What this piece amounts to is a bitch session, my personal gripes; laid out in a
+               somewhat random fashion--maybe somewhat carelessly--but the point is clear: There are
+               far too many things being done wrong for one person to change, it is now a matter of
+               raising everyone's level of awareness about the fucked up state of the recording
+               business. </p>
+            <p>With albums hitting the market at an inflated list price of $8.98 per disc, new
+               groups--the contemporary progressive groups (not progressive in the sense of "techno
+               rock") have a limited chance of making a hit. As record consumers become more and
+               more anesthetized by such high selling, high priced releases as the $12 .98 list
+               Saturday Night Fever, they willingly assimilate the higher priced single LP's. I deny
+               S.N.F.'s existence on its price alone!!!</p>
+
+            <p>The high number of sales of a record that retails for at least $8.98 (usually more)
+               shows that people have been irrevocably conditioned to pay astronomical prices for
+               inferior pressings of inferior music. One thing to say for disco listeners is that
+               they openly recognize the inferiority of their music. They openly admit it. "All we
+               wanna do is dance dance, dance."</p>
+
+            <p>Most disco records are hot sellers for about two or three weeks, then they are
+               stiffed into oblivion. Some disco records however, employ advanced production
+               techniques. This is good, but actually a technique nicked from the German
+               “psychedelic” musicians of the early and middle seventies: Neu, Cluster, and
+               Kraftwerk.</p>
+
+            <p>The disco format has allowed this new music to be presented in a marketable pop
+               format, Some of the recent disco records are almost tantalizing from a production
+               standpoint alone--Donna Summer’s "I Feel Love", for instance. I'd rather have a Nick
+               Lowe or Brian Eno production on any record.</p>
+
+            <p>To get back to the point. Consumers are idiots. Do they buy records for the sake of
+               its art, or do they buy it because everyone else does? It is rather difficult to have
+               totally original taste in music. People are hesitant to buy a record they haven't
+               heard before, unless it's by their favorite artist (whether or not that fave lost it
+               five years ago is of no concern). I don't know that many people buy a record based
+               upon reading a review.</p>
+            <p>The Clash and Lol Creme/Kevin Godley’s "L" have received much critical acclaim, but
+               have sold few albums in this area. Reviews are sometimes "bought" by a record
+               label--either to stimulate sales, or merely to service the press. By exchanging
+               "favors of gratitude" with a writer to do a good review, they buy a sense of
+               security. They're more concerned with radio play. After all, it is where the mass
+               market is.</p>
+
+            <p>To change the buying habits of those aillions who bought Fleetwood Mac or Peter
+               Frampton or Saturday Night Fever is like trying to activate a dormant volcano by
+               mortal means. They are comfortable as conformist sheep. To wake them up would shatter
+               their American Dream: Ignorance.</p>
+
+            <p>Until then, you can do something. Refuse to buy $8.98 list single albums. Imports are
+               an exception. Their pressing quality is generally superior, and most of the profound
+               music of today is available only in import form.</p>
+
+            <p>Artists like Billy Joel, Barbara Streisand, Boston, Steve Miller, Ted Nugent, and
+               Chicago are knowingly allowing their labels to shove their corporate prick up all our
+               asses, Fuck them! Fuck Barbara Streisand and all her "little people” They ought to
+               have the human instinct, alledging themselves to be "artists", to refuse to record
+               and release a record at such prices. They're as openly barbaric as their company
+               presidents and A&amp;R Jerks. It's their profit, as well as</p>
+
+            <cb/>
+
+            <p>the record company's. Obviously, these types of people are not artists, but
+               profiteers. Modern day carpetbaggers. Hooligan racketeers who tour the world
+               collecting money by the ream. Literally, they're cornholing brown-nosed dick
+               lickers!</p>
+
+            <p>This is the situation today. There are plenty of influential musicians who are lucky
+               enough to have Top 100 albums. Of all the new wave artists to release LP's since 1976
+               (and there are alot of them), only a few have reached a top chart position in the
+               U.S. Patti Smith, Blondie, and the Ramones have all broken through on a limited
+               basis. But consider this: Elvis Costello is the only British new vave artist to be
+               lucky enough to have sold an appreciable number of LP's in the states. Few have
+               actually toured besides Costello, except for scattered dates in the media
+               cities—N.Y., L.A., S.F Cleveland, Detroit, etc.</p>
+
+            <p>To wit: Many bands (Clash, Stranglers, Boomtown Rats, Jam, Ultravox, Costello,
+               Generation X, ad infinitum) have been touring Great Britian and Europe for up to
+               three years. Slogging back and forth to small gigs in little towns. But they have
+               support. Possibly because Europe, and England specifically, are more conducive to a
+               greater outgrowth of not only creative impulses, but corporate benevolence.</p>
+
+            <p>Throughout history (Gawd! This <hi rend="ul">is</hi> sounding heavy!), artists have
+               survived no matter how barely, by receiving grants &amp; benefits from the church,
+               guild, royalty and other wealthy individuals. This feeling is maintained even today.
+               By observing record company signings and promotion activity in Europe, it is easy to
+               see how little risk U.S. record companies are willing to take on a new act, Not
+               another re-working of someone else's broken dreams. Bands like Pink Floyd, Led
+               Zepplin, Fleetwood Mac, Deep Purple, Black Sabbath, ad nauseam, are rarely---if
+               ever---covered by British trade papers. They have completely lost their credibility.
+               They may as well not exist.</p>
+
+            <p>Europeans recognize the need to indulge art. It is in their blood. The shit groups
+               mentioned above are still rather large sellers in the U.S., but not in their home
+               countries. They are dead meat. The English rock scene has replenished itself
+               constantly for the last 10-15 ye- ars. Good things have been, will and are coming of
+               it. There's been a lot of shit moozik, but a definite mark has been sighted. Industry
+               must bust soon and allow young talent--all the good ones, to make it.</p>
+
+            <p>It boils down to that. A total destruction and subsequent restructuring of the whole
+               record industry. And, it is your job (since you bothered to read</p>
+
+            <cb/>
+
+            <p>this) to do everything in your power to destroy and change it.</p>
+
+            <p>To the front!</p>
+
+
+         </div>
       </body>
-  </text>
+   </text>
 </TEI>
