@@ -64,39 +64,53 @@
          <div type="preface">
             <p/>
          </div>
-         <div>
-         <titlePage>
-            <docTitle>
-               <titlePart type="main"> A
-                  <lb/>SHORT HISTORY
-                  <lb/>OF
-                  <lb/>BIRDS AND BEASTS,
-                  <lb/>FOR THE
-                  <lb/>Amusement and Instruction
-                  <lb/> OF
-                  <lb/> CHILDREN.
-                  <lb/> <figure></figure>
-                  <lb/> ADORNED WITH CUTS.
-                  <lb/> <figure></figure>
-               </titlePart>
-            </docTitle>
-            <docImprint>
-               <lb/><pubPlace>LONDON:</pubPlace> 
-               <lb/><Publisher>PRINTED FOR HOULSTON AND SON,</Publisher>
-               <lb/><pubPlace>
-                  <lb/>5, Paternoster-Rew;
-                  <lb/> AND AT WELLINGTON, SALOP.
-               </pubPlace>
-               <figure></figure>
-            </docImprint>
-            <epigraph><p>Price One Penny.</p></epigraph>
-         </div>
-      </front> 
+      </front>
+      
+
+      <titlePage>
+         <docTitle>
+            <titlePart type="main"> A
+               <lb/>SHORT HISTORY
+               <lb/>OF
+               <lb/>BIRDS AND BEASTS,
+               <lb/>FOR THE
+               <lb/>Amusement and Instruction
+               <lb/> OF
+               <lb/> CHILDREN.
+               <lb/> <figure></figure>
+               <lb/> ADORNED WITH CUTS.
+               <lb/> <figure></figure>
+            </titlePart>
+         </docTitle>
+         <docImprint>
+            <lb/><pubPlace>LONDON:</pubPlace> 
+            <lb/><Publisher>PRINTED FOR HOULSTON AND SON,</Publisher>
+            <lb/><pubPlace>
+               <lb/>5, Paternoster-Rew;
+               <lb/> AND AT WELLINGTON, SALOP.
+            </pubPlace>
+            <figure></figure>
+         </docImprint>
+         <epigraph><p>Price One Penny.</p></epigraph>
       
      
       
  
       <body>
+         <div>
+            <pb n="5"/>
+            <head> THE COCK.</head>
+            <graphic></graphic>
+            <lg>
+               <l><hi rend="drop cap">T</hi>he <hi rend="italics">Cock</hi> doth crow to let you know,</l>
+               <l>If you be wise, what time to rise.</l>
+            </lg>
+            <p> There is no bird treated with so much cruelty as the <hi rend="italics"> Cock</hi>; for he, poor <pb n="6"/> thing, (without the least offence,) is tied to a stake, and throw at by a set of idle, wicked, barbarous fellows, till he is beaten in pieces. This is a custom the very heathens would blush at; and therefore I hope you, who are christian, will never be guilty of any thing so inhuman.</p>
+         </div>
+         <div>
+         <pg n="7"/>
+         <head>THE PARROT.</head>
+         </div>
          
          <div>
             <pb n="9"/>
@@ -105,7 +119,7 @@
                <l>Early the <italics>milkmaid</italics> to the meadow hies,</l> <l>And the <italics>red Cow</italics> her empty pail
                   supplies.</l>
             </lg>
-            <p>This is the good-natured Cow to which we are all so much obliged. She comes, poor
+            <p>This is the good-natured <italics>Cow</italics> to which we are all so much obliged. She comes, poor
                thing! in the morning, and brings her udder full of milk for <pb n="10"/> our
                breakfast, and the same at night for our supper. To her we are indebted for our
                custards, cheesecakes, curds, and cream, as well as for our milk, butter, and
@@ -117,7 +131,7 @@
             <lg>
                <l>The <italics>Nightingale</italics> doth sweetly sing,</l> <l>To welcome in the cheerful spring.</l>
             </lg>
-            <p>What a pretty bird the Nightingale is! How sweetly she sings! I could wish 'twas
+            <p>What a pretty bird the <italics>Nightingale</italics> is! How sweetly she sings! I could wish 'twas
                summer all the year for the sake of her good company.</p>
          </div>
          <div>
