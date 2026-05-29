@@ -59,26 +59,25 @@
                <titlePart type="main"> <hi rend="#center #serif #caps #small">A</hi>
                   <lb/><hi rend="#center #serif #caps #medium">SHORT HISTORY</hi>
                   <lb/><hi rend="#center #serif #caps #small">OF</hi>
-                  <lb/><hi rend="#center #serif #caps #medium #hollow" >BIRDS AND BEASTS,</hi
-                  <lb/><hi rend="#center #serif #caps #small">FOR THE</hi>
-                  <lb/>Amusement and Instruction
-                  <lb/> OF
-                  <lb/> CHILDREN.
+                  <lb/><hi rend="#center #serif #caps #medium #hollow" >BIRDS AND BEASTS,</hi>                  <lb/><hi rend="#center #serif #caps #small">FOR THE</hi>
+                  <lb/><hi rend="#center #serif #small #italics">Amusement and Instruction</hi>
+                  <lb/> <hi rend="#center #serif #caps #small">OF</hi>
+                  <lb/> <hi rend="#center #serif #caps #medium #bold">CHILDREN.</hi>
                   <lb/> <figure></figure>
-                  <lb/> ADORNED WITH CUTS.
+                  <lb/> <hi rend="#center #serif #caps #small">ADORNED WITH CUTS.</hi>
                   <lb/> <figure></figure>
                </titlePart>
             </docTitle>
             <docImprint>
-               <lb/><pubPlace>LONDON:</pubPlace> 
-               <lb/><publisher>PRINTED FOR HOULSTON AND SON,</publisher>
+               <lb/><pubPlace><hi rend="#center #serif #caps #small">LONDON:</hi></pubPlace> 
+               <lb/><publisher><hi rend="#center #serif #caps #small ">PRINTED FOR HOULSTON AND SON,</hi></publisher>
                <lb/><pubPlace>
-                  <lb/>5, Paternoster-Rew;
-                  <lb/> AND AT WELLINGTON, SALOP.
+                  <lb/><hi rend="#center #serif #small">65, Paternoster-Rew;</hi>
+                  <lb/> <hi rend="#center #serif #caps #small">AND AT WELLINGTON, SALOP.</hi>
                </pubPlace>
                <figure></figure>
             </docImprint>
-            <epigraph><p>Price One Penny.</p></epigraph>
+            <epigraph><p><hi rend="#center #serif #small #italics">Price One Penny.</hi></p></epigraph>
          </titlePage>
            <div type="editorial_intro">
             <p>Published between 1828 and 1840, A Short History of Birds and Beasts is a small
@@ -119,14 +118,14 @@
          
          <div>
          <pb n="3"/>
-         <p>A
-          <lb/> SHORT HISTORY
+            <p><hi rend="#center #serif #caps #medium">A</hi>
+          <lb/> <hi rend="#center #serif #caps #medium">SHORT HISTORY</hi>
           <lb/> OF
-          <lb/> BIRDS &amp; Beasts,
-          <lb/> FOR THE
-          <lb/> Amusement and Instruction
-          <lb/> OF
-          <lb/> CHILDREN.
+          <lb/> <hi rend="#center #serif #caps #large #italics">BIRDS &amp; Beasts,</hi>
+               <lb/> <hi rend="#center #serif #caps #medium">FOR THE</hi>
+               <lb/> <hi rend="#center #serif #medium">Amusement and Instruction</hi>
+               <lb/> <hi rend="#center #serif #caps #medium">OF</hi>
+               <lb/> <hi rend="#center #serif #caps #medium">CHILDREN.</hi>
          </p> 
           <figure>
              <figDesc> Wavy, thin leading spanning almost the entirety of the page.</figDesc>
