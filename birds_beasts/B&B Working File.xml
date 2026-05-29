@@ -55,7 +55,7 @@
             </docTitle>
             <docImprint>
                <lb/><pubPlace>LONDON:</pubPlace> 
-               <lb/><Publisher>PRINTED FOR HOULSTON AND SON,</Publisher>
+               <lb/><publisher>PRINTED FOR HOULSTON AND SON,</publisher>
                <lb/><pubPlace>
                   <lb/>5, Paternoster-Rew;
                   <lb/> AND AT WELLINGTON, SALOP.
@@ -124,7 +124,7 @@
             <pb n="9"/>
             <head>THE COW.</head>
             <lg>
-               <l>Early the <italics>milkmaid</italics> to the meadow hies,</l> <l>And the <italics>red Cow</italics> her empty pail
+               <l>Early the <hi rend="italics">milkmaid</hi> to the meadow hies,</l> <l>And the <hi rend="italics">red Cow</hi> her empty pail
                   supplies.</l>
             </lg>
             <p>This is the good-natured <italics>Cow</italics> to which we are all so much obliged. She comes, poor
@@ -137,7 +137,7 @@
             <pb n="11"/>
             <head>THE NIGHTINGALE.</head>
             <lg>
-               <l>The <italics>Nightingale</italics> doth sweetly sing,</l> <l>To welcome in the cheerful spring.</l>
+               <l><hi rend="dc">T</hi>he <hi rend="italics">Nightingale</hi> doth sweetly sing,</l> <l>To welcome in the cheerful spring.</l>
             </lg>
             <p>What a pretty bird the <italics>Nightingale</italics> is! How sweetly she sings! I could wish 'twas
                summer all the year for the sake of her good company.</p>
