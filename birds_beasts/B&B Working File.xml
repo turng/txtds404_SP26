@@ -151,6 +151,9 @@
          <div>
             <pb n="17"/>
             <head>THE BUTTERFLY.</head>
+            <figure>
+               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_017.jpg"/>
+            </figure>
             <lg>
                <l>The Butterfly in gaudy dress,</l>
                <l>The worthless coxcomb doth express,</l>
@@ -165,6 +168,9 @@
          <div>
             <pb n="19"/>
             <head>THE CROCODILE.</head>
+            <figure>
+               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_019.jpg"/>
+            </figure>
             <lg>
                <l>The Crocodile, with watery eyes,</l>
                <l>O'er man and every creature cries,</l>
@@ -176,6 +182,9 @@
          <div>
             <pb n="21"/>
             <head>THE ASS.</head>
+            <figure>
+               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_021.jpg"/>
+            </figure>
             <lg>
                <l>The Ass, tho' mean, will by his bray</l>
                <l>Oblige your horse to run away.</l>
@@ -185,6 +194,8 @@
          <div>
             <pb n="22"/>
             <head>THE ANT.</head>
+            <figure>
+               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_022.jpg"/>            </figure>
             <lg>
                <l>The little Ant no labour spares,</l>
                <l>Wisely preventing future cares;</l>
