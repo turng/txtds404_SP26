@@ -677,7 +677,7 @@ handShift {
 TEI head {
   display: block;
   font-family: Arvo, sans-serif;
-  font-weight: normal;
+  font-weight: bold;
 }
 body > head {
   font-size: 180%;
@@ -1672,7 +1672,7 @@ table > head {
   text-align: center;
 }
 teiHeader {
-  display: block;
+  display: none;
   /*
 border-radius: 15px;
 border: 1px solid black;
@@ -1841,21 +1841,23 @@ zone {
 }
 /* styles for html shell and html elements in TEI (e.g.,<a> and <img>) */
 html > body {
-  margin: 0;
-  padding: 0;
+    font-family: "Courier New", Courier, monospace;
+    padding: 0 5%;
 }
+
 html {
+
   margin: 0;
   padding: 0;
   margin-left: 2em;
   margin-right: 4em;
   padding: 2.5em;
-  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
   background-color: #EBEBEB;
   color: #292929;
   width: 33em;
 }
+
 img {
   border: 1px solid #AAA;
 }
