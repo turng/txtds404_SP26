@@ -39,9 +39,32 @@
    <text>
       <front>
          <titlePage>
-            <titlePart> </titlePart>
+            <docTitle>
+               <titlePart type="main"> A
+                  <lb/>SHORT HISTORY
+                  <lb/>OF
+                  <lb/>BIRDS AND BEASTS,
+                  <lb/>FOR THE
+                  <lb/>Amusement and Instruction
+                  <lb/> OF
+                  <lb/> CHILDREN.
+                  <lb/> <figure></figure>
+                  <lb/> ADORNED WITH CUTS.
+                  <lb/> <figure></figure>
+               </titlePart>
+            </docTitle>
+            <docImprint>
+               <lb/><pubPlace>LONDON:</pubPlace> 
+               <lb/><Publisher>PRINTED FOR HOULSTON AND SON,</Publisher>
+               <lb/><pubPlace>
+                  <lb/>5, Paternoster-Rew;
+                  <lb/> AND AT WELLINGTON, SALOP.
+               </pubPlace>
+               <figure></figure>
+            </docImprint>
+            <epigraph><p>Price One Penny.</p></epigraph>
          </titlePage>
-         <div type="editorial_intro">
+           <div type="editorial_intro">
             <p>Published between 1828 and 1840, A Short History of Birds and Beasts is a small
                catalog of birds, insects, and mammals, with images and brief descriptions of each
                animal underneath—intended for a child audience. The descriptions are presented in a
@@ -65,37 +88,7 @@
             <p/>
          </div>
       </front>
-      
-
-      <titlePage>
-         <docTitle>
-            <titlePart type="main"> A
-               <lb/>SHORT HISTORY
-               <lb/>OF
-               <lb/>BIRDS AND BEASTS,
-               <lb/>FOR THE
-               <lb/>Amusement and Instruction
-               <lb/> OF
-               <lb/> CHILDREN.
-               <lb/> <figure></figure>
-               <lb/> ADORNED WITH CUTS.
-               <lb/> <figure></figure>
-            </titlePart>
-         </docTitle>
-         <docImprint>
-            <lb/><pubPlace>LONDON:</pubPlace> 
-            <lb/><Publisher>PRINTED FOR HOULSTON AND SON,</Publisher>
-            <lb/><pubPlace>
-               <lb/>5, Paternoster-Rew;
-               <lb/> AND AT WELLINGTON, SALOP.
-            </pubPlace>
-            <figure></figure>
-         </docImprint>
-         <epigraph><p>Price One Penny.</p></epigraph>
-      
-     
-      
- 
+    
       <body>
          <div>
             <pb n="5"/>
