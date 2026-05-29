@@ -100,26 +100,41 @@
          <div>
             <pb n="5"/>
             <head> THE COCK.</head>
-            <graphic></graphic>
+            <figure><graphic url="X"/></figure>
             <lg>
                <l><hi rend="drop cap">T</hi>he <hi rend="italics">Cock</hi> doth crow to let you know,</l>
                <l>If you be wise, what time to rise.</l>
             </lg>
-            <p> There is no bird treated with so much cruelty as the <hi rend="italics"> Cock</hi>; for he, poor <pb n="6"/> thing, (without the least offence,) is tied to a stake, and throw at by a set of idle, wicked, barbarous fellows, till he is beaten in pieces. This is a custom the very heathens would blush at; and therefore I hope you, who are christian, will never be guilty of any thing so inhuman.</p>
+            <p>There is no bird treated with so much cruelty as the <hi rend="italics">Cock</hi>; for he, poor <pb n="6"/>thing, (without the least offence,) is tied to a stake, and throw at by a set of idle, wicked, barbarous fellows, till he is beaten in pieces. This is a custom the very heathens would blush at; and therefore I hope you, who are christian, will never be guilty of any thing so inhuman.</p>
+         </div>
+         
+         <div>
+         <pb n="7"/>
+         <head>THE PARROT.</head>
+         <figure><graphic url="X"/></figure>
+         <lg>
+            <l> <hi rend="drop cap">T</hi>he <hi rend="italics">Parrot</hi>prates he knows not</l><l>what,</l><l>For all he says got by rote.</l>
+         </lg>
+            <p>The<hi rend="italics">Parrot</hi>is a chattering bird, he talks a greate deal, yet knows not what he says; and is therefore not unlike some silly boys, who prate without thinking, and learn their lesson with-out looking at their book.</p>
          </div>
          <div>
-         <pg n="7"/>
-         <head>THE PARROT.</head>
+          <pb n="8"/>
+           <head> THE CUCKOO.</head>
+            <figure><graphic url="X"/></figure>
+            <lg>
+               <l><hi rend="drop cap">T</hi>he <hi rend="italics">Cuckoo</hi> tells a merry tale,</l><l> Upon the hill and in the vale.</l>
+            </lg>
+            <p> There's the pretty <hi rend="italics">Cuckoo</hi></p>
          </div>
          
          <div>
             <pb n="9"/>
             <head>THE COW.</head>
             <lg>
-               <l>Early the <hi rend="italics">milkmaid</hi> to the meadow hies,</l> <l>And the <hi rend="italics">red Cow</hi> her empty pail
+               <l>Early the <italics>milkmaid</italics> to the meadow hies,</l> <l>And the <italics>red Cow</italics> her empty pail
                   supplies.</l>
             </lg>
-            <p>This is the good-natured <hi rend="italics">Cow</hi> to which we are all so much obliged. She comes, poor
+            <p>This is the good-natured <italics>Cow</italics> to which we are all so much obliged. She comes, poor
                thing! in the morning, and brings her udder full of milk for <pb n="10"/> our
                breakfast, and the same at night for our supper. To her we are indebted for our
                custards, cheesecakes, curds, and cream, as well as for our milk, butter, and
@@ -129,18 +144,18 @@
             <pb n="11"/>
             <head>THE NIGHTINGALE.</head>
             <lg>
-               <l>The <hi rend="italics">Nightingale</hi> doth sweetly sing,</l> <l>To welcome in the cheerful spring.</l>
+               <l>The <italics>Nightingale</italics> doth sweetly sing,</l> <l>To welcome in the cheerful spring.</l>
             </lg>
-            <p>What a pretty bird the <hi rend="italics">Nightingale</hi> is! How sweetly she sings! I could wish 'twas
+            <p>What a pretty bird the <italics>Nightingale</italics> is! How sweetly she sings! I could wish 'twas
                summer all the year for the sake of her good company.</p>
          </div>
          <div>
             <pb n="12"/>
             <head>THE LAMB.</head>
             <lg>
-               <l>The little <hi rend="italics">Lamb</hi> doth skip and play,</l> <l>Always merry, always gay.</l>
+               <l>The little Lamb doth skip and play,</l> <l>Always merry, always gay.</l>
             </lg>
-            <p>See the little <hi rend="italics">Lamb</hi>! how innocent he looks! he never did any harm, and therefore is
+            <p>See the little Lamb! how innocent he looks! he never did any harm, and therefore is
                beloved by every body: but the fox and the wolf, who are always in mischief, are
                hated and despised.</p>
          </div>
@@ -171,68 +186,47 @@
          <div>
             <pb n="17"/>
             <head>THE BUTTERFLY.</head>
-            <figure>
-               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_017.jpg"/>
-            </figure>
             <lg>
-               <l><hi rend="dc">T</hi>he <hi rend="italics">Butterfly</hi> in gaudy dress,</l>
+               <l><dc>T</dc>he <italics>Butterfly</italics> in gaudy dress,</l>
                <l>The worthless coxcomb doth express,</l>
                <l>Who not regarding whence he rose,</l>
                <l>Is proud of what?-- of his fine clothes</l>
             </lg>
-            <p>This gaudy <hi rend="italics">Butterfly</hi> owes its being to a poor worm, and has nothing to boast of but
+            <p>This gaudy <italics>Butterfly</italics> owes its being to a poor worm, and has nothing to boast of but
                his fine wings, which perhaps will <pb n="18"/> be lost the first frosty day: and
                then his case will be much like the cox-comb's, who having lost his fine hat and bag
                wig, has nothing to support him but a head full of emptiness.</p>
-            <figure>
-               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_018.jpg"/>
-            </figure>
          </div>
          <div>
             <pb n="19"/>
-            <head>THE CROCODILE.</head> 
-            <figure>
-               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_019.jpg"/>
-            </figure>
+            <head>THE CROCODILE.</head>
             <lg>
-               <l><hi rend="dc">T</hi>he <hi rend="italics">Crocodile</hi>, with watery eyes,</l>
+               <l><dc>T</dc>he <italics>Crocodile</italics>, with watery eyes,</l>
                <l>O'er man and every creature cries,</l>
                <l>Then feeds with pleasure on his prey;</l>
                <l>So hypocrites their friends betray</l>
             </lg>
-            <p>This terrible creature is said to weep over his prey before he devours it, as if he was unwilling to destroy any thing; but in truth, that whining is only to <pb n="20"/> bring other creatures to see what's the matter, that Mr. <hi rend="italics">Crocodile</hi> may get another snap for his belly.</p>
-            <figure>
-               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_020.jpg"/>
-            </figure>
+            <p>This terrible creature is said to weep over his prey before he devours it, as if he was unwilling to destroy any thing; but in truth, that whining is only to <pb n="20"/> bring other creatures to see what's the matter, that Mr. <italics>Crocodile</italics> may get another snap for his belly.</p>
          </div>
          <div>
             <pb n="21"/>
             <head>THE ASS.</head>
-            <figure>
-               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_021.jpg"/>
-            </figure>
             <lg>
-               <l><hi rend="dc">T</hi>he <hi rend="italics">Ass</hi>, tho' mean, will by his bray</l>
+               <l><dc>T</dc>he <italics>Ass</italics>, tho' mean, will by his bray</l>
                <l>Oblige your horse to run away.</l>
             </lg>
-            <p>Though this animal makes such a mean figure, yes, <ref target="#n21">Samson</ref>, with the jawbone of an <hi rend="italics">Ass</hi>, slew a thousand men. But then the Lord was with him, and God Almighty can do any thing.</p>
+            <p>Though this animal makes such a mean figure, yes, <ref target="#n21">Samson</ref>, with the jawbone of an <italics>Ass</italics>, slew a thousand men. But then the Lord was with him, and God Almighty can do any thing.</p>
          </div>
-         <div> 
+         <div>
             <pb n="22"/>
             <head>THE ANT.</head>
-            <figure>
-               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_022.jpg"/>
-            </figure>
             <lg>
-               <l><hi rend="dc">T</hi>he little <hi rend="italics">Ant</hi> no labour spares,</l>
+               <l><dc>T</dc>he little <italics>Ant</italics> no labour spares,</l>
                <l>Wisely preventing future cares;</l>
                <l>For ere the hoary frost comes on,</l>
                <l>Her stock's laid up, and business done.</l>
             </lg>
-            <p>This little creature was a great favourite with the wise king <ref target="#n23">Solomon</ref>, who much admired her industry and care- <pb n="23"/>fulness, and recommends her to the consideration of every idle person. <quote>"Arise, though sluggard, go to the <hi rend="italics">Ant</hi>, consider her ways, and be wise."</quote></p>
-            <figure>
-               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_023.jpg"/>
-            </figure>
+            <p>This little creature was a great favourite with the wise king <ref target="#n23">Solomon</ref>, who much admired her industry and care- <pb n="23"/>fulness, and recommends her to the consideration of every idle person. <quote>"Arise, though sluggard, go to the <italics>Ant</italics>, consider her ways, and be wise."</quote></p>
          </div> 
          <div type="endnotes">
             <note xml:id="n1"> We edited the line groups of verse into quatrains separate from the
@@ -244,7 +238,7 @@
                swallowed by a whale.</note>
             <note xml:id="n21">Section 21: The Ass references the biblical story of Samson.</note>
             <note xml:id="n22">Section 22: The Ant references and quotes the biblical king
-               Solomon.</note> 
+               Solomon.</note>
          </div>
       </body>
       <back>
@@ -257,7 +251,7 @@
             <p>The WILD-BEAST SHOW. Price 1d.</p>
             <p>The FAITHFUL DOG. A Tale. Price 1d.</p>
             <p>GLEANINGS from NATURAL HISTORY: for the Amusement and Instruction of Youth. Price 1d.</p> 
-         </div> 
+         </div>
          <div type="bibliography">
             <listBibl>
                <bibl xml:id="source1">
