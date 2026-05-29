@@ -35,16 +35,32 @@
             </p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <styleDefDecl scheme="css"
+            schemeVersion="2.1"/>
+         <!-- ... -->
+         <tagsDecl>
+            <rendition xml:id="center">text-align: center;</rendition>
+            <rendition xml:id="small">font-size: small;</rendition>
+            <rendition xml:id="medium">font-size: medium;</rendition>
+            <rendition xml:id="large">font-size: large;</rendition>
+            <rendition xml:id="serif">font-type: serif</rendition>
+            <rendition xml:id="hollow">font-style: hollow</rendition>
+            <rendition xml:id="caps">font-style: all caps</rendition>
+            <rendition xml:id="italics">font-style: italics</rendition>
+            <rendition xml:id="bold">font-style: bold</rendition>
+         </tagsDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <front>
          <titlePage>
             <docTitle>
-               <titlePart type="main"> A
-                  <lb/>SHORT HISTORY
-                  <lb/>OF
-                  <lb/>BIRDS AND BEASTS,
-                  <lb/>FOR THE
+               <titlePart type="main"> <hi rend="#center #serif #caps #small">A</hi>
+                  <lb/><hi rend="#center #serif #caps #medium">SHORT HISTORY</hi>
+                  <lb/><hi rend="#center #serif #caps #small">OF</hi>
+                  <lb/><hi rend="#center #serif #caps #medium #hollow" >BIRDS AND BEASTS,</hi
+                  <lb/><hi rend="#center #serif #caps #small">FOR THE</hi>
                   <lb/>Amusement and Instruction
                   <lb/> OF
                   <lb/> CHILDREN.
@@ -84,12 +100,48 @@
                previously attainable only through the UW Special Collections, we hope to increase
                the accessibility of our text in a wider, not purely archival, context. </p>
          </div>
-         <div type="preface">
-            <p/>
-         </div>
       </front>
     
       <body>
+         <div>
+            <pb n="2"/>
+            <head>FRONTISPIECE.</head>
+            <figure><graphic url="X"/></figure>
+            <figure><graphic url="X"/></figure>
+            <head>THE LION.</head>
+            <lg>
+               <l>The Lion, the King of all Beasts,</l>
+               <l>How famous for Courage is he!</l>
+               <l>And you, as the King of Good Boys,</l>
+               <l>To learn your Book diligent be.</l>
+            </lg>
+         </div>
+         
+         <div>
+         <pb n="3"/>
+         <p>A
+          <lb/> SHORT HISTORY
+          <lb/> OF
+          <lb/> BIRDS &amp; Beasts,
+          <lb/> FOR THE
+          <lb/> Amusement and Instruction
+          <lb/> OF
+          <lb/> CHILDREN.
+         </p> 
+          <figure>
+             <figDesc> Wavy, thin leading spanning almost the entirety of the page.</figDesc>
+          </figure> 
+           <p> Adorned with Cuts.</p>
+            <figure>
+            <figDesc> Wavy, thin leading spanning almost the entirety of the page.</figDesc>
+            </figure>
+            <p> WELLINGTON, SALOP:
+             <lb/> Printed by F. Houlston and Son.
+             <lb/> Price One Penny. </p>
+         </div>
+         
+         <pb n="4" type="blank"/>
+         
          <div>
             <pb n="5"/>
             <head> THE COCK.</head>
@@ -152,6 +204,7 @@
                beloved by every body: but the fox and the wolf, who are always in mischief, are
                hated and despised.</p>
          </div>
+  
          <div>
             <pb n="13"/>
             <head>THE LION.</head>
