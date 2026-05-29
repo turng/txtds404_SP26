@@ -180,12 +180,12 @@
             <pb n="17"/>
             <head>THE BUTTERFLY.</head>
             <lg>
-               <l><dc>T</dc>he <italics>Butterfly</italics> in gaudy dress,</l>
+               <l><hi rend="dc">T</hi>he <hi rend="italics">Butterfly</hi> in gaudy dress,</l>
                <l>The worthless coxcomb doth express,</l>
                <l>Who not regarding whence he rose,</l>
                <l>Is proud of what?-- of his fine clothes</l>
             </lg>
-            <p>This gaudy <italics>Butterfly</italics> owes its being to a poor worm, and has nothing to boast of but
+            <p>This gaudy <hi rend="italics">Butterfly</hi> owes its being to a poor worm, and has nothing to boast of but
                his fine wings, which perhaps will <pb n="18"/> be lost the first frosty day: and
                then his case will be much like the cox-comb's, who having lost his fine hat and bag
                wig, has nothing to support him but a head full of emptiness.</p>
