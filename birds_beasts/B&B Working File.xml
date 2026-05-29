@@ -102,7 +102,7 @@
             <head> THE COCK.</head>
             <figure><graphic url="X"/></figure>
             <lg>
-               <l><hi rend="drop cap">T</hi>he <hi rend="italics">Cock</hi> doth crow to let you know,</l>
+               <l><hi rend="dc">T</hi>he <hi rend="italics">Cock</hi> doth crow to let you know,</l>
                <l>If you be wise, what time to rise.</l>
             </lg>
             <p>There is no bird treated with so much cruelty as the <hi rend="italics">Cock</hi>; for he, poor <pb n="6"/>thing, (without the least offence,) is tied to a stake, and throw at by a set of idle, wicked, barbarous fellows, till he is beaten in pieces. This is a custom the very heathens would blush at; and therefore I hope you, who are christian, will never be guilty of any thing so inhuman.</p>
@@ -113,7 +113,7 @@
          <head>THE PARROT.</head>
          <figure><graphic url="X"/></figure>
          <lg>
-            <l> <hi rend="drop cap">T</hi>he <hi rend="italics">Parrot</hi>prates he knows not</l><l>what,</l><l>For all he says got by rote.</l>
+            <l> <hi rend="dc">T</hi>he <hi rend="italics">Parrot</hi>prates he knows not</l><l>what,</l><l>For all he says got by rote.</l>
          </lg>
             <p>The<hi rend="italics">Parrot</hi>is a chattering bird, he talks a greate deal, yet knows not what he says; and is therefore not unlike some silly boys, who prate without thinking, and learn their lesson with-out looking at their book.</p>
          </div>
@@ -122,9 +122,9 @@
            <head> THE CUCKOO.</head>
             <figure><graphic url="X"/></figure>
             <lg>
-               <l><hi rend="drop cap">T</hi>he <hi rend="italics">Cuckoo</hi> tells a merry tale,</l><l> Upon the hill and in the vale.</l>
+               <l><hi rend="dc">T</hi>he <hi rend="italics">Cuckoo</hi> tells a merry tale,</l><l> Upon the hill and in the vale.</l>
             </lg>
-            <p> There's the pretty <hi rend="italics">Cuckoo</hi></p>
+            <p> There's the pretty <hi rend="italics">Cuckoo ! </hi> This good-natured bird comes a long journey once every year to see all his friends, and sing them a sng. And after he has obliged them with his company about three months, he takes his leave, and returns to his own country again.</p>
          </div>
          
          <div>
@@ -166,7 +166,7 @@
                <l>The <hi rend="italics">Lion</hi> ranges round the wood,</l> <l>And makes the lesser beasts his food:</l> <l>Thus tyrants
                   on their subject prey,</l> <l>And rule with arbitrary sway.</l>
             </lg>
-            <p>Though the <hi rend="italics">Lion</hi> is such a strong devouring creature, yet <ref target="#n13"><hi rend="italics">Daniel</hi></ref> was thrown into a den
+            <p>Though the <hi rend="italics">Lion</hi> is such a strong devouring creature, yet <ref target="#n13">Daniel</ref> was thrown into a den
                among several of <pb n="14"/> them, and received no harm. For he was punished on
                account of his religion and virtue, he prayed unto God, and the Lord delivered
                him.</p>
