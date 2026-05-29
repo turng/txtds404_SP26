@@ -92,6 +92,9 @@
          <div>
             <pb n="9"/>
             <head>THE COW.</head>
+            <figure>
+               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_009.jpg"/>
+            </figure> 
             <lg>
                <l>Early the milkmaid to the meadow hies,</l> <l>And the red Cow her empty pail
                   supplies.</l>
@@ -111,7 +114,7 @@
             <p>What a pretty bird the Nightingale is! How sweetly she sings! I could wish 'twas
                summer all the year for the sake of her good company.</p>
          </div>
-         <div>
+         <div> 
             <pb n="12"/>
             <head>THE LAMB.</head>
             <lg>
