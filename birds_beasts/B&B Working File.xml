@@ -130,13 +130,13 @@
           <figure>
              <figDesc> Wavy, thin leading spanning almost the entirety of the page.</figDesc>
           </figure> 
-           <p> Adorned with Cuts.</p>
+           <p> <hi rend="#center #serif #medium">Adorned with Cuts.</hi></p>
             <figure>
             <figDesc> Wavy, thin leading spanning almost the entirety of the page.</figDesc>
             </figure>
-            <p> WELLINGTON, SALOP:
-             <lb/> Printed by F. Houlston and Son.
-             <lb/> Price One Penny. </p>
+            <p> <hi rend="#center #serif #medium">WELLINGTON, SALOP:</hi>
+               <lb/> <hi rend="#center #serif #medium">Printed by F. Houlston and Son.</hi>
+               <lb/> <hi rend="#center #serif #medium">Price One Penny.</hi> </p>
          </div>
          
          <pb n="4" type="blank"/>
@@ -146,7 +146,7 @@
             <head> THE COCK.</head>
             <figure><graphic url="X"/></figure>
             <lg>
-               <l><hi rend="dc">T</hi>he <hi rend="italics">Cock</hi> doth crow to let you know,</l>
+               <l><hi rend="dc">T</hi>he<hi rend="italics">Cock</hi> doth crow to let you know,</l>
                <l>If you be wise, what time to rise.</l>
             </lg>
             <p>There is no bird treated with so much cruelty as the <hi rend="italics">Cock</hi>; for he, poor <pb n="6"/>thing, (without the least offence,) is tied to a stake, and throw at by a set of idle, wicked, barbarous fellows, till he is beaten in pieces. This is a custom the very heathens would blush at; and therefore I hope you, who are christian, will never be guilty of any thing so inhuman.</p>
