@@ -116,10 +116,10 @@
             <pb n="9"/>
             <head>THE COW.</head>
             <lg>
-               <l>Early the milkmaid to the meadow hies,</l> <l>And the red Cow her empty pail
+               <l>Early the <italics>milkmaid</italics> to the meadow hies,</l> <l>And the <italics>red Cow</italics> her empty pail
                   supplies.</l>
             </lg>
-            <p>This is the good-natured Cow to which we are all so much obliged. She comes, poor
+            <p>This is the good-natured <italics>Cow</italics> to which we are all so much obliged. She comes, poor
                thing! in the morning, and brings her udder full of milk for <pb n="10"/> our
                breakfast, and the same at night for our supper. To her we are indebted for our
                custards, cheesecakes, curds, and cream, as well as for our milk, butter, and
@@ -129,9 +129,9 @@
             <pb n="11"/>
             <head>THE NIGHTINGALE.</head>
             <lg>
-               <l>The Nightingale doth sweetly sing,</l> <l>To welcome in the cheerful spring.</l>
+               <l>The <italics>Nightingale</italics> doth sweetly sing,</l> <l>To welcome in the cheerful spring.</l>
             </lg>
-            <p>What a pretty bird the Nightingale is! How sweetly she sings! I could wish 'twas
+            <p>What a pretty bird the <italics>Nightingale</italics> is! How sweetly she sings! I could wish 'twas
                summer all the year for the sake of her good company.</p>
          </div>
          <div>
@@ -172,12 +172,12 @@
             <pb n="17"/>
             <head>THE BUTTERFLY.</head>
             <lg>
-               <l>The Butterfly in gaudy dress,</l>
+               <l><dc>T</dc>he <italics>Butterfly</italics> in gaudy dress,</l>
                <l>The worthless coxcomb doth express,</l>
                <l>Who not regarding whence he rose,</l>
                <l>Is proud of what?-- of his fine clothes</l>
             </lg>
-            <p>This gaudy Butterfly owes its being to a poor worm, and has nothing to boast of but
+            <p>This gaudy <italics>Butterfly</italics> owes its being to a poor worm, and has nothing to boast of but
                his fine wings, which perhaps will <pb n="18"/> be lost the first frosty day: and
                then his case will be much like the cox-comb's, who having lost his fine hat and bag
                wig, has nothing to support him but a head full of emptiness.</p>
@@ -186,32 +186,32 @@
             <pb n="19"/>
             <head>THE CROCODILE.</head>
             <lg>
-               <l>The Crocodile, with watery eyes,</l>
+               <l><dc>T</dc>he <italics>Crocodile</italics>, with watery eyes,</l>
                <l>O'er man and every creature cries,</l>
                <l>Then feeds with pleasure on his prey;</l>
                <l>So hypocrites their friends betray</l>
             </lg>
-            <p>This terrible creature is said to weep over his prey before he devours it, as if he was unwilling to destroy any thing; but in truth, that whining is only to <pb n="20"/> bring other creatures to see what's the matter, that Mr. Crocodile may get another snap for his belly.</p>
+            <p>This terrible creature is said to weep over his prey before he devours it, as if he was unwilling to destroy any thing; but in truth, that whining is only to <pb n="20"/> bring other creatures to see what's the matter, that Mr. <italics>Crocodile</italics> may get another snap for his belly.</p>
          </div>
          <div>
             <pb n="21"/>
             <head>THE ASS.</head>
             <lg>
-               <l>The Ass, tho' mean, will by his bray</l>
+               <l><dc>T</dc>he <italics>Ass</italics>, tho' mean, will by his bray</l>
                <l>Oblige your horse to run away.</l>
             </lg>
-            <p>Though this animal makes such a mean figure, yes, <ref target="#n21">Samson</ref>, with the jawbone of an Ass, slew a thousand men. But then the Lord was with him, and God Almighty can do any thing.</p>
+            <p>Though this animal makes such a mean figure, yes, <ref target="#n21">Samson</ref>, with the jawbone of an <italics>Ass</italics>, slew a thousand men. But then the Lord was with him, and God Almighty can do any thing.</p>
          </div>
          <div>
             <pb n="22"/>
             <head>THE ANT.</head>
             <lg>
-               <l>The little Ant no labour spares,</l>
+               <l><dc>T</dc>he little <italics>Ant</italics> no labour spares,</l>
                <l>Wisely preventing future cares;</l>
                <l>For ere the hoary frost comes on,</l>
                <l>Her stock's laid up, and business done.</l>
             </lg>
-            <p>This little creature was a great favourite with the wise king <ref target="#n23">Solomon</ref>, who much admired her industry and care- <pb n="23"/>fulness, and recommends her to the consideration of every idle person. <quote>"Arise, though sluggard, go to the Ant, consider her ways, and be wise."</quote></p>
+            <p>This little creature was a great favourite with the wise king <ref target="#n23">Solomon</ref>, who much admired her industry and care- <pb n="23"/>fulness, and recommends her to the consideration of every idle person. <quote>"Arise, though sluggard, go to the <italics>Ant</italics>, consider her ways, and be wise."</quote></p>
          </div> 
          <div type="endnotes">
             <note xml:id="n1"> We edited the line groups of verse into quatrains separate from the
