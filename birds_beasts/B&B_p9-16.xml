@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="9"/>
+            <head>THE COW.</head>
+            <lg>
+               <l>Early the milkmaid to the meadow hies, And the red Cow her empty pail
+                  supplies.</l>
+            </lg>
+            <p>This is the good-natured Cow to which we are all so much obliged. She comes, poor
+               thing! in the morning, and brings her udder full of milk for <pb n="10"/> our
+               breakfast, and the same at night for our supper. To her we are indebted for our
+               custards, cheesecakes, curds, and cream, as well as for our milk, butter, and
+               cheese.</p>
+         </div>
+         <div>
+            <pb n="11"/>
+            <head>THE NIGHTINGALE.</head>
+            <lg>
+               <l>The Nightingale doth sweetly sing, To welcome in the cheerful spring.</l>
+            </lg>
+            <p>What a pretty bird the Nightingale is! How sweetly she sings! I could wish 'twas
+               summer all the year for the sake of her good company.</p>
+         </div>
+         <div>
+            <pb n="12"/>
+            <head>THE LAMB.</head>
+            <lg>
+               <l>The little Lamb doth skip and play, Always merry, always gay.</l>
+            </lg>
+            <p>See the little Lamb! how innocent he looks! he never did any harm, and therefore is
+               beloved by every body: but the fox and the wolf, who are always in mischief, are
+               hated and despised.</p>
+         </div>
+         <div>
+            <pb n="13"/>
+            <head>THE LION.</head>
+            <lg>
+               <l>The Lion ranges round the wood, And makes the lesser beasts his food: Thus tyrants
+                  on their subject prey, And rule with arbitrary sway.</l>
+            </lg>
+            <p>Though the Lion is such a strong devouring creature, yet Daniel was thrown into a den
+               among several of <pb n="14"/> them, and received no harm. For he was punished on
+               account of his religion and virtue, he prayed unto God, and the Lord delivered
+               him.</p>
+         </div>
+         <div>
+            <pb n="15"/>
+            <head>THE WHALE.</head>
+            <lg>
+               <l>The Whale's the monarch of the main, (As is the Lion of the plain:) He keeps the
+                  lesser fish in awe, And, tyrant-like, his will's his law.</l>
+            </lg>
+            <p>When the prophet Jonah attempted to fly over sea from the presence of the Lord, there
+               arose a great storm, and <pb n="16"/> he being cast into the deep, was swallowed by
+               this great fish, in whose belly he repented sincerely, and prayed unto God; wherefore
+               the Lord commanded the fish, and he swam to shore, and cast him upon dry land.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

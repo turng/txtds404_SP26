@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>STELAZINE</title>
+      </titleStmt>
+      <publicationStmt>
+         <p>Publication Information - PAGE 1</p>
+      </publicationStmt>
+      <sourceDesc>
+         <p>Information about the source</p>
+      </sourceDesc>
+   </fileDesc>
+</teiHeader>
+<text>
+   <body>
+      <div>
+         <head>STELAZINE</head>
+         <figure>
+            <graphic url="COVER_IMG"/>
+            <figDesc>The cover of this issue of STELAZINE</figDesc>
+            <head>STELAZINE</head>
+            <p>50!</p>
+            <p>Vol.2</p>
+            <p>No.1</p>
+            <p>Results Inside</p>
+            <p>New York</p>
+         </figure>
+      </div>
+      <pb n="1"/>
+      
+      <div>
+            <p>
+               NEW YEAR'S PARTY 1979
+               …New Year’s Eve in Seattle saw one of the most all around <hi rend="ul"
+                     >amusing</hi> parties in years--local
+               freaks packed the enemy’s practice studio
+               to down Guyana punch + dance their hearts
+               away to the <hi rend="ul">way out sounds</hi> of the Radio’s,
+               The St. Bernard Quartet, The Girls, The Enemy,
+               The Fishsticks, The Mystery Horns, not to
+               mention an outstanding display of charisma by
+               George “Johnny Ray” Gleason + The Boppin’ Sounds
+               of Rick “Buddy Holly” Smith…Lots more bands but
+               we can't remember ‘em all (Cheaters? Electric Tramps?)
+               ...Tons of fun…stupid hats, champagne, noisemakers
+               + <hi rend="ul">Everything</hi>! <hi rend="ul">Wow</hi>! (A nite to remember
+               fo’ sho’!!)</p>
+
+            <p>! -> <hi rend="ul">Photos L to R from top:</hi></p>
+
+            <p>Rick Smith + Nina</p>
+
+            <p>Mystery Horns Homer, Roland, + Edward Cardboard</p>
+
+            <p>Mass Hysteria</p>
+
+            <p>Fishsticks (World Premiere!)</p>
+
+            <p>Tammy Smith</p>
+
+            <p>The Enemy (Suzy + George)</p>
+
+            <p>Gregor Gayden (St. Bernard Qt.)</p>
+
+            <p>George… “If your Heartaches..!”</p>
+
+            <p>Bob Kondraic w/Cambea</p>
+
+            <p>More Hysteria (Yahoo! Yreka!)</p>
+
+            <p>Damon (?) Titus</p>
+
+            <p>Don Harper, Er. So on––<hi rend="ul">Deeyow</hi>!!</p>
+
+            <p>(Sorry if we forgot ya!)</p>
+
+            <p><hi rend="ul">Photos</hi>: Randy Hall</p>
+            <graphic url=""/>
+            <graphic/>
+            <graphic/>
+            <graphic/>
+            <graphic/>
+            <graphic/>
+		  <p>page 10</p>
+         </div>
+	   
+      <div>
+		  <p><graphic url=""/><graphic url=""/><graphic url=""/><graphic url=""/><graphic url=""
+               /><graphic url=""/><graphic url=""/></p>
+		  <p>page 11</p>
+	  </div>
+
+	   <div>
+            <p>Sanctioned by franko</p>
+            <p>
+               In 1963 I was thirteen. My mom was
+               a country-western singer and I was a
+               farmboy. Also, <name type="artist">the Beatles</name> happened…
+               KJR was Radio Free Europe for the
+               refugees out in <name type="location">Duvall</name>. To be honest, it
+               took another year or so for this
+               particular farmkid to catch on to the
+               fact that there was a historic change
+               happening.
+            </p>
+            <p>
+               When I was in third grade in <name type="location">Sedro</name>
+               <name type="location">Wolley</name>, living next to the movie
+               House where “Love Me Tender” and “King
+               Creole” played, <name type="artist">Elvis</name> was my main
+               muse. Dancing in front of mom's stereo
+               to "Hound Dog" and "Don't Be Cruel”..
+               groovin’ to the Big Bopper, <name type="artist">Bobby</name>
+               <name type="artist">Darin</name>, <name type="artist">Fats Domino</name> and <name type="artist">Buddy Holly</name> (the
+               skinny kid with the glasses) on the
+               radio, I had sanction.
+            </p>
+            <p>
+               Mom took me to hear her sing one
+               Night because I learned the Presley
+               Two-Step (one forward and one back).
+            </p>
+            <p>But <name type="artist">the Beatles</name>, she told me, were
+               awful. Dad watched <name type="artist">the Stones</name> on Ed
+               Sullivan with us, and said, “I can
+               see why they’re called dirty. It’s
+               not dirt, it’s Filth!” No sanction.
+               But all the time on my Packard-Bell
+               portable, up in my little room, I was
+               groovin’! To the Folkies. I was
+               enraptured and romanced by <name type="artist">Simon’s</name> <name type="song">“I Am</name>
+               <name type="song">A Rock”</name>, and <name type="song">“Young Girls Are Coming</name>
+               <name type="song">To The Canyon”</name> with <name type="artist">the Mamas &amp; Papas</name>
+               <name type="artist">Dylan</name>, yea. And somehow, when <name type="artist">Dylan</name>
+               picked up an electric guitar I wasn’t
+               aware of any outrage. I was down in
+               the barnyard, making those sounds
+               with my mouth.</p>
+            <p>And I knew those <name type="artist">Beatles</name> couldn’t
+               be as awful as mom said. <name type="song">“I Wanna</name>
+               <name type="artist">Hold Your Hand”</name> was the Truth to this
+               throbbing pubescent mind.</p>
+            <p>Unbeknownst to me, the youth, and
+               quite a few of the grown-ups in
+               <name type="location">Seattle</name>, <name type="location">Bellevue</name>, <name type="location">Kirkland</name> were on fire
+               —Rock N Roll was the wave of the
+               future again. And I met them on the
+               traditional meeting ground for city and
+               country: The county fair.</p>
+            <p>
+               I was in 4-H, of course, and I had
+               a pet Jersey cow to lead around.
+               <cb/>
+               Every year we’d go to at least the
+               <name type="location">Monroe</name> county fair and the <name type="location">King County</name>
+               Fair in <name type="location">Enumclaw</name>. Although <name type="location">Enumclaw</name>
+               was the biggest fair, I believe all
+               The hip action was in <name type="location">Monroe</name>.
+            </p>
+            <p>
+               There was, of course, the rodeo….
+               horse shows, cow shows, and pie shows
+               Vacuum cleaners, window cleaners,
+               floor cleaners, and organ grinders. But
+               there was also stock car races. And
+               when there weren’t cars on the track
+               the fail officials had found it
+               lucrative to bring half-a-dozen <name type="location">Seattle</name>
+               rock bands to play for free—----there
+               at the racetrack.
+            </p>
+            <p>Little did they know the ultimate
+               terror they would help bring upon
+               <name type="location">Washington</name> parents everywhere, as their
+               kids became Rock N Rollers, and
+               forgot about doing the dishes and/or
+               feeding the calves. (I noticed they had
+               this much rock n roll only that one
+               year. After that they got all the old
+               country stars they could find).</p>
+            <p>
+               I must have shoved cow watch onto
+               every kid in the club, so me (I was
+               the president) and Rick DeVries (he’s
+               the vice-president), could go and
+               goggle at <name type="artist">Lucky and the Gamblers</name>, the
+               <name type="artist">Liverpool Five</name>, and numerous other
+               tatty costumed bands. Everybody
+               looked like <name type="artist">Paul Revere and the Raiders…</name>
+               everybody in pseudo-Carnaby Street
+               duds. And <name type="artist">Merilee Rush> and the</name>
+               <name type="artist">Turnabouts</name>––two shows daily on the midway.
+               I was in love with her overbite.
+            </p>
+            <p>And there was this scheme which now
+               seems out of a dream. In a tent in
+               some accidental corner of the
+               fairgrounds, kids from Greater <name type="location">Seattle</name>
+               burbs—I swear—were having honest-to-god
+               <hi rend="ul">sanctioned</hi>, amateur Battle of the
+               bands. Thirteen year old, sixteen year old
+               <name type="artist">Johnny Rays</name> and leather <name type="artist">Elvis’s</name>—-
+               tight blue jeans and greasy curls,
+               were climbing onto this little plywood
+               stage with their Fenders and Gibsons
+               and singing <name type="song">“House of the Rising Sun”</name>
+               while their mothers were crawling
+               around in their nylons and <name>Jackie</name>
+               <name>Kennedy</name> coats arranging and checking power
+               cords. What!!??</p>
+            <cb/>
+            <p><graphic url= ""/></p>
+            <p>
+               No kidding. It was like a 4-H club
+               for Rock N Roll. Really, I was out
+               there. I don’t know if they won the
+               chance to be backup band for the
+               Bands at PLU, or if they got to cut
+               a single, or if they just got a new
+               set of strings. But the point is,
+               they were playing rock n roll, and
+               their mothers were not only watching, but
+               brushing their greasy hair before
+               they went on stage. Sanction!
+               <cb/>
+            </p>
+            <p>
+               They weren’t as “good”, of course, as
+               the “Professionals” out on the race
+               track; nor did they get the money or
+               attention that <name type="artist">Merilee Rush</name> (who
+               would pick up her watch to see how much
+               longer the set was—right in the
+               middle of <name type="song">“Angel Of The Morning”</name>) got…
+               but they felt real-er. They were me,
+               living my dream. They seemed to be
+               not only supported, but even pushed
+               by their mothers to perform and live
+               out that dream.
+            </p>
+            <p>Sanction.</p>
+            <p>“WE HEARD
+               THE
+               NEWS
+               TODAY,
+               OH BOY”</p>
+            <p>FROM JET CITY
+               THE NEWS
+               BREAKING THE
+               SOUND BARRIERS</p>
+            <p><graphic url= ""/></p>
+		   <p>page 15</p>
+         </div>
+
+	   <div>
+            <p>BIRTHS &amp; OBITUARIES</p>
+            <p>LOCAL RELEASES</p>
+            <graphic url=""/>
+         </div>
+         <div>
+            <p>SUBHUMANS Death to the Sickoids/Oh Canaduh Crass Productions no label</p>
+            <p>I like these guys. The A-side is good (although I confess I'm not really sure what
+               Sickoids are), with nice harmonies. The vocals are good, it's hard to find a good
+               male voice in Canaduh. I think this band has potential not fully realized!</p>
+            <p>While the mix on side two is lousy, the pace is fast and the music is strong. Nice
+               drumming and guitar work, but where is the bass? I think this deserves to be the
+               A-side. It's a great song which could make an anthem for stepped-on Canadians. I can
+               hear Margaret Trudeau humming it now...... "Don't have a job/Can't pay the rent/ And
+               now we're paying interest on the money we've been lent………"</p>
+         </div>
+         <div>
+            <p>DOA The Prisoner/Thirteen Quintessence Records 1869 W. 4th Ave Vancouver, Canaduh V6J
+               1M4</p>
+            <p> One of 2 records on this new label Music from the north. What can I say about DOA?
+               Everybody seems to like them. I have a hard time getting past the vocals. Joey
+               Shithead cannot sing. He cannot even get by with what he does. It's too bad, because
+               the band is good and the music fast. But what the hell is he saying? If it's not
+               important enough to hear, why say it at all? All I could pick out was: "Is everybody
+               a bunch of wimps?" I dunno, Joey. Are you?</p>
+            <p>The second side suffers from the same problems: lousy vocals. But the drumming of
+               Chuck Biscuits carried the tune along. The only understandable line here is: "I'm one
+               big zero." I think he hit it right on the head.</p>
+            <cb/>
+         </div>
+         <div>
+            <graphic url=""> DRUNK AND DISORDERLY b/w SUICIDE THE SHIRKERS </graphic>
+            <graphic url=""> DEATH TO THE SICKOIDS The SUBHUMANS </graphic>
+            <graphic url="">D.O.A</graphic>
+            <graphic url=""> the LEWD "KILL YOURSELF" </graphic>
+         </div>
+         <div>
+            <p>THE SHIRKERS Drunk &amp; Disorderly/Suicide Limp Records 1327-J Rockville Pike
+               Rockville, Maryland 20852 I knew the singer Steve Bailer when I lived in D.C. I
+               always thought he was devo, even before I had ever heard of the band. So, I just to
+               get his record… I never would have thought he'd do it. On the whole it's a bit of a
+               disappointment. Too much rock and roll. It's got a good beat, but the overall impact
+               is too soft. I must say I am surprised at how good Steve can sing. Really. I like the
+               female voice on the chorus, it's a nice change. The music is simple. A make-your-own-
+               record-be-a-star project. Capitol city punk without the Capitol city anger.</p>
+            <cb/>
+         </div>
+         <div>
+            <p>POINTED STICKS What Do You Want Me To Do/Somebody's Mom Quintessence Records Finally,
+               a great male Canadian singer. It's about time. A perfect pop voice. This is pop! A
+               fun, jumping song! a little boy’s plea with a great beat. This is a tight band all
+               around. The harmonies are good, the hooks are good, and above all the sound is good.
+               A new label with distinction. I think this first song should be on the radio. Pointed
+               Sticks are like the Bay City Rollers with more integrity. A fine debut single from a
+               band worth checking out. You won't be sorry.</p>
+         </div>
+         <div>
+            <p><graphic url=""/> Alt text: CUT ME OUT</p>
+         </div>
+         <div>
+            <p>LEWD Kill Yourself/Trashcan Babies/ Pay or Die Scratch Records 2420 1st Ave Seattle,
+               Wash. 98121</p>
+            <p>A Clash-like opening. Enemy-like vocals. Can't these guys be original? I guess not.
+               Boring old Satz. I mean, like wow, man this is PUNK! My first question: Why don't You
+               kill yourself Your music is as repetitive as disco.</p>
+            <p>The second song is a horror. I hate it. Vocal retchings, sexist bullshit. Give
+               up.</p>
+            <p>The third song. My record player kept rejecting it.</p>
+            <p>My second question. Do record players have their own tastes in music?</p>
+            <p>Rita Remark</p>
+            <cb/>
+         </div>
+
+         <div>
+            <p>POLY STYRENE Cont.</p>
+            <graphic url=""/>
+            <p>POLY: In the new wave I only like the Pistols, apart from us. And Reggae. I was
+               brought up on Reggae 'cause I came from Brixton.</p>
+            <p>NEVA: Why do you think Reggae has become so popular with punks?</p>
+            <p>POLY: Well, I like Reggae anyway ‘cause I'm half black, and I grew up in a black area
+               and was brought up on it... So I can’t judge it by what other punks say in any case.
+               But punk and Reggae are the same in the sense that they're basic...Reggae is a very
+               basic music, it's not very technical, the rhythm rules it. It's got its own little
+               language, its own little scene... But it's changed a lot from Ska and Blue Beat, now
+               it's got heavily into Dub and Rastafarian influences. It’s more cultural. There's a
+               lot of fakes in it too, ‘cause if you're a real Rasta you're not meant to show your
+               locks, you keep them under a hat unless you're praying.</p>
+            <p>NEVA: How old were you when you left home?</p>
+            <p>POLY: Fifteen. I just moved around for a year, mostly living in squats. I stayed with
+               junkies for a little while. I didn't really like it very much but I didn't have
+               nowhere else to live. There's no flats available for young single people, it's one of
+               the worst problems in London. It's virtually impossible to get somewhere to live, it
+               really is, unless you've got a load of money. These council flats won't let single
+               people in.</p>
+            <p>NEVA: Why do the papers over here make such a big deal over everything the punks
+               do?</p>
+            <p>POLY: You know what the English are like! It was just because it was new and exciting
+               that they had to blow it up out of proportion. And it was funny as well, that thing
+               on "Today"- (when the Pistols swore). It brought the fun back into telly, that, and
+               it made the Pistols bloody famous!</p>
+            <p>NEVA: It sure did. Any last words, Poly?</p>
+            <p>POLY: Yeah. Do you want a cup of coffee?</p>
+			<p>page 18</p>
+         </div>
+	   <div>
+            <p>There are many things wrong with the record industry. Any conscious record consumer
+               knows this. But 99% of the record buyers in the world are unconscious.</p>
+
+            <p>What this piece amounts to is a bitch session, my personal gripes; laid out in a
+               somewhat random fashion--maybe somewhat carelessly--but the point is clear: There are
+               far too many things being done wrong for one person to change, it is now a matter of
+               raising everyone's level of awareness about the fucked up state of the recording
+               business. </p>
+            <p>With albums hitting the market at an inflated list price of $8.98 per disc, new
+               groups--the contemporary progressive groups (not progressive in the sense of "techno
+               rock") have a limited chance of making a hit. As record consumers become more and
+               more anesthetized by such high selling, high priced releases as the $12 .98 list
+               Saturday Night Fever, they willingly assimilate the higher priced single LP's. I deny
+               S.N.F.'s existence on its price alone!!!</p>
+
+            <p>The high number of sales of a record that retails for at least $8.98 (usually more)
+               shows that people have been irrevocably conditioned to pay astronomical prices for
+               inferior pressings of inferior music. One thing to say for disco listeners is that
+               they openly recognize the inferiority of their music. They openly admit it. "All we
+               wanna do is dance dance, dance."</p>
+
+            <p>Most disco records are hot sellers for about two or three weeks, then they are
+               stiffed into oblivion. Some disco records however, employ advanced production
+               techniques. This is good, but actually a technique nicked from the German
+               “psychedelic” musicians of the early and middle seventies: Neu, Cluster, and
+               Kraftwerk.</p>
+
+            <p>The disco format has allowed this new music to be presented in a marketable pop
+               format, Some of the recent disco records are almost tantalizing from a production
+               standpoint alone--Donna Summer’s "I Feel Love", for instance. I'd rather have a Nick
+               Lowe or Brian Eno production on any record.</p>
+
+            <p>To get back to the point. Consumers are idiots. Do they buy records for the sake of
+               its art, or do they buy it because everyone else does? It is rather difficult to have
+               totally original taste in music. People are hesitant to buy a record they haven't
+               heard before, unless it's by their favorite artist (whether or not that fave lost it
+               five years ago is of no concern). I don't know that many people buy a record based
+               upon reading a review.</p>
+            <p>The Clash and Lol Creme/Kevin Godley’s "L" have received much critical acclaim, but
+               have sold few albums in this area. Reviews are sometimes "bought" by a record
+               label--either to stimulate sales, or merely to service the press. By exchanging
+               "favors of gratitude" with a writer to do a good review, they buy a sense of
+               security. They're more concerned with radio play. After all, it is where the mass
+               market is.</p>
+
+            <p>To change the buying habits of those aillions who bought Fleetwood Mac or Peter
+               Frampton or Saturday Night Fever is like trying to activate a dormant volcano by
+               mortal means. They are comfortable as conformist sheep. To wake them up would shatter
+               their American Dream: Ignorance.</p>
+
+            <p>Until then, you can do something. Refuse to buy $8.98 list single albums. Imports are
+               an exception. Their pressing quality is generally superior, and most of the profound
+               music of today is available only in import form.</p>
+
+            <p>Artists like Billy Joel, Barbara Streisand, Boston, Steve Miller, Ted Nugent, and
+               Chicago are knowingly allowing their labels to shove their corporate prick up all our
+               asses, Fuck them! Fuck Barbara Streisand and all her "little people” They ought to
+               have the human instinct, alledging themselves to be "artists", to refuse to record
+               and release a record at such prices. They're as openly barbaric as their company
+               presidents and A&amp;R Jerks. It's their profit, as well as</p>
+
+            <cb/>
+
+            <p>the record company's. Obviously, these types of people are not artists, but
+               profiteers. Modern day carpetbaggers. Hooligan racketeers who tour the world
+               collecting money by the ream. Literally, they're cornholing brown-nosed dick
+               lickers!</p>
+
+            <p>This is the situation today. There are plenty of influential musicians who are lucky
+               enough to have Top 100 albums. Of all the new wave artists to release LP's since 1976
+               (and there are alot of them), only a few have reached a top chart position in the
+               U.S. Patti Smith, Blondie, and the Ramones have all broken through on a limited
+               basis. But consider this: Elvis Costello is the only British new vave artist to be
+               lucky enough to have sold an appreciable number of LP's in the states. Few have
+               actually toured besides Costello, except for scattered dates in the media
+               cities—N.Y., L.A., S.F Cleveland, Detroit, etc.</p>
+
+            <p>To wit: Many bands (Clash, Stranglers, Boomtown Rats, Jam, Ultravox, Costello,
+               Generation X, ad infinitum) have been touring Great Britian and Europe for up to
+               three years. Slogging back and forth to small gigs in little towns. But they have
+               support. Possibly because Europe, and England specifically, are more conducive to a
+               greater outgrowth of not only creative impulses, but corporate benevolence.</p>
+
+            <p>Throughout history (Gawd! This <hi rend="ul">is</hi> sounding heavy!), artists have
+               survived no matter how barely, by receiving grants &amp; benefits from the church,
+               guild, royalty and other wealthy individuals. This feeling is maintained even today.
+               By observing record company signings and promotion activity in Europe, it is easy to
+               see how little risk U.S. record companies are willing to take on a new act, Not
+               another re-working of someone else's broken dreams. Bands like Pink Floyd, Led
+               Zepplin, Fleetwood Mac, Deep Purple, Black Sabbath, ad nauseam, are rarely---if
+               ever---covered by British trade papers. They have completely lost their credibility.
+               They may as well not exist.</p>
+
+            <p>Europeans recognize the need to indulge art. It is in their blood. The shit groups
+               mentioned above are still rather large sellers in the U.S., but not in their home
+               countries. They are dead meat. The English rock scene has replenished itself
+               constantly for the last 10-15 years. Good things have been, will and are coming of
+               it. There's been a lot of shit moozik, but a definite mark has been sighted. Industry
+               must bust soon and allow young talent--all the good ones, to make it.</p>
+
+            <p>It boils down to that. A total destruction and subsequent restructuring of the whole
+               record industry. And, it is your job (since you bothered to read</p>
+
+            <cb/>
+
+            <p>this) to do everything in your power to destroy and change it.</p>
+
+            <p>To the front!</p>
+            <p>page 19</p>
+
+         </div>
+   </body>
+</text>
+</TEI>
+

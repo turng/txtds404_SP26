@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>STELAZINE</title>
@@ -15,10 +15,169 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
-         <p>Some text here.</p>
+         <div>
+            <p>Sanctioned by franko</p>
+            <p>
+               In 1963 I was thirteen. My mom was
+               a country-western singer and I was a
+               farmboy. Also, <name type="artist">the Beatles</name> happened…
+               KJR was Radio Free Europe for the
+               refugees out in <name type="location">Duvall</name>. To be honest, it
+               took another year or so for this
+               particular farmkid to catch on to the
+               fact that there was a historic change
+               happening.
+            </p>
+            <p>
+               When I was in third grade in <name type="location">Sedro</name>
+               <name type="location">Wolley</name>, living next to the movie
+               House where “Love Me Tender” and “King
+               Creole” played, <name type="artist">Elvis</name> was my main
+               muse. Dancing in front of mom's stereo
+               to "Hound Dog" and "Don't Be Cruel”..
+               groovin’ to the Big Bopper, <name type="artist">Bobby</name>
+               <name type="artist">Darin</name>, <name type="artist">Fats Domino</name> and <name type="artist">Buddy Holly</name> (the
+               skinny kid with the glasses) on the
+               radio, I had sanction.
+            </p>
+            <p>
+               Mom took me to hear her sing one
+               Night because I learned the Presley
+               Two-Step (one forward and one back).
+            </p>
+            <p>But <name type="artist">the Beatles</name>, she told me, were
+               awful. Dad watched <name type="artist">the Stones</name> on Ed
+               Sullivan with us, and said, “I can
+               see why they’re called dirty. It’s
+               not dirt, it’s Filth!” No sanction.
+               But all the time on my Packard-Bell
+               portable, up in my little room, I was
+               groovin’! To the Folkies. I was
+               enraptured and romanced by <name type="artist">Simon’s</name> <name type="song">“I Am</name>
+               <name type="song">A Rock”</name>, and <name type="song">“Young Girls Are Coming</name>
+               <name type="song">To The Canyon”</name> with <name type="artist">the Mamas &amp; Papas</name>
+               <name type="artist">Dylan</name>, yea. And somehow, when <name type="artist">Dylan</name>
+               picked up an electric guitar I wasn’t
+               aware of any outrage. I was down in
+               the barnyard, making those sounds
+               with my mouth.</p>
+            <p>And I knew those <name type="artist">Beatles</name> couldn’t
+               be as awful as mom said. <name type="song">“I Wanna</name>
+               <name type="artist">Hold Your Hand”</name> was the Truth to this
+               throbbing pubescent mind.</p>
+            <p>Unbeknownst to me, the youth, and
+               quite a few of the grown-ups in
+               <name type="location">Seattle</name>, <name type="location">Bellevue</name>, <name type="location">Kirkland</name> were on fire
+               —Rock N Roll was the wave of the
+               future again. And I met them on the
+               traditional meeting ground for city and
+               country: The county fair.</p>
+            <p>
+               I was in 4-H, of course, and I had
+               a pet Jersey cow to lead around.
+               <cb/>
+               Every year we’d go to at least the
+               <name type="location">Monroe</name> county fair and the <name type="location">King County</name>
+               Fair in <name type="location">Enumclaw</name>. Although <name type="location">Enumclaw</name>
+               was the biggest fair, I believe all
+               The hip action was in <name type="location">Monroe</name>.
+            </p>
+            <p>
+               There was, of course, the rodeo….
+               horse shows, cow shows, and pie shows
+               Vacuum cleaners, window cleaners,
+               floor cleaners, and organ grinders. But
+               there was also stock car races. And
+               when there weren’t cars on the track
+               the fail officials had found it
+               lucrative to bring half-a-dozen <name type="location">Seattle</name>
+               rock bands to play for free—----there
+               at the racetrack.
+            </p>
+            <p>Little did they know the ultimate
+               terror they would help bring upon
+               <name type="location">Washington</name> parents everywhere, as their
+               kids became Rock N Rollers, and
+               forgot about doing the dishes and/or
+               feeding the calves. (I noticed they had
+               this much rock n roll only that one
+               year. After that they got all the old
+               country stars they could find).</p>
+            <p>
+               I must have shoved cow watch onto
+               every kid in the club, so me (I was
+               the president) and Rick DeVries (he’s
+               the vice-president), could go and
+               goggle at <name type="artist">Lucky and the Gamblers</name>, the
+               <name type="artist">Liverpool Five</name>, and numerous other
+               tatty costumed bands. Everybody
+               looked like <name type="artist">Paul Revere and the Raiders…</name>
+               everybody in pseudo-Carnaby Street
+               duds. And <name type="artist">Merilee Rush> and the</name>
+               <name type="artist">Turnabouts</name>––two shows daily on the midway.
+               I was in love with her overbite.
+            </p>
+            <p>And there was this scheme which now
+               seems out of a dream. In a tent in
+               some accidental corner of the
+               fairgrounds, kids from Greater <name type="location">Seattle</name>
+               burbs—I swear—were having honest-to-god
+               <hi rend="ul">sanctioned</hi>, amateur Battle of the
+               bands. Thirteen year old, sixteen year old
+               <name type="artist">Johnny Rays</name> and leather <name type="artist">Elvis’s</name>—-
+               tight blue jeans and greasy curls,
+               were climbing onto this little plywood
+               stage with their Fenders and Gibsons
+               and singing <name type="song">“House of the Rising Sun”</name>
+               while their mothers were crawling
+               around in their nylons and <name>Jackie</name>
+               <name>Kennedy</name> coats arranging and checking power
+               cords. What!!??</p>
+            <cb/>
+            <p><graphic url= ""/></p>
+            <p>
+               No kidding. It was like a 4-H club
+               for Rock N Roll. Really, I was out
+               there. I don’t know if they won the
+               chance to be backup band for the
+               Bands at PLU, or if they got to cut
+               a single, or if they just got a new
+               set of strings. But the point is,
+               they were playing rock n roll, and
+               their mothers were not only watching, but
+               brushing their greasy hair before
+               they went on stage. Sanction!
+               <cb/>
+            </p>
+            <p>
+               They weren’t as “good”, of course, as
+               the “Professionals” out on the race
+               track; nor did they get the money or
+               attention that <name type="artist">Merilee Rush</name> (who
+               would pick up her watch to see how much
+               longer the set was—right in the
+               middle of <name type="song">“Angel Of The Morning”</name>) got…
+               but they felt real-er. They were me,
+               living my dream. They seemed to be
+               not only supported, but even pushed
+               by their mothers to perform and live
+               out that dream.
+            </p>
+            <p>Sanction.</p>
+            <p>“WE HEARD
+               THE
+               NEWS
+               TODAY,
+               OH BOY”</p>
+            <p>FROM JET CITY
+               THE NEWS
+               BREAKING THE
+               SOUND BARRIERS</p>
+            <p><graphic url= ""/></p>
+         </div>
       </body>
-  </text>
+   </text>
 </TEI>

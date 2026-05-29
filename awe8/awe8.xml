@@ -7,8 +7,8 @@
       <fileDesc>
          <titleStmt>
             <title type="main">Selections from "My Awe #8: The Winter Desperation Issue"</title>
-            <title type="sub"><num type="currency" value="0.50">50¢</num><hi rend="font(allCaps)">or
-                  Not</hi></title>
+            <title type="sub"><num type="currency" value="0.50">50¢</num><hi rend="font(allCaps)">
+                  or Not</hi></title>
 
             <author>>Verna Doherty</author>
             <author>Randy Strickfaden</author>
@@ -53,7 +53,7 @@
                      target="https://orbiscascade-washington.primo.exlibrisgroup.com/permalink/01ALLIANCE_UW/1lcdegr/alma99162512111301452"
                      > UW Libraries catalog record </ref>
                </bibl></p>
-           
+
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -79,32 +79,32 @@
             <segmentation>
                <p>Our edition excerpts four items from this Zine:</p>
                <p><listBibl>
-                  <bibl>
-                     <author>Verna Doherty</author>
-                     <title>"Zero Page"</title>
-                  </bibl>
-                  
-                  <bibl>
-                     <author>Verna D.</author>
-                     <title>"Denny's Was Closed, A Saga in Portland"</title>
-                     <biblScope unit="page">14–18</biblScope>
-                  </bibl>
-                  
-                  <bibl>
-                     <author>Randy Strickfaden</author>
-                     <title>"Creeping Orwellianism"</title>
-                     <biblScope unit="page">22–26</biblScope>
-                  </bibl>
-                  
-                  <bibl>
-                     <author>Randy Strickfaden</author>
-                     <author>Bruce Storm</author>
-                     <title>"Ol' Gory"</title>
-                     <biblScope unit="page">27</biblScope>
-                     <date when="1985">1985</date>
-                  </bibl>
-                  
-               </listBibl></p>
+                     <bibl>
+                        <author>Verna Doherty</author>
+                        <title>"Zero Page"</title>
+                     </bibl>
+
+                     <bibl>
+                        <author>Verna D.</author>
+                        <title>"Denny's Was Closed, A Saga in Portland"</title>
+                        <biblScope unit="page">14–18</biblScope>
+                     </bibl>
+
+                     <bibl>
+                        <author>Randy Strickfaden</author>
+                        <title>"Creeping Orwellianism"</title>
+                        <biblScope unit="page">22–26</biblScope>
+                     </bibl>
+
+                     <bibl>
+                        <author>Randy Strickfaden</author>
+                        <author>Bruce Storm</author>
+                        <title>"Ol' Gory"</title>
+                        <biblScope unit="page">27</biblScope>
+                        <date when="1985">1985</date>
+                     </bibl>
+
+                  </listBibl></p>
             </segmentation>
          </editorialDecl>
       </encodingDesc>
@@ -199,15 +199,16 @@
             </p>
             <p>
                <hi rend="font(allCaps)"><hi rend="format(bold)"><name type="zine" ref="#wig_out"
-                        >WigOut</name>!</hi> is a happening 'zine put out by the folks in <hi
+                        >WigOut!</name></hi> is a happening 'zine put out by the folks in <hi
                      rend="format(bold)"><name type="band" ref="#girl_trouble">Girl
                      Trouble</name></hi>. The only <corr>publication</corr> I know that had <hi
                      rend="format(bold)"><name type="band" ref="#horseheads"
                         >Tex&amp;TheHorseheads</name></hi> on one page and a review of an early 70's
                   movie, <hi rend="format(bold)"><name type="film" ref="#cleopatra">Cleopatra
-                        Jones</name></hi>, on another! Allright. Well put-together and hilarious.
-                  Write to: <name type="zine" ref="#wig_out">Wig Out</name>! <name type="place"
-                     ref="#po_tacoma"><ref target="#n1">PO box 44633 Tacoma WA 98444</ref></name>
+                        Jones</name></hi>, on another! Allright<sic/>. Well put-together and
+                  hilarious. Write to: <name type="zine" ref="#wig_out">Wig Out!</name>
+                  <name type="place" ref="#po_tacoma"><ref target="#n1">PO box 44633 Tacoma WA
+                        98444</ref></name>
                </hi>
             </p>
          </div>
@@ -432,12 +433,12 @@
                drunken groupie, I don't know.</p>
             <ab type="subheading">PART FOUR — <orgName ref="#dennys">DENNY'S</orgName> WAS
                CLOSED...</ab>
-            <p><orgName ref="#dennys">Dennyss</orgName> was closed ! What?! Yes , that's right, three
-               carloads of people(four carloads?) Like, eighteen fuckin' possible customers and the
-               damn place is closed! I am feeling so strange ,so , just like I'm in a dream or a bad
-               new wave movie.We all want to go congregate somewhere , so , oh, let's just go on the
-               highway and head south. I'm hoping we don't end up in <placeName ref="#salem"
-                  >Salem</placeName>.</p>
+            <p><orgName ref="#dennys">Dennyss</orgName> was closed ! What?! Yes , that's right,
+               three carloads of people(four carloads?) Like, eighteen fuckin' possible customers
+               and the damn place is closed! I am feeling so strange ,so , just like I'm in a dream
+               or a bad new wave movie.We all want to go congregate somewhere , so , oh, let's just
+               go on the highway and head south. I'm hoping we don't end up in <placeName
+                  ref="#salem">Salem</placeName>.</p>
             <p>We all come to rest at <orgName ref="#bobs">Bob's Big Boy</orgName>,in <placeName
                   ref="#wilsonville">Wilsonville,OR</placeName>.Not a big town. The poor waitress.
                All of a sudden ,here's thes e people, not g<sic/> quite what they expected I'll bet.
@@ -457,9 +458,9 @@
             <p>(end of memory-writing,back to journal)<pb/></p>
             <ab type="subheading"><hi rend="font(handwritten)"><date>10/19/86</date></hi></ab>
             <p>I lost my shirt,and my pants and my shoes and socks. Itcs hard to let it all sink
-               in.I don't like people much right now.Butre then I'm sure they like me even less. It's
-               here that my writing falls apart.I'm hittin' the burnin' stuff(vodka) and feel like I
-               don't know who I am really.I never have.Don't know if I ever will.Should I
+               in.I don't like people much right now.Butre then I'm sure they like me even less.
+               It's here that my writing falls apart.I'm hittin' the burnin' stuff(vodka) and feel
+               like I don't know who I am really.I never have.Don't know if I ever will.Should I
                leave.(over at <persName ref="#jeannie">Jeannie</persName> and <persName
                   ref="#steven">Steven's</persName> house/feeling uncomfortable)I kinda want to. The
                reading tomorrow should be real good,leaving me emptier than ever. I sort of
@@ -492,15 +493,17 @@
                flag.</p>
          </div>
 
-         <figure>
-            <graphic url="filename.jpg"/>
+         <figure place="top">
             <figDesc>This image is in black and white, most probably photo-copied. A group of 3 to
                four people have their arms raised, holding up a crumpled American flag.</figDesc>
-            <note type="editorial">This image is formatted behind the lines of the poem. Stripped
-               are whited out to house the text.</note>
+            <note type="editorial">This image is formatted behind the lines of the poem. Strips are
+               whited out to house the text.</note>
          </figure>
 
-         <!-- I REALLY CAN'T MAKE OUT THE IMAGE THAT IS FORMATTED TO THE LEFT IN THE MIDDLE OF THE PAGE -->
+         <figure place="middle right">
+            <figDesc>A black and white photo of a figure crouching over a shadowy plane.</figDesc>
+            <note type="editorial">This figure is hard to discern and is generally amorphous</note>
+         </figure>
 
          <div type="poem">
             <head><ref target="n3">Ol Gory</ref></head>
@@ -580,18 +583,16 @@
 
          </div>
 
-         <figure>
-            <graphic url="filename.jpg"/>
-            <!-- I dunno if it's worth it to save the images manually to be put into the graphic url -->
+         <figure place="bottom left">
             <p rend="location(bottom)">Coming home: a final salute for slain Navy hostage </p>
             <figDesc> This photo is in black-and-white. As the caption insinuates, the photo
                comprises of people in military uniform surrounding a closed casket, saluting. Above
                them, a looming figure smiles down at them with his hand raised.</figDesc>
          </figure>
 
-         <figure>
+         <figure place="bottom right">
             <graphic url="filename.jpg"/>
-            <figDesc> A man in a suit and tie is smiling in the direction of the reader. </figDesc>
+            <figDesc>A man in a suit and tie is smiling in the direction of the reader. </figDesc>
          </figure>
 
          <div type="prose" subtype="rant" rend="align(left) font(typewriter)">
@@ -698,6 +699,20 @@
                because, any major cases, according to due process, they will formally list um, and
                they may be brought before the newly remodeled, narrow-minded, ultraconservative,
                religion bound, supreme court legal justice system.</p>
+
+            <figure>
+               <figDesc>The image lies in the left margin of the page and spands about 17 lines of
+                  text. The image depicts <ref target="#n7">Justice Rehnquist</ref> glaring forward.
+                  He wears rectagular glasses, a sweater vest over a dress shirt and tie, and a
+                  smirk on his face. The image is entirely in black and white. The image bleeds into
+                  the paragraph causing the first letter of each line to be faded.</figDesc>
+               <p><hi rend="align(center) font(Times New Roman)"><unclear reason="smudged"
+                        >J</unclear>ustice <unclear reason="smudged">R</unclear>ehnquist</hi></p>
+               <p><hi rend="align(left) font(Times New Roman)"><unclear reason="faded">T</unclear>he
+                     powerful anchor of <unclear reason="faded">t</unclear>he court's right
+                     wing</hi></p>
+            </figure>
+
             <p>I myself am really worried about our lady lib. I don't want to see her boasted pride
                transformed into uh fib. And even though her outside they have recently seen fit to
                overhaul, the ol' gal on the inside might not be standing quite as tall. Her true
@@ -727,6 +742,18 @@
                terrorism they fail to stop, slow down, curtail, or even barely nudge it. I think
                it's all just another way they can try to justify their outrageous defense
                budget.</p>
+
+            <figure>
+               <figDesc>The image lies in the left margin of the page and spands about 6 lines of
+                  text. It is the portrait of a <ref target="#n7">Justice Rehnquist</ref> with
+                  rectangular glasses. The image is his entire face, from the bottom of his chin to
+                  the top of his bald head.</figDesc>
+               <p><hi rend="align(left) font(arial) format(bold)">William Rehnquist</hi></p>
+               <p><hi rend="align(left) font(arial) format(bold)"> Age: 81</hi></p>
+               <p><hi rend="align(left) fon(Times New Roman)">Hospitalized in 1981 to be weaned from
+                     a drug <corr>prescribed</corr></hi></p>
+            </figure>
+
             <p>And they, who claimed to be so concerned about balancing the budget, and the out of
                control government spending. Well, judging from their own hypocritical record of the
                sincerity of their concern I think they should have uh hard time defending. Yet, the
@@ -761,6 +788,12 @@
                increasing the chances of annihilation everywhere so that everything may soon be
                gone, they will funnel the bucks toward desperately needed education, healthcare, and
                so on.</p>
+
+            <figure>
+               <figDesc>The image lies in the left margin of the page and spands about 15 lines of
+                  text. It depicts the side profile of Reagan wearing a suit and tie</figDesc>
+            </figure>
+
             <p>Yep, if we're ever fortunate enough to once again get those "do-gooders" back, of
                course we should feel beter for the time while our itch is gettin' scratched, but we
                shouldn't feel so damned good that we start countin' out chickens before they are
@@ -782,10 +815,24 @@
             <p>And what's the result for all of us? What is our reward? Well let's celebrate, time
                to pour the champagne, just like the president promised throughout his campaign we
                get ta see um bring America back, but never move 'er forward.</p>
-            <p><hi rend="font(allCaps)">Reagan's Law</hi><note>
-                  <!-- FIX THIS LATER --> This pasted ssignificantly larger than the rest of the
-                  text and at about a 40 degree angle with REAGAN'S above LAW. Below it is an image
-                  of Ronald Reagan</note></p>
+
+            <figure>
+               <figDesc>The image lies in the left margin of the page and spands about 7 lines of
+                  text; however, it spans belowe the end of the last paragraph. It depicts the head
+                  and face of Pat Robertson at a 45 degree angle. At the neck, there is a block of
+                  text that says "Pat Roberson" and below that, "An up and coming
+                  orwellion"</figDesc>
+               <p><hi rend="align(left) font(Times New Roman)">Pat Robertson</hi></p>
+               <p><hi rend="align(left) font(handwritten)">An up and coming orwellion</hi></p>
+            </figure>
+
+            <p><hi rend="align(center) font(allCaps) format(45 degree angle)">Reagan's Law</hi></p>
+
+            <figure>
+               <figDesc>The image lies at the bottom right corner of the page. It depicts Ronald
+                  Reagan at a 45 degree angle facing to the right. He is wearing a suit and tie. The
+                  image is entirely in black and white.</figDesc>
+            </figure>
          </div>
       </body>
 
@@ -829,6 +876,13 @@
                which page it surrounds.</note>
             <note xml:id="n6">"Lude" here is likely referring to a pill of methaqualone, a sedative.
                The term is short for Quaalude, a brand name for methaqualone.</note>
+            <note xml:id="n7">William Hubbs Rehnquist was an Associate Justice from 1972 to 1986 and
+               the Cheif Justice from 1986 to 2005. He was known for his conservative positions
+               opposing, abortion rights and anti-discrimination laws; however, he also showed he
+               could compromise when he "<ref target="#rehnquist">wrote the majority opinion
+                  upholding Congress's right to appoint independent counsels to investigate and
+                  prosecute high government officials, a right that was challenged by the Reagan
+                  administration.</ref>" </note>
          </div>
          <div type="editorial">
             <listPerson>
@@ -1122,6 +1176,19 @@
             </list>
 
             <listBibl>
+               <biblStruct type="article" xml:id="rehnquist">
+                  <analytic>
+                     <title>William H. Rehnquist, 1986-2005</title>
+                  </analytic>
+                  <monogr>
+                     <title>Supreme Court Historical Society</title>
+                     <imprint>
+                        <publisher>Supreme Court Historical Society</publisher>
+                        <pubPlace>Washington, D.C.</pubPlace>
+                        <note>https://supremecourthistory.org/chief-justices/william-rehnquist-1986-2005/</note>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
                <biblStruct type="newspaper" xml:id="japenga">
                   <analytic>
                      <title>Grunge 'R Us Exploitating, Co-Opting and Neutralizing the Counter

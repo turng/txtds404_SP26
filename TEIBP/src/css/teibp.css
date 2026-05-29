@@ -1,6 +1,6 @@
 /* imports */
 /* @import url("shell.css"); */
-@import url('http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic|Gentium+Book+Basic:400,400italic,700,700italic');
+/*  @import url('http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic|Gentium+Book+Basic:400,400italic,700,700italic');*/
 /* namespaces */
 /* @namespace "http://www.tei-c.org/ns/1.0"; */
 /* @namespace with prefix, as below, throws and error in less. */
@@ -1076,6 +1076,25 @@ note {
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
 }
+
+note::before{
+    content: attr(id) ": ";
+    font-weight: bold;
+}
+
+person note::before{
+    content: ": ";
+}
+
+person note{
+    display: inline;
+}
+
+c::before{
+    content: ": ";
+    
+}
+
 notesStmt {
   /* do we want to box each individual <note> if they're in a <notesStmt>? */
   display: none;
@@ -1558,6 +1577,8 @@ spanGrp {
 speaker {
   font-weight: bold;
   margin-right: 0;
+  text-transform: uppercase;
+  
 }
 specDesc {
   /* NOT SURE, look back on */
@@ -1672,7 +1693,7 @@ table > head {
   text-align: center;
 }
 teiHeader {
-  display: block;
+  display: none;
   /*
 border-radius: 15px;
 border: 1px solid black;
@@ -1829,8 +1850,12 @@ zone {
 }
 /* styles for html shell and html elements in TEI (e.g.,<a> and <img>) */
 html > body {
-  margin: 0;
-  padding: 0;
+  display: flex;
+  margin: auto;
+/*  padding: 0;
+  padding: 2.5em;
+  width: 90%;*/
+  /* width margin and auto in ody */
 }
 html {
   margin: 0;
@@ -1846,8 +1871,10 @@ html {
 }
 img {
   border: 1px solid #AAA;
+  width: 100%;
 }
 footer {
+display: none;
   margin-top: 1em;
   border-top: 1px solid #292929;
   padding-top: .5em;
@@ -1864,6 +1891,7 @@ a:hover {
   text-decoration: underline;
 }
 #teibpToolbox {
+display:none;
   left: 56em;
   top: 25px;
   position: fixed;

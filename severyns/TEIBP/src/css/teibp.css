@@ -99,7 +99,7 @@
   padding: 2.5em;
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
-  background-color: #EBEBEB;
+  background-color: cornsilk;
   color: #292929;
   width: 33em;
 }
@@ -1864,6 +1864,7 @@ a:hover {
   text-decoration: underline;
 }
 #teibpToolbox {
+  display: none;
   left: 56em;
   top: 25px;
   position: fixed;

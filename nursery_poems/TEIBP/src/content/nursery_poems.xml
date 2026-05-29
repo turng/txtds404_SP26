@@ -52,16 +52,375 @@
         <head rend="center">Nursery Poems</head>
         <head rend="center">from the</head>
         <head rend="center">Ancient and Modern Poets</head>
-        <figure type="image">
-           <graphic url="example.png"/>
-           <figDesc>A smiling sun icon surronded by the text <lang xml:lang="la">DEUS. EST. NOBIUS. SOL. ET.SCUTUM</lang></figDesc>
+        <figure type="image" rend="center">
+           <graphic url="imgs/banbury_sun.png"/>
+           <figDesc>A smiling sun icon surronded by the text <lang xml:lang="la">DEUS. EST. NOBIUS. SOL. ET. SCUTUM</lang></figDesc>
         </figure>
         <p>Banbury:</p>
         <p>Printed by J. G. Rusher</p>
         <pb n="1"/>
      </front>
       <body>
-         <p>example text</p>
+         <figure type="image" rend="center">
+            <graphic url="imgs/monarchs_and_crown.png"/>
+            <figDesc>three small images, on the left a man's head facing right, in the center a crown, and on the right a woman's head facing left. Each one is framed by a swirling vegetal pattern.</figDesc>
+         </figure>
+         <lg type="poem" n="1">
+            <lg type="stanza" rend="center" rhyme="abcbdefe">
+               <l>Sing a song a sixpence,</l>
+               <l rend="indented">A bag full of rye;</l>
+               <l>Four-and-twenty blackbirds</l>
+               <l rend="indented">Baked in a pie;</l>
+               <l>When the pie was opened,</l>
+               <l rend="indented">The birds began to sing;</l>
+               <l>Was not this a dainty dish</l>
+               <l rend="indented">To set before the king?</l>
+            </lg>
+            <lg type="stanza" rend="center" rhyme="abcbefe">
+               <l>The king in his counting house,</l>
+               <l rend="indented">Counting up his money;</l>
+               <l>The queen in the parlour,</l>
+               <l rend="indented">Eating bread and honey:</l>
+               <l>The maid in the garden,</l>
+               <l rend="indented">Hanging out the clothes;</l>
+               <l>By came a little bird,</l>
+               <l rend="indented">And snapt at her nose.</l>
+            </lg>
+         </lg>
+         <pb n="2"/>
+         <figure type="image" rend="left">
+            <graphic url="imgs/rooster.png"/>
+            <figDesc>A large rooster standing upright facing the right side of the page.</figDesc>
+         </figure>
+         <lg type="poem" n="2">
+            <lg type="stanza" rend="left" rhyme="aaba">
+               <l>Crows Cock-a-doodle-do!</l>
+               <l rend="indented">My dame has lost her shoe;</l>
+               <l>Master broke his fiddle-stick,</l>
+               <l rend="indented">And don't know what to do.</l>
+            </lg>
+         </lg>
+         <pb n="3"/>
+         <figure type="image" rend="center">
+            <graphic url="imgs/book_quill_and_feathers.png"/>
+            <figDesc>An open booklet lies atop a pair of oustretched wings. Piled atop the booklet are three small branches and a quill.</figDesc>
+         </figure>
+         <lg type="poem" n="3">
+            <lg type="stanza" rend="center" rhyme="ababcdcdefefagag">
+               <l rend="indented">Pretty flowers, tell me why</l>
+               <l>All your leaves do open wide,</l>
+               <l rend="indented">Every morning, when on high</l>
+               <l>The noble sun begins to ride?</l>
+               <l rend="indented">This is why, my lady fair,</l>
+               <l>If you would the reason know;</l>
+               <l rend="indented">For betimes the pleasant air</l>
+               <l>Very cheerfully does blow:</l>
+               <l rend="indented">And the birds on every tree</l>
+               <l>Sing a very merry tune,</l>
+               <l rend="indented">And the little honey bee</l>
+               <l>Comes to suck my sugar soon:</l>
+               <l rend="indented">This is all the reason why</l>
+               <l>I my little leaves undo;</l>
+               <l rend="indented">Lady, lady, wake and try,</l>
+               <l>If I have not told you true.</l>
+            </lg>      
+         </lg>
+         <pb n="4"/>
+         <figure>
+            <graphic url="imgs/two_children.png"/>
+            <figDesc>On the left, a standing woman touches a birdcage on the table. On the right, a man stares down at her.</figDesc>
+         </figure>
+         <lg type="poem" n="4">
+            <lg type="stanza" rend="center" rhyme="abcb">
+               <l>Little miss, pretty miss,</l>
+               <l rend="indented">May blessings light on you!</l>
+               <l>If I'd a crown a day,</l>
+               <l rend="indented">I'd spend it upon you.</l>
+            </lg>
+         </lg>
+         <l rend="center">—</l>
+         <lg type="poem" n="5">
+            <l rend="center italicized">Song set to the five Toes</l>
+            <lg type="stanza" rend="left" rhyme="abcdeb">
+               <l>1 This little pig went to market,</l>
+               <l rend="indented">2 That little pig staid at home,</l>
+               <l>3 This pig had nice bread and butter,</l>
+               <l rend="indented">4 And that little pig had none;</l>
+               <l>5 This little pig cried week, week, week!</l>
+               <l rend="indented">And could n't find his way home.</l>
+            </lg>
+         </lg>
+         <pb n="5"/>
+         <figure>
+            <graphic url="imgs/dog.png"/>
+            <figDesc>A long-haired dog runs to the right with its tongue sticking out, atop grass.</figDesc>
+         </figure>
+         <lg type="poem" n="6">
+            <lg type="stanza" rend="left" rhyme="abcb">
+               <l>Two little Dogs sat by the fire,</l>
+               <l rend="indented">Over a fender of coal-dust;</l>
+               <l>When one said to the other dog,</l>
+               <l rend="indented">If Pompey won't talk, why I must.</l>
+            </lg>
+         </lg>
+         <l rend="center">—</l>
+         <lg type="poem" n="7">
+            <lg type="stanza" rend="left" rhyme="aabb">
+               <l>Handy-spandy, Jack-a-dandy,</l>
+               <l>Loved plum-cake and sugar candy;</l>
+               <l>He bought some at the pastry shop,</l>
+               <l>And laughing came out, hop, hop,</l>
+               <l rend="indented">hop!</l>
+            </lg>
+         </lg>
+         <pb n="6"/>
+         <figure>
+            <graphic url="imgs/pig.png"/>
+            <figDesc>A circular frame shows the left side of a hog.</figDesc>
+         </figure>
+         <lg type="poem" n="8">
+            <lg type="stanza" rend="center" rhyme="abcb">
+               <l>Now have you ever heard</l>
+               <l rend="indented">Of Billy Pringle's Pig?</l>
+               <l>It was not very small,</l>
+               <l rend="indented">Nor yet so very big:</l>
+            </lg>
+            <lg type="stanza" rend="left" rhyme="aabb">
+               <l>When alive it lived in clover,</l>
+               <l>Now its dead and that's all over;</l>
+               <l>Poor Billy, he lay down and died,</l>
+               <l>And Betsy, she sat up and cried:</l>
+            </lg>
+            <lg type="stanza" rend="center" rhyme="aaaa">
+               <l>So there's an end of three;</l>
+               <l rend="indented">Of Billy Pringle, he,</l>
+               <l>Of Betsy Pringle, she,</l>
+               <l rend="indented">And poor piggy wiggee.</l>
+            </lg>
+         </lg>
+         <pb n="7"/>
+         <figure type="image" rend="center">
+            <graphic url="imgs/barn_cat.png"/>
+            <figDesc>A cat rests on the left side of a wall atop some straw, with two jugs behind it. A mouse peeks its head out from the right side of the wall.</figDesc>
+         </figure>
+         <p rend="center">POOR PUSS.</p> <!--it seems <head> is not allowed this far down in the TEI-->
+         <l rend="center">—</l>
+         <lg type="poem" n="9">
+            <lg type="stanza" rend="center" rhyme="abba">
+               <l>Why is Pussy in bed?</l>
+               <l rend="indented">She is sick, says the fly,</l>
+               <l rend="indented">And I fear she will die;</l>
+               <l>And that's why she's in bed.</l>
+            </lg>    
+            <l rend="center">—</l>           
+            <lg type="stanza" rend="center" rhyme="abba">
+               <l>Pray what's her disorder?</l>
+               <l rend="indented">A lock'd-jaw is come on,</l>
+               <l rend="indented">Said the fine downy swan;</l>
+               <l>And that's her disorder.</l>
+            </lg>          
+            <pb n="8"/>           
+            <figure type="image" rend="center">
+               <graphic url="imgs/hound.png"/>
+               <figDesc>A circular frame shows a lean, short-haired dog outside on grass besides a tree, with two dog silhouettes running behind it.</figDesc>
+            </figure>
+            <lg type="stanza" rend="left" rhyme="abba">
+               <l>Who makes her nice gruel?</l>
+               <l rend="indented">That she might not get worse,</l>
+               <l rend="indented">Dog Tray is her nurse,</l>
+               <l>And makes her nice gruel.</l>
+            </lg>
+            <l rend="center">—</l> 
+            <lg type="stanza" rend="left" rhyme="abba">
+               <l>Pray who is her doctor?</l>
+               <l rend="indented">I, said fam'd Mister Punch,</l>
+               <l rend="indented">At my back a great hunch;</l>
+               <l>But I am her doctor.</l>
+            </lg>
+            <pb n="9"/>
+            <figure type="image" rend="center">
+               <graphic url="imgs/deer.png"/>
+               <figDesc>A gazelle runs towards the right upon an open grassy plain.</figDesc>
+            </figure>
+            <lg type="stanza" rend="left" rhyme="abba">
+               <l>Who thinks she'll recover?</l>
+               <l rend="indented">I do, sir, said the Deer,</l>
+               <l rend="indented">And I thought so last year;</l>
+               <l>I think she'll recover.</l>
+            </lg>
+            <figure type="image" rend="center">
+               <graphic url="imgs/face.png"/>
+               <figDesc>A small image of a thin-faced man with the horns of a ram smiles with two flowers coming out either end of his mouth.</figDesc>
+            </figure>
+            <lg type="stanza" rend="left" rhyme="abba">
+               <l>And when Puss is quite well,</l>
+               <l rend="indented">All shall have noble fare;</l>
+               <l rend="indented">Beasts, and fowls of the air,</l>
+               <l>And we'll ring the great bell.</l>
+            </lg>
+         </lg>
+         <pb n="10"/>
+         <figure>
+            <graphic url="imgs/rabbit.png"/>
+            <figDesc>A rabbit stands facing to the right, it's eye staring at the reader.</figDesc>
+         </figure>
+         <lg type="poem" n="10">
+            <lg type="stanza" rend="left" rhyme="aabbccddeeffgg">
+               <l>There was a little Rabbit sprig,</l>
+               <l>Which being little was not big;</l>
+               <l>He always walked upon his feet,</l>
+               <l>And never fasted when he eat.</l>
+               <l>When from a place he ran away,</l>
+               <l>He never at that place did stay;</l>
+               <l>And when he ran, as I am told,</l>
+               <l>He ne'er stood still for young or old.</l>
+               <l>Tho' ne'er instructed by a cat,</l>
+               <l>He knew a mouse was not a rat:</l>
+               <l>One day, as I am certified,</l>
+               <l>He took a whim and fairly died;</l>
+               <l>And, as I'm told, by men of sense,</l>
+               <l>He never has been walking since.</l>
+            </lg>
+         </lg>
+         <pb n="11"/>
+         <figure>
+            <graphic url="imgs/smith.png"/>
+            <figDesc>A person stands with one arm holding up a hammer and the other hand on their hip, staring down at five spikes connected in a half-circle rising from the ground.</figDesc>
+         </figure>
+         <lg type="poem" n="11">
+            <lg type="stanza" rend="center" rhyme="aabbcb">
+               <l>Is John Smith within?</l>
+               <l>Yes, Mister Griffin.</l>
+               <l rend="indented">Can he set a shoe?</l>
+               <l rend="indented">Yes, sir, one or two:</l>
+               <l>Here's a nail, there's a nail,</l>
+               <l rend="indented">Tit, tat, too!</l>
+            </lg>
+         </lg>
+         <l rend="center">—</l>
+         <lg type="poem" n="12">
+            <lg type="stanza" rend="center" rhyme="abcbadcd">
+               <l>To market, to market,</l>
+               <l rend="indented">To buy a fat pig;</l>
+               <l>Home again, home again,</l>
+               <l rend="indented">Jiggety jig:</l>
+               <l>To Banbury market,</l>
+               <l rend="indented">To buy a fat hog;</l>
+               <l>Home again, home again,</l>
+               <l rend="indented">Jiggety jog.</l>
+            </lg>
+         </lg>
+         <pb n="12"/>
+         <figure>
+            <graphic url="imgs/man_with_gun.png"/>
+            <figDesc>A wide octagonal frame shows a group of men on the right holding muskets and aiming at a brick wall on the left.</figDesc>
+         </figure>
+         <lg type="poem" n="13">
+            <lg type="stanza" rend="left" rhyme="abcddc">
+               <l rend="indented">There was a little man,</l>
+               <l rend="indented">Who had a little gun,</l>
+               <l>And his bullets were made of lead;</l>
+               <l rend="indented">And he shot Johnny Sprig</l>
+               <l rend="indented">On the top of his wig,</l>
+               <l>And sent it pop-bang off his head.</l>
+            </lg>
+         </lg>
+         <l rend="center">—</l>
+         <lg type="poem" n="14">
+            <lg type="stanza" rend="left" rhyme="aabccb">
+               <l rend="indented">At reck'ning let's play,</l>
+               <l rend="indented">And, prithee, let's lay</l>
+               <l>A wager, and let it be this,—</l>
+               <l rend="indented">Who first to the sum</l>
+               <l rend="indented">Of twenty doth come,</l>
+               <l>Shall win, be they master or miss.</l>
+            </lg>
+         </lg>
+         <pb n="13"/>
+         <lg type="poem" n="15">
+            <lg type="stanza" rend="center" rhyme="abcbdeaefghgijkj">
+               <l>Robin and Richard</l>
+               <l rend="indented">Were two little men,</l>
+               <l>They did not awake</l>
+               <l rend="indented">Till the clock struck ten:</l>
+               <l>Then up starts Robin,</l>
+               <l rend="indented">And looks at the sky;</l>
+               <l>Oh! brother Richard,</l>
+               <l rend="indented">The sun's very high!</l>
+               <l>They both were ashamed,</l>
+               <l rend="indented">On such a fine day,</l>
+               <l>When they were wanted</l>
+               <l rend="indented">To make the new hay.</l>
+               <l>Do you go before</l>
+               <l rend="indented">With bottle and bag,</l>
+               <l>I will come after</l>
+               <l rend="indented">On little jack nag.</l>
+            </lg>
+         </lg>
+         <l rend="center">—</l>
+         <lg type="poem" n="16">
+            <lg type="stanza" rend="center" rhyme="abab">
+               <l>Dick, the first of the race,</l>
+               <l rend="indented">His racer is the best;</l>
+               <l>The fleetest in the chase</l>
+               <l rend="indented">When mettle's put to test.</l>
+            </lg>
+         </lg>
+         <pb n="14"/>
+         <figure>
+            <graphic url="imgs/mother_goose.png"/>
+            <figDesc>A oval frame shows a lady wearing a dark cloack and hood carrying a basket with a group of three geese to her left.</figDesc>
+         </figure>
+         <lg type="poem" n="17">
+            <lg type="stanza" rend="left" rhyme="abcddc">
+               <l rend="indented">I'll tell you a story</l>
+               <l rend="indented">About Peg Amo-re,</l>
+               <l>And now is my story begun:</l>
+               <l rend="indented">I'll tell you another</l>
+               <l rend="indented">'Bout Peg and her brother,</l>
+               <l>And now my short story is done.</l>
+            </lg>
+         </lg>
+         <l rend="center">—</l>
+         <lg type="poem" n="18">
+            <lg type="stanza" rend="left" rhyme="abcbdecb">
+               <l>Pussy sat beside the fire,</l>
+               <l rend="indented">So pretty and so fair;</l>
+               <l>In came Prin, the little dog,</l>
+               <l rend="indented">Says pussy, Are you there?</l>
+               <l>And now, Mistress Pussy,</l>
+               <l rend="indented">Pray how do you do?</l>
+               <l>Quite well, my little dog;</l>
+               <l rend="indented">And pray how are you?</l>
+            </lg>
+         </lg>
+         <pb n="15"/>
+         <figure>
+            <graphic url="imgs/man_with_horse.png"/>
+            <figDesc>A rectangular frame shows a man wearing a hat leading a horse towards the right.</figDesc>
+         </figure>
+         <lg type="poem" n="19">
+            <lg type="stanza" rend="left" rhyme="abcbdefe">
+               <l>I had a little Pony,</l>
+               <l rend="indented">And call'd it Dapple Grey;</l>
+               <l>I lent it to a lady,</l>
+               <l rend="indented">To ride a mile away:</l>
+               <l>She whipped it, and she lashed it,</l>
+               <l rend="indented">She rode it through the mire;</l>
+               <l>I would'nt give my pony pet,</l>
+               <l rend="indented">For all the lady's hire.</l>
+            </lg>
+         </lg>
+         <l rend="center">—</l>
+         <lg type="poem" n="20">
+            <lg type="stanza" rend="center" rhyme="abcb">
+               <l>Little Robin Redbreast,</l>
+               <l rend="indented">So pretty and so good,</l>
+               <l>Did cover o'er with leaves</l>
+               <l rend="indented">The Children in the Wood.</l>
+            </lg>
+         </lg>
+         <pb n="16"/>
       </body>
   </text>
 </TEI>
