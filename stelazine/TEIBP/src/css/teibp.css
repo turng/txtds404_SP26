@@ -1701,6 +1701,7 @@ textDesc {
 /* Need TEI ancestor to distinguish TEI title from HTML title */
 TEI title {
   display: inline;
+  
 }
 TEI title[level=a] {
   quotes: "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d";
@@ -1723,11 +1724,22 @@ title[level=m] {
 /* We transformed teiHeader//title to tei.title  */
 /* as a hack to solve a JavaScript/jQuery issue. */
 titleStmt > tei-title {
-  display: block;
+/*   display: block;
   font-family: Arvo, sans-serif;
   font-weight: normal;
   font-weight: bold !important;
-  font-size: 150%;
+  font-size: 150%; */
+  display: flex;
+    justify-content:center;
+    letter-spacing: 4px;
+    font-style:italic;
+    font-size:50pt;
+    text-transform: uppercase;
+    font-weight: bold !important;
+    margin: auto;
+    background:black;
+    color:white;
+    margin: 0 -5%;
 }
 titleStmt > editor:before {
   content: "Edited by ";

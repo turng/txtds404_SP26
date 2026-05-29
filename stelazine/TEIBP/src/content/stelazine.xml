@@ -4,22 +4,43 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>STELAZINE</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Publication Information</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Information about the source</p>
-         </sourceDesc>
-      </fileDesc>
-  </teiHeader>
-  <text>
-      <body>
-         <p>Some text here.</p>
-      </body>
-  </text>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>STELAZINE</title>
+      </titleStmt>
+      <publicationStmt>
+         <p>Publication Information - PAGE 1</p>
+      </publicationStmt>
+      <sourceDesc>
+         <p>Information about the source</p>
+      </sourceDesc>
+   </fileDesc>
+</teiHeader>
+<text>
+   <body>
+      <div>
+         <head>STELAZINE</head>
+         <figure>
+            <graphic url="COVER_IMG"/>
+            <figDesc>The cover of this issue of STELAZINE</figDesc>
+            <head>STELAZINE</head>
+            <p>50!</p>
+            <p>Vol.2</p>
+            <p>No.1</p>
+            <p>Results Inside</p>
+            <p>New York</p>
+         </figure>
+      </div>
+      <pb n="1"/>
+      
+      <div>
+         
+         
+      </div>
+      
+      
+   </body>
+</text>
 </TEI>
+
