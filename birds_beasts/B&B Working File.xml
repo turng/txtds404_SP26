@@ -170,64 +170,70 @@
             </lg>
             <p> There's the pretty <hi rend="italics">Cuckoo ! </hi> This good-natured bird comes a long journey once every year to see all his friends, and sing them a sng. And after he has obliged them with his company about three months, he takes his leave, and returns to his own country again.</p>
          </div>
-         
-         <div>
-            <pb n="9"/>
-            <head>THE COW.</head>
-            <lg>
-               <l>Early the <hi rend="italics">milkmaid</hi> to the meadow hies,</l> <l>And the <hi rend="italics">red Cow</hi> her empty pail
-                  supplies.</l>
-            </lg>
-            <p>This is the good-natured <hi rend="italics">Cow</hi> to which we are all so much obliged. She comes, poor
-               thing! in the morning, and brings her udder full of milk for <pb n="10"/> our
-               breakfast, and the same at night for our supper. To her we are indebted for our
-               custards, cheesecakes, curds, and cream, as well as for our milk, butter, and
-               cheese.</p>
-         </div>
-         <div>
-            <pb n="11"/>
-            <head>THE NIGHTINGALE.</head>
-            <lg>
-               <l><hi rend="dc">T</hi>he <hi rend="italics">Nightingale</hi> doth sweetly sing,</l> <l>To welcome in the cheerful spring.</l>
-            </lg>
-            <p>What a pretty bird the <hi rend="italics">Nightingale</hi> is! How sweetly she sings! I could wish 'twas
-               summer all the year for the sake of her good company.</p>
-         </div>
-         <div>
-            <pb n="12"/>
-            <head>THE LAMB.</head>
-            <lg>
-               <l>The little Lamb doth skip and play,</l> <l>Always merry, always gay.</l>
-            </lg>
-            <p>See the little Lamb! how innocent he looks! he never did any harm, and therefore is
-               beloved by every body: but the fox and the wolf, who are always in mischief, are
-               hated and despised.</p>
-         </div>
-  
-         <div>
-            <pb n="13"/>
-            <head>THE LION.</head>
-            <lg>
-               <l>The <hi rend="italics">Lion</hi> ranges round the wood,</l> <l>And makes the lesser beasts his food:</l> <l>Thus tyrants
-                  on their subject prey,</l> <l>And rule with arbitrary sway.</l>
-            </lg>
-            <p>Though the <hi rend="italics">Lion</hi> is such a strong devouring creature, yet <ref target="#n13">Daniel</ref> was thrown into a den
-               among several of <pb n="14"/> them, and received no harm. For he was punished on
-               account of his religion and virtue, he prayed unto God, and the Lord delivered
-               him.</p>
-         </div>
-         <div>
-            <pb n="15"/>
-            <head>THE WHALE.</head>
-            <lg>
-               <l>The Whale's the monarch of the main,</l> <l>(As is the Lion of the plain:)</l> <l>He keeps the
-                  lesser fish in awe,</l> <l>And, tyrant-like, his will's his law.</l>
-            </lg>
-            <p>When the prophet <ref target="#n15">Jonah</ref> attempted to fly over sea from the presence of the Lord, there
-               arose a great storm, and <pb n="16"/> he being cast into the deep, was swallowed by
-               this great fish, in whose belly he repented sincerely, and prayed unto God; wherefore
-               the Lord commanded the fish, and he swam to shore, and cast him upon dry land.</p>
-         </div>
+        <div>
+    <pb n="9"/>
+    <head>THE COW.</head>
+    <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_009.jpg"/></figure>
+    <lg>
+        <l><hi rend="dc">E</hi>arly the <hi rend="italics">milkmaid</hi> to the meadow hies,</l> <l>And the <hi rend="italics">red Cow</hi> her empty pail
+            supplies.</l>
+    </lg>
+    <p>This is the good-natured <hi rend="italics">Cow</hi> to which we are all so much obliged. She comes, poor
+        thing! in the morning, and brings her udder full of milk for <pb n="10"/> our
+        breakfast, and the same at night for our supper. To her we are indebted for our
+        custards, cheesecakes, curds, and cream, as well as for our milk, butter, and
+        cheese.</p>
+    <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_010.jpg"/></figure>
+</div>
+<div>
+    <pb n="11"/>
+    <head>THE NIGHTINGALE.</head>
+    <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_011.jpg"/></figure>
+    <lg>
+        <l><hi rend="dc">T</hi>he <hi rend="italics">Nightingale</hi> doth sweetly sing,</l> <l>To welcome in the cheerful spring.</l>
+    </lg>
+    <p>What a pretty bird the <hi rend="italics">Nightingale</hi> is! How sweetly she sings! I could wish 'twas
+        summer all the year for the sake of her good company.</p>
+</div>
+<div>
+    <pb n="12"/>
+    <head>THE LAMB.</head>
+    <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_012.jpg"/></figure>
+    <lg>
+        <l><hi rend="dc">T</hi>he little <hi rend="italics">Lamb</hi> doth skip and play,</l> <l>Always merry, always gay.</l>
+    </lg>
+    <p>See the little <hi rend="italics">Lamb</hi>! how innocent he looks! he never did any harm, and therefore is
+        beloved by every body: but the fox and the wolf, who are always in mischief, are
+        hated and despised.</p>
+</div>
+<div>
+    <pb n="13"/>
+    <head>THE LION.</head>
+    <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_013.jpg"/></figure>
+    <lg>
+        <l><hi rend="dc">T</hi>he <hi rend="italics">Lion</hi> ranges round the wood,</l> <l>And makes the lesser beasts his food:</l> <l>Thus tyrants
+            on their subject prey,</l> <l>And rule with arbitrary sway.</l>
+    </lg>
+    <p>Though the <hi rend="italics">Lion</hi> is such a strong devouring creature, yet <ref target="#n13"><hi rend="italics">Daniel</hi></ref> was thrown into a den
+        among several of <pb n="14"/> them, and received no harm. For he was punished on
+        account of his religion and virtue, he prayed unto God, and the Lord delivered
+        him.</p>
+    <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_014.jpg"/></figure>
+</div>
+<div>
+    <pb n="15"/>
+    <head>THE WHALE.</head>
+    <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_015.jpg"/></figure>
+    <lg>
+        <l><hi rend="dc">T</hi>he <hi rend="italics">Whale's</hi> the monarch of the main,</l> <l>(As is the Lion of the plain:)</l> <l>He keeps the
+            lesser fish in awe,</l> <l>And, tyrant-like, his will's his law.</l>
+    </lg>
+    <p>When the prophet <ref target="#n15"><hi rend="italics">Jonah</hi></ref> attempted to fly over sea from the presence of the Lord, there
+        arose a great storm, and <pb n="16"/> he being cast into the deep, was swallowed by
+        this great fish, in whose belly he repented sincerely, and prayed unto God; wherefore
+        the Lord commanded the fish, and he swam to shore, and cast him upon dry land.</p>
+    <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_016.jpg"/></figure>
+</div>
          <div>
             <pb n="17"/>
             <head>THE BUTTERFLY.</head>
