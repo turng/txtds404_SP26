@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Selections from "My Awe #8: The Winter Desperation Issue"</title>
+                <title type="sub"><num type="currency" value="0.50">50¢</num><hi rend="font(allCaps)">
+                        or Not</hi></title>
+                
+                <author>>Verna Doherty</author>
+                <author>Randy Strickfaden</author>
+                <author>Bruce Storm</author>
+                
+                <editor>Hannah Mendro</editor>
+                <editor>Kai vanNood</editor>
+                <editor>Gabrielle Boland</editor>
+                
+            </titleStmt>
+            <publicationStmt>
+                <p>This publication is part of the assigned work for the University of Washington class
+                    "Texts, Publics, and Publication." Our team chose to digitize selections of "My Awe
+                    #8" for people like ourselves: who are interested in zines as counterculture and as
+                    representations of artistic and political movements, and who are interested in the
+                    form as a collaborative artistic endeavor free of the expectations of traditional
+                    publication. We feel that this particular zine represents an interesting moment in
+                    Seattle’s political and art history. We chose selections that we believe highlight
+                    the patchwork nature of the zine, spotlighting pieces of prose, poetry, political
+                    commentary, illustrations, and the front matter, for what they all reveal about the
+                    ethos behind the zine’s publication.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>The zine is made up of a combination of illustrations, handwriting, and type. The
+                    font of the type seems to be a Courier font of some kind. The handwriting is usually
+                    in all-caps and generally legible, sometimes written in spirals around the
+                    illustrations or the typed text on each page. The selections we have chosen are a
+                    representative sample of the types of text included within the zine, including some
+                    illustrations, pages with typed text, and pages with handwritten text.</p>
+                
+                <p>Location and archival information: <bibl>
+                        <title level="m">My Awe #8: The Winter Desperation Issue</title>
+                        <date when="1987">1987</date>
+                        <orgName>University of Washington Libraries Special Collections</orgName>
+                        <note type="collection"> Seattle Arts Scene Zines, Chapbooks, and Ephemera </note>
+                        <idno type="callNumber">acc6357-001 Box 1</idno>
+                        <idno type="location">T0250c</idno>
+                        <idno type="OCLC">1297063069</idno>
+                        <idno type="almaIZ">99162512111301452</idno>
+                        <idno type="almaNZ">99332935346101451</idno>
+                        <ref
+                            target="https://orbiscascade-washington.primo.exlibrisgroup.com/permalink/01ALLIANCE_UW/1lcdegr/alma99162512111301452"
+                            > UW Libraries catalog record </ref>
+                </bibl></p>
+                
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <normalization>
+                    <p>In our edition, we maintain the distinction between type and handwriting, the
+                        incorporation of visual elements into text pages, and typographic features
+                        (including errors), which are part of the low-polish appeal of this art form. We
+                        annotate the difference between type and handwriting, as well as the pattern the
+                        typewriting takes; political context such as local and national government;
+                        information about relevant music or art, as best we are able to find it; and what
+                        author information we can find. In order to stay faithful to the ephemeral nature
+                        of zines, we have decided not to include images in this transcription; we will
+                        include the location of where images occur and a description of what they are, but
+                        not the image itself.</p>
+                </normalization>
+                <correction>
+                    <p>We have maintained typewriter errors and misspellings where we found them, but
+                        have annotated such errors. We did not maintain line breaks in prose, so anytime
+                        that there is a word sepreated by a hyphen, we replaced with the full word; this
+                        is marked with <corr/> tag.</p>
+                </correction>
+                <segmentation>
+                    <p>Our edition excerpts four items from this Zine:</p>
+                    <p><listBibl>
+                            <bibl>
+                                <author>Verna Doherty</author>
+                                <title>"Zero Page"</title>
+                            </bibl>
+                            
+                            <bibl>
+                                <author>Verna D.</author>
+                                <title>"Denny's Was Closed, A Saga in Portland"</title>
+                                <biblScope unit="page">14–18</biblScope>
+                            </bibl>
+                            
+                            <bibl>
+                                <author>Randy Strickfaden</author>
+                                <title>"Creeping Orwellianism"</title>
+                                <biblScope unit="page">22–26</biblScope>
+                            </bibl>
+                            
+                            <bibl>
+                                <author>Randy Strickfaden</author>
+                                <author>Bruce Storm</author>
+                                <title>"Ol' Gory"</title>
+                                <biblScope unit="page">27</biblScope>
+                                <date when="1985">1985</date>
+                            </bibl>
+                            
+                    </listBibl></p>
+                </segmentation>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>This zine represents much of the rhetoric and aesthetics of what would be known
+                as the Grunge movement, which has its origins traced to Seattle in the 1980s. References
+                are made to punk and grunge bands, musicians, and locations of the era. The political
+                commentary of the zine often either directly or indirectly addresses the reader with the
+                intent of expressing frustration or warning about the governments and institutions the
+                zine is pushing back against.</creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+           
+            <div type="prose" subtype="rant" rend="align(left) font(typewriter)">
+                <figure>
+                    <figDesc>The figure encompasses nearly the entire page and is in black and
+                        white. It depits Ronald Reagan using three different images that are pasted
+                        on top of each other giving the illusion of movement. In the background,
+                        there is a pillar and half of a window visible. The image itself is fairly
+                        grainy. Below the image on the right there is handwritten text</figDesc>
+                    <p><hi rend="align(right) font(handwritten)">Bruce Storm</hi></p>
+                </figure>
+                <pb/>
+                <head><hi rend="align(center) font(jagged/creepy)"><ref target="#n2">Creeping
+                            Orwellionism</ref></hi></head>
+                <head><hi rend="align(center)">by <name type="person" ref="#randy">Randy
+                            Strickfaden</name></hi></head>
+
+                <p>So, you want uh job here do ya, security and steady pay, and mabe even uh chance
+                    to move up, well then peon piss in this cup! And if your urine's clean then we
+                    just might hire you, and use ya 'till the job is through. We'll work you like uh
+                    whore until we don't need ya anymore; then, we'll dump ya back with all the rest
+                    of the applicant junkies who failed our tinkle test.</p>
+                <p>Yep, they got it in for all the dopers now, and there's all kinds of brand new
+                    witch-hunts. With here, their scapegoat reason is having to do with job
+                    performance. Where over the weekend, huh! in your free time, you break the law
+                    by smokin' your J with the drapes pulled shut to keep from gettin' busted, and
+                    show up for work next Monday mornin' refreshed, well rested, and attitude
+                        <corr>adjusted</corr>. While your law-abiding co-worker shows up with an
+                    aching head, swollen face, incoherent still with every crooked step uh stagger,
+                    trip, and toddle after spending their whole weekend nippin' from uh bottle.</p>
+                <figure>
+                    <figDesc>The image lies in the left margin of the page and spands about 15 lines
+                        of text. It depicts a person facing and pointing towards the right. The
+                        image is grainy which makes its hard to definitively tell who it
+                        is.</figDesc>
+                    <p><unclear reason="illegible"/>
+                        <hi rend="align(center) font(Times New Roman)">will come down on
+                            civil-liberties and civil-rights</hi></p>
+                </figure>
+                <p>Yet, the test results show that your the one that has to go. Your drug of choice
+                    is not approved by law ya know. And it renders you unfit for work, while that
+                    other drunken jerk, with his <corr>bloodshot</corr> eyes and big red snout,
+                    passes the test with flying colors no matter how much stale booze he excretes
+                    out.</p>
+                <p>Oh yes, and with this drug, sniff sniff, there can be no casual use. Once you've
+                    done it your hooked for good and destined to uh life of abuse. And Uncle Same
+                    has waged his war patrolling every border and every shore, moving his troops
+                    through every town to combat the home grown dope, crack, and heroin brown. You
+                    know, you hear about it all on the news. Ironic as hell now they tolerate
+                    cigarettes and booze. In fact, your tax dollars have even helped subsidize that
+                    little enterprize.</p>
+                <p>If people choose to be dumb instead of think by wasting their livers with too
+                    much drink then I say leave um alone and let um go. Let um fry their lungs
+                    smokin' tobacco. Let um get stones to the bone and relieve their stress; give um
+                    the freedom of choice to make their lives uh mess. Let um eat all the
+                    psychedelics they want and blow their minds even worse, so they may attain an
+                    even grander <corr>misinterpretation</corr> of the universe. Let um rot their
+                    nerves by firin' smack, <pb/><unclear reason="faded">and</unclear> pack their
+                    noses 'till they all have uh heart attack.</p>
+                <p>Because, to some extent people will always use this stuff, so why waste more of
+                    out money in gettin' tough. I suppose to impress the redneck voters and cash in
+                    on some power and glory. Now if someone shows up for work buzzed out of their
+                    head, well I agree, that's uh different story. But they shouldn't be persecuted
+                    for what they used on their day off whatever its kind, and is now in their
+                    bodily waste and no longer in any way affecting their state of mind.</p>
+                <p>And it has recently been suggested that all dope peddlers who get arrested if
+                    found guilty should be sentenced to death thinking this way that they all shall
+                    soon breathe their last breath. Well yee ha! let's whip out thee ol' hangin'
+                    rope for everyone caught <corr>sellin'</corr> dope. And even though it doesn't
+                    serve to really deter crime, it will still satisfy the citizen for the time; the
+                    innocent victims demanding justice through more gore. Gas um, fry um, hang um,
+                    shoot um, give um what they hunger for.</p>
+                <p>Oh yes, we sure got ourselves something worse than big brother, much more old
+                    schooled, fashioned, and primal in thought it is none other than not one but a
+                    whole coalition of big bad grandads. Who with regard to the issue of civil
+                    liberty are creating quite an upheaval as they crack their whip attempting to
+                    impose their <corr>censorship</corr> so we don't see and speak and hear no evil.
+                    And by them doing this, these demagogies, these greedy hogs, these savage dogs
+                    with the flesh of Latin America hanging from their carnivorous tooth, they
+                        <unclear reason="faded">c</unclear>onveniently close down the peaceful
+                    venues of their opposition used <unclear reason="faded">b</unclear>y those who
+                    care and speak the truth.</p>
+                <figure>
+                    <figDesc>The image lies in the left margin of the page and spands about 13 lines
+                        of text. The image depicts a man at about a 45 degree angle towards the
+                        right with his hands overlapping in front of his abdomin. There is a white
+                        line through the image.</figDesc>
+                    <p><unclear reason="illegible">Free sprs</unclear><hi
+                            rend="font(Times New Roman)">Scalia has <unclear reason="faded"
+                                >co</unclear>nsistenly expressed narrow <unclear reason="faded"
+                                >vie</unclear>w of the <unclear reason="faded">F</unclear>irst
+                                A<unclear reason="faded">men</unclear>dment.</hi></p>
+                </figure>
+                <p>And they want to get all the smut and naked bare fannies away from the children,
+                    and the God-fearin' great grannies. In fact they say, that nowhere at all should
+                    this stuff be within a trule wholesome society. They wanna get all the dirt of
+                    the t.v., radio, records, and yes, even home video tape. After all, the
+                    theologian general has now determined that the 1st amendment causes people to
+                    murder and rape. And as well I say, from the standard norm not too far should
+                    you rome, 'cause these autocratic snotties are even tryin' to tell consenting
+                    adults what they can and can't do with their own bodies in the privacy of their
+                    home. They go for yer standard missionary positio<unclear reason="faded"
+                        >n</unclear> between man and wife shackled by god &amp; state 'till death do
+                    them part. This is the secual interplay which they grant as being OK. As for any
+                    other, well, the morally almighty have rated X, so as to stop for good any other
+                    form of innovative sex.</p>
+                <pb/>
+                <p>Yea, they're passing new laws everyday, and there's little we can do. Laws which
+                    by their design serve to intrude upon and entrap you. But I guess we shouldn't
+                    worry, because, any major cases, according to due process, they will formally
+                    list um, and they may be brought before the newly remodeled, narrow-minded,
+                    ultraconservative, religion bound, supreme court legal justice system.</p>
+
+                <figure>
+                    <figDesc>The image lies in the left margin of the page and spands about 17 lines
+                        of text. The image depicts <ref target="#n7">Justice Rehnquist</ref> glaring
+                        forward. He wears rectagular glasses, a sweater vest over a dress shirt and
+                        tie, and a smirk on his face. The image is entirely in black and white. The
+                        image bleeds into the paragraph causing the first letter of each line to be
+                        faded.</figDesc>
+                    <p><hi rend="align(center) font(Times New Roman)"><unclear reason="smudged"
+                                >J</unclear>ustice <unclear reason="smudged"
+                            >R</unclear>ehnquist</hi></p>
+                    <p><hi rend="align(left) font(Times New Roman)"><unclear reason="faded"
+                                >T</unclear>he powerful anchor of <unclear reason="faded"
+                                >t</unclear>he court's right wing</hi></p>
+                </figure>
+
+                <p>I myself am really worried about our lady lib. I don't want to see her boasted
+                    pride transformed into uh fib. And even though her outside they have recently
+                    seen fit to overhaul, the ol' gal on the inside might not be standing quite as
+                    tall. Her true symbolism seems to be fading, and who knows, may even soon be
+                    gone. And then alls we've got us is just another paradoxical icon.</p>
+                <p>And on the subject of terrorism, out<sic/> brilliant leaders, who are <unclear
+                        reason="faded">t</unclear>he ones that I say belong in jail, counteract by
+                    committing it them<unclear reason="faded">s</unclear>elves, but only on a bigger
+                    scale. And they claim this is done in <unclear reason="faded"
+                    >s</unclear>elf-defense, and so as to give the U.S. the upper hand; committing
+                        <unclear reason="faded">t</unclear>he same crime as them saying it's the
+                    only language they understand. <unclear reason="faded">T</unclear>hey bomb the
+                    innocent people of some country whos tyrant leader <unclear reason="faded"
+                        >d</unclear>oesn't seem to in the water have both of his oars, and who also,
+                        <unclear reason="faded">j</unclear>ust our own, sponsors bullshit wars. Out
+                    of the bellies of their jets <unclear reason="faded">t</unclear>hey let the
+                    bombs fall upon civilian folk who are as well burdened <unclear reason="faded"
+                        >w</unclear>ith great social ills that are potentially common to us all.
+                    They bomb um while they barter in the street, and how the ground
+                        <corr>beneath</corr> their bare feet. They bomb a nation of people whos
+                    beliefs, culture, and value of life is far different than our own. A group, who
+                    to keep from adding fuel to an already burning fire we should of course protect
+                    ourselves from, but then best leave alone. They bomb this group of people whom
+                    for so long have not had the chance to live conceptually, nor any other way
+                    free, for hundreds of years governed by coercive rule which has served to form
+                    their warped mentality. And it's just this sort of thing that's got me so
+                    uptight, for concern that in becoming this way too my own country just might.
+                    Our leaders bomb and bomb yet against this wave of terrorism they fail to stop,
+                    slow down, curtail, or even barely nudge it. I think it's all just another way
+                    they can try to justify their outrageous defense budget.</p>
+
+                <figure>
+                    <figDesc>The image lies in the left margin of the page and spands about 6 lines
+                        of text. It is the portrait of a <ref target="#n7">Justice Rehnquist</ref>
+                        with rectangular glasses. The image is his entire face, from the bottom of
+                        his chin to the top of his bald head.</figDesc>
+                    <p><hi rend="align(left) font(arial) format(bold)">William Rehnquist</hi></p>
+                    <p><hi rend="align(left) font(arial) format(bold)"> Age: 81</hi></p>
+                    <p><hi rend="align(left) fon(Times New Roman)">Hospitalized in 1981 to be weaned
+                            from a drug <corr>prescribed</corr></hi></p>
+                </figure>
+
+                <p>And they, who claimed to be so concerned about balancing the budget, and the out
+                    of control government spending. Well, judging from their own hypocritical record
+                    of the sincerity of their concern I think they should have uh hard time
+                    defending. Yet, the voting public who took their bate have still seen their
+                    deficit grow, but only at uh <pb/>faster rate. And further I note, the publics'
+                    revenue they have stole away from me and you, and used it for their own pet
+                    projects which, believe me, don't do us any good, and have ignored their true
+                        <corr>responsibility</corr> of office, whereas, otherwise it MIGHT have been
+                    used as it should.</p>
+                <p>When it comes to representing the people, I ask: is this present leadership our
+                    best choice? Does it really represent the peoples' voice? With these now who
+                    hold the power are we better set? or are those who call the "do-gooders" the
+                    lesser of two evils, and really our best bet? Those who will respect a person's
+                    right to be free, and live uh life of quality. Those who will when they preach
+                    truly teach the significance of both liberty and equality. And
+                        <corr>concerning</corr> these two topics, will not only expound of them in
+                    their speech, but really work hard also in the name of each. Those who with out
+                    precious environment will protect from further damage, and be ethical at using
+                    their know-how to responsibly manage. Those who will adequately defend the
+                    nation's ground while will still work to make relations between us and other
+                    countys not as tense, and who to their defense contractor buddies wont be
+                    throwing the money all around at the taxpayers' expense. Those who will not lie,
+                    but instead address the true issues of out time; the ones of the most relevance.
+                    Those who are, oh yea sure full of love, peace, and vision, but much more so
+                    than that capability and intelligence. Those who use diplomacy, negotiation, and
+                    cooperation as their tools when amongst ourselves or with others we get into uh
+                    fix, and will do their damnedest to keep us out of any violent conflicts. Those
+                    who with out world neighbors--the citizens of other states--will not intervene
+                    in what is really their affair for not the slightest length of duration, and
+                    will instead respect these peoples' sovereign right to self-determination. Those
+                    who through some half-assed mediocre way will at least use our money in an
+                    attempt to do good deeds by supporting programs for society; things that
+                    everybody needs. Instead of for some nuclear reactor where we the people are in
+                    no way the real benefactor, or for increasing the chances of annihilation
+                    everywhere so that everything may soon be gone, they will funnel the bucks
+                    toward desperately needed education, healthcare, and so on.</p>
+
+                <figure>
+                    <figDesc>The image lies in the left margin of the page and spands about 15 lines
+                        of text. It depicts the side profile of Reagan wearing a suit and
+                        tie</figDesc>
+                </figure>
+
+                <p>Yep, if we're ever fortunate enough to once again get those "do-gooders" back, of
+                    course we should feel beter for the time while our itch is gettin' scratched,
+                    but we shouldn't feel so damned good that we start countin' out chickens before
+                    they are actually hatched. For <pb/>then will not be the time to forget, relax,
+                    and concern ourselves once again with only havin' fun, for then will be the time
+                    to get some change for the better kind of work once and for all done. Perhaps we
+                    can revise the system in a way which will make out democrac<unclear
+                        reason="faded">y</unclear> more foolproof, and will serve to eliminate the
+                    financial support from greedy slobs backing any ol' incompetent goof. I say
+                    create a political process which is bound by a code of ethics, and discipline to
+                    be enforced by a constitutional mandate. And for the purpose of insuring
+                    capability, set intellectual prerequisites for every candidate. Let's revise out
+                    democracy in a way where we all can be glad. Once changed for the better so as
+                    to protect us from any big brother whom would run for office wishing to do
+                    bad.</p>
+                <p>But for now it looks like we're stuck with this one, and it offers us few
+                    preventions that those with bad intentions will not ascent to the seats of power
+                    so that in them we the people have sit "creeping Orwellions" who for me and you
+                    care not one single bit, and are themselves for this job not at all fit.</p>
+                <p>And what's the result for all of us? What is our reward? Well let's celebrate,
+                    time to pour the champagne, just like the president promised throughout his
+                    campaign we get ta see um bring America back, but never move 'er forward.</p>
+
+                <figure>
+                    <figDesc>The image lies in the left margin of the page and spands about 7 lines
+                        of text; however, it spans belowe the end of the last paragraph. It depicts
+                        the head and face of Pat Robertson at a 45 degree angle. At the neck, there
+                        is a block of text that says "Pat Roberson" and below that, "An up and
+                        coming orwellion"</figDesc>
+                    <p><hi rend="align(left) font(Times New Roman)">Pat Robertson</hi></p>
+                    <p><hi rend="align(left) font(handwritten)">An up and coming orwellion</hi></p>
+                </figure>
+
+                <p><hi rend="align(center) font(allCaps) format(45 degree angle)">Reagan's
+                    Law</hi></p>
+
+                <figure>
+                    <figDesc>The image lies at the bottom right corner of the page. It depicts
+                        Ronald Reagan at a 45 degree angle facing to the right. He is wearing a suit
+                        and tie. The image is entirely in black and white.</figDesc>
+                </figure>
+            </div>
+        </body>
+
+        <back>
+            <div type="endnotes">
+                <note xml:id="n1">In deciding what to publicize and whether to publicize it, we are
+                    aware of the tendency of more formal publishing to co-opt underground (and often
+                    very personal) cultural objects such as zines, bringing them into mainstream
+                    culture and thereby both robbing them of their subversive power and exposing
+                    those who participate in these movements. <ref target="#japenga">Ann
+                        Japenga</ref> writes about the mainstream co-optation of Riot Grrl culture,
+                    arguing that “An authentic counterculture is as necessary to the larger society
+                    as the rain forest is to the planet. It's a protected laboratory where evolution
+                    can take place.” She writes about Riot Grrls crying over the exposure of their
+                    privacy and the secrets they shared in their zines. Although several decades
+                    have passed since this zine was created, and it is now closer to a historical
+                    artifact than an immediate revelation, we try to maintain this ethos in our
+                    editorial choices. For this reason, we have chosen to censor personally
+                    identifying information such as phone numbers. (However, we have retained
+                    addresses that lead to PO boxes, as we imagine those are not directly associated
+                    with specific people.)</note>
+                <note xml:id="n2">"Creeping Orwellianism" is a political prose piece/rant about
+                    invasive drug testing policies. It is likely a reference to the Anti-Drug Abuse
+                    Act of 1986, which was "the Reagan Administration’s response to a national moral
+                    panic around crack cocaine" and drastically increased criminalization of drugs,
+                    which has contributed to mass incarceration (<ref target="#lipke"
+                    >Lipke</ref>)</note>
+                <note xml:id="n3">"Ol Gory" is a politically charged poem criticizing what was then
+                    the current state of US militarism and nationalism. The name "Ol Gory" is a play
+                    on words for the term "Old Glory," as in the flag of the United States. The
+                    imagery portrays the staining of the flag through the wrongdoings of the
+                    American Government. In many radical eyes at the time, America was no longer the
+                    leader of the "free world," but rather a <ref target="#dixon">"fanatically
+                        capitalist power, willing to follow militarist policies of nuclear
+                        intimidation and conventional military intervention to protect its
+                        politico-economic interests"</ref>.</note>
+                <note xml:id="n4">In the case of typewritten or handwritten text in which one letter
+                    was typed or written on top of the previous, however, we have read the word as
+                    we assumed it was meant to be written for simplicity's sake.</note>
+                <note xml:id="n5">In the physical layout of "Denny's Was Closed, A Saga in
+                    Portland," each page is mostly typed, but includes handwritten prose in spirals
+                    around the page.re To represent this in TEI, we have placed all the handwritten
+                    text together in a section at the beginning of the entry with page breaks
+                    entered into it to indicate which page it surrounds.</note>
+                <note xml:id="n6">"Lude" here is likely referring to a pill of methaqualone, a
+                    sedative. The term is short for Quaalude, a brand name for methaqualone.</note>
+                <note xml:id="n7">William Hubbs Rehnquist was an Associate Justice from 1972 to 1986
+                    and the Cheif Justice from 1986 to 2005. He was known for his conservative
+                    positions opposing, abortion rights and anti-discrimination laws; however, he
+                    also showed he could compromise when he "<ref target="#rehnquist">wrote the
+                        majority opinion upholding Congress's right to appoint independent counsels
+                        to investigate and prosecute high government officials, a right that was
+                        challenged by the Reagan administration.</ref>" </note>
+            </div>
+            <div type="editorial">
+                <listPerson>
+                    <person xml:id="verna">
+                        <persName>
+                            <surname>Doherty</surname>
+                            <forename>Verna</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="randy">
+                        <persName>
+                            <surname>Strickfaden</surname>
+                            <forename>Randy</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="bruce">
+                        <persName>
+                            <surname>Storm</surname>
+                            <forename>Bruce</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="greg">
+                        <persName>
+                            <forename>Greg</forename>
+                            <note><p>The Greg mentioned here, is most likely the same Greg Anderson
+                                    who is a member of False Liberty</p></note>
+                        </persName>
+                    </person>
+                    <person xml:id="mg">
+                        <persName>
+                            <forename>MG</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="rollins">
+                        <persName>
+                            <forename>Henry</forename>
+                            <surname>Rollins</surname>
+                            <note>Henry Rollins is a singer, spoken-word artist, writer, and creator
+                                who performed with the rock band Black Flag during the 1980s. He is
+                                known as one of the most recognizable artists of the punk era (<ref
+                                    target="#britannica">Encyclopedia Britannica).</ref></note>
+                        </persName>
+                    </person>
+                    <person xml:id="hank">
+                        <persName>
+                            <forename>Hank</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="stan">
+                        <persName>
+                            <forename>Stan</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="jeannie">
+                        <persName>
+                            <forename>Jeannie</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="steven">
+                        <persName>
+                            <forename>Steven</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="kevin">
+                        <persName>
+                            <forename>Kevin</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="kris">
+                        <persName>
+                            <forename>Kris</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="jennifer">
+                        <persName>
+                            <forename>Jennifer</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="bruno">
+                        <persName>
+                            <forename>Bruno</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="bill">
+                        <persName>
+                            <forename>Bill</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="bruce2">
+                        <persName>
+                            <forename>Bruce</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="kurt">
+                        <persName>
+                            <forename>Kurt</forename>
+                            <surname>Flansburg</surname>
+                        </persName>
+                        <note>The vocalist of Dangermouse.</note>
+                    </person>
+                </listPerson>
+
+                <listPlace>
+                    <place xml:id="po_tacoma">
+                        <desc>A city in Washington State</desc>
+                    </place>
+                    <place xml:id="Olympia">
+                        <desc>The capital of Washington State</desc>
+                    </place>
+                    <place xml:id="Portland">
+                        <desc>A city in Oregon</desc>
+                    </place>
+                    <place xml:id="Chehalis">
+                        <desc>A town in Washington State</desc>
+                    </place>
+                    <place xml:id="Seattle">
+                        <desc>A city in Washington, well known for its association with grunge music
+                            during the erra of this zine's creation</desc>
+                    </place>
+                    <place xml:id="Salem">
+                        <desc>The capital of Oregon</desc>
+                    </place>
+                    <place xml:id="Wilsonville">
+                        <desc>A town in Oregon</desc>
+                    </place>
+                    <place xml:id="Couch_Park">
+                        <desc>A park in Portland.</desc>
+                    </place>
+                </listPlace>
+
+                <listOrg>
+                    <org xml:id="false_liberty" type="band">
+                        <orgName>False Liberty</orgName>
+                        <desc>Seattle-based hardcore punk band active in the mid-1980s. According to
+                            concert records, the band included member Greg Anderson, and released
+                            demo and EP recordings in 1986. <ref target="#concertarchives">Concert
+                                Archives</ref>
+                        </desc>
+                    </org>
+                    <org xml:id="the_melvins">
+                        <orgName>The Melvins</orgName>
+                        <desc>Rock band formed in 1983 in Montesano, Washington, associated with
+                            early grunge and sludge metal (<ref target="#wikipedia"
+                            >Wikipedia</ref>).</desc>
+                    </org>
+                    <org xml:id="skin_yard">
+                        <orgName>Skin Yard</orgName>
+                        <desc>Seattle rock band formed in 1985 and associated with the early grunge
+                            scene. Founded by Daniel House and Jack Endino, the band was part of the
+                            Seattle underground music movement (<ref target="#sy">Official
+                                site)</ref>.</desc>
+                    </org>
+                    <org xml:id="fallout">
+                        <orgName>Fallout Records</orgName>
+                        <desc>Independent Seattle record store founded in 1984 that supported
+                            underground music, zines, and skateboards before closing in 2003 (<ref
+                                target="#for">Official site</ref>).</desc>
+                    </org>
+                    <org xml:id="girl_trouble">
+                        <orgName>Girl Trouble</orgName>
+                        <desc>Rock band known for its DIY attitude and humorous, low-tech approach
+                            to music and media (<ref target="#wigout">Official site</ref>).</desc>
+                    </org>
+                    <org xml:id="wig_out">
+                        <orgName>Wig Out!</orgName>
+                        <desc>Zine created by Girl Trouble in 1984 to get more coverage on
+                            themselves, featuring humor, cultural commentary, and recurring
+                            lifestyle columns (<ref target="#wigout">Official site</ref>).</desc>
+                    </org>
+                    <org xml:id="horseheads">
+                        <orgName>Tex &amp; the Horseheads</orgName>
+                        <desc> Los Angeles punk rock band formed in 1980, associated with early
+                            cowpunk and deathrock-influenced punk scenes. Known for blending
+                            country, punk, and blues styles, the band originally disbanded in 1986
+                            and reunited in 2007 (<ref target="#wikipedia">Wikipedia</ref>
+                        </desc>
+                    </org>
+                    <org xml:id="seconds">
+                        <orgName>7 Seconds</orgName>
+                        <desc>Nevada hardcore punk band (<ref target="#wikipedia"
+                            >Wikipedia</ref>).</desc>
+                    </org>
+                    <org xml:id="flipper">
+                        <orgName>Flipper</orgName>
+                        <desc>Flipper is a band formed in 1979 which endured several on-again
+                            off-again breakups over the next few decades, and which specializes in
+                            “haunting drone rock” and “philosophizes about boredom” as part of
+                            punk’s general expression of dissatisfaction with the status quo (<ref
+                                target="#goldberg">Goldberg</ref>).</desc>
+                    </org>
+                    <org xml:id="yobs">
+                        <orgName>The Yobs</orgName>
+                        <desc>"The Yobs" is likely the reversed name for the band "The Boys," an
+                            English punk rock band formed in 1976. Every Christmas, the band
+                            reversed their name to read "The Yobs" and released an album under that
+                            name (<ref target="#wikipedia">Wikipedia</ref>).</desc>
+                    </org>
+                    <org xml:id="dangermouse">
+                        <orgName>Dangermouse</orgName>
+                        <desc>An Olympia punk band. <ref target="#omh">Olympia Music History
+                                website</ref></desc>
+                    </org>
+                    <org xml:id="dennys">
+                        <desc>A restaurant chain known in part for breakfast food served all
+                            day.</desc>
+                    </org>
+                    <org xml:id="saccharine">
+                        <orgName>Saccharine Trust</orgName>
+                        <desc>A California punk rock band. <ref target="#wikipedia"
+                            >Wikipedia</ref></desc>
+                    </org>
+                    <org xml:id="unseen">
+                        <orgName>Unseen Force</orgName>
+                        <desc>A hardcore punk band from Virginia which only released one album in
+                            1986 (<ref target="#rettman">Rettman).</ref></desc>
+                    </org>
+                    <org xml:id="rebel_skates">
+                        <orgName>Rebel Skates</orgName>
+                        <desc>A Portland skate shop that started in 1985 (<ref target="#rebelskates"
+                                >Company website</ref>).</desc>
+                    </org>
+                    <org xml:id="fallen_angels">
+                        <orgName>The Fallen Angels</orgName>
+                        <desc>A psychedelic rock band formed in 1966, popular in the American
+                            underground (<ref target="#Wikipedia">Wikipedia</ref>).</desc>
+                    </org>
+                    <org xml:id="monqui">
+                        <orgName>Monqui Presents</orgName>
+                        <desc>A Portland-based concert promotion company (<ref target="#monquisite"
+                                >Company website</ref>).</desc>
+                    </org>
+                    <org xml:id="bobs">
+                        <orgName>Bob's Big Boy</orgName>
+                        <desc>A burger restaurant chain (<ref target="#bbb">Company
+                            website</ref>).</desc>
+                    </org>
+                    <org xml:id="qp">
+                        <orgName>Quality Pie</orgName>
+                        <desc>“This landmark Northwest 23rd Avenue coffee shop was open 24 hours a
+                            day, making it a haven for 1980s punk rockers and club kids, who would
+                            flock here after bars closed for pre-dawn scrambled eggs. Before
+                            Oregon’s indoor smoking ban, this was a restaurant that eagerly welcomed
+                            smokers, and it seemed like everyone at the counter took drags of
+                            cigarettes between sips of strong coffee. “QP,” as it was called by
+                            regulars, closed in 1992 after 58 years of great people-watching.” <ref
+                                target="#umbrella">(Umbrella Project)</ref></desc>
+                    </org>
+                </listOrg>
+
+                <list type="song">
+                    <item xml:id="arms">
+                        <title>In Your Arms</title>
+                        <note type="artist">Flipper</note>
+                    </item>
+                    <item xml:id="cheap">
+                        <title>Life is Cheap</title>
+                        <note type="artist">Flipper</note>
+                    </item>
+                    <item xml:id="one_day">
+                        <title>Just One Day!</title>
+                        <note type="artist">7 Seconds</note>
+                    </item>
+                    <item xml:id="scream">
+                        <title>Somebody Help Me Scream</title>
+                        <note type="artist">7 Seconds</note>
+                    </item>
+                </list>
+
+                <list type="movie">
+                    <item xml:id="cleopatra">
+                        <title>Cleopatra Jones</title>
+                        <date when="1973">1973</date>
+                        <desc> Directed by Jack Starrett. A 1973 "Blaxploitation" action film about
+                            a U.S. government agent who fights drug trafficking and corruption. </desc>
+                        <note> Produced by Warner Bros. and starring Tamara Dobson in the title
+                            role. </note>
+                        <idno type="imdb">tt0071361</idno>
+                    </item>
+                </list>
+
+                <list type="book">
+                    <item xml:id="hallucinations">
+                        <title>Hallucinations of Grandeur</title>
+                        <note type="author">Henry Rollins</note>
+                        <note type="format">205 pages, paperback</note>
+                        <note type="language">English</note>
+                        <date when="1986-01-01">January 1, 1986</date>
+                        <note type="publication"> Published by Illiterati Press </note>
+                        <idno type="isbn">9780937837030</idno>
+                        <idno type="isbn10">0937837032</idno>
+                        <idno type="asin">0937837032</idno>
+                    </item>
+                </list>
+
+                <list type="album">
+                    <item xml:id="chunks">
+                        <title>Blown' Chunks</title>
+                        <note type="artist">Flipper</note>
+                    </item>
+                </list>
+
+                <listBibl>
+                    <biblStruct type="article" xml:id="rehnquist">
+                        <analytic>
+                            <title>William H. Rehnquist, 1986-2005</title>
+                        </analytic>
+                        <monogr>
+                            <title>Supreme Court Historical Society</title>
+                            <imprint>
+                                <publisher>Supreme Court Historical Society</publisher>
+                                <pubPlace>Washington, D.C.</pubPlace>
+                                <note>https://supremecourthistory.org/chief-justices/william-rehnquist-1986-2005/</note>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+                    <biblStruct type="newspaper" xml:id="japenga">
+                        <analytic>
+                            <title>Grunge 'R Us Exploitating, Co-Opting and Neutralizing the Counter
+                                Culture: Home Edition.</title>
+                            <author><forename>Ann</forename>
+                                <surname>Japenga</surname></author>
+                        </analytic>
+                        <monogr>
+                            <title>The Los Angeles times</title>
+                            <imprint>
+                                <publisher>Los Angeles, Calif: Tribune Interactive, LLC</publisher>
+                                <pubPlace>Los Angeles, California</pubPlace>
+                                <date when="1993-11-14">November 14, 1993</date>
+                            </imprint>
+                        </monogr>
+                        <note>https://orbiscascade-washington.primo.exlibrisgroup.com/permalink/01ALLIANCE_UW/1asafqm/cdi_proquest_newspapers_282079835</note>
+                    </biblStruct>
+                    <biblStruct type="ebook" xml:id="lipke">
+                        <analytic>
+                            <title>The Failure of Reagan Era Drug Policy and D.A.R.E.</title>
+                            <author><forename>Anna</forename>
+                                <surname>Lipke</surname></author>
+                        </analytic>
+                        <monogr>
+                            <title type="main">The Diversity of Drugs</title>
+                            <title type="sub">History, Effects, and Everything in Between</title>
+                            <imprint>
+                                <publisher>Clemson University</publisher>
+                                <pubPlace>Clemson, South Carolina</pubPlace>
+                            </imprint>
+                        </monogr>
+                        <note>https://opentextbooks.clemson.edu/hlth4000holcombtugman/chapter/the-failure-of-reagan-era-drug-policy-and-d-a-r-e/</note>
+                    </biblStruct>
+                    <biblStruct type="ebook" xml:id="misiroglu">
+                        <monogr>
+                            <title type="main">American Countercultures</title>
+                            <title type="sub">An Encyclopedia of Nonconformists, Alternative
+                                Lifestyles, and Radical Ideas in U.S. History</title>
+                            <author><forename>Gina</forename>
+                                <surname>Misiroglu</surname></author>
+                            <edition>first edition</edition>
+                            <imprint>
+                                <publisher>Routledge</publisher>
+                                <pubPlace>Armonk, New York</pubPlace>
+                                <date>2015</date>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+
+
+                    <biblStruct type="article" xml:id="dixon">
+                        <analytic>
+                            <title>Overview: Militarism as Foreign Policy — Reagan's Second
+                                Term</title>
+                            <author><forename>Marlene</forename>
+                                <surname>Dixon</surname></author>
+                        </analytic>
+                        <monogr>
+                            <title>Contempory Marxism</title>
+                            <imprint>
+                                <publisher>Social Justice/Global Options</publisher>
+                                <date>1985</date>
+                            </imprint>
+                            <biblScope unit="volume">Islands of Discontent</biblScope>
+                            <biblScope unit="issue">10</biblScope>
+                            <biblScope unit="page">i-xxiii</biblScope>
+                        </monogr>
+                        <note>https://www.jstor.org/stable/29765812?seq=24</note>
+                    </biblStruct>
+
+                    <biblStruct type="article" xml:id="goldberg">
+                        <analytic>
+                            <title>Black Flag, Husker Du, and The Replacements Lead Punk’s New
+                                Wave</title>
+                            <author><forename>Michael</forename>
+                                <surname>Goldberg</surname></author>
+                        </analytic>
+                        <monogr>
+                            <title>Rolling Stone</title>
+                            <imprint>
+                                <date>1985</date>
+                            </imprint>
+                            <biblScope unit="issue">452</biblScope>
+                        </monogr>
+                        <note>https://www.rollingstone.com/music/music-news/black-flag-husker-du-and-the-replacements-lead-punks-new-wave-117690/</note>
+                    </biblStruct>
+                    <biblStruct type="webpage" xml:id="umbrella">
+                        <analytic>
+                            <title>Quality Pie</title>
+                            <author>The Umbrella Project</author>
+                        </analytic>
+                        <monogr>
+                            <imprint>
+                                <publisher>Triangle Productions</publisher>
+                                <date>2022</date>
+                            </imprint>
+                        </monogr>
+                        <note>https://www.umbrellaprojectoregon.com/quality-pie</note>
+                    </biblStruct>
+
+                    <biblStruct type="article" xml:id="britannica">
+                        <analytic>
+                            <title>Henry Rollins</title>
+                            <author>Britannica editors</author>
+                            <author>
+                                <forename>René</forename>
+                                <surname>Ostberg</surname></author>
+                        </analytic>
+                        <monogr>
+                            <title>Encyclopedia Britannica</title>
+                            <imprint>
+                                <publisher>Britannica</publisher>
+                                <date>April 18, 2026</date>
+                            </imprint>
+                        </monogr>
+                        <note>https://www.britannica.com/biography/Henry-Rollins</note>
+                    </biblStruct>
+
+                    <biblStruct type="article" xml:id="wikipedia">
+                        <analytic>
+                            <title>7 Seconds (band)</title>
+                            <title>The Fallen Angels (band)</title>
+                            <title>The Boys (English band)</title>
+                            <title>Tex &amp; the Horseheads</title>
+                            <title>Melvins</title>
+                            <title>Saccharine Trust</title>
+                        </analytic>
+                        <monogr>
+                            <title>Wikipedia</title>
+                            <imprint>
+                                <publisher>Wikipedia</publisher>
+                            </imprint>
+                        </monogr>
+                        <note>https://en.wikipedia.org/wiki/7_Seconds_(band)</note>
+                        <note>https://en.wikipedia.org/wiki/The_Fallen_Angels_(band)</note>
+                        <note>https://en.wikipedia.org/wiki/The_Boys_(English_band)</note>
+                        <note>https://en.wikipedia.org/wiki/Tex_%26_the_Horseheads</note>
+                        <note>https://en.wikipedia.org/wiki/Melvins</note>
+                        <note>https://en.wikipedia.org/wiki/Saccharine_Trust</note>
+                    </biblStruct>
+
+                    <biblStruct type="webpage" xml:id="concertarchives">
+                        <analytic>
+                            <title>False Liberty Tours &amp; Concerts</title>
+                        </analytic>
+                        <monogr>
+                            <title>Concert Archives</title>
+                            <imprint>
+                                <publisher>Concert Archives</publisher>
+                            </imprint>
+                        </monogr>
+                        <note>https://www.concertarchives.org/bands/false-liberty</note>
+                    </biblStruct>
+
+                    <biblStruct type="webpage" xml:id="sy">
+                        <analytic>
+                            <title>Biography</title>
+                        </analytic>
+                        <monogr>
+                            <title>Skin Yard</title>
+                            <imprint>
+                                <publisher>Skin Yard</publisher>
+                            </imprint>
+                        </monogr>
+                        <note>https://www.skin-yard.com/skinfo.htm</note>
+                    </biblStruct>
+
+                    <biblStruct type="webpage" xml:id="omh">
+                        <analytic>
+                            <title>Dangermouse</title>
+                        </analytic>
+                        <monogr>
+                            <title>Olympia Music History Project</title>
+                            <imprint>
+                                <publisher>OMHP</publisher>
+                            </imprint>
+                        </monogr>
+                        <note>https://www.olympiamusichistory.org/bands/dangermouse</note>
+                    </biblStruct>
+
+                    <biblStruct type="webpage" xml:id="wigout">
+                        <analytic>
+                            <title>Girl Trouble official web page</title>
+                        </analytic>
+                        <monogr>
+                            <title>Wig Out</title>
+                            <imprint>
+                                <publisher>Girl Trouble</publisher>
+                            </imprint>
+                        </monogr>
+                        <note>https://wig-out.com/</note>
+                    </biblStruct>
+
+                    <biblStruct type="webpage" xml:id="for">
+                        <analytic>
+                            <title>All About Fallout</title>
+                        </analytic>
+                        <monogr>
+                            <title>Fallout Records</title>
+                            <imprint>
+                                <publisher>Fallout Records</publisher>
+                            </imprint>
+                        </monogr>
+                        <note>https://falloutrecords.com/about.html</note>
+                    </biblStruct>
+
+                    <biblStruct type="webpage" xml:id="rettman">
+                        <analytic>
+                            <title>Unseen Force Were a Cornerstone of Richmond Hardcore</title>
+                            <author>
+                                <forename>Tony</forename>
+                                <surname>Rettman</surname>
+                            </author>
+                        </analytic>
+                        <monogr>
+                            <title>Bandcamp Daily</title>
+                            <imprint>
+                                <date>June 10, 2022</date>
+                            </imprint>
+                        </monogr>
+                        <note>https://daily.bandcamp.com/hidden-gems/unseen-force-in-search-of-the-truth-review</note>
+                    </biblStruct>
+
+                    <biblStruct type="webpage" xml:id="rebelskates">
+                        <analytic>
+                            <title>Our Heritage</title>
+                        </analytic>
+                        <monogr>
+                            <title>Rebel Skates</title>
+                            <imprint>
+                                <publisher>Rebel Skates</publisher>
+                            </imprint>
+                        </monogr>
+                        <note>https://www.rebelskates.com/heritage</note>
+                    </biblStruct>
+
+                    <biblStruct type="webpage" xml:id="monquisite">
+                        <analytic>
+                            <title>Monqui Presents</title>
+                        </analytic>
+                        <monogr>
+                            <title>Monqui Presents</title>
+                            <imprint>
+                                <publisher>Monqui Presents</publisher>
+                            </imprint>
+                        </monogr>
+                        <note>https://monqui.com/</note>
+                    </biblStruct>
+
+                    <biblStruct type="webpage" xml:id="bbb">
+                        <analytic>
+                            <title>About Bob's Big Boy</title>
+                        </analytic>
+                        <monogr>
+                            <title>Big Boy</title>
+                            <imprint>
+                                <publisher>Big Boy</publisher>
+                            </imprint>
+                        </monogr>
+                        <note>https://www.bigboy.com/bobs</note>
+                    </biblStruct>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>
