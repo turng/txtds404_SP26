@@ -48,7 +48,8 @@
   display: none;
   display: block;
   width: 100%;
-  text-align: right;
+  text-align: justify;
+  text-justify: auto;
   color: cornsilk;
   margin: 2em 0 2em 0;
   font-size: 11pt;
@@ -1160,6 +1161,7 @@ pause {
   /* Empty Rule Set*/
 }
 pb {
+  display: none;
   display: block;
   width: 100%;
   text-align: right;
@@ -1168,6 +1170,7 @@ pb {
   font-size: 11pt;
 }
 .pb {
+  display: none;
   display: block;
   width: 100%;
   text-align: right;
