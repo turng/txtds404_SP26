@@ -65,10 +65,10 @@
 }
 @-webkit-keyframes block-in {
   from {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: cornsilk;
   }
   to {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: cornsilk;
   }
 }
 .blocker {
@@ -1840,7 +1840,7 @@ html {
   padding: 2.5em;
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
-  background-color: #EBEBEB;
+  background-color: cornsilk;
   color: #292929;
   width: 33em;
 }
@@ -1939,6 +1939,6 @@ div.facsImage img:first-child {
   margin-top: 0;
 }
 .head-font {
-  font-family: Arvo, sans-serif;
+  font-family: Garamound;
   font-weight: normal;
 }
