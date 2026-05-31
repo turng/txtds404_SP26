@@ -45,6 +45,7 @@
   max-height: 60px;
 }
 .-teibp-pb {
+  display: none;
   display: block;
   width: 100%;
   text-align: right;
@@ -266,7 +267,7 @@ author {
 }
 titleStmt > author {
   display: block;
-  font-family: Arvo, sans-serif;
+  font-family: Garamound;
   font-weight: normal;
   margin-bottom: 1em;
 }
@@ -759,7 +760,7 @@ iType {
   /* Empty Rule Set */
 }
 ident {
-  font-family: Courier,monospace;
+  font-family: Garamound;
 }
 idno {
   /* Empty Rule Set */
@@ -1838,7 +1839,7 @@ html {
   margin-left: 2em;
   margin-right: 4em;
   padding: 2.5em;
-  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
+  font-family: Garamound;
   font-size: 14pt;
   background-color: cornsilk;
   color: #292929;
