@@ -1169,6 +1169,7 @@ pb {
   font-size: 11pt;
 }
 .pb {
+  display: none;
   display: block;
   width: 100%;
   text-align: right;
