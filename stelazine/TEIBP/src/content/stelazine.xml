@@ -2168,7 +2168,10 @@
 	   <div>
             <p>BIRTHS &amp; OBITUARIES</p>
             <p>LOCAL RELEASES</p>
-            <graphic url=""/>
+	      <figure>
+	         <graphic url=""/>
+	      </figure>
+            
          </div>
          <div>
             <p>SUBHUMANS Death to the Sickoids/Oh Canaduh Crass Productions no label</p>
@@ -2196,10 +2199,10 @@
             <cb/>
          </div>
          <div>
-            <graphic url=""> DRUNK AND DISORDERLY b/w SUICIDE THE SHIRKERS </graphic>
-            <graphic url=""> DEATH TO THE SICKOIDS The SUBHUMANS </graphic>
-            <graphic url="">D.O.A</graphic>
-            <graphic url=""> the LEWD "KILL YOURSELF" </graphic>
+           <figure> <graphic url=""> DRUNK AND DISORDERLY b/w SUICIDE THE SHIRKERS </graphic></figure>
+            <figure><graphic url=""> DEATH TO THE SICKOIDS The SUBHUMANS </graphic></figure>
+            <figure><graphic url="">D.O.A</graphic></figure>
+            <figure><graphic url=""> the LEWD "KILL YOURSELF" </graphic></figure>
          </div>
          <div>
             <p>THE SHIRKERS Drunk &amp; Disorderly/Suicide Limp Records 1327-J Rockville Pike
@@ -2270,7 +2273,11 @@
 			<p>page 18</p>
             <pb n='18'/>
          </div>
-	   <div>
+	   
+      
+      
+      
+      <div>
             <p>There are many things wrong with the record industry. Any conscious record consumer
                knows this. But 99% of the record buyers in the world are unconscious.</p>
 
@@ -2393,7 +2400,7 @@
             <ref type="biblio" target="EpicRecords">See source 2</ref>
          </note>
       
-         <note xml:id="n2"> Caroline Coon is an artist, photographer and feminist activist from
+         <note xml:id="n2">Caroline Coon is an artist, photographer and feminist activist from
             London who, at this time, was the manager of The Clash band from 1978 to 1980 and
             on their international tours. During this time, she was dating Paul Simonon, the bassist
             of the Clash.
@@ -2406,7 +2413,7 @@
          <note xml:id="n4">Bo Diddley was an American guitarist, singer and songwriter who
             is known to have been a large influence on The Clash. He toured with them on their 1979 USA
             tour.
-            <ref type="biblio" target="Bo Diddley">See Source 5, 6</ref>
+            <ref type="biblio" target="BoDiddley">See Source 5, 6</ref>
             <ref type="biblio" target="Colorado Sound"> See Source 5, 6</ref>
          </note>
       </div>
@@ -2414,7 +2421,7 @@
       <div type="bibliography"> 
       <listBibl>
          
-         <bibl xml:id="Epic Records">
+         <bibl xml:id="EpicRecords">
             <title>Epic Records. Visual Natives. (2022, July 1).
                https://visualnatives.com/case-study/epic-records/
             </title>
@@ -2425,7 +2432,7 @@
                www.theculturecrush.com/stella-zine/</title>
          </bibl>
          
-         <bibl xml:id="Caroline Coon">
+         <bibl xml:id="CarolineCoon">
             <title>Wikipedia contributors. (2026, March 10). Caroline Coon. Wikipedia.
                https://en.wikipedia.org/wiki/Caroline_Coon
             </title>
@@ -2437,10 +2444,10 @@
             </title>
          </bibl>
          
-         <bibl xml:id="Bo Diddley">
+         <bibl xml:id="BoDiddley">
             <title>“Bo Diddley.” Wikipedia, 31 Aug. 2020, en.wikipedia.org/wiki/Bo_Diddley.</title>
          </bibl>
-         <bibl xml:id="Colorado Sound">
+         <bibl xml:id="ColoradoSound">
             <title>“Bo Diddley Remembers Opening for the Clash: ‘That Was Ridiculous.’”
                The Colorado Sound, 8 Feb. 2022, coloradosound.org/bo-diddley-the-clash-opening-
                1979-tour-that-was-ridiculous/.
