@@ -1,2 +1,27 @@
-/* Place project-specific CSS here */
+/* Place projbody {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.7;
+  background-color: #f7f4ec;
+  color: #222;
+}
+
+tei-head {
+  display: block;
+  font-size: 1.4em;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  border-bottom: 2px solid #b9a88a;
+}
+
+tei-note {
+  display: block;
+  margin: 1em 0;
+  padding: 0.75em;
+  background: #efe7da;
+  border-left: 4px solid #8b6f47;
+}
+
+tei-p {
+  margin-bottom: 1em;
+}ect-specific CSS here */
 
