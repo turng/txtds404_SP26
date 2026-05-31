@@ -3,6 +3,17 @@ body {
     background-color: cornsilk;
 }
 
+
+h{
+     color:black;
+    font-family:Garamond;
+    font-size:20pt;
+    text-align:center;
+    text-transform:uppercase;
+    padding:50px;
+    
+}
+
 p{
     color:black;
     font-family:Garamond;
