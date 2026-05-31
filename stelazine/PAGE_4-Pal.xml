@@ -3,22 +3,66 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>STELAZINE</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Publication Information - PAGE 4</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Information about the source</p>
-         </sourceDesc>
-      </fileDesc>
-  </teiHeader>
-  <text>
-      <body>
-         <p>Some text here.</p>
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>CLASH</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information - PAGE 4</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Interview with Paul Simonon, bassist of British rock band The Clash. Photos by
+                    Damon Titus</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head>MORE PAUL</head>
+            <div>
+                
+                [image]
+                
+              <p>PAUL: Yeah, I think the strange thing was, ‘cause like when we first started, no record company or anybody like that would come near us. But we weren’t going to go to them. They’d have to come to us. The same with journalists and things like that; the big music papers in England.</p>
+                <p>S: Do you find it hard to keep the band going?
+                PAUL: Keep the band going?</p>
+               <p>S: Is it easy to maintain?</p>
+               <p>PAUL: It’s quite easy. We sort of get on alright. Don’t have any problems.</p>
+                <p>S: You’re all friends?</p>
+                <p>PAUL: Yeah, pretty good friends.</p>
+                <p>S: Hang around together when you’re not playing?</p>
+                <p>PAUL: Sometimes we do. Not too much, ‘cause we’d get really bored of each other and start fighting.</p>
+                <p>S: How much time to you spend on the band?</p>
+                <p>PAUL: Generally all of me time. Most of me time.</p>
+                <p>S: Do you write any music?</p>
+                <p>PAUL: Not as yet, but I’m starting to. I-’ve been reading loads of books lately to get my English better.</p>
+                <p>S: Like what?</p>
+                <p>PAUL: George Orwell, Aldous Huxley... </p>
+                <p>S: Do you go to movies?</p>
+                <p>PAUL: Yeah, I go to pictures quite alot. Quite a few good films I’ve seen lately.
+                    I’ve seen crappy ones too, like superm-an. It’s the worst one I’ve ever seen..
+                    <hi rend="italic">(Laughs)</hi></p>
+                <p>S: Someone just told me it’s great.</p>
+                <p>PAUL: It’s stupid. It’s funny. I mean it’s good in the end. There are real cho-ppy bits and real funny bits. There’s a bit where he’s running along trying to beat the train and they lift him up about an inch off the ground and his legs are going like this (demonstrates racing legs), and they do it in fast motion. It’s really hilarious.</p>
+                <p>S: Did they take stuff away from you at the border?</p>
+                <p>PAUL: They never saw mine (bondage gear) They took their (the rest of the band’s) stuff, but they never saw mine.</p>
+                <p>S: You hid yours?</p>
+                <p>PAUL: Yeah. I was walking around the airport like this <hi rend="italic">(pulls his jacket over his face and skulks along)...(Laughter)</hi></p>
+                <p>S: They didn’t come up to you?</p>
+                <p>PAUL: Well, they searched through my stuff but they didn’t find it. I was too
+                    clever <hi rend="italic">(Laughter)</hi>.</p>
+                <p>S: So their stuff was confiscated?</p>
+                <p>PAUL: Yeah. We got it back though.</p>
+                <p>S: What did they think you were going to do with it? Did they really think they were deadly weapons?</p>
+                <p>PAUL: I dunno.... The police....</p>
+                <p>S: Do you get hassled by the police alot</p>
+                <p>PAUL: Generally in England we do.</p>
+                <p>S: Do you get arrested alot?</p>
+                <p>PAUL: Sometimes.</p>
+                
+                <p><hi rend="italic">(At this point road manager Johnny Green broke up the interviews. We all grab the last bits of food in the dressing room and leave).</hi></p>
+            </div>
+</body>
+    </text>
 </TEI>
