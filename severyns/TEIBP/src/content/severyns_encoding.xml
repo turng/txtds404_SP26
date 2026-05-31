@@ -4,19 +4,95 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader> 
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Confessions of a Chief of Police</title>
+            <author>William B. Severyns</author>
+            <respStmt>
+               <resp>TEI transcription and encoding by</resp>
+               <name>Ashfaq Ahmed</name>
+               <name> Kayleigh Bonnett</name>
+               <name>Tom O'Hara</name>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <publisher>University of Washington</publisher>
+            <pubPlace>Seattle, Washington</pubPlace>
+            <date when="2026">2026</date>
+            <availability>
+               <p>This electronic TEI edition was created for educational
+                  and scholarly purposes as part of coursework in textual
+                  encoding and digital humanities using Oxygen XML Editor.</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>The source text consists of serialized newspaper installments
+               published in the Seattle Union Record between October and
+               December 1926. The articles discuss police administration,
+               corruption, vice regulation, urban politics, and social
+               conditions in Seattle during the 1920s.</p>
+            <p>
+               <bibl>
+                  <author>William B. Severyns</author>
+                  <title>Confessions of a Chief of Police</title>
+                  <publisher>Seattle Union Record</publisher>
+                  <pubPlace>Seattle</pubPlace>
+                  <date when="1926">1926</date>
+                  <idno type="OCLC">39904529</idno>
+               </bibl>
+            </p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
+      <encodingDesc>
+         <editorialDecl>
+            <normalization>
+               <p>This transcription follows a diplomatic approach.
+                  Original spelling, capitalization, punctuation,
+                  and formatting have been preserved as closely
+                  as possible. No modernization of spelling or
+                  grammar has been undertaken.</p>
+            </normalization>
+            <punctuation>
+               <p>Original punctuation, spacing, paragraph divisions,
+                  and line breaks were retained whenever visually
+                  evident in the source document.</p>
+            </punctuation>
+            <correction>
+               <p>Apparent typographical irregularities and spelling
+                  inconsistencies were preserved without editorial
+                  correction.</p>
+            </correction>
+            <interpretation>
+               <p>Editorial intervention was kept to a minimum.
+                  Structural features such as headings, section titles,
+                  and date markers were preserved because they contribute
+                  to the organization and rhetorical structure of the text.</p>
+            </interpretation>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <list>
+                  <item>Police administration</item>
+                  <item>Seattle history</item>
+                  <item>Urban politics</item>
+                  <item>Vice regulation</item>
+                  <item>Corruption</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2026-05-10">
+            Initial creation of TEI header and editorial description.
+         </change>
+      </revisionDesc>
+   </teiHeader>
   <text>
       <body>
          <div type="introduction">
