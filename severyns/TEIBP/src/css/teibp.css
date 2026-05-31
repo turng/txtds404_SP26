@@ -1160,6 +1160,7 @@ pause {
   /* Empty Rule Set*/
 }
 pb {
+  display: none;
   display: block;
   width: 100%;
   text-align: right;
