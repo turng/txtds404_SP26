@@ -1683,7 +1683,12 @@ background:white;
   border-bottom: 1px solid #999;
 }
 TEI > text {
-  display: block;
+    display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 70em;
+  font-size: 14pt;
+  
   /*
 border-radius: 15px;
 border: 1px solid black;
@@ -1840,14 +1845,6 @@ zone {
   /* Empty Rule Set */
 }
 /* styles for html shell and html elements in TEI (e.g.,<a> and <img>) */
-html > body {
-    display: flex;
-   font-family: "Courier New", Courier, monospace;
-  justify-content: center;
-  padding: 2em;
-  box-sizing: border-box;
-}
-
 
 html {
   margin: 0;
@@ -1863,6 +1860,16 @@ html {
   color: #292929;
   width: 33em; */
 }
+
+
+html > body {
+    display: flex;
+   font-family: "Courier New", Courier, monospace;
+  justify-content: center;
+  padding: 2em;
+  box-sizing: border-box;
+}
+
 
 img {
   border: 1px solid #AAA;
