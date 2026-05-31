@@ -1,5 +1,14 @@
 /* Place project-specific CSS here */
 
+h1 {
+    color:black;
+    font-family:Garamond;
+    text-align:left;
+}
 
-
+h2 {
+    color:black;
+    font-family:Garamond;
+    text-align:center;
+}
 
