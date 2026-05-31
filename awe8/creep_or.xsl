@@ -67,6 +67,7 @@
                     color: #555;
                     
                     font-style: italic;
+                    border: 1px solid black;
                     }
                     
                     .entity{
