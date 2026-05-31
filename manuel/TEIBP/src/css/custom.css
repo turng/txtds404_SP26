@@ -1,4 +1,6 @@
-/* Place projbody {
+/* Place project-specific CSS here */
+
+body {
   font-family: Georgia, "Times New Roman", serif;
   line-height: 1.7;
   background-color: #f7f4ec;
@@ -23,5 +25,4 @@ tei-note {
 
 tei-p {
   margin-bottom: 1em;
-}ect-specific CSS here */
-
+}
