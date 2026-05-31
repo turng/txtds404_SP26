@@ -12,3 +12,7 @@ h2 {
     text-align:center;
 }
 
+div {
+    text-align: justify;
+    text-justify: auto;
+}
