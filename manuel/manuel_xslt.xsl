@@ -1,161 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="3.0"
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns:tei="http://www.tei-c.org/ns/1.0"
-    xmlns:math="http://www.w3.org/2005/xpath-functions/math"
-    exclude-result-prefixes="xs math tei">
-
-    <xsl:output method="html" html-version="5" encoding="UTF-8" indent="yes"/>
-
-    <xsl:template match="/tei:TEI">
-        <html lang="en">
-            <head>
-                <meta charset="utf-8"/>
-                <title>La Police de Paris Dévoilée</title>
-                <style>
-                    body {
-                        margin: auto;
-                        width: 70%;
-                        font-family: Georgia, serif;
-                        line-height: 1.5;
-                    }
-                    .orig {
-                        color: silver;
-                        display: inline;
-                    }
-                    .bibliography {
-                        color: grey;
-                        border: 3px solid black;
-                        padding: 1em;
-                        margin-top: 2em;
-                    }
-                    .endnotes {
-                        background-color: silver;
-                        padding: 1em;
-                        margin-top: 2em;
-                    }
-                    .back {
-                        margin-top: 2em;
-                    }
-                    .pb {
-                        color: gray;
-                        font-size: 0.9em;
-                        margin: 1em 0;
-                    }
-                    a {
-                        color: darkblue;
-                        text-decoration: none;
-                    }
-                    a:hover {
-                        text-decoration: underline;
-                    }
-                    note-ref {
-                        vertical-align: super;
-                        font-size: 0.8em;
-                    }
-                </style>
-            </head>
-            <body>
-                <xsl:apply-templates select="tei:text/tei:body"/>
-                <div class="back">
-                    <xsl:apply-templates select="tei:text/tei:back"/>
-                </div>
-            </body>
-        </html>
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:math="http://www.w3.org/2005/xpath-functions/math"
+    exclude-result-prefixes="xs math"
+    version="3.0">
+    <xsl:output method="html"/>
+    <xsl:template match="tei:TEI">
+        <meta charset="utf-8"/>
+    <html>
+        <head>
+            <title>La Police de Paris Dévoilée</title>
+        <meta charset="utf-8"/>
+        <style>
+            .orig{color: silver; display:inline}
+       body{margin: auto ; width: 70% }
+       .bibliography{color: grey; 
+       border: 3px solid black} 
+       .endnotes{background-color: silver}
+        </style>
+    </head>
+        <body>
+            <xsl:apply-templates/>
+        </body>
+        <back>
+           <xsl:apply-templates/>
+        </back>
+    </html>    
     </xsl:template>
-
-    <xsl:template match="tei:teiHeader"/>
-
-    <xsl:template match="tei:text | tei:body | tei:back | tei:div">
+    
+    <xsl:template match="tei:teiHeader">
+        
+    </xsl:template>
+    <xsl:template match="tei:text">
         <xsl:apply-templates/>
     </xsl:template>
-
-    <xsl:template match="tei:head | tei:p[@rend='head']">
+    <xsl:template match="tei:body">
+        <xsl:apply-templates/>
+    </xsl:template>
+    <xsl:template match="tei:div">
+        <xsl:apply-templates/>
+    </xsl:template>
+    <xsl:template match="tei:head">
         <h2><xsl:apply-templates/></h2>
     </xsl:template>
-
     <xsl:template match="tei:opener">
         <h3><xsl:apply-templates/></h3>
     </xsl:template>
-
     <xsl:template match="tei:salute">
         <xsl:apply-templates/>
     </xsl:template>
-
     <xsl:template match="tei:orig">
-        <span class="orig"><xsl:apply-templates/></span>
+        <div class="orig"><xsl:apply-templates/></div>
     </xsl:template>
-
     <xsl:template match="tei:reg">
-        <xsl:apply-templates/>
+        <apply-templates/>
     </xsl:template>
-
-    <xsl:template match="tei:choice">
-        <xsl:apply-templates select="tei:reg"/>
+    <xsl:template match="tei:ref[@target='n1']">
+        <a href="#n1"><xsl:apply-templates/></a>
     </xsl:template>
-
-    <xsl:template match="tei:ref[@target]">
+    <xsl:template match="tei:ref[@target='n2']">
+        <a href="#n2"><xsl:apply-templates/></a>
+    </xsl:template>
+    <xsl:template match="tei:ref[@target='n3']">
+        <a href="#n3"><xsl:apply-templates/></a>
+    </xsl:template>
+    <xsl:template match="tei:ref[@target='n4']">
+        <a href="#n4"><xsl:apply-templates/></a>
+    </xsl:template>
+    <xsl:template match="tei:ref[@target]" priority="99">
         <a href="{@target}">
-            <xsl:apply-templates/>
+            <xsl:apply-templates select="node()"/>
         </a>
     </xsl:template>
-
     <xsl:template match="tei:p">
         <p><xsl:apply-templates/></p>
     </xsl:template>
-
     <xsl:template match="tei:closer">
-        <p style="text-indent: 50px;">
-            <xsl:apply-templates/>
-        </p>
+        <p style="text-indent: 50px;"><xsl:apply-templates/></p>
     </xsl:template>
-
     <xsl:template match="tei:signed">
-        <h4 style="text-indent: 50px;">
-            <xsl:apply-templates/>
-        </h4>
+        <p><h4 style="text-indent: 50px;"><xsl:apply-templates/></h4></p>
     </xsl:template>
-
-    <xsl:template match="tei:list">
-        <ol>
-            <xsl:apply-templates/>
-        </ol>
-    </xsl:template>
-
-    <xsl:template match="tei:item">
-        <li><xsl:apply-templates/></li>
-    </xsl:template>
-
-    <xsl:template match="tei:pb">
-        <div class="pb">[Page <xsl:value-of select="@n"/>]</div>
-    </xsl:template>
-
     <xsl:template match="tei:div[@type='endnotes']">
-        <div class="endnotes">
-            <xsl:apply-templates/>
-        </div>
+        <div class="endnotes"><xsl:apply-templates/></div>
     </xsl:template>
-
-    <xsl:template match="tei:note[@xml:id]">
-        <p id="{@xml:id}">
-            <xsl:apply-templates/>
-        </p>
-    </xsl:template>
-
-    <xsl:template match="tei:div[@type='bibliography'] | tei:listBibl">
-        <div class="bibliography">
-            <h3>Bibliography</h3>
-            <xsl:apply-templates/>
-        </div>
-    </xsl:template>
-
-    <xsl:template match="tei:bibl">
+    <xsl:template match="tei:note">
         <p><xsl:apply-templates/></p>
     </xsl:template>
-
-    <xsl:template match="text()">
-        <xsl:value-of select="."/>
+    <xsl:template match="tei:note[@xml:id='n1']">
+        <p id="n1"><xsl:apply-templates/></p>
     </xsl:template>
-
+    <xsl:template match="tei:note[@xml:id='n2']">
+        <p id="n2"><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="tei:note[@xml:id='n3']">
+        <p id="n3"><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="tei:note[@xml:id='n4']">
+        <p id="n4"><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="tei:div[@type='bibliography']">
+        <div class="bibliography"><xsl:apply-templates/></div>
+    </xsl:template>
+    <xsl:template match="tei:bibl">
+<p><xsl:apply-templates/></p>
+    </xsl:template>
+  
 </xsl:stylesheet>
