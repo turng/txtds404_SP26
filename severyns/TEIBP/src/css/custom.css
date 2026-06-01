@@ -1,5 +1,11 @@
 /* Place project-specific CSS here */
 
+.content {
+    width: 75%;
+    margin: auto;
+    border: 1px;
+}
+
 h1 {
     color:black;
     font-family:Garamond;
