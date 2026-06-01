@@ -115,183 +115,185 @@
                 disaient-ils, c’est leur ôter...
             </p>
 
-            <note xml:id="nRegV2" xml:lang="en">
-                Cette section modernise certaines orthographes de Manuel au moyen de
-                <choice>
-                    <orig>étoit</orig>
-                    <reg>était</reg>
-                </choice>
-                et d’autres couples semblables. La forme originale est conservée pour
-                documenter la langue de l’époque, tandis que la forme régularisée
-                facilite la lecture moderne.
-            </note>
+          <note xml:id="nRegV2" xml:lang="en">
+  This section modernizes certain spellings used by Manuel through pairs such
+  as
+  <choice>
+    <orig>étoit</orig>
+    <reg>était</reg>
+  </choice>.
+  The original form is preserved, while the regularized form is supplied to
+  make the text more accessible to modern readers.
+</note>
 
-            <note xml:id="n1" xml:lang="en">
-            La bulle Unigenitus (1713), qui condamnait des propositions associées au jansénisme, déclencha
-            un long conflit religieux et politique. Manuel l’évoque pour souligner comment une querelle
-            doctrinale, soutenue par le pouvoir royal, a nourri la pratique des lettres de cachet et des
-            emprisonnements arbitraires.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n1" xml:lang="en">
+  The bull Unigenitus, issued in 1713, condemned propositions associated with
+  Jansenism and became a major source of religious and political conflict in
+  eighteenth-century France. Manuel invokes it to show how disputes over belief
+  could lead to administrative repression and imprisonment.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n2" xml:lang="en">
-            « Blackstone » désigne William Blackstone, auteur des Commentaries on the Laws of England, qui
-            insistent sur la protection contre l’emprisonnement arbitraire comme condition de la liberté
-            individuelle. Manuel s’en sert comme contrepoint pour critiquer un système français où le roi
-            et la police pouvaient enfermer sans procès public.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n2" xml:lang="en">
+  “Blackstone” refers to William Blackstone, author of the Commentaries on the
+  Laws of England, which strongly emphasized protection against arbitrary
+  imprisonment. Manuel uses Blackstone as a contrast to criticize the French
+  system of confinement without open judicial process.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n3" xml:lang="en">
-            Le Château du Taureau, dans la baie de Morlaix, fut l’une des forteresses employées pour
-            détenir des personnes sous l’autorité royale. Manuel l’insère dans une liste afin de faire
-            sentir l’étendue d’un réseau de prisons d’État dispersées sur le territoire.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n3" xml:lang="en">
+  The Château du Taureau, in the bay of Morlaix, was one of several fortresses
+  used to detain prisoners under royal authority. Manuel includes it in order
+  to emphasize the broad geography of state confinement.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n4" xml:lang="en">
-            Le château de Saumur, sur la Loire, servit à différentes époques de lieu de détention. Pour
-            Manuel, ce type de forteresse provinciale montre que l’internement administratif ne se
-            limitait pas à quelques grandes prisons parisiennes.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n4" xml:lang="en">
+  The château of Saumur, on the Loire, served at various times as a place of
+  detention. For Manuel, sites like this show that administrative imprisonment
+  extended well beyond Paris itself.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n5" xml:lang="en">
-            Le Château-Trompette à Bordeaux était une citadelle royale employée comme prison pour des
-            détenus politiques ou administratifs. En l’énumérant avec d’autres, Manuel contribue à
-            l’image d’une France hérissée de maisons de force.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n5" xml:lang="en">
+  The Château-Trompette in Bordeaux was a royal citadel also used as a prison.
+  Manuel presents it as part of a kingdom-wide network of places where the
+  monarchy could confine people by administrative authority.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n6" xml:lang="en">
-            Pierre-Encise, près de Lyon, servait également de prison d’État. La succession de ces noms
-            invite le lecteur à imaginer une carte mentale des lieux où la monarchie pouvait faire
-            disparaître des individus sans jugement ordinaire.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n6" xml:lang="en">
+  Pierre-Encise, near Lyon, functioned as a state prison as well as a
+  fortress. The succession of such place names encourages readers to imagine a
+  map of France covered with sites of arbitrary confinement.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n7" xml:lang="en">
-            Le fort de Bréhon, en Languedoc, faisait partie de ce réseau de forteresses. Manuel s’intéresse
-            moins à l’histoire propre de chaque site qu’à leur effet cumulatif sur la perception du
-            despotisme royal.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n7" xml:lang="en">
+  The fort of Bréhon in Languedoc formed part of this dispersed network of
+  strongholds. Manuel’s emphasis is less on each site individually than on the
+  cumulative effect of so many prisons across the kingdom.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n8" xml:lang="en">
-            Le Mont-Saint-Michel, célèbre sanctuaire, fut aussi utilisé comme prison, notamment pour des
-            détenus religieux et politiques. Son inclusion montre comment des lieux de pèlerinage
-            pouvaient être intégrés à la machinerie de l’enfermement.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n8" xml:lang="en">
+  Mont-Saint-Michel, famous as a religious site, was also used as a prison for
+  religious and political detainees. Its inclusion shows how places of devotion
+  could also become instruments of confinement.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n9" xml:lang="en">
-            Le château de Ham, en Picardie, servit de prison d’État à plusieurs époques. Au moment où
-            Manuel écrit, de telles forteresses sont devenues des symboles de l’arbitraire dans la culture
-            politique que Darnton décrit pour le Paris de la fin de l’Ancien Régime.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n9" xml:lang="en">
+  The château of Ham in Picardy was another fortress used as a place of state
+  detention. Such prisons became powerful symbols of arbitrary authority in the
+  political culture of the late Ancien Régime.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n10" xml:lang="en">
-            Les îles Sainte-Marguerite, au large de Cannes, abritaient une forteresse qui reçut des détenus
-            célèbres et anonymes. Elles illustrent l’extension de l’emprisonnement d’État aux sites
-            côtiers et insulaires.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n10" xml:lang="en">
+  The Îles Sainte-Marguerite, off the Mediterranean coast, contained a
+  fortified prison that held both well-known and obscure detainees. Manuel uses
+  it to show that royal imprisonment extended even to island sites.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n11" xml:lang="en">
-            Saint-Lazare à Paris combinait fonctions caritatives, correctionnelles et carcérales, et de
-            nombreuses personnes y furent enfermées sur décision administrative. Manuel le situe dans un
-            continuum d’institutions où charité et punition se confondent.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n11" xml:lang="en">
+  Saint-Lazare in Paris combined charitable, corrective, and carceral
+  functions. Manuel includes it in a broader continuum of institutions where
+  care, discipline, and punishment overlapped.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n12" xml:lang="en">
-            Bicêtre réunissait hôpital, hospice et maison de correction, et accueillait des pauvres, des
-            malades et des détenus. Sa nature hybride montre comment, sous l’Ancien Régime, les catégories
-            d’assistance, de discipline et de peine se chevauchaient.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n12" xml:lang="en">
+  Bicêtre was at once a hospital, poorhouse, and prison. Its mixed functions
+  illustrate how social assistance and coercive confinement were often closely
+  linked in the old regime.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n13" xml:lang="en">
-            Charenton désigne ici l’asile et lieu de détention où étaient internés des malades mentaux et
-            des personnes considérées comme telles par décision de l’autorité. Pour Manuel, l’invocation
-            de la folie sert souvent de prétexte commode à l’enfermement.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n13" xml:lang="en">
+  Charenton refers here to the asylum and detention site where people judged
+  insane or socially disruptive could be confined by administrative decision.
+  Manuel suggests that claims of madness could become a convenient excuse for
+  removing inconvenient people from public life.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n14" xml:lang="en">
-            Les Picpus et d’autres congrégations religieuses mentionnées par Manuel recevaient des femmes
-            que leurs familles ou les autorités souhaitaient surveiller ou cacher. Il y voit un prolongement
-            informel du système carcéral dans l’espace conventuel.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n14" xml:lang="en">
+  The Picpus and similar religious congregations could receive women whom their
+  families or authorities wished to hide, discipline, or control. Manuel
+  treats such houses as extensions of the wider system of confinement.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n15" xml:lang="en">
-            La Salpêtrière à Paris, à la fois hôpital, maison de travail et de correction, est connue pour
-            l’enfermement de femmes par lettres de cachet ou sur dénonciation familiale. Manuel en fait un
-            symbole de l’alliance entre morale, administration et privation de liberté.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n15" xml:lang="en">
+  The Salpêtrière in Paris combined hospital, workhouse, and correctional
+  functions, and many women were confined there through lettres de cachet or
+  family denunciation. Manuel uses it as a symbol of moral and administrative
+  coercion.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n16" xml:lang="en">
-            Sainte-Pélagie fonctionnait comme prison de femmes et devint plus tard célèbre comme lieu de
-            détention politique. Dans le texte de Manuel, elle représente l’entrecroisement du genre, de
-            la moralité et du pouvoir d’État.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n16" xml:lang="en">
+  Sainte-Pélagie functioned as a women’s prison and later became known as a
+  site of political detention. In Manuel’s account, it represents the
+  intersection of gender, morality, and state power.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n17" xml:lang="en">
-            Les Magdalonnettes, ou Filles de la Madeleine, accueillaient à Paris des femmes accusées de
-            désordre moral. En l’associant à d’autres maisons de force, Manuel souligne comment les
-            accusations de débauche pouvaient mener à un isolement punitif.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n17" xml:lang="en">
+  The Magdalonnettes, or Filles de la Madeleine, housed women accused of moral
+  disorder. Manuel groups them with other institutions to show how allegations
+  of vice could justify punitive isolation.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n18" xml:lang="en">
-            Le couvent de Valdonne, comme d’autres maisons citées, recevait des femmes envoyées là à la
-            demande de leurs familles ou des autorités. Manuel y voit une forme d’emprisonnement déguisé
-            en discipline religieuse ou en réforme morale.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n18" xml:lang="en">
+  The convent of Valdonne, like other houses in Manuel’s list, could receive
+  women placed there by their families or by administrative order. He presents
+  this practice as imprisonment disguised as moral reform.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n19" xml:lang="en">
-            Le Refuge de Dijon appartenait à un ensemble d’institutions provinciales où l’on enfermait des
-            femmes sous couvert de protection ou de correction. Manuel les décrit comme des « fosses
-            religieuses » où l’on disparaissait pour de longues années.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n19" xml:lang="en">
+  The Refuge in Dijon was one of several provincial institutions where women
+  could be enclosed in the name of protection or correction. Manuel describes
+  such places as religious pits in which people disappeared for years.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n20" xml:lang="en">
-            Les Annonciades et les autres communautés féminines citées forment une chaîne de lieux à
-            travers le royaume, intégrés au système des maisons de force. Ensemble, elles illustrent la
-            collaboration entre familles, clergé et pouvoir royal dans l’exercice d’une justice parallèle
-            et souvent secrète.
-            <ref type="biblio" target="#Darnton"/>
-          </note>
+<note xml:id="n20" xml:lang="en">
+  The Annonciades and the other female communities listed by Manuel formed part
+  of a wider network of institutions used to confine women across the kingdom.
+  Together they reveal the cooperation of family authority, religious life, and
+  royal power in enforcing a hidden parallel justice.
+  <ref type="biblio" target="#Darnton"/>
+</note>
 
-            <note xml:id="n21" xml:lang="en">
-            Le contrôle des corps féminins par l’enfermement que décrit Manuel fait écho, dans un autre
-            domaine, aux débats sur la visibilité du corps féminin étudiés par Havelock. Dans son analyse
-            de l’Aphrodite de Cnide et de ses successeurs, elle montre comment la représentation nue
-            pouvait à la fois flatter et discipliner le regard.
-            <ref type="biblio" target="#Havelock"/>
-          </note>
+<note xml:id="n21" xml:lang="en">
+  Manuel’s description of women being hidden and controlled through confinement
+  can be compared with broader questions about how societies regulate the
+  visibility of the female body. Havelock’s study of Aphrodite in Greek art
+  shows how female display could be both admired and morally policed.
+  <ref type="biblio" target="#Havelock"/>
+</note>
 
-            <note xml:id="n22" xml:lang="en">
-            La carte implicite de prisons et de couvents que dessine Manuel peut se comparer à la
-            géographie mouvante de certaines statues célèbres. Gribbin retrace la trajectoire de l’Athéna
-            Parthénos et de ses copies pour montrer comment un objet change de signification lorsqu’il
-            passe d’un lieu à un autre.
-            <ref type="biblio" target="#Gribbin"/>
-          </note>
+<note xml:id="n22" xml:lang="en">
+  The network of prisons and convents mapped by Manuel can be compared with the
+  movement of powerful cultural objects across space. Gribbin shows how the
+  Athena Parthenos acquired new meanings as it was copied and relocated in
+  different settings.
+  <ref type="biblio" target="#Gribbin"/>
+</note>
 
-            <note xml:id="n23" xml:lang="en">
-            En dénonçant la collaboration entre familles, clergé et État dans la discipline des
-            individus, Manuel invite à réfléchir à d’autres formes de sociétés disciplinaires. Kulesza
-            propose un exemple très différent avec Sparte, où institutions et lois visaient à façonner une
-            identité civique homogène.
-            <ref type="biblio" target="#Kulesza"/>
-          </note>
+<note xml:id="n23" xml:lang="en">
+  Manuel’s attack on confinement as a system of discipline invites comparison
+  with other highly regulated societies. Kulesza’s account of Sparta shows a
+  very different world in which institutions and laws were used to shape
+  collective behavior and civic identity.
+  <ref type="biblio" target="#Kulesza"/>
+</note>
         </div>
       </div>
     </body>
