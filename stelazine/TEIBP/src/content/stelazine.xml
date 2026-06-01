@@ -265,7 +265,7 @@
 
          <div>
             <figure>
-               <graphic url=""/>
+               <graphic url="-"/>
                <figDesc>image of John F. Kennedy</figDesc>
                <p>CUT ME OUT</p>
             </figure>
@@ -273,7 +273,7 @@
 
          <div>
             <figure>
-               <graphic url=""/>
+               <graphic url="-"/>
                <figDesc>image of an apartment building with many windows and on-lookers</figDesc>
             </figure>
          </div>
@@ -559,7 +559,7 @@
          <div type="page">
             <head>LAURA DAVI</head>
             <figure>
-               <graphic url=""/>
+               <graphic url="-"/>
                <figDesc>headshot of Laura Davi with buildings surrounding the frame</figDesc>
                <p>PHOTO JOE STEVENS</p>
             </figure>
@@ -736,7 +736,7 @@
 
          <div>
             <figure>
-               <graphic url=""/>
+               <graphic url="-"/>
                <p>CUT US OUT</p>
             </figure>
 
@@ -748,7 +748,7 @@
 
             <head>I.O.G.T HALL MARCH 31ST</head>
             <figure>
-               <graphic url=""/>
+               <graphic url="-"/>
                <figDesc>a collage of black and white photographs depicting singers and musicians
                   performing, as well as other headshots</figDesc>
                <p>Photos by Randy Hall</p>
@@ -760,14 +760,14 @@
          <div type="page">
             <head>XTE</head>
             <figure>
-               <graphic url=""/>
+               <graphic url="-"/>
                <p>XTE</p>
             </figure>
          </div>
 
          <div>
             <figure>
-               <graphic url=""/>
+               <graphic url="-"/>
                <figDesc/>
                <p>Photo Credit Roy Esmonde</p>
             </figure>
@@ -991,7 +991,7 @@
 
                   <div>
                      <figure>
-                        <graphic url=""/>
+                        <graphic url="-"/>
                         <figDesc/>
                         <p>CUT ME OUT</p>
                         <p>BEATLE BOOTS</p>
@@ -1011,7 +1011,7 @@
 
          <div type="page">
             <figure>
-               <graphic url=""/>
+               <graphic url="-"/>
                <p><name type="band">THE GIRLS</name></p>
                <p><hi rend="ul"><name type="band">THE FISHSTICKS</name></hi></p>
                <p><name type="band">THE LITTLE MAGNETS</name></p>
