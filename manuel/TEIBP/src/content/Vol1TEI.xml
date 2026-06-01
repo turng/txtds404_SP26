@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"
+            type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"
+            type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Police de Paris Dévoilée, Volume 1 (excerpt)</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished classroom edition.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcription and encoding of La Police de Paris Dévoilée, Vol. 1.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body xml:lang="fr">
+            <div type="V1" xml:id="V1">
+                <pb n="30"/>
+                <p>Alors la librairie eût deux rois. La ligne de démarcation entre leurs empires est le chef-d’œuvre des deux souverains. Après plusieurs conférences , les articles <choice><reg>suivants</reg><orig>suivans</orig></choice> furent arrêtés.</p>
+                
+                <p rend="head">Pour le <ref target="#n1">lieutenant de Police</ref>.</p>
+                
+                <list>
+                    <item n="1">Permettre l’entrée des livres aux barrières.</item>
+                    <item n="2">Les faire rendre à la <choice><reg>douane</reg><orig>douanne</orig></choice>.</item>
+                    <item n="3">Les saisies ou suspensions de livres par les commis des fermes , tant aux barrières de Paris que dans la province.</item>
+                    <item n="4">Les saisies des livres prohibés faites dans les chambres syndicales , par les inspecteurs de la librairie ou officiers , ainsi que par les commis des fermes dans leurs tournées.
+                        La visite qui se fait tous les ans à la <ref target="#n2">chambre syndicale</ref> , pour décider du sort des livres qui y sont confisqués ou suspendus.</item>
+                    <item n="5">Recevoir le serment des nouveaux officiers de la librairie , et celui des nouveaux libraires.</item>
+                    <item n="7">Tenir la main à l’exécution du réglement.</item>
+                    <pb n="31"/>
+                    <item n="8">Permettre l’impression d’un ouvrage jusqu’à concurrence de deux feuilles.</item>
+                    <item n="9">Défendre ou arrêter la vente de toute espece d’ouvrages suivant les circonstances.</item>
+                    <item n="10">Toutes perquisitions ou saisies de l’ordre du roi , ou emprisonnement.</item>
+                    <item n="11">Censure des pieces de théâtre.</item>
+                    <item n="12">On doit fournir au magistrat une copie des permissions tacites. Il faudroit aussi lui donner copie de tous les <choice><reg>jugements</reg><orig>jugemens</orig></choice>.</item>
+                </list>
+                
+                <p>A quelques subtiles observations près,
+                    tout accordé.</p>
+                
+                <p rend="head">Pour le <ref target="#n3">directeur-général de la librairie</ref></p>
+                
+                <p>Détail de la librairie gracieuse.</p>
+                
+                <list>
+                    <item n="1">Proposer la nomination d’un nouveau censeur.</item>
+                    <item n="2">Nommer le censeur d’un ouvrage.</item>
+                    <item n="3">Recevoir son jugement.</item>
+                    <item n="4">En rendre compte à <ref target="#n4">M. le garde des sceaux</ref>.</item>
+                    <item n="5">Lui adresser la feuille des <choice><reg>jugements</reg><orig>jugemens</orig></choice>, ou des permissions tacites.</item>
+                    <item n="6">Proposer la nomination des inspecteurs de la librairie , tant à Paris qu’en province.</item>
+                    <pb n="32"/>
+                    <item n="7">Signer les ordres pour rendre les livres à la chambre syndicale.</item>
+                    <item n="8">Permettre ou suspendre la distribution d’un ouvrage approuvé et permis.</item>
+                    <item n="9">Punir un libraire qui aura mis en vente avant la permission.</item>
+                    <item n="10">Recevoir les plaintes des auteurs contre les libraires, et en rendre compte à M. le garde des sceaux.</item>
+                    <item n="11">Rendre compte à M. le garde des sceaux des demandes de privilèges , des refus d’enregistrement desdits privilèges, à la chambre syndicale.</item>
+                    <item n="12">Des plaintes de contrefactions, d’analyses, d’extraits, de plagiats.</item>
+                </list>
+                
+                <p>Le tout accordé, en observant toutefois que le <ref target="#n3">magistrat de la librairie</ref> doit avoir le droit de faire exécuter une interdiction prononcée par un arrêt du conseil; mais dans le cas de police civile, il convient de consulter le magistrat de police.</p>
+                
+                <p>On observe encore sur l’article 12, que quand les <choice><reg>plaignants</reg><orig>plaignans</orig></choice> se pourvoient en justice réglée, cela regarde M. le lieutenant-général de police en première instance, par appel au conseil ou le bureau des affaires contentieuses.</p>
+                
+                <p>Une fois à leur place, ces deux magistrats se <pb n="33"/> <choice><reg>disputaient</reg><orig>disputoient</orig></choice> la gloire d’entretenir la cour de leurs services. L’un <choice><reg>écrivait</reg><orig>écrivoit</orig></choice> au roi : ”Une tolérance trop décidée a enhardi et les auteurs et les libraires. J’ai trouvé établi le système que la librairie étant une branche de commerce, on ne <choice><reg>pouvait</reg><orig>pouvoit</orig></choice> lui donner trop d’étendue et de liberté. A la faveur de ce principe, on ferme les yeux sur l’impression, la publication et la distribution de tous les ouvrages prohibés. Le prétexte de ne point faire passer l’argent chez l’étranger , autorise la plus coupable licence, comme si la religion ne <choice><reg>devait</reg><orig>devoit</orig></choice> pas commander à la politique. Ce qui peut rassurer votre majesté, c’est que les littérateurs sont fortement persuadés qu’au milieu des grands objets dont votre majesté est occupée, elle a daigné descendre aux détails de la librairie, et donner les ordres les plus précis pour la défense de tout livre que je croirai dangereux”. L’autre <choice><reg>écrivait</reg><orig>écrivoit</orig></choice>: ”Sire, votre majesté n’ignore pas qu’il y a dans Paris une imprimerie qui n’est pas entièrement soumise à mon inspection. Celle de <ref target="#n5">Simon</ref>, est en quelque sorte dépendante du parlement; elle ne <choice><reg>devait</reg><orig>devoit</orig></choice> être employée qu’à imprimer ses arrêts. Cependant l’intérêt et la complaisance de l’imprimeur lui
+                    C<!-- unresolved fragment in source -->
+                    <pb n="34"/>
+                    font quelquefois oublier son devoir; et c’est par cette voie que les ouvrages de parti se sont répandus souvent dans le public... Un abus d’un autre genre que je crois devoir vous dénoncer, c’est l’établissement qu’on a toléré depuis 40 ans des marchands de livres dans les maisons royales, aux spectacles, dans le château même de Versailles, et dans tous les lieux privilégiés”.</p>
+                
+                <p>Tous les deux se <choice><reg>faisaient</reg><orig>faisoient</orig></choice> un grand mérite d’avoir fait saisir à la <ref target="#n6">foire de Beaucaire</ref>, 40 ballots de livres défendus, destinés pour la France et introduits par <ref target="#n7">Avignon</ref>; d’avoir fait arrêter à Lyon, à Bayonne des libraires en contravention.</p>
+                
+                <p>La postérité me pardonnera-t-elle de n’avoir pas déposé au temple de mémoire, les noms de ces magistrats qui sans la gazette ecclésiastique qui leur <choice><reg>échappait</reg><orig>échappoit</orig></choice> toujours, <choice><reg>auraient</reg><orig>auroient</orig></choice> eu, comme Dieu, la réputation d’être <choice><reg>présents</reg><orig>présens</orig></choice> par-tout?</p>
+                
+                <note xml:id="n1">
+                    The lieutenant de police was a senior royal official in Paris responsible for urban policing, public order, and many aspects of city administration, including oversight of the book trade and censorship.
+                    <ref type="biblio" target="#Darnton"/>
+                </note>
+                
+                <note xml:id="n2">
+                    The chambre syndicale de la librairie was the corporate body representing Parisian booksellers and printers. It played a central role in regulating the book trade, supervising privileges, and enforcing censorship decisions.
+                    <ref type="biblio" target="#Darnton"/>
+                </note>
+                
+                <note xml:id="n3">
+                    In the late Ancien Régime, the directeur-général de la librairie, also called the magistrat de la librairie, was the crown official in charge of supervising the book trade, including printing privileges, permissions, and censorship policy.
+                    <ref type="biblio" target="#Darnton"/>
+                </note>
+                
+                <note xml:id="n4">
+                    The garde des sceaux (Keeper of the Seals) was the minister responsible for the royal seals and the justice system. In matters of print, he oversaw the granting of privileges and high-level decisions about censored works.
+                    <ref type="biblio" target="#Darnton"/>
+                </note>
+                
+                <note xml:id="n5">
+                    The Simon press in Paris was attached to the Parlement and in principle reserved for printing its judicial decrees. Manuel presents it as a semi‑independent press through which partisan writings could circulate outside ordinary royal oversight.
+                    <ref type="biblio" target="#Darnton"/>
+                </note>
+                
+                <note xml:id="n6">
+                    The Beaucaire fair was one of the major commercial fairs of southern France and an important hub for the distribution of books, including clandestine or prohibited works that could then circulate throughout the kingdom.
+                    <ref type="biblio" target="#Darnton"/>
+                </note>
+                
+                <note xml:id="n7">
+                    In the eighteenth century Avignon, under papal rather than royal jurisdiction, served as a major entry point for foreign and clandestine books into France, allowing prohibited works to be smuggled in despite official controls.
+                    <ref type="biblio" target="#Darnton"/>
+                </note>
+                
+            </div>
+        </body>
+        <back>
+            <listBibl>
+                <bibl xml:id="Darnton">
+                    <author>Robert Darnton</author>
+                    <title>An Early Information Society: News and the Media in Eighteenth-Century Paris</title>
+                    <title level="j">The American Historical Review</title>
+                    <date when="2000">2000</date>
+                    <biblScope unit="volume">105</biblScope>
+                    <biblScope unit="issue">1</biblScope>
+                    <biblScope unit="page">1–35</biblScope>
+                </bibl>
+                <bibl xml:id="Havelock">
+                    <author>Christine Mitchell Havelock</author>
+                    <title>The Aphrodite of Knidos and Her Successors: A Historical Review of the Female Nude in Greek Art</title>
+                    <pubPlace>Ann Arbor</pubPlace>
+                    <publisher>University of Michigan Press</publisher>
+                    <date when="1995">1995</date>
+                </bibl>
+                <bibl xml:id="Gribbin">
+                    <author>Christopher Gribbin</author>
+                    <title>Athens to Australia: The Athena Parthenos</title>
+                    <title level="j">Agora</title>
+                    <date when="2019">2019</date>
+                    <biblScope unit="volume">54</biblScope>
+                    <biblScope unit="issue">1</biblScope>
+                    <biblScope unit="page">3–9</biblScope>
+                </bibl>
+                <bibl xml:id="Kulesza">
+                    <author>Ryszard Kulesza</author>
+                    <title>Sparta: History, State, and Society</title>
+                    <pubPlace>Berlin</pubPlace>
+                    <publisher>Peter Lang</publisher>
+                    <date when="2022">2022</date>
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
