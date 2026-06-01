@@ -9,6 +9,7 @@
          <titleStmt>
             <title>Digital Scholarly Edition: “Ming Chin and the Baby Giant Panda” from the Ella
                Evanson Scrapbooks</title>
+
             <respStmt>
                <resp>Encoded and curated by:</resp>
                <name>Dean, Linhe, Shawn, Zhifan</name>
@@ -50,6 +51,12 @@
          <change when="2026-05-31" who="Zhifan">Revised the editorial introduction to align with the
             narrowed focus on “Ming Chin and the Baby Giant Panda”; reorganized the body text within
             a div element for a clearer TEI edition structure.</change>
+         <change when="2026-06-01" who="Zhifan">Added the full transcription of “Ming Chin and the
+            Baby Giant Panda”; marked up paratextual submission information, people, places,
+            organizations, and key terms; converted inline annotations into numbered footnote
+            references; revised the notes section to align with numbered references in the
+            introduction and body; and adjusted the edition structure for clearer TEI
+            publication.</change>
       </revisionDesc>
    </teiHeader>
 
@@ -62,7 +69,7 @@
                Washington Libraries Special Collections. Produced in Seattle in the early 1940s, the
                text emerges from the wartime classroom culture of <placeName
                   xml:id="loc_washington_school">Washington School</placeName><ref
-                  target="#note_wash_school">[18]</ref>, where Evanson taught students from diverse
+                  target="#note_wash_school">[1]</ref>, where Evanson taught students from diverse
                racial backgrounds. The story centers on a Chinese student, Ming Chin, and his
                classmates’ efforts to raise funds for a baby giant panda. At the same time, its
                references to China, Japan, war, and classroom conflict place the story within the
@@ -77,7 +84,7 @@
                American schoolchildren experienced a painful contradiction between democratic
                citizenship education and the racial exclusion authorized by <seg
                   xml:id="hist_eo9066">Executive Order 9066</seg><ref target="#note_eo9066"
-                  >[17]</ref>. Although Evanson’s story focuses on a Chinese student, its classroom
+                  >[2]</ref>. Although Evanson’s story focuses on a Chinese student, its classroom
                setting and its reference to anti-Japanese language make it important for
                understanding the racialized atmosphere of Seattle schools during the war.</p>
 
@@ -117,22 +124,22 @@
             <p>"Yes, certainly, James."</p>
 
             <p>"As treasurer of the <seg xml:id="term_panda_fund">Baby Giant Panda Fund</seg><ref
-                  target="#note_panda">[1]</ref>, I wish to report that the last penny is in and now
+                  target="#note_panda">[3]</ref>, I wish to report that the last penny is in and now
                we can pay for our baby giant panda."</p>
 
             <p>The noisy applause that followed was offset by the report of <persName
-                  xml:id="char_brown">Miss Brown</persName><ref target="#note_brown">[2]</ref>, "I
+                  xml:id="char_brown">Miss Brown</persName><ref target="#note_brown">[4]</ref>, "I
                am sorry to tell you that on account of the war the panda cannot yet be brought over
                from <placeName xml:id="loc_china">China</placeName>."</p>
 
             <p><persName ref="#char_brown">Miss Brown</persName>'s announcement was met by stunned
                silence, then <persName xml:id="char_sylvia">Sylvia</persName> voiced her resentment,
                "And after we worked so hard to raise the money! It's a <seg xml:id="term_gyp"
-                  >gyp</seg><ref target="#note_gyp">[3]</ref>!"</p>
+                  >gyp</seg><ref target="#note_gyp">[5]</ref>!"</p>
 
             <p><persName xml:id="char_toji">Toji</persName><ref target="#note_toji_archetype"
-                  >[4]</ref>, appropriately said, "<seg xml:id="slur_japs">Those Japs</seg><ref
-                  target="#note_japs_slur">[5]</ref> have no business in China."</p>
+                  >[6]</ref>, appropriately said, "<seg xml:id="slur_japs">Those Japs</seg><ref
+                  target="#note_japs_slur">[7]</ref> have no business in China."</p>
 
             <p>All the children were sad but <persName xml:id="char_ming_chin">Ming Chin</persName>
                seemed saddest.</p>
@@ -140,12 +147,12 @@
             <p>"I wonder why Ming is so sad," said <persName ref="#char_james_smith"
                   >James</persName> as he watched the tall boy hurrying down the street to
                   <placeName xml:id="loc_yesler_school">Yesler School</placeName><ref
-                  target="#note_yesler">[6]</ref> a few days later. Each morning <persName
+                  target="#note_yesler">[8]</ref> a few days later. Each morning <persName
                   ref="#char_ming_chin">Ming Chin</persName> arrived breathless barely beating the
                tardy bell deadline.</p>
 
             <p>"Bet I'd be plenty happy if I could do such good work," said the black-faced
-                  <persName xml:id="char_abe">Abe</persName><ref target="#note_abe">[7]</ref>.</p>
+                  <persName xml:id="char_abe">Abe</persName><ref target="#note_abe">[9]</ref>.</p>
 
             <p>"He makes me feel like a chiseler," <persName ref="#char_james_smith"
                   >James</persName> continued, "studying every minute. He works in his brother's
@@ -179,16 +186,16 @@
 
             <p>"My father stay because my grandfather very sick. My grandfather die last year.
                   <placeName ref="#loc_hong_kong">Hong Kong</placeName> is lost.<ref
-                  target="#note_hong_kong">[8]</ref> If my father not die, money all gone. War take
+                  target="#note_hong_kong">[10]</ref> If my father not die, money all gone. War take
                all money. No money for ticket to America."</p>
 
             <p>"Anyway, how can your father come here? I thought the <placeName
                   xml:id="loc_united_states">United States</placeName> wouldn't let any more Chinese
-                  enter."<ref target="#note_chinese_exclusion">[9]</ref>
+                  enter."<ref target="#note_chinese_exclusion">[11]</ref>
                <persName ref="#char_james_smith">James</persName> was remembering his history.</p>
 
             <p>"He is student and he will go to school here. Chinese students can stay in United
-                  States."<ref target="#note_chinese_students">[10]</ref> Then his face revealed the
+                  States."<ref target="#note_chinese_students">[12]</ref> Then his face revealed the
                mystery of his sadness and his audience saw it instantly. "No money for ticket." But
                he added with determination. "My brother and I work hard to get money for
                ticket."</p>
@@ -220,14 +227,14 @@
             <p><placeName ref="#loc_china">China</placeName>, instead of a remote spot on the globe
                became to the class a real place absorbing all interest. They were especially
                fascinated by the zigzag airplane views of the <placeName xml:id="loc_burma_road"
-                  >Burma Road</placeName><ref target="#note_burma_road">[11]</ref>.</p>
+                  >Burma Road</placeName><ref target="#note_burma_road">[13]</ref>.</p>
 
             <p>"Can you feature that? Gosh, what a roller coaster that would make!" was <persName
                   ref="#char_abe">Abe</persName>'s comment.</p>
 
             <p>"Roller coaster is rignt. Did you see in the movies how the trucks got through with
                the supplies to China before the fall of <placeName xml:id="loc_rangoon"
-                  >Rangoon</placeName><ref target="#note_rangoon">[12]</ref>?"</p>
+                  >Rangoon</placeName><ref target="#note_rangoon">[14]</ref>?"</p>
 
             <p><persName ref="#char_brown">Miss Brown</persName>, recalling the children's panda
                stranded in China asked, "Ming, does your father know a good deal about wild animals?
@@ -236,7 +243,7 @@
             <p><persName ref="#char_ming_chin">Ming</persName> fairly jumped with surprise. The
                giant panda was one of his father's favorite subjects. "A giant panda! Many years
                past my father go to <placeName xml:id="loc_shanghai">Shanghai</placeName> to see
-               giant panda American lady found.<ref target="#note_panda_lady">[13]</ref> It was
+               giant panda American lady found.<ref target="#note_panda_lady">[15]</ref> It was
                baby," and Ming cradled his hands to indicate the size.</p>
 
             <p>"Giant pandas are very scarce," said <persName ref="#char_toji">Toji</persName>.</p>
@@ -249,7 +256,7 @@
                bring our baby giant panda to us?"</p>
 
             <p>"Yes, I have a friend connected with the zoo in <placeName xml:id="loc_woodland_park"
-                  >Woodland Park</placeName><ref target="#note_woodland_park">[14]</ref> who has for
+                  >Woodland Park</placeName><ref target="#note_woodland_park">[16]</ref> who has for
                months been trying to bring over the baby panda which they have secured for us, but
                due to war re-strictions they are forbidden to take it out of China."</p>
 
@@ -291,7 +298,7 @@
                they were still running between China and the United States."</p>
 
             <p><persName ref="#char_james_smith">James</persName> had the answer, "The clipper!<ref
-                  target="#note_clipper">[15]</ref> I read that pandas are good travelers even in
+                  target="#note_clipper">[17]</ref> I read that pandas are good travelers even in
                the air, and on water, too."</p>
 
             <p><persName ref="#char_brown">Miss Brown</persName> settled the question. "You are both
@@ -299,7 +306,7 @@
                land, water, and air. It believes the panda is of sufficient value to warrant the
                expense even in war time. The brave boys who were our own American Volunteers, the
                   <orgName xml:id="org_flying_tigers">Flying Tigers</orgName><ref
-                  target="#note_flying_tigers">[16]</ref>, have been given the responsibility of
+                  target="#note_flying_tigers">[18]</ref>, have been given the responsibility of
                carrying the baby panda to some place on the coast."</p>
 
             <p><persName ref="#char_james_smith">James</persName>, impatient to near tue rest,
@@ -395,132 +402,158 @@
             <head>Notes</head>
             <list>
                <item xml:id="note_panda">
-                  <label>1.</label>
-                  The Baby Giant Panda Fund reflects the popular fascination with giant pandas in the United States in the late 1930s and early 1940s, when live pandas from China became major zoo attractions and objects of public fundraising. In the story, the children’s fundraising project connects classroom life in Seattle to trans-Pacific cultural exchange and wartime disruption.
-                  <ref target="#croke2005"> Croke 2005.</ref>
+                  <label>3.</label> The Baby Giant Panda Fund reflects the popular fascination with
+                  giant pandas in the United States in the late 1930s and early 1940s, when live
+                  pandas from China became major zoo attractions and objects of public fundraising.
+                  In the story, the children’s fundraising project connects classroom life in
+                  Seattle to trans-Pacific cultural exchange and wartime disruption. <ref
+                     target="#croke2005"> Croke 2005.</ref>
                </item>
                <item xml:id="note_brown">
-                  <label>2.</label>
-                  Miss Brown appears to be based on Ella C. Evanson, the teacher and writer associated with the classroom materials preserved in the Ella Evanson Scrapbooks. Evanson’s role as both educator and collector makes the text important as a literary artifact and as a record of classroom culture.
-                  <ref target="#evanson_archive"> Evanson Archive.</ref>
+                  <label>4.</label> Miss Brown appears to be based on Ella C. Evanson, the teacher
+                  and writer associated with the classroom materials preserved in the Ella Evanson
+                  Scrapbooks. Evanson’s role as both educator and collector makes the text important
+                  as a literary artifact and as a record of classroom culture. <ref
+                     target="#evanson_archive"> Evanson Archive.</ref>
                </item>
-               
+
                <item xml:id="note_gyp">
-                  <label>3.</label>
-                  The term “gyp” is preserved here as part of the historical text. It is now recognized as an offensive term linked to stereotypes about Romani people. Its presence in the text reflects the casual circulation of racialized language in the period and should be read critically.
-               </item>
-               
+                  <label>5.</label> The term “gyp” is preserved here as part of the historical text.
+                  It is now recognized as an offensive term linked to stereotypes about Romani
+                  people. Its presence in the text reflects the casual circulation of racialized
+                  language in the period and should be read critically. </item>
+
                <item xml:id="note_toji_archetype">
-                  <label>4.</label>
-                  The name Toji may be connected to Tooji, the student author of “My Ambition,” another text associated with Evanson’s classroom archive. This connection suggests that Evanson may have drawn on student names, voices, or classroom experience in shaping her fiction.
-                  <ref target="#pak2002"> Pak 2002.</ref>
+                  <label>6.</label> The name Toji may be connected to Tooji, the student author of
+                  “My Ambition,” another text associated with Evanson’s classroom archive. This
+                  connection suggests that Evanson may have drawn on student names, voices, or
+                  classroom experience in shaping her fiction. <ref target="#pak2002"> Pak
+                     2002.</ref>
                </item>
-               
+
                <item xml:id="note_japs_slur">
-                  <label>5.</label>
-                  This anti-Japanese slur is preserved because it appears in the source text and reflects wartime racial hostility after the attack on Pearl Harbor. Its presence shows how global conflict and anti-Japanese sentiment entered children’s classroom speech and social dynamics.
-                  <ref target="#warren1999"> Warren 1999.</ref>
+                  <label>7.</label> This anti-Japanese slur is preserved because it appears in the
+                  source text and reflects wartime racial hostility after the attack on Pearl
+                  Harbor. Its presence shows how global conflict and anti-Japanese sentiment entered
+                  children’s classroom speech and social dynamics. <ref target="#warren1999"> Warren
+                     1999.</ref>
                </item>
-               
+
                <item xml:id="note_yesler">
-                  <label>6.</label>
-                  Yesler School refers to a Seattle public school context near the city’s Central District and International District neighborhoods. Its mention helps locate the story within a local geography of multiethnic schooling.
-               </item>
-               
+                  <label>8.</label> Yesler School refers to a Seattle public school context near the
+                  city’s Central District and International District neighborhoods. Its mention
+                  helps locate the story within a local geography of multiethnic schooling. </item>
+
                <item xml:id="note_abe">
-                  <label>7.</label>
-                  The phrase “black-faced Abe” is preserved as part of the source text. It reflects the racial language of the historical document and should be read critically rather than as a neutral description.
-               </item>
-               
+                  <label>9.</label> The phrase “black-faced Abe” is preserved as part of the source
+                  text. It reflects the racial language of the historical document and should be
+                  read critically rather than as a neutral description. </item>
+
                <item xml:id="note_hong_kong">
-                  <label>8.</label>
-                  Hong Kong fell to Japanese forces in December 1941, shortly after the attack on Pearl Harbor. This wartime context shapes Ming Chin’s fear that his father may be unable to reach the United States.
-               </item>
-               
+                  <label>10.</label> Hong Kong fell to Japanese forces in December 1941, shortly
+                  after the attack on Pearl Harbor. This wartime context shapes Ming Chin’s fear
+                  that his father may be unable to reach the United States. </item>
+
                <item xml:id="note_chinese_exclusion">
-                  <label>9.</label>
-                  James’s comment refers broadly to the history of Chinese exclusion in the United States, especially immigration restrictions that limited Chinese entry before the repeal of the Chinese Exclusion laws during World War II.
-               </item>
-               
+                  <label>11.</label> James’s comment refers broadly to the history of Chinese
+                  exclusion in the United States, especially immigration restrictions that limited
+                  Chinese entry before the repeal of the Chinese Exclusion laws during World War II. </item>
+
                <item xml:id="note_chinese_students">
-                  <label>10.</label>
-                  The text distinguishes Chinese students from other Chinese migrants, suggesting the special status of students within immigration regimes and educational exchange.
-               </item>
-               
+                  <label>12.</label> The text distinguishes Chinese students from other Chinese
+                  migrants, suggesting the special status of students within immigration regimes and
+                  educational exchange. </item>
+
                <item xml:id="note_burma_road">
-                  <label>11.</label>
-                  The Burma Road was a crucial wartime supply route used to transport materials to China during the Second Sino-Japanese War and World War II. In the story, the children’s fascination with the Burma Road shows how wartime geography entered the classroom imagination.
-               </item>
-               
+                  <label>13.</label> The Burma Road was a crucial wartime supply route used to
+                  transport materials to China during the Second Sino-Japanese War and World War II.
+                  In the story, the children’s fascination with the Burma Road shows how wartime
+                  geography entered the classroom imagination. </item>
+
                <item xml:id="note_rangoon">
-                  <label>12.</label>
-                  Rangoon, now Yangon, was an important port and transport hub in Burma. Its fall in 1942 disrupted Allied supply routes to China and intensified the wartime difficulty of moving people, goods, and animals across Asia.
-               </item>
-               
+                  <label>14.</label> Rangoon, now Yangon, was an important port and transport hub in
+                  Burma. Its fall in 1942 disrupted Allied supply routes to China and intensified
+                  the wartime difficulty of moving people, goods, and animals across Asia. </item>
+
                <item xml:id="note_panda_lady">
-                  <label>13.</label>
-                  The “American lady” likely refers to Ruth Harkness, who brought the first live giant panda to the United States in the 1930s. Her expedition helped produce American popular fascination with pandas and made the animal a symbol of adventure, rarity, and Sino-American connection.
-                  <ref target="#croke2005"> Croke 2005.</ref>
+                  <label>15.</label> The “American lady” likely refers to Ruth Harkness, who brought
+                  the first live giant panda to the United States in the 1930s. Her expedition
+                  helped produce American popular fascination with pandas and made the animal a
+                  symbol of adventure, rarity, and Sino-American connection. <ref
+                     target="#croke2005"> Croke 2005.</ref>
                </item>
-               
+
                <item xml:id="note_woodland_park">
-                  <label>14.</label>
-                  Woodland Park refers to Woodland Park Zoo in Seattle. In the story, the zoo connects local children’s fundraising to trans-Pacific wartime movement and to the broader public culture of animal display.
-               </item>
-               
+                  <label>16.</label> Woodland Park refers to Woodland Park Zoo in Seattle. In the
+                  story, the zoo connects local children’s fundraising to trans-Pacific wartime
+                  movement and to the broader public culture of animal display. </item>
+
                <item xml:id="note_clipper">
-                  <label>15.</label>
-                  “The clipper” refers to long-distance flying boats associated with transoceanic air travel, such as Pan American’s clipper service. The reference links the story’s panda rescue plot to the modern technologies of air transport.
-               </item>
-               
+                  <label>17.</label> “The clipper” refers to long-distance flying boats associated
+                  with transoceanic air travel, such as Pan American’s clipper service. The
+                  reference links the story’s panda rescue plot to the modern technologies of air
+                  transport. </item>
+
                <item xml:id="note_flying_tigers">
-                  <label>16.</label>
-                  The Flying Tigers were the American Volunteer Group that fought in China before the United States formally entered World War II. In the story, their mention connects the children’s panda project to wartime aviation and the Sino-American alliance.
-               </item>
-               
+                  <label>18.</label> The Flying Tigers were the American Volunteer Group that fought
+                  in China before the United States formally entered World War II. In the story,
+                  their mention connects the children’s panda project to wartime aviation and the
+                  Sino-American alliance. </item>
+
                <item xml:id="note_eo9066">
-                  <label>17.</label>
-                  Executive Order 9066, signed by President Franklin D. Roosevelt on 19 February 1942, authorized the Secretary of War and designated military commanders to establish military areas from which “any or all persons” might be excluded. Although no specific group was named, it was enforced primarily against people of Japanese ancestry, resulting in the incarceration of approximately 120,000 individuals, the majority of whom were American citizens.
-                  <ref target="#archives_eo9066"> National Archives.</ref>
+                  <label>2.</label> Executive Order 9066, signed by President Franklin D. Roosevelt
+                  on 19 February 1942, authorized the Secretary of War and designated military
+                  commanders to establish military areas from which “any or all persons” might be
+                  excluded. Although no specific group was named, it was enforced primarily against
+                  people of Japanese ancestry, resulting in the incarceration of approximately
+                  120,000 individuals, the majority of whom were American citizens. <ref
+                     target="#archives_eo9066"> National Archives.</ref>
                </item>
-               
+
                <item xml:id="note_wash_school">
-                  <label>18.</label>
-                  George Washington School, referred to in this collection as Washington School, was a public junior high school in Seattle’s Central District where Ella Evanson taught seventh and eighth grade from 1928 until her retirement in 1956. The school was known for its commitment to democratic ideals and racial tolerance, serving students from Japanese American, Chinese American, Jewish, African American, and white families.
-                  <ref target="#evanson_archive"> Evanson Archive.</ref>
+                  <label>1.</label> George Washington School, referred to in this collection as
+                  Washington School, was a public junior high school in Seattle’s Central District
+                  where Ella Evanson taught seventh and eighth grade from 1928 until her retirement
+                  in 1956. The school was known for its commitment to democratic ideals and racial
+                  tolerance, serving students from Japanese American, Chinese American, Jewish,
+                  African American, and white families. <ref target="#evanson_archive"> Evanson
+                     Archive.</ref>
                </item>
             </list>
          </div>
-         
+
          <div type="bibliography">
             <head>Bibliography</head>
             <listBibl>
                <bibl xml:id="pak2002">
                   <author>Pak, Yoon K.</author>
-                  <title level="m">Wherever I Go, I Will Always Be a Loyal American: Schooling Seattle’s Japanese Americans During World War II</title>
+                  <title level="m">Wherever I Go, I Will Always Be a Loyal American: Schooling
+                     Seattle’s Japanese Americans During World War II</title>
                   <publisher>Routledge</publisher>
                   <pubPlace>New York</pubPlace>
                   <date when="2002">2002</date>
                </bibl>
-               
+
                <bibl xml:id="abe2021">
                   <author>Abe, Frank</author>
                   <author>Nimura, Tamiko</author>
-                  <title level="m">We Hereby Refuse: Japanese American Resistance to Wartime Incarceration</title>
+                  <title level="m">We Hereby Refuse: Japanese American Resistance to Wartime
+                     Incarceration</title>
                   <publisher>Chin Music Press</publisher>
                   <pubPlace>Seattle</pubPlace>
                   <date when="2021">2021</date>
                </bibl>
-               
+
                <bibl xml:id="fugita2004">
                   <author>Fugita, Stephen</author>
                   <author>Fernandez, Marilyn</author>
-                  <title level="m">Altered Lives, Enduring Community: Japanese Americans Remember Their World War II Incarceration</title>
+                  <title level="m">Altered Lives, Enduring Community: Japanese Americans Remember
+                     Their World War II Incarceration</title>
                   <publisher>University of Washington Press</publisher>
                   <pubPlace>Seattle</pubPlace>
                   <date when="2004">2004</date>
                </bibl>
-               
+
                <bibl xml:id="warren1999">
                   <author>Warren, James R.</author>
                   <title level="a">World War II Home Front on Puget Sound</title>
@@ -528,23 +561,25 @@
                   <date when="1999-09-13">13 September 1999</date>
                   <ref target="https://www.historylink.org/File/1664"/>
                </bibl>
-               
+
                <bibl xml:id="croke2005">
                   <author>Croke, Vicki Constantine</author>
-                  <title level="m">The Lady and the Panda: The True Adventures of the First American Explorer to Bring Back China’s Most Exotic Animal</title>
+                  <title level="m">The Lady and the Panda: The True Adventures of the First American
+                     Explorer to Bring Back China’s Most Exotic Animal</title>
                   <publisher>Random House</publisher>
                   <pubPlace>New York</pubPlace>
                   <date when="2005">2005</date>
                </bibl>
-               
+
                <bibl xml:id="archives_eo9066">
                   <author>National Archives</author>
-                  <title level="a">Executive Order 9066: Resulting in Japanese-American Incarceration</title>
+                  <title level="a">Executive Order 9066: Resulting in Japanese-American
+                     Incarceration</title>
                   <title level="j">National Archives</title>
                   <date when="2021">2021</date>
                   <ref target="https://www.archives.gov/milestone-documents/executive-order-9066"/>
                </bibl>
-               
+
                <bibl xml:id="evanson_archive">
                   <author>Evanson, Ella C.</author>
                   <title level="m">Ella Evanson Scrapbooks, 1941-1974</title>
@@ -555,7 +590,7 @@
             </listBibl>
          </div>
       </back>
-    
-     
+
+
    </text>
 </TEI>
