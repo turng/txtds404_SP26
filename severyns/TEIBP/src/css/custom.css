@@ -16,11 +16,9 @@ h2 {
 h3 {
     color:black;
     font-family: Garamond;
-    text-align: justify;
-    text-justify: auto;
+    text-align: center;
 }
 
 div {
-    text-align: justify;
-    text-justify: auto;
+    text-align: center;
 }
