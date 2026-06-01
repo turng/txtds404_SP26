@@ -655,7 +655,7 @@ graph {
   /* Empty for now */
 }
 graphic {
-  display: none;
+  display: inline;
 }
 group {
   /* Empty Rule Set */
