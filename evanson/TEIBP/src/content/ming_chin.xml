@@ -401,6 +401,26 @@
          <div type="notes">
             <head>Notes</head>
             <list>
+               <item xml:id="note_wash_school">
+                  <label>1.</label> George Washington School, referred to in this collection as
+                  Washington School, was a public junior high school in Seattle’s Central District
+                  where Ella Evanson taught seventh and eighth grade from 1928 until her retirement
+                  in 1956. The school was known for its commitment to democratic ideals and racial
+                  tolerance, serving students from Japanese American, Chinese American, Jewish,
+                  African American, and white families. <ref target="#evanson_archive"> Evanson
+                     Archive.</ref>
+               </item>
+               
+               <item xml:id="note_eo9066">
+                  <label>2.</label> Executive Order 9066, signed by President Franklin D. Roosevelt
+                  on 19 February 1942, authorized the Secretary of War and designated military
+                  commanders to establish military areas from which “any or all persons” might be
+                  excluded. Although no specific group was named, it was enforced primarily against
+                  people of Japanese ancestry, resulting in the incarceration of approximately
+                  120,000 individuals, the majority of whom were American citizens. <ref
+                     target="#archives_eo9066"> National Archives.</ref>
+               </item>
+               
                <item xml:id="note_panda">
                   <label>3.</label> The Baby Giant Panda Fund reflects the popular fascination with
                   giant pandas in the United States in the late 1930s and early 1940s, when live
@@ -500,25 +520,6 @@
                   their mention connects the children’s panda project to wartime aviation and the
                   Sino-American alliance. </item>
 
-               <item xml:id="note_eo9066">
-                  <label>2.</label> Executive Order 9066, signed by President Franklin D. Roosevelt
-                  on 19 February 1942, authorized the Secretary of War and designated military
-                  commanders to establish military areas from which “any or all persons” might be
-                  excluded. Although no specific group was named, it was enforced primarily against
-                  people of Japanese ancestry, resulting in the incarceration of approximately
-                  120,000 individuals, the majority of whom were American citizens. <ref
-                     target="#archives_eo9066"> National Archives.</ref>
-               </item>
-
-               <item xml:id="note_wash_school">
-                  <label>1.</label> George Washington School, referred to in this collection as
-                  Washington School, was a public junior high school in Seattle’s Central District
-                  where Ella Evanson taught seventh and eighth grade from 1928 until her retirement
-                  in 1956. The school was known for its commitment to democratic ideals and racial
-                  tolerance, serving students from Japanese American, Chinese American, Jewish,
-                  African American, and white families. <ref target="#evanson_archive"> Evanson
-                     Archive.</ref>
-               </item>
             </list>
          </div>
 
