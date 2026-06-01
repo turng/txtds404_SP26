@@ -26,6 +26,14 @@ h3 {
     text-justify:auto
 }
 
+h4 {
+    color:black;
+    font-family: Garamod;
+    text-align:justify;
+    text-justify:auto
+    text-transform:uppercase;
+}
+
 div {
     text-align: justify;
     text-justify: auto;
