@@ -7,35 +7,13 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">STELAZINE Vol.2 No.1</title>
-            <author>Stella Kramer</author>
-            <respStmt>
-               <resp>Creation of a digital version</resp>
-               <name>Madison McLean, Karina McSwiney, Evanora Pearce, Pascal Diamond</name>
-            </respStmt>
+            <title>STELAZINE</title>
          </titleStmt>
-         
          <publicationStmt>
-            <publisher>
-               Published through TXTDS 404 — Spring 2025, at the University of Washington, Seattle
-            </publisher>
-            <date>2026-06-08</date>
-            <availability>
-               <p>Published with explicit permission from the author.</p>
-            </availability>
+            <p>-</p>
          </publicationStmt>
-         
          <sourceDesc>
-            <bibl>
-               <title>Stelazine vol. 2 no. 1</title>
-               <author>Stella Kramer</author>
-               <pubPlace> Seattle, WA </pubPlace>
-               <date when="1979"> 1979 </date>
-               <publisher> Warrant Productions </publisher>
-               <biblScope unit="volume"> 2 </biblScope> 
-               <biblScope unit="issue"> 1 </biblScope>
-               <idno type="callNumber"> ML3534.3.S74 </idno>
-            </bibl>
+            <p>-</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -96,7 +74,8 @@
          <div type="cover">
             <head xml:id="main">STELAZINE</head>
             <figure>
-               <graphic url="https://drive.google.com/thumbnail?id=1L7x4OCzbOSqc2k0rDvvlIWzIglRru4m6&amp;sz=w1000"/>
+               <graphic
+                  url="https://drive.google.com/thumbnail?id=1L7x4OCzbOSqc2k0rDvvlIWzIglRru4m6&amp;sz=w2000"/>
                <figDesc>The cover of this issue of STELAZINE</figDesc>
                <p>50!</p>
                <p>Vol.2</p>
@@ -111,7 +90,7 @@
          <div type="page">
             <head>STALKED</head>
             <figure>
-               <graphic url="https://drive.google.com/thumbnail?id=1QBFvN6qaI6H4QO-5sX1Q9CAM9DEKvc20&amp;sz=w1000"/>
+               <graphic url="-"/>
                <figDesc>STALKED title with human figures surrounding the letters</figDesc>
             </figure>
          </div>
@@ -140,7 +119,7 @@
 
          <div>
             <figure>
-               <graphic url="https://drive.google.com/thumbnail?id=1n6rKFhEoSZl05EBPd_t_ezdrg69GKeEF&amp;sz=w300"/>
+               <graphic url="-"/>
                <figDesc>image of foot prints between some parahraphs</figDesc>
             </figure>
          </div>
@@ -181,7 +160,7 @@
 
          <div>
             <figure>
-               <graphic url="https://drive.google.com/thumbnail?id=1o108aAjtIJ3LHF96hqkrZGA_3S9EWI64&amp;sz=w300"/>
+               <graphic url="-"/>
                <figDesc>image of foot prints between some paragraphs</figDesc>
             </figure>
          </div>
@@ -217,7 +196,7 @@
 
          <div>
             <figure>
-               <graphic url="https://drive.google.com/thumbnail?id="/>
+               <graphic url="-"/>
                <figDesc>image of foot prints between some paragraphs</figDesc>
             </figure>
          </div>
@@ -249,7 +228,7 @@
 
          <div>
             <figure>
-               <graphic url="https://drive.google.com/thumbnail?id="/>
+               <graphic url="-"/>
                <figDesc>image of foot prints between some parahraphs</figDesc>
             </figure>
          </div>
@@ -284,10 +263,10 @@
                   15-17</date>.... </p>
          </div>
 
-        
+
          <div>
             <figure>
-               <graphic url="https://drive.google.com/thumbnail?id="/>
+               <graphic url="-"/>
                <figDesc>image of John F. Kennedy</figDesc>
                <p>CUT ME OUT</p>
             </figure>
@@ -346,275 +325,320 @@
                <p>Photos: Damon Titus</p>
             </figure>
 
-             <head>CLASH</head>
-            
-            <figure><graphic url="X"/></figure>
+            <p> It took three days of massive telephoning. First to <ref type="note" target="#n1"
+                  >Epic Records</ref> in New York. Then to LA. Then to Vancouver. But I was
+               determined to see them and talk to them. I finally connected with road manager Johnny
+               Green in Vancouver, and after countless phone calls to their hotel, I found <ref
+                  type="note" target="#n1">Caroline Coon.</ref> It wasn’t until the day of the show
+               that things were arranged, but it was worth it. A lesson for all: Go directly to the
+               band. I was allowed backstage after the show and waited around talking. Finally I was
+               ushered into a small dressing room to talk to Paul. I entered, after stepping over
+                  <ref type="note" target="#n3">Joe, Mick, and Topper,</ref> who were being
+               interviewed by some asshole from the straight press. Paul was sitting on a
+               leopard-covered couch in the corner, all in black. Wearing sunglasses. He intimidated
+               me at first, as I sat on the floor next to him. But as the interview went on I
+               relaxed and so did he. Too bad we were cut off just as we started to relax. So read
+               on. This is a report about the Clash’s first gig in North America. All the way from
+               January to you. </p>
+            <p> S: What did you think of the show? PAUL: It’s alright. It’s okay. We weren’t too bad
+               for a first one, ‘cause usually we’re a bit rusty. We never played Canada or America
+               before, so it’s pretty new. S: How do you prepare for a show, because you play really
+               hard. You seem to expend all of your energy… PAUL: I dunno. Sometimes, it depends…
+               what we’ve been doing the last couple of days is swimming. We had a game of football
+               with the local kids ‘round here. S: I hear you’re good. PAUL: Yeah, we’re alright. We
+               don’t overdo it–like drugs. I don’t have enough time for that. Makes me sleepy,
+               anyway. So we don’t go in for all that. S: What are you thinking about when you are
+               on stage? The song you’re playing? PAUL: What the next chord is! (Laughter) S: Do you
+               notice the crowd alot? PAUL: Yeah, quite a lot. It’s pretty hard not to. S: Some
+               people get so involved with the music, that they don’t see the crowd… lights in their
+               eyes and all… PAUL: I dunno. I look at both. I gotta look down at what I’m playing
+               anyhow, ‘cause I might hit the wrong note. It’s good fun though. S: You looked like
+               you were having a really good time. PAUL: It’s alright. S: Do you improvise? PAUL:
+               Yeah, sometimes. Sometimes I have to ‘cause I can’t remember the rest… But seriously.
+               Sometimes I do, you know just to change it around a bit. S: Caroline said you don’t
+               get much airplay in England PAUL: Not much. We had a terrible time trying to get
+               airplay and all that. But everybody would buy our records, but there’d be no airplay.
+               But since our last album came out it’s increased sligh-tly. S: Do you tour alot in
+               England? PAUL: Quite alot, yeah. S: So that’s how people hear your music? PAUL: Yeah.
+               We’re sort of like tops in England. S: You must get interviewed alot. PAUL: Yeah,
+               quite alot. S: Do you like it? PAUL: I don’t mind. I quite enjoy it sometimes. I
+               think it’s alright. It sort of makes you re-examine your beliefs on things. All sorts
+               of things, you know. S: Caroline said you wanted opening bands to be female… PAUL:
+               Yeah S: Is that with all the US gigs? PAUL: I don’t know. Not all of them, don’t
+               think. But as many as possible. It’s good for a change. Usually people see just
+               blokes getting up on stage all the time. If there’s girls getting up it makes a
+               change, and it’s like… it’s pretty good ‘cause it encourages other girls to be in
+               groups, and there ain’t really enough girls in groups these days it seems. S: It’s
+               true. Are you going to get a chance to see the country? PAUL: We spent the last three
+               days here. Walked around and like checked the place out. S: Never been here before?
+               PAUL: No, never. And generally all the other shows we’ve got ‘round the country we’ll
+               have a couple of days off. Not actually off, ‘cause we’ll have interviews to do.
+               There’ll be an hour off here or there, so we’ll get out as much as possible and have
+               a look around. S: Is it hard keeping contact with your audience? PAUL: It’s not hard
+               at all. Just get out of your room and walk down the street, you know. That’s what I
+               do. That’s what we all do, even when we’re back in London. People come up to us and
+               talk to us. I quite enjoy that. It’s like having lots of friends. S: People aren’t
+               afraid to approach you? PAUL: I don’t know. Sometimes and sometimes not. It’s all
+               down to the actual person and how much they want to meet you, I suppose. S: Did you
+               organize the tour? Or how much was it organized by the record company? PAUL: They
+               sort of like… we decided where to play. Actually Caroline and an agency decided where
+               to play. We can say we don’t want to play there, or whatever, but we never say that
+               anyway… It’s the record company that at the moment puts up the money for us to tour;
+               to have <ref type="note" target="#n4"> Bo Diddley</ref> on the tour. S: They
+               determine how much the tickets cost? PAUL: To a certain extent..not too much. At the
+               moment, because it’s the first tour that we’ve done, I suppose. They-’re generally
+               smaller places we’re playing, and not too many people know about us, so the money we
+               have to charge on the door (‘cause we have to pay for the road crew, lights, the PA…)
+               on the next tour it will probably be more self-supporting, where with this tour CBS
+               is paying quite alot. S: Do you find it different than you expected working with a
+               record company? You’ve done two albums now, and as far as bands go, you’re in a more
+               comfortable position… PAUL: Well, not really. We have alot of fights with the record
+               company. There’s nothing you can do about it really, you just keep fighting. If you
+               sign to a small record company… If we signed to a small record company we probably
+               wouldn’t be here now, and probably half of the people in Britain and here and
+               wherever wouldn’t have heard our records… It’s a choice. We never wanted to be a
+               small or cult band. We wanted to be on top, you know? S: You’re new record has things
+               which stick out more than on the first album. PAUL: Yeah, I dunno. I think it’s got
+               it in the first album as well, except you can’t hear it too well., ‘cause of the way
+               it was recorded. Whereas now it sounds alot clearer. There’s more depth in the
+               record, so you can hear more in it. S: Are you still learning how to record? I assume
+               with the second album you went into a good studio… PAUL: Well, no. We went into a
+               studio that was as good as the first one we went into, except there are certain
+               things you can do with microphones, and the type of cabinet–amplifier you use. When
+               we recorded the first album we just had microphones up against each amplifier, and
+               played it, and that was it. Whereas on the second album we had microphones up against
+               the amps as well as two microphones at the end of the big room… so it’s got ambiance.
+               S: Do you like recording? PAUL: It’s alright. It’s not bad. It’s a bit boring
+               sometimes. S: Do you like touring? PAUL: Yeah, it’s pretty good fun, ‘cause you go to
+               alot of different places. S: Do you get tired of playing the same songs over and over
+               again? PAUL: No. They always seem to be a bit different. S: Do you rehearse alot?
+               PAUL: Generally quite alot. It depends if we need to. S: Even though you have alot of
+               fans, and your album is doing well, do you still have problems with rehearsal
+               studios? I mean alot of bands can’t find studios, and if they do people don’t want
+               them to play loud… PAUL: We did when we first started. But when we signed… joined up
+               with Bernie Rhodes, our old manager, he got a rehearsal studio together for us. It
+               was our own one so we could rehearse and be as loud as possible. Whereas lately we
+               got rid of him and we’ve had problems getting a hold of rehearsal halls. S: Do you
+               consider the band the same as it’s been all along? PAUL: Yeah. It’s just we can play
+               better now. S: That must be a good feeling. PAUL: Yeah, it’s pretty good. [Pause
+               while Topper gets a light for a cigarette] S: What kind of directions are you looking
+               to take with the band? I understand you want to come back and tour in June. PAUL:
+               Yeah, do a larger one. This is a small one really; just to see how it goes, I
+               suppose. S: Do you want to go to, say, Japan? PAUL: Yeah. We’d like to go everywhere…
+               As much as possible. We never really wanted to be stuck in London all the time. We
+               all wanted to play everywhere. S: How much chance do you think there is for your
+               music to get on the radio? In London the charts are so much different than they are
+               here. Here it’s real disappointing. PAUL: Someday it’s bound to. Probably when we
+               give up they’ll start playing it When we decide to do something else. S: What kind of
+               music do you listen to? PAUL: Umm… sort of anything really. But generally I listen to
+               old stuff like rockabilly and like Bo Diddley and Little Richard, and stuff like
+               that. I like that a lot. And reggae, you know. S: Did you find it hard to listen to
+               the ba-ss? PAUL: First I did. First six months it was really difficult. Then after
+               awhile I played along with records and it got easier and easier. S: You just learned
+               off of records? You didn’t take lessons? PAUL: No, not proper lessons. S: What made
+               you decide to play bass? PAUL: Umm….. ‘Cause it’s easier to learn. It’s the quickest
+               one you can learn. You can just strum a note and after awhile when you get better you
+               can start to do little tunes. S: What kind of bass do you play? PAUL: Fender. It’s
+               generally the most reliable. S: Are there alot of bands in England still forming;
+               alot of bands still popping up, or has it leveled out? PAUL: It’s sort of leveled out
+               a bit, but there are still new bands coming up here and there. S: Younger bands?
+               PAUL: Who? S: Younger bands? PAUL: I thought you said yoga bands….. (Laughter) S:
+               Younger. Like 15, 16…. PAUL: It sort of varies, you know. There’s that sort of
+               younger….really younger groups, and then sort of older groups. It’s sort of even out,
+               but there are still groups forming. S: Do you think it was easier for you..I don’t
+               know how much you know about what goes on in the US, but most bands, especially bands
+               on the east coast have trouble getting signed. It seemed that British bands had an
+               easier time getting signed after awhile. CONTINUED ON PAGE 4 </p>
+            <p>PAGE 3</p>
+         </div>
 
-                <div>
-                    <p>It took three days of massive telephoning. First to <ref type="note"
-                            target="Epic">Epic Records</ref> in New York. Then to LA. Then to
-                        Vancouver. But I was determined to see them and talk to them.</p>
-                <p>I finally connected with road manager Johnny Green in Vancouver, and after
-                    countless phone calls to their hotel, I found <ref type="note" target=
-                        "Caroline Coon">Caroline Coon</ref>. It wasn’t until the day of the show that things were arranged, but it was worth it. A lesson for all: Go directly to the band.</p>
-               <p> I was allowed backstage after the show and waited around talking. Finally I was ushered into a small dressing room to talk to Paul.</p>
-                <p>I entered, after stepping over <ref type="note" target="Clash">Joe, Mick, and Topper</ref> who were being interviewed by some asshole from the straight press.</p>
-               <p> Paul was sitting on a leopard-covered couch in the corner ,all in black. Wearing sunglasses. He intimidated me at first, as I sat on the floor next to him.</p>
-                <p>But as the interview went on I relaxed and so did he. Too bad we were cut off just as we started to relax. 
-                So read on. This is a report about the Clash’s first gig in North America. All the way from January to you.</p>
-                </div>
-                
-               <div>
-               <p>S: What did you think of the show?</p>
-               <p>PAUL: It’s alright. It’s okay. We weren’t too bad for a first one, ‘cause usually we’re a bit rusty. We never played Canada or America before, so it’s pretty new.</p>
-               <p>S: How do you prepare for a show, because you play really hard. You seem to expend all of your energy…</p>
-               <p>PAUL: I dunno. Sometimes, it depends… what we’ve been doing the last couple of days is swimming. We had a game of football with the local kids ‘round here.</p>
-               <p>S: I hear you’re good.</p>
-               <p>PAUL: Yeah, we’re alright. We don’t overdo it–like drugs. I don’t have enough time for that. Makes me sleepy, anyway. So we don’t go in for all that.</p>
-               <p>S: What are you thinking about when you are on stage? The song you’re playing?</p>
-               <p>PAUL: What the next chord is! (Laughter)</p>
-               <p>S: Do you notice the crowd alot?</p>
-               <p>PAUL: Yeah, quite alot. It’s pretty hard not to.</p>
-               <p>S: Some people get so involved with the music, that they don’t see the crowd... lights in their eyes and all...</p>
-               <p>PAUL: I dunno. I look at both. I gotta look down at what I’m playing anyhow, ‘cause I might hit the wrong note. It’s good fun though.</p>
-                <p>S: You looked like you were having a really good time.</p>
-                <p>PAUL: It’s alright.</p>
-                <p>S: Do you improvise?</p>
-                <p>PAUL: Yeah, sometimes. Sometimes I have to ‘cause I can’t remember the rest… But seriously. Sometimes I do, you know just to change it around a bit.</p>
-               <p>S: Caroline said you don’t get much airplay in England</p>
-                <p>PAUL: Not much. We had a terrible time trying to get airplay and all that. But everybody would buy our records, but there’d be no airplay. But since our last album came out it’s increased sligh-tly.</p>
-               <p>S: Do you tour alot in England?</p>
-                <p>PAUL: Quote alot, yeah.</p>
-                <p>S: So that’s how people hear your music?</p>
-                <p>PAUL: Yeah. We’re sort of like tops in England.</p>
-                <p>S: You must get interviewed alot.</p>
-                <p>PAUL: Yeah, quite alot.</p>
-                <p>S: Do you like it?</p>
-                <p>PAUL: I don’t mind. I quite enjoy it sometimes. I think it’s alright. It sort of makes you re-examine your beliefs on things. All sorts of things, you know.</p>
-                <p>S: Caroline said you wanted opening bands to be female...</p>
-                <p>PAUL:Yeah</p>
-                <p>S: Is that with all the US gigs?</p>
-                <p>PAUL: I don’t know. Not all of them, don’t think. But as many as possible. It’s good for a change. Usually people see just blokes getting up on stage all the time. If there’s girls getting up it makes a change, and it’s like… it’s pretty good ‘cause it encourages other girls to be in groups, and there ain’t really enough girls in groups these days it seems.</p>
-                <p>S: It’s true. Are you going to get a chance to see the country?</p>
-                <p>PAUL: We spent the last three days here, Walked around and like checked the place out.</p>
-                <p>S: Never been here before?</p>
-                <p>PAUL: No, never. And generally all the other shows we’ve got ‘round the country we’ll have a couple of days off. Not actually off, ‘cause we’ll have interviews to do. There’ll be an hour off here or there, so we’ll get out as much as possible and have a look around.</p>
-                <p>S: Is it hard keeping contact with your audience?</p>
-                <p>PAUL: It’s not hard at all. Just get out of your room and walk down the street, you know. That’s what I do. That’s what we all do, even when we’re back in London. People come up to us and talk to us. I quite enjoy that. It’s like having lots of friends.</p>
-                <p>S: People aren’t afraid to approach you?</p>
-                <p>PAUL: I don’t know. Sometimes and sometimes not. It’s all down to the actual person and how much they want to meet you, I suppose.</p>
-                <p>S: Did you organize the tour? Or how much was it organized by the record company?</p>
-                <p>PAUL: They sort of like… we decided where to play. Actually Caroline and an
-                    agency decided where to play. We can say we don’t want to play there, or
-                    whatever, but we never say that anyway… It’s the record company that at the
-                    mo-ment puts up the money for us to tour; so have <ref type="note" target="Bo">Bo Diddley</ref> on the tour.</p>
-                <p>S: They determine how much the tickets cost?</p>
-                <p>PAUL: To a certain extent..not too much. At the moment, because it’s the first tour that we’ve done, I suppose. They-’re generally smaller places we’re playing, and not too many people know about us, so the money we have to charge on the door (‘cause we have to pay for the road crew, lights, the PA…)- on the next tour it will probably be more self-supporting, where with this tour CBS is paying quite alot.</p>
-                <p>S: Do you find it different than you expected working with a record company? You’ve done two albums now, ad as far as bands fo, you’re in a more comfortable position...</p>
-                <p>PAUL: Well, not really. We have alot of fights with the record company. There’s nothing you can do about it really, you just keep fighting. If you sign to a small record company… If we signed to a small record company we probably wouldn’t be here now, and probably half of the people in Britain and here and wherever wouldn’t have heard our records… It’s a choice. We never wanted to be a small or cult band. We wanted to be on top, you know?</p>
-                <p>S: You’re new record has things which stick out more than on the first album.
-                PAUL: Yeah, I dunno. I think it’s cot it in the first album as well, except you can’t hear it too well, ‘cause of the way ti was recorded. Whereas now it sounds alot clearer. There’s more depth in the record, so you can hear more in it.</p>
-                <p>S: Are you still learning how to record? I assume with the second album you went into a good studio...</p>
-                <p>PAUL: Well, no. We went into a studio that was as good as the first one we went into, except there are certain things you can do with microphones, and the type of cabinet–amplifier you use. When we recorded the first album we just had microphones up against each amplifier, and played it, and that was it. Whereas on the second album we had microphones up against the amps as well as two microphones at the end of the big room… so it’s got ambiance.</p>
-                <p>S: Do you like recording?</p>
-                <p>PAUL: It’s alright. It’s not bad. It’s a bit boring sometimes.</p>
-                <p>S: Do you like touring?</p>
-                <p>PAUL: Yeah, it’s pretty good fun, ‘cause you go to alot of different places.</p>
-                <p>S: Do you get tired of playing the same songs over and over again?</p>
-                <p>PAUL: No. They always sem to be a bit different.</p>
-                <p>S: Do you rehearse alot?</p>
-                <p>PAUL: Generally quite alot. It depends if we need to.</p>
-                <p>S: Even though you have alot of fans, and your album is doing well, do you still
-                    have problems with rehearsal studios? I mean alot of bands can’t find studios, and if they do people don’t want them to play loud...</p>
-                <p>PAUL: We did when we first started. But when we signed… joined up with Bernie Rhodes, our old manager, he got a rehearsal studio together for us. It was our own one so we could rehearse and be as loud as possible. Whereas lately we got rid of him and we’ve had problems getting a hold of rehearsal halls.</p>
-                <p>S: Do you consider the band the same as it’s been all along?</p>
-                <p>PAUL: Yeah. It’s just we can play better now.</p>
-                <p>S: That must be a good feeling.</p>
-                <p>PAUL: Yeah, it’s pretty good.</p>
-                <p><hi rend="italic">[Pause while Topper gets a light for a cigarette]</hi></p>
-                <p>S: What kind of directions are you looking to take with the band? I understand you want to come back and tour in June.</p>
-                <p>PAUL: Yeah, do a larger one. This is a small one really; just to see how it goes, I suppose.</p>
-                <p>S: Do you want to go to, say, Japan?</p>
-                <p>PAUL: Yeah. We’d like to go everywhere… As much as possible. We never really wanted to be stuck in London all the time. We all wanted to play everywhere.</p>
-                <p>S: How much chance do you think there is for your music to get on the radio? In London the charts are so much different than they are here. Here it’s real disappointing.</p>
-                <p>PAUL: Someday it’s bound to. Probably when we give up they’ll start playing it  When we decide to do something else.</p>
-                <p>S: What kind of music do you listen to?</p>
-                <p>PAUL: Umm… sort of anything really. But generally I listen to old stuff like rockabilly and like Bo Diddley and Little Richard, and stuff like that. I like that a lot. And reggae, you know.</p>
-                <p>S: Did you find it hard to listen to the bass?</p>
-               <p> PAUL: First I did. First six months it was really difficult. Then after awhile I played along with records and it got easier and easier.</p>
-                <p>S: You just learned off of records? You didn’t take lessons?</p>
-                <p>PAUL: No, not proper lessons.</p>
-                <p>S: What made you decide to play bass?</p>
-                <p>PAUL: Umm..... ‘Cause it’s easier to learn. It’s the quickest one you can learn. You can just strum a note and after awhile when you get better you can start to do little tunes.</p>
-                <p>S: What kind of bass do you play?</p>
-                <p>PAUL: Fender. It’s generally the most reliable.</p>
-                <p>S: Are there alot of bands in England still forming; alot of bands still popping up, or has it leveled out?</p>
-                <p>PAUL: It’s sort of leveled out a but, but there are still new bands coming up here and there.</p>
-                <p>S: Younger bands?</p>
-                <p>PAUL: Who?</p>
-                <p>S: Younger bands?</p>
-                <p>PAUL: I thought you said yoga bands.....</p>
-                <p><hi rend="italic">(Laughter)</hi></p>
-                <p>S: Younger. Like 15, 16….</p>
-                <p>PAUL: It sort of varies, you know. There’s that sort of younger….really younger groups, and then sort of older groups. It’s sort of even out, but there are still groups forming.</p>
-                <p>S: Do you think it was easier for you..I don’t know how much you know about what goes on in the US, but most bands, especially bands on the east coast have trouble getting signed. It seemed that British bands had an easier time getting signed after awhile.</p>
-               </div>
-                
-                <div>
-                    <p><hi rend="bold">CONTINUED ON PAGE 4</hi></p>
-                </div>
-  
-            
+
          <pb n="4"/>
-            <div>
-               <head>MORE PAUL</head> 
-                
-         <figure>
+         <div>
+            <head>MORE PAUL</head>
+
+            <figure>
                <graphic url="-"/>
-               <figDesc></figDesc>
-            </figure>                
-              <p>PAUL: Yeah, I think the strange thing was, ‘cause like when we first started, no record company or anybody like that would come near us. But we weren’t going to go to them. They’d have to come to us. The same with journalists and things like that; the big music papers in England.</p>
-                <p>S: Do you find it hard to keep the band going?
-                PAUL: Keep the band going?</p>
-               <p>S: Is it easy to maintain?</p>
-               <p>PAUL: It’s quite easy. We sort of get on alright. Don’t have any problems.</p>
-                <p>S: You’re all friends?</p>
-                <p>PAUL: Yeah, pretty good friends.</p>
-                <p>S: Hang around together when you’re not playing?</p>
-                <p>PAUL: Sometimes we do. Not too much, ‘cause we’d get really bored of each other and start fighting.</p>
-                <p>S: How much time to you spend on the band?</p>
-                <p>PAUL: Generally all of me time. Most of me time.</p>
-                <p>S: Do you write any music?</p>
-                <p>PAUL: Not as yet, but I’m starting to. I-’ve been reading loads of books lately to get my English better.</p>
-                <p>S: Like what?</p>
-                <p>PAUL: George Orwell, Aldous Huxley... </p>
-                <p>S: Do you go to movies?</p>
-                <p>PAUL: Yeah, I go to pictures quite alot. Quite a few good films I’ve seen lately.
-                    I’ve seen crappy ones too, like superm-an. It’s the worst one I’ve ever seen..
-                    <hi rend="italic">(Laughs)</hi></p>
-                <p>S: Someone just told me it’s great.</p>
-                <p>PAUL: It’s stupid. It’s funny. I mean it’s good in the end. There are real cho-ppy bits and real funny bits. There’s a bit where he’s running along trying to beat the train and they lift him up about an inch off the ground and his legs are going like this (demonstrates racing legs), and they do it in fast motion. It’s really hilarious.</p>
-                <p>S: Did they take stuff away from you at the border?</p>
-                <p>PAUL: They never saw mine (bondage gear) They took their (the rest of the band’s) stuff, but they never saw mine.</p>
-                <p>S: You hid yours?</p>
-                <p>PAUL: Yeah. I was walking around the airport like this <hi rend="italic">(pulls his jacket over his face and skulks along)...(Laughter)</hi></p>
-                <p>S: They didn’t come up to you?</p>
-                <p>PAUL: Well, they searched through my stuff but they didn’t find it. I was too
-                    clever <hi rend="italic">(Laughter)</hi>.</p>
-                <p>S: So their stuff was confiscated?</p>
-                <p>PAUL: Yeah. We got it back though.</p>
-                <p>S: What did they think you were going to do with it? Did they really think they were deadly weapons?</p>
-                <p>PAUL: I dunno.... The police....</p>
-                <p>S: Do you get hassled by the police alot</p>
-                <p>PAUL: Generally in England we do.</p>
-                <p>S: Do you get arrested alot?</p>
-                <p>PAUL: Sometimes.</p>
-                
-                <p><hi rend="italic">(At this point road manager Johnny Green broke up the interviews. We all grab the last bits of food in the dressing room and leave).</hi></p>
-            </div>
+               <figDesc/>
+            </figure>
+            <p>PAUL: Yeah, I think the strange thing was, ‘cause like when we first started, no
+               record company or anybody like that would come near us. But we weren’t going to go to
+               them. They’d have to come to us. The same with journalists and things like that; the
+               big music papers in England.</p>
+            <p>S: Do you find it hard to keep the band going? PAUL: Keep the band going?</p>
+            <p>S: Is it easy to maintain?</p>
+            <p>PAUL: It’s quite easy. We sort of get on alright. Don’t have any problems.</p>
+            <p>S: You’re all friends?</p>
+            <p>PAUL: Yeah, pretty good friends.</p>
+            <p>S: Hang around together when you’re not playing?</p>
+            <p>PAUL: Sometimes we do. Not too much, ‘cause we’d get really bored of each other and
+               start fighting.</p>
+            <p>S: How much time to you spend on the band?</p>
+            <p>PAUL: Generally all of me time. Most of me time.</p>
+            <p>S: Do you write any music?</p>
+            <p>PAUL: Not as yet, but I’m starting to. I-’ve been reading loads of books lately to
+               get my English better.</p>
+            <p>S: Like what?</p>
+            <p>PAUL: George Orwell, Aldous Huxley... </p>
+            <p>S: Do you go to movies?</p>
+            <p>PAUL: Yeah, I go to pictures quite alot. Quite a few good films I’ve seen lately.
+               I’ve seen crappy ones too, like superm-an. It’s the worst one I’ve ever seen.. <hi rend="italic">(Laughs)</hi></p>
+            <p>S: Someone just told me it’s great.</p>
+            <p>PAUL: It’s stupid. It’s funny. I mean it’s good in the end. There are real cho-ppy
+               bits and real funny bits. There’s a bit where he’s running along trying to beat the
+               train and they lift him up about an inch off the ground and his legs are going like
+               this (demonstrates racing legs), and they do it in fast motion. It’s really
+               hilarious.</p>
+            <p>S: Did they take stuff away from you at the border?</p>
+            <p>PAUL: They never saw mine (bondage gear) They took their (the rest of the band’s)
+               stuff, but they never saw mine.</p>
+            <p>S: You hid yours?</p>
+            <p>PAUL: Yeah. I was walking around the airport like this <hi rend="italic">(pulls his
+                  jacket over his face and skulks along)...(Laughter)</hi></p>
+            <p>S: They didn’t come up to you?</p>
+            <p>PAUL: Well, they searched through my stuff but they didn’t find it. I was too clever
+                  <hi rend="italic">(Laughter)</hi>.</p>
+            <p>S: So their stuff was confiscated?</p>
+            <p>PAUL: Yeah. We got it back though.</p>
+            <p>S: What did they think you were going to do with it? Did they really think they were
+               deadly weapons?</p>
+            <p>PAUL: I dunno.... The police....</p>
+            <p>S: Do you get hassled by the police alot</p>
+            <p>PAUL: Generally in England we do.</p>
+            <p>S: Do you get arrested alot?</p>
+            <p>PAUL: Sometimes.</p>
 
-			  <div>
-                <head>IN NEW YORK</head>
-                
-                <p>I waited to see the Clash. Scalped tickets for $30. No money. Sub-zero weather.
-                    Waiting with Denise of the Stimulators, Waiting, waiting, waiting. Freezing. I
-                    watch Ivan Kral, Jay Dee and Lenny waltz on by, Oh, to be SOMEBODY.... Waiting with others who have no name. It is still early...</p>
-               <p> The Clash leave the hall—hustled away by Johnny Green. I can't get to them. Fans
-                   with no connection wait. The cold is killing us. I keep running into a nearly theater to get coffee for us and to defrost. There is snow falling now. The show has already started. I have never done this before. Am I crazy? The vigil includes a bonafide famous 
-                   </cb>
-                   Yippie, obvious to a fault. Also someone from the Revolutionary Worker's Party; he figures he has a Right to see them. He hawks papers. People bring gifts to leave for the band.</p>
-               <p> Two hours and forty-five minutes have passed. And, numbed with cold it is time to leave. Not mad at the Clash. It seemed this concert was out of their control. They were in the hands of a big New York promoter. When I saw the band being rushed out they looked dazed. Like aliens in a foreign country. Nowhere to turn. It was more human in Vancouver. No pressures. We could get close. But I waited, I want them to know I waited.</p>
-                
-                
-                <head>in VANCOUVER</head>
-                <p>This had to be the biggest thing to happen in too long a time. The Clash were playing near home, Vancouver to be exact. The first stop of their N. American tour. We came by the carloads.</p>
-                <p>The Commodore is a good place for a show. It's an old ballroom, with enough floor space for everyone to get involved. Even enough room for those who chose to be on the outside of this event.</p>
-                <p>The atmosphere was charged, waiting to explode. The Dishrags opened with a well-recieved set. They have the distinction of being one of the only three-piece and all-girl bands in these parts. They delivered a strong, unpretentious, confident performance. What a refreshing sight!</p>
-                <p>The Dishrags are not a "melodic" band. But they are powerful and a whole lot better than many others. A good choice for setting the pace of the night. </p>
-                <p>After their impressive set they were off. I wished they had played more. Especially instead of Bo Diddley. Perhaps I'm being disrespectful, but he bored me. The same old jams, held out until your mind numbs to the sound.
-                This was the time for the other half of the crowd to have their fun. For most it was a time to circulate and await the arrival of the Clash.</p>
-                <p>It seemed like forever until the stage was cleared and ready to go. Barriers were set up before the stage, and a mad pushing scene began. People were caught between the stage and the barricades; tension was mounting. Bouncers were abusive and manhandled a number of people just trying to get some air. I had jumped on stage to avoid the crush only to be knocked down by a snarling stage hand. But enough. The bomb was ticking....</p>
-                <p>Then came the band. The dance floor became a mass of bodies and arms, also trying to get close, to get the ultimate rush off the band.</p>
-                <p>They ran on stage; Topper in yellow, Mick and Paul in black and white, Joe in red. They looked almost well-dressed–no letters. Primary colors; blocks of color focusing eyes on the unit. The floor began to bounce under the pressure, as the band ripped into their first song. All the time I had been hoping to hear one particular song, and as if to win me permanently over to their side (how did they know?), they opened with "Complete Control". It was almost too much.</p>
-               <p> My first impressions were of Topper: commanding such attention with his power drumming. He looked so skinny I expected 
-               </cb>
-                   his drumming to reflect that. A wonderful contradiction. He never let up, pushing the beat relentlessly, Martial arts translated into an art you could hear. Like carpet bombing, the earth shakes from the impact.</p>
-                <p>Mick taking stances on his side of the stage. Then running from one end to the
-                other. He wouldn't stand still. The whole band forced your attention even beyond the
-                music with their actions....</p>
-               <p> Assaultive. Confrontive. Sweeping up the audience with their music and movements until you were almost on stage with them. There is no way to deny the comparisons with an army.</p>
-                <p>Mick's guitar is like a weapon; spraying the audience with bullets. Like the frontal attacker. There is also an unmistakeable quality of joy in his playing. Of course he's serious, but you can't help being affected by his happiness in playing. It is infectious. He smiles, dances with the beat, runs in place keeping the beat.</p>
-                <p>Paul is a ferocious bass player. he drives it, pushing it into your face. No relief. He stands on the edge of the stage--you get the feeling he wants to jump off. Not content with the boundaries set before him. He has a way of dancing with the music. Pumping his body and his bass in perfect time. Sensuous.</p>
-                <p>He seems as if he's painting. Playing the bass as if it's a brush against canvas of air. It's so electric, you can feel the pull. As if the bass would fly out into the crowd. I get the feeling his playing has considerably improved. He is one hell of a bassist.</p>
-                <p>While Paul's acrobatics might not be as pronounced as Mick's, he doesn't lay back. He is the supporting division. He fills in the holes of the attack. Tall and lean (skinny); a riveting intenseness. Mesmerizing. Playing off Mick. The floor is bending under the excitement.</p>
-                <p>Watching the Clash is like being subjected to a never-ending barrage of newsreels. The shouting, the indignation, the horror, the anger; Joe raves about it all. Contempt spitting from his body like an outraged person viewing the world before him. Sometimes his visions are sly, sometimes obscure-- always immediate. He leans forward, curling his body around the mike stand like a cobra poised to strike. Sometimes the bite is still unexpected.</p>
-                <p>His guitar is there--the constant buzz of electrical wires. Always there... sometimes even the guitar is his enemy as he pushes it aside--trying to get closer to what he sees. His voice battering your conscience.</p>
-                <p>The Clash are a phenomenon. And, they played everything. From "Safe European
-                    Home", and the rest of the new album to "White Man', "I Fought The Law", "Clash
-                    City Rockers", and songs from the first album: “Janie Jones, "Garageland",
-                    "Career Opportunities", "White Riot", "I’m So Bored With The USA". Sixteen songs
-                    and two encores.</p>
-                <p>We were even treated to Mick singing "Stay Free". Even a new song: "Garbage" 
-                “Written by our good friend Barry Manilow", said Joe..."I been studying the charts/I've been using my mind and imagination…”</p>
-                <p>By the end the sound had begun to disintegrate. The band had gone beyond what anyone expected. They had given us everything possible. All the excitement, all the music, all the power we had a right to expect. Make no mistake about it: The Clash delivered.</p>
-                <p>When it was over no one moved. We all knew it had to end. But I didn't feel a lack. I felt as though I had eaten a 12 course dinner. The tastes, the sights, the sensuousness remained.</p>
-                <p>The Clash are a vision.</p>
-                
-            </div>
+            <p><hi rend="italic">(At this point road manager Johnny Green broke up the interviews.
+                  We all grab the last bits of food in the dressing room and leave).</hi></p>
+         </div>
 
-         
-         
+
+
          <pb n="5"/>
          <div type="page">
-		  <figure>
-		     <graphic url="X"/>
-		  </figure>
-          
-                <p>POLY STYRENE X-RAY-SPEX
-                CHATS w/Neva Chonin</p>                
-               
-                 <p>Over the past year, X-Ray Spex have grown from a band with a larger than average cult following into one of the brightest hopes on the current rock scene. Their rise to the top, which began in 1977 with their appearance on the legendary “Live at the Roxy” album, and is still peaking with the release of their own LP, “Germ Free Adolescents”, comes as no surprise to those who have actually seen Spex in action and felt the sheer power of the group.</p>
-                
-                <p>Me, I can still remember the first time I saw the live… It was at the Marquee one cold night in the fall of ‘77. I was feeling extremely under the weather due to a slight case of frostbite and malnutrition, and was dead certain that nothing shore of a minor earthquake would be successful in dragging me out of my self-induced stupor.</p>
-                
-                <p>What I failed to realize was that seeing Poly Styrene on stage is synonymous with being caught in a minor earthquake (or a major one at that). Both experiences shake you up considerably. With her hair in braids and teeth in braces, not only did she get me up and dancing (no small feat in the steam-bath, sardine tin atmosphere of the Marquee) but gave my spirits a much needed boost as well. Nor was I alone in my enthusiasm, as the audience proved by madly pogoing in the limited space available. The evening climaxes with Sid Vicious momentarily abandoning Nancy to leap onstage for the final chorus of “Oh Bonadge, Up Yours”! Within seconds the rest of the kids followed suit and the club exploded into uncontrollable chaos. And you wonder why I love this band?</p>
-                
-                <p>A few months after that memorable show, I sat down with Poly in the kitchen of her
-                home in south London and listened as she traced back through the history of the
-                British scene, from the early days at the Roxy Club, where she and Johnny Rotten were
-                labeled “n****** lovers” for dancing to reggae music (wasn’t fashionable yet, y’see), through the so-called Summer of Hate when press inspired violence erupted between the punks and the Teddy Boys. Both Poly and I have had late nights with little sleep and so experience a bit of difficulty in coping with the interview situation; hence half the time is spent in giggles and nonsensical remarks. The comprehensible parts read thusly...</p>
-                
-                <figure><graphic url="X"/></figure>
-      
-                    <p>NEVA: What types of places did you play at the very beginning?</p>
-                    <outputRendition>POLY: Our first gig was at the Roxy in Covent Garden. That place was one of the reasons that we were able to get our act together, because it was the only place in London where you could be seen…When it opened up the basic principle was to give any band the opportunity to play and have people come down to see them. That’s why it was a great club. But different people took it over–the guy who originally made it what it was got kicked out and the owners started running it. It lost all the atmosphere and just got ‘orrible.</outputRendition>
-                    <p>NEVA: Hasn’t that happened to the whole movement, though? Now there’s grown-ups singing with record companies and suddenly going punk overnight.</p>
-                    <p>POLY: I suppose it has changed a bit, but then everything changes, doesn't it? I don’t like these bands that record companies put together, but you can suss ‘em out a mile away, anyway.</p>
-                    <p>NEVA: Are you interested in appealing to a wide variety of people?</p>
-                    <p>POLY: If you’ve got something to say you should want to say it to as many people as possible, you shouldn’t worry about who it is, you know. To me it’s music…I mean, “Punk” rock…..I guess it’s good ‘cause you need a word to identify yourself. But even within that I’m still me.</p>
-                    <p>NEVA: Alot of originality has disappeared, it seems. Everyone dresses alike.</p>
-                    <p>POLY: Yeah, we’re trying to break away from all that. I never do what anybody else does, I always do what I want. But it’s inevitable that they’re going to do it up to appoint ‘cause they want to identify with something, you see. They’re desperately trying to identify themselves with something so they can think “Ah, that’s it–I’ve found my niche. If i put on this shirt or that, I’ll be accepted by punks. I’ll be a punk.”
-                    All they have to realize is that they can only be accepted by themselves. Self-confidence is the most important thing. To come out of yourself and just do what you like and don’t worry about being accepted by anyone. So up to a point you can slag them off, but up to another point you cannot, ‘cause you have to look at it from both sides of the coin. You can’t judge anybody from yourself—-you can’t just say, “Oh, they should be doing this and that and they should be doing what I’m doing.” ‘Cause if they was then they’d be copying you, you see. They don’t have to do that.. If they want to be posers, then that’s alright as long as they know they’re posing and say “Yeah, I’m a poser, so what? Big deal!” As long as they know they are. It’s only when they don’t know that they get into a state of confusion!
-                    People have to get into it at different levels. If they want to get totally involved that’s fine, and if they just want to get into it just for fun then that’s alright too. There’s more to it as well, apart from that, but they should just take what they want from it from their own personal point of view.</p>
-                    <p>NEVA: What was it like during the Punk Ted war in the summer of ‘77?</p>
-                   <p> POLY: I used to work in a stall in the Beaufort Market, selling punk clothes and that, and the Teds used to come down every Saturday and smash the windows. It got really violent down there, due to the papers. There was no hating each other till the papers wrote about it. As soon as they wrote about violence on Kings Road, there was violence on the Kings Road… And there was all these tourists from all over the world, Americans, Swedes, standing on the other side watching it and taking pictures. They would all come to the Kings Road every Saturday to watch Punks vs Teds. That was a big thing that summer.</p>
-                    <p>NEVA: What were the fights like?</p>
-                    <p>POLY: They weren’t really all that bad. Every Saturday at 2:00 a big gang of Teds would come up from Sloane Square and meet with a big gang of punks and sometimes somebody would get knifed.</p>
-                    <p>NEVA: Does it bother you being labeled as a “girl singer” rather than simply a singer, period?</p>
-                    <p>POLY: Well the thing is, I don’t think of myself as a boy or girl, I think of myself as a person, just an individual in my own right. I don’t compare myself with other girls, so it don’t make no difference to me if the press want to compare me with other girls, ‘cause I know it’s rubbish and it can’t affect me.</p>
-                    <p>NEVA: What do you do if someone in the audience is giving you a hard time?</p>
-                    <p>POLY: I dunno, it depends on the situation. One bloke, a rugby player type
-                        came onstage once and tried to pick me up and I just hit him over the head
-                        with the mikestand. He got off quick! He didn’t know what hit him ‘cause he thought I was going to scream or cry or something, but I just turned ‘round and went after him and chased him off stage!</p>
-                    <p>NEVA: Do you enjoy playing the states?</p>
-                    <p>POLY: Yeah, I’m interested in playing anywhere. A lot of people say, “Oh, Yanks–they got no culture.” But that’s bullshit. You got a culture of your own and just ‘cause it’s a new one… That’s like the Africans saying the Jamaicans ain’t got culture.</p>
-                    <p>NEVA: Ours is a very plastic culture.</p>
-                    <p>POLY: That don’t worry me. I think this plastic culture is quite a laugh, and I’m quite into it ‘cause it’s real, it’s happening now.</p>
-                    <p>NEVA: Which are your favorites from the New York bands?</p>
-                    <p>POLY: So far I haven’t really liked any of them, but maybe that’s because alot of them are older, and I only really like the young groups—’cause to me that’s what it should be about. So if there was young New York groups I’d probably like them, but they’re all quite old and they come from another period. I can’t really relate to it.</p>
-                    <p>NEVA: What kind of music do you like then?</p>
-			</div>
-         
+            <figure>
+               <graphic url="X"/>
+            </figure>
+
+            <p>POLY STYRENE X-RAY-SPEX CHATS w/Neva Chonin</p>
+
+            <p>Over the past year, X-Ray Spex have grown from a band with a larger than average cult
+               following into one of the brightest hopes on the current rock scene. Their rise to
+               the top, which began in 1977 with their appearance on the legendary “Live at the
+               Roxy” album, and is still peaking with the release of their own LP, “Germ Free
+               Adolescents”, comes as no surprise to those who have actually seen Spex in action and
+               felt the sheer power of the group.</p>
+
+            <p>Me, I can still remember the first time I saw the live… It was at the Marquee one
+               cold night in the fall of ‘77. I was feeling extremely under the weather due to a
+               slight case of frostbite and malnutrition, and was dead certain that nothing shore of
+               a minor earthquake would be successful in dragging me out of my self-induced
+               stupor.</p>
+
+            <p>What I failed to realize was that seeing Poly Styrene on stage is synonymous with
+               being caught in a minor earthquake (or a major one at that). Both experiences shake
+               you up considerably. With her hair in braids and teeth in braces, not only did she
+               get me up and dancing (no small feat in the steam-bath, sardine tin atmosphere of the
+               Marquee) but gave my spirits a much needed boost as well. Nor was I alone in my
+               enthusiasm, as the audience proved by madly pogoing in the limited space available.
+               The evening climaxes with Sid Vicious momentarily abandoning Nancy to leap onstage
+               for the final chorus of “Oh Bonadge, Up Yours”! Within seconds the rest of the kids
+               followed suit and the club exploded into uncontrollable chaos. And you wonder why I
+               love this band?</p>
+
+            <p>A few months after that memorable show, I sat down with Poly in the kitchen of her
+               home in south London and listened as she traced back through the history of the
+               British scene, from the early days at the Roxy Club, where she and Johnny Rotten were
+               labeled “n****** lovers” for dancing to reggae music (wasn’t fashionable yet, y’see),
+               through the so-called Summer of Hate when press inspired violence erupted between the
+               punks and the Teddy Boys. Both Poly and I have had late nights with little sleep and
+               so experience a bit of difficulty in coping with the interview situation; hence half
+               the time is spent in giggles and nonsensical remarks. The comprehensible parts read
+               thusly...</p>
+
+            <figure>
+               <graphic url="X"/>
+            </figure>
+
+            <p>NEVA: What types of places did you play at the very beginning?</p>
+            <outputRendition>POLY: Our first gig was at the Roxy in Covent Garden. That place was
+               one of the reasons that we were able to get our act together, because it was the only
+               place in London where you could be seen…When it opened up the basic principle was to
+               give any band the opportunity to play and have people come down to see them. That’s
+               why it was a great club. But different people took it over–the guy who originally
+               made it what it was got kicked out and the owners started running it. It lost all the
+               atmosphere and just got ‘orrible.</outputRendition>
+            <p>NEVA: Hasn’t that happened to the whole movement, though? Now there’s grown-ups
+               singing with record companies and suddenly going punk overnight.</p>
+            <p>POLY: I suppose it has changed a bit, but then everything changes, doesn't it? I
+               don’t like these bands that record companies put together, but you can suss ‘em out a
+               mile away, anyway.</p>
+            <p>NEVA: Are you interested in appealing to a wide variety of people?</p>
+            <p>POLY: If you’ve got something to say you should want to say it to as many people as
+               possible, you shouldn’t worry about who it is, you know. To me it’s music…I mean,
+               “Punk” rock…..I guess it’s good ‘cause you need a word to identify yourself. But even
+               within that I’m still me.</p>
+            <p>NEVA: Alot of originality has disappeared, it seems. Everyone dresses alike.</p>
+            <p>POLY: Yeah, we’re trying to break away from all that. I never do what anybody else
+               does, I always do what I want. But it’s inevitable that they’re going to do it up to
+               appoint ‘cause they want to identify with something, you see. They’re desperately
+               trying to identify themselves with something so they can think “Ah, that’s it–I’ve
+               found my niche. If i put on this shirt or that, I’ll be accepted by punks. I’ll be a
+               punk.” All they have to realize is that they can only be accepted by themselves.
+               Self-confidence is the most important thing. To come out of yourself and just do what
+               you like and don’t worry about being accepted by anyone. So up to a point you can
+               slag them off, but up to another point you cannot, ‘cause you have to look at it from
+               both sides of the coin. You can’t judge anybody from yourself—-you can’t just say,
+               “Oh, they should be doing this and that and they should be doing what I’m doing.”
+               ‘Cause if they was then they’d be copying you, you see. They don’t have to do that..
+               If they want to be posers, then that’s alright as long as they know they’re posing
+               and say “Yeah, I’m a poser, so what? Big deal!” As long as they know they are. It’s
+               only when they don’t know that they get into a state of confusion! People have to get
+               into it at different levels. If they want to get totally involved that’s fine, and if
+               they just want to get into it just for fun then that’s alright too. There’s more to
+               it as well, apart from that, but they should just take what they want from it from
+               their own personal point of view.</p>
+            <p>NEVA: What was it like during the Punk Ted war in the summer of ‘77?</p>
+            <p> POLY: I used to work in a stall in the Beaufort Market, selling punk clothes and
+               that, and the Teds used to come down every Saturday and smash the windows. It got
+               really violent down there, due to the papers. There was no hating each other till the
+               papers wrote about it. As soon as they wrote about violence on Kings Road, there was
+               violence on the Kings Road… And there was all these tourists from all over the world,
+               Americans, Swedes, standing on the other side watching it and taking pictures. They
+               would all come to the Kings Road every Saturday to watch Punks vs Teds. That was a
+               big thing that summer.</p>
+            <p>NEVA: What were the fights like?</p>
+            <p>POLY: They weren’t really all that bad. Every Saturday at 2:00 a big gang of Teds
+               would come up from Sloane Square and meet with a big gang of punks and sometimes
+               somebody would get knifed.</p>
+            <p>NEVA: Does it bother you being labeled as a “girl singer” rather than simply a
+               singer, period?</p>
+            <p>POLY: Well the thing is, I don’t think of myself as a boy or girl, I think of myself
+               as a person, just an individual in my own right. I don’t compare myself with other
+               girls, so it don’t make no difference to me if the press want to compare me with
+               other girls, ‘cause I know it’s rubbish and it can’t affect me.</p>
+            <p>NEVA: What do you do if someone in the audience is giving you a hard time?</p>
+            <p>POLY: I dunno, it depends on the situation. One bloke, a rugby player type came
+               onstage once and tried to pick me up and I just hit him over the head with the
+               mikestand. He got ogg quick! He didn’t know what hit him ‘cause he thought I was
+               going to scream or cry or something, but I just turned ‘round and went after him and
+               chased him off stage!</p>
+            <p>NEVA: Do you enjoy playing the states?</p>
+            <p>POLY: Yeah, I’m interested in playing anywhere. A lot of people say, “Oh, Yanks–they
+               got no culture.” But that’s bullshit. You got a culture of your own and just ‘cause
+               it’s a new one… That’s like the Africans saying the Jamaicans ain’t got culture.</p>
+            <p>NEVA: Ours is a very plastic culture.</p>
+            <p>POLY: That don’t worry me. I think this plastic culture is quite a laugh, and I’m
+               quite into it ‘cause it’s real, it’s happening now.</p>
+            <p>NEVA: Which are your favorites from the New York bands?</p>
+            <p>POLY: So far I haven’t really liked any of them, but maybe that’s because alot of
+               them are older, and I only really like the young groups—’cause to me that’s what it
+               should be about. So if there was young New York groups I’d probably like them, but
+               they’re all quite old and they come from another period. I can’t really relate to
+               it.</p>
+            <p>NEVA: What kind of music do you like then?</p>
+         </div>
+
 
          <pb n="6"/>
          <div type="poem">
@@ -721,7 +745,7 @@
                <p> page 6 </p>
             </div>
          </div>
-         
+
 
          <pb n="7"/>
          <div type="page">
@@ -801,16 +825,16 @@
             <p>L:Yeah, we shoud have.....</p>
             <p>JD:Boyfriends who buy drum sets!</p>
             <p>S:DO you have your own kit?</p>
-            <p>L:Sort of. I'm losing it rapidly. I bought a couple of drums from the Mumps
-               drummer. Used drums 'cause I had no money. I bought a snare and two toms and a bass
-               drum--all for $200... Then we got into a fight and he took them back. I's all
-               ridiculous. But usually I just borrow. A lot of people are very generous in lending me
-               their stuff. If you're careful and responsible.</p>
+            <p>L:Sort of. I'm losing it rapidly. I bought a couple of drums from the Mumps drummer.
+               Used drums 'cause I had no money. I bought a snare and two toms and a bass drum--all
+               for $200... Then we got into a fight and he took them back. I's all ridiculous. But
+               usually I just borrow. A lot of people are very generous in lending me their stuff.
+               If you're careful and responsible.</p>
             <p>S:What made you decide to learn drums.</p>
             <p>L:The great question...Once I said to a friend I have Three reasons. One, I like to
-               sweat. Two, Blondies drummer Clen who is an amazing drummer. I really look up to
-               him. I'd just like to play like that. I had another reason- it's an obscure reason,
-               but whenever I was listening to a song I would speciffically listen to the beat. Of
+               sweat. Two, Blondies drummer Clen who is an amazing drummer. I really look up to him.
+               I'd just like to play like that. I had another reason- it's an obscure reason, but
+               whenever I was listening to a song I would speciffically listen to the beat. Of
                course its the beat that captures you. But it came consious to me... Not just
                listening to the beat and dancing, but I was ignoring the guitars and keyboards and
                voices and stuff. It became extremely consious to me, and I went zing! I just feel
@@ -821,11 +845,10 @@
             <p>S:You're also really strong in directing the music, which is something not many
                drummers do.</p>
             <p>L:Oh thank you. (Self-consious, nervous laughter). I don't even know if I'm consious
-               of that. I don't know. I get real nervous, 'cause I know that whenever we do badly
-               in a song I know that I've done badly. I just automatically assume it's me all the
-               way. If the whole song falls apart I know its been me. I can just feel it. But I
-               don't go out there and say... <cb/> "I'm gonna direct this song!" I guess it just
-               happens.</p>
+               of that. I don't know. I get real nervous, 'cause I know that whenever we do badly in
+               a song I know that I've done badly. I just automatically assume it's me all the way.
+               If the whole song falls apart I know its been me. I can just feel it. But I don't go
+               out there and say... <cb/> "I'm gonna direct this song!" I guess it just happens.</p>
             <p>S:It's spontaneous...What's going on with the record?</p>
             <p>L:Well, good question. As far as the record's concered, it's been sold. To Red Star
                Records who have expressed extreme intrest in us, but haven't moved their asses. So
@@ -865,11 +888,11 @@
                written from a personal experience becuase I go to a Quaker school and I was kicked
                out.</p>
             <p>S:Why?</p>
-            <p>L:Because I was living alone last year without my parents and they didn't like it.
-               I was living with my bass player, and The Blessed, and half of New York rock was in
-               my apartment. So it was a crazy lifestyle.</p>
-            <p>S:Talk about your drumming..your style...things like that. What kind of a kit do
-               you want?</p>
+            <p>L:Because I was living alone last year without my parents and they didn't like it. I
+               was living with my bass player, and The Blessed, and half of New York rock was in my
+               apartment. So it was a crazy lifestyle.</p>
+            <p>S:Talk about your drumming..your style...things like that. What kind of a kit do you
+               want?</p>
             <p>L:It's very hard. Maybe a Premier. Maybe a good Pearl set. I dream about having a
                great drum set Premier would probably be what I'd get. They're very sturdy. One of my
                problems with player is that my right arm--I play alot of tight beats and it hurts
@@ -881,15 +904,14 @@
             <p>S:Do you do any kind of exercises?</p>
             <p>L:Yeah. Just before I play I take the two metal practice sticks and I shake them,
                keeping the arm straight, as fast as I can. My tendon gets really sore, but loose.
-               It's also a matter of playing correctly. I can slip into not playing correctly and
-               it can hurt and I start using my arm. One ting I do is keep tha wrist really loose
-               and keep playing with the wrist. That's the only physical problem I have with
-               playing. I have aninsecurity about drumming. People say, "You're really good, one of
-               the best female drummers I've seen. But I'm not happy with myself yet. I get very
-               insecure about my stle. I have a very simple and straightforward style at the
-               moment, because I am not sure how to do other things. I don't wanna get crazy and do
-               ten million rolls like those rock and roll drummers do. That's a waste. It's just
-               boring.</p>
+               It's also a matter of playing correctly. I can slip into not playing correctly and it
+               can hurt and I start using my arm. One ting I do is keep tha wrist really loose and
+               keep playing with the wrist. That's the only physical problem I have with playing. I
+               have aninsecurity about drumming. People say, "You're really good, one of the best
+               female drummers I've seen. But I'm not happy with myself yet. I get very insecure
+               about my stle. I have a very simple and straightforward style at the moment, because
+               I am not sure how to do other things. I don't wanna get crazy and do ten million
+               rolls like those rock and roll drummers do. That's a waste. It's just boring.</p>
             <p>S:Whose drumming do you like?</p>
             <p>L:Well, <name type="musician">Clem Burke</name> is my idol. I also like <name
                   type="musician">Chris Frantz</name> (T. Heads-Ed.). Right now I'm following his
@@ -911,7 +933,7 @@
             <p>PAGE 7</p>
          </div>
 
-         
+
          <pb n="8"/>
          <div type="page">
             <head>I.O.G.T HALL MARCH 31ST</head>
@@ -923,9 +945,9 @@
                <p>page 8</p>
             </figure>
          </div>
-         
-         
-         
+
+
+
          <pb n="9"/>
          <div type='page'>
             <p> NEW YORK CONTINUES </p>
@@ -933,21 +955,21 @@
                ass-kissing the NY music industry. The surprises are WPIX and WLIB, two stations with
                a radical difference. PIX carries weekly live recordings of CBGB happenings. Good
                D.J. 's add to that.</p>
-            
+
             <p>But the best station to listen to has to be WLIB, filling the airwaves with Caribbean
                music. Reggae and beyond. A place to learn about music that too often ignored
                elsewhere. Forget <name type="artist">Peter Tosh</name>. This is it!</p>
-            
+
             <p>Some stations have <name type="artist">Bee Gee boycotts</name>, the flame of
                resistance in a dismal fog of high voices.</p>
-            
+
             <p>Remember this: <name type="location">New York</name> is always there Every hour at
                all times with all you can imagine and then some.</p>
-            
+
             <p>On one hand chilling, on the other enlightening. A city full of possibilities. A city
                of which I never tire. If you haven't: Go There. Stumble in the corners and find the
                importance.</p>
-            
+
             <p>I remember tall buildings and huge signs and a city bursting at the seams—-exploding
                with the immense. And, I remember color......</p>
             <figure>
@@ -955,67 +977,67 @@
                <figDesc>Graphics and drawings collaged in a comic book style with accompanying
                   Japanese characters</figDesc>
             </figure>
-            
+
             <p>MIKI ZONE ZOO/the dots COME ON</p>
-            
+
             <p>Tonight it’s <name type="location">Max's</name>. A chance to see local luminaries.
                They come to see the headliner….</p>
-            
+
             <p>But first <name type="artist">The Dots</name>. A four-piece young band. <name
                   type="artist">Alison East</name> is one of the best new guitarists I have seen..
                She can rock! What a personality! Eyes and mouth wide open; she dances and jerks her
                hands Spikey hair... like the caucasians in Japanese comics. She is frozen in
                mid-second as if always surprised.</p>
-            
+
             <p>A great racing guitar sound. Sharp and clean. Good bass</p>
-            
+
             <p>The band's a bit too rock and roll I wish they were more original. Their songs are
                delivered well, with crispness. Lots of hooks. <name type="song">"Let Me Take You Out
                   To Lunch”</name> stands out. But, they have too many love songs. Nothing new–the
                male influence?</p>
-            
+
             <p>The singer is not dangerous looking more like deranged. A mad scientist?? He looks
                and moves furtively. Too much heavy metal music involved…But <name type="artist"
                   >Alison</name> is so fresh!</p>
-            
+
             <p>Now for the crowd pleasers…..<name type="artist">Miki Zone Zoo</name> (formerly <name
                   type="artist">the Fast</name>). They look like an LA Band. Well dressed.. good
                moves…Flash….</p>
-            
+
             <p>A crisp sound with a look to match. Black and white. Stripes and solids. Taking up
                the stage like a set sculpture. Even the negative spaces are filled.</p>
-            
+
             <p><name type="artist">MZZ</name> is a band which operates on hyper kinetic energy.
                Everything is fast. Why wait when we’ll all be gone in a minute? A unit, yet strong
                individuals pierce through.</p>
             <p>The wildest of all is the infamous <name type="artist">Miki Zone</name>, guitarist
                extraordinaire.. With the drummer bashing away at rhythm, the bass player peering out
                from under long dark bangs, and the singer hopping around like he’s barefoot on</p>
-            
+
             <cb/>
-            
+
             <p>coals, <name type="artist">Miki</name> creates the ultimate movement and grips his
                side of the stage with a wall of force.</p>
-            
+
             <p>A wild player and a visual delight. <name type="artist">Miki grimaces</name>, pouts,
                pounds his head, jumps, hops, spins and camps–all the while playing inspirational
                guitar. A riveting performer. So slim and dark with clothes almost too big for him: a
                baggy pin-striped suit with a spider on the lapel.</p>
-            
+
             <p>The singer is wild; <name>Ricky Ricardo</name> with a dash of Valentino. This band’s
                so obviously having fun!</p>
-            
+
             <p>The hottest number is <name type="song">“The Kids Just Wanna Dance”</name>, better
                than any shit disco number to get you on your feet. I mean it isn’t just a great
                song, it’s a tour-de-force for <name type="artist">Miki</name>. He takes off his
                guitar in the middle, hops nonchalantly onto the speaker cabinet, and starts sticking
                pencils! Yes pencils, into his ears, nose, and mouth.</p>
-            
+
             <p>He takes the pencils one by one and begins to scribble on the guitar strings, as if
                he’s taking notes. But he is not just screwing around, he really plays! Bounding
                pencils off the strings, hitting strings for a high staccato sound, playing
                backwards, upside down. He is manic! What fun he is to see!</p>
-            
+
             <p>This is definitely the most accomplished, the most fun, the most exciting band in New
                York!</p>
             <figure>
@@ -1023,50 +1045,50 @@
                <figDesc>Comic book style man with his hand up with accompanying Japanese
                   characters.</figDesc>
             </figure>
-            
+
             <cb/>
-            
+
             <p>Went to CBGB’s to catch this band. The club is full although the weather stinks. We
                wade through the crowd to find seats near the wall. You can’t get near the stage
                here. You gotta sit down. Is this real?</p>
-            
+
             <p><name type="artist">Come On</name> is a young, five-piece band. All are wearing white
                dress shirts, black pants and white sneakers. Succinct…They look like high school
                students for the most part, and probably are. Smart &amp; clean.</p>
-            
+
             <p>Their music is a bit reggae, a bit rock, a bit conceptual; experimenting with changes
                in rhythm and timing. </p>
             <p>The lead singer is a good-looking collegiate type kid with horn-rimmed glasses. He
                sings in a stilted, staccato voice as if he’s having a fit. Pumping his knees; a
                spastic march in time.</p>
-            
+
             <p>Their guitarist is forgettable. A good rhythm guitar. She reflects the deadpan look
                of the band. Strong drummer. Their music is <name type="artist">Devo-ish</name>,
-               <name type="artist">Talking Heads-influenced</name>. Yet originality and humor
+                  <name type="artist">Talking Heads-influenced</name>. Yet originality and humor
                shine through.</p>
-            
+
             <p>The singer is having artistic spasms.. His face turns red; he sings all the words he
                can with one breath. You sweat it out with him. His hands in fists, moving like a
                machine near his body. He pedals like a machine near his body. He pedals with his
                legs bent at the knees.</p>
-            
+
             <p>The lyrics form a hologram of American blandness. The lyrics are hilarious.
                Slice-of-life. The singer beats his chest. His hands contorted into fists. An
                autistic child?</p>
-            
+
             <p>Probably their funniest song is a slap at one of America’s institutions: Disneyland.
                Like a child wailing at the disappointment of reality:</p>
             <p><l>“I hate disneyland</l>
                <l>Mickey didn’t shake my hand</l>
                <l>Wasn’t friendly</l>
                <l>Wouldn’t talk….”</l></p>
-            
+
             <p>He delivers it as a tirade; an out-of-breath conversation. Like a victim of reality
                shock therapy. The best male vocalist I have seen in a while.</p>
-            
+
             <p>At the end he is like an exhausted child. All the tantrums gone. All the visions
                spent. A band to evoke images of Ladies Home Journal.</p>
-            
+
             <p>It’ll sell in the midwest……</p>
             <figure>
                <graphic url="-"/>
@@ -1076,56 +1098,56 @@
             </figure>
             <p>page 9</p>
          </div>
-         
-         
-         
+
+
+
          <pb n="10"/>
          <div type="page">
             <p> NEW YEAR'S PARTY 1979 …New Year’s Eve in <name type="location">Seattle</name> saw
                one of the most all around <hi rend="ul">amusing</hi> parties in years--local freaks
                packed the enemy’s practice studio to down Guyana punch + dance their hearts away to
                the <hi rend="ul">way out sounds</hi> of <name type="artist">the Radio’s</name>,
-               <name type="artist">The St. Bernard Quartet</name>, <name type="artist">The
+                  <name type="artist">The St. Bernard Quartet</name>, <name type="artist">The
                   Girls</name>, <name type="artist">The Enemy</name>, <name type="artist">The
-                     Fishsticks</name>, <name type="artist">The Mystery Horns</name>, not to mention an
+                  Fishsticks</name>, <name type="artist">The Mystery Horns</name>, not to mention an
                outstanding display of charisma by <name type="artist">George “Johnny Ray”
                   Gleason</name> + The Boppin’ Sounds of <name type="artist">Rick “Buddy Holly”
-                     Smith</name>…Lots more bands but we can't remember ‘em all (<name type="artist"
+                  Smith</name>…Lots more bands but we can't remember ‘em all (<name type="artist"
                         >Cheaters</name>? <name type="artist">Electric Tramps</name>?) ...Tons of
                fun…stupid hats, champagne, noisemakers + <hi rend="ul">Everything</hi>! <hi
                   rend="ul">Wow</hi>! (A nite to remember fo’ sho’!!)</p>
-            
+
             <p>! -> <hi rend="ul">Photos L to R from top:</hi></p>
-            
+
             <p><name>Rick Smith</name> + <name>Nina</name></p>
-            
+
             <p><name type="artist">Mystery Horns Homer</name>, <name type="artist">Roland</name>, +
-               <name type="artist">Edward Cardboard</name></p>
-            
+                  <name type="artist">Edward Cardboard</name></p>
+
             <p><name type="artist">Mass Hysteria</name></p>
-            
+
             <p><name type="artist">Fishsticks</name> (World Premiere!)</p>
-            
+
             <p><name>Tammy Smith</name></p>
-            
+
             <p><name type="artist">The Enemy</name>
                <name>(Suzy + George)</name></p>
-            
+
             <p><name type="artist">Gregor Gayden</name> (<name type="artist">St. Bernard
-                  Qt.</name>)</p>
-            
+               Qt.</name>)</p>
+
             <p><name>George</name>… “If your Heartaches..!”</p>
-            
+
             <p><name>Bob Kondraic</name> w/Cambea</p>
-            
+
             <p>More <name type="artist">Hysteria</name> (Yahoo! Yreka!)</p>
-            
+
             <p><name>Damon (?) Titus</name></p>
-            
+
             <p><name>Don Harper</name>, Er. So on––<hi rend="ul">Deeyow</hi>!!</p>
-            
+
             <p>(Sorry if we forgot ya!)</p>
-            
+
             <p><hi rend="ul">Photos</hi>: Randy Hall</p>
             <figure>
                <graphic url="a"/>
@@ -1137,9 +1159,9 @@
             </figure>
             <p>page 10</p>
          </div>
-        
-         
-         
+
+
+
          <pb n="11"/>
          <div type="page">
             <figure>
@@ -1153,13 +1175,13 @@
             </figure>
             <p>page 11</p>
          </div>
-         
-         
-         
+
+
+
          <pb n="12"/>
          <div type="page">
             <head>XTE</head>
-            
+
             <figure>
                <graphic url="-"/>
                <p>XTE</p>
@@ -1407,7 +1429,7 @@
                   </div>
                </div>
             </div>
-         </div> 
+         </div>
 
 
          <pb n="13"/>
@@ -1420,73 +1442,16 @@
                <p><name type="band">THE RADIOS</name></p>
             </figure>
          </div>
-         
-         
+
+
          <pb n="14"/>
          <div type="page">
-            <p><h1>CLEM BURKE</h1>
-                <h2>TALKS TO Neil Hubbard</h2>
-              
-                <p>This interview (of sorts) was done after Blondie’s last appearance here. The
-                inevitable party took place in Jeri and Paul’s swank Ave. apartment.. Throughout the
-                interview guitars are being bashed in the background, noses are being blown, and a
-                lotta beer gets guzzled. So, 2, 3, 4......</p>
-                
-                <p>CLEM: It’s good seein’ you guys again–like you, and Jerri....</p>
-                <p>NEIL: Truthfully, I was kinda surprised you remembered.. Like me and ya know, all
-                the other people...</p>
-                <p>CLEM: Naahhh. I remember you guys.</p>
-                <p>NEIL: Well, I thought since then you've been all these different places....</p>
-                <p>CLEM: But we were never back here since then. No I remembered you guys were really nice to us. That was only about a year and half ago, but we should have played here at least two or three times since then.</p>
-                <p>NEIL: What did you do instead? Go to Europe?</p>
-                <p>CLEM: Well, after the Iggy tour we spend almost all our time in Europe. We did three weeks with the Kinks in the south. That was great.. Everyday going to see Ray Davies. Everyday you got to see the Kinks and talk to ‘em.</p>
-                <p>NEIL: It’s better than touring with Iggy, huh?</p>
-                <p>CLEM: I don’t know. Less attitude, I guess… A different sort of attitude. All the English rock stars like that kind of have this attitude like they accept us. Truthfully, in England, we’re like T.Rex or the first stage of the Beatles, or the Kinks, or Herman's Hermits. <!> who?? </!> Everybody in England reads the music papers and see what’s on Top of the Pops. They regard us as like this young band that has hit records that’s going through all this shit that they went through. When we met them it was almost like a big brother trip.</p>
-                <p>NEIL: They were nice to you?</p>
-                <p>CLEM: They’re real nice, ‘cause on their level, on and English level, we’ve made it. In ‘64 and ‘65 there was a year or eighteen months where every single of those guys (Kinks) put out went in the Top 10. We had four Top 5 singles–Number One–in England.</p>
-                <p>NEIL: Which was number one?</p>
-                <p>CLEM: “Denis”. That was the biggest seller—600,000</p>
-                <p>NEIL: Aren’t the royalty rates higher there?</p>
-                <p>CLEM: No. Our royalty rate is half because we’re signed to an American company. The hippest thing is what Devo did. Deco signed to two record companies. They’re signed to Warners in American and to Virgin in Europe. So when they go to Europe, they only have to deal with Virgin, and when they’re in America they only have to deal with Warners. It’s two separate entities, and it involves making one album and getting advances.</p>
-               <p> Being signed directly means being signed like an English band—-where your royalty rate isn’t chopped. If you sign to an American company that has a liscence or subsidiary company overseas, the royalty rate is cut in half That sort of fucks you up financially.</p>
-               <p> But Devo pulled off the best deal of all times. Business-wise they pulled it off! They told Warners they’d sign here for world-wide distribution. They gave Warners their word on that. Meanwhile they go to England to do a tour, Virgin approaches them, and they sign to Virgin. Then they came back to America and told Warners: “Look, we’re already signed in Europe.” It’s really exceptional what they pulled off.</p>
-                <p>NEIL: Why do so many records come out in England that you have to get as imports here?</p>
-                <p>CLEM: That’s in the record companies in America. People like Paul Weller are really pessimistic about ever having any great deal of success in America. They feel that they’re just an English entity. They get alot of that kind of shit from the record companies over here. They signed world-wide, but they signed by the way of England.
-                The label here has the option of putting their record out or not....If they don’t feel like putting it out, they don’t have to put it out. (As in the case of C.B.S. and the CLASH–ED.) </p>
-                <p>NEIL: And even if they do release it here it’s with minimal push of promo.</p>
-                <p>CLEM: I’m doing this thing that’s very premature and it could happen in a year or so, it’s hard to say. ‘Cause it’s like if our next album dosen’t do really good in America, the record company might drop us.</p>
-                <p>NEIL: But isn’t it largely their fault in the long run?</p>
-                <p>CLEM: No. Record companies can only do so much.....</p>
-                <p>NEIL: So can a band.....</p>
-                <p>CLEM: This idea will flip you out. It’s sort of confidential, but it dosen’t matter. I always have like this weird goal…Like: wouldn’t that be nice? I have been trying to put this band together, in a year or two years… like with Paul Weller from the Jam. Me and him are friends. And Eric Faulkner and Glen Matlock and me. As an ex-journalist, what would you say if you heard there was a band with me, Faulkner, Matlock, and Weller?</p>
-                <p>NEIL: It’d be incredible! Like some superstar reunion!</p>
-                <p>CLEM: It would escalate things. Not so say anybody’s…. Eric Faulkner is legitimate. But everyone else is sort of foundering, or cult or whatever. I saw Glen when he was playing with Sid Vicious. It was them and Rat Scabies and Steve Newell from the Rich Kids.. Glen writes good songs, and he’s a really, really good bass player.</p>
-                <p>NEIL: He’s a lot better than Sid was.</p>
-                <p>CLEM: Sid Vicious isn’t a bass player. But you should have seen this gig. Kinda like the thing I’m talking about. Hype-wise it would be incredible.</p>
-                
-                The talk turned to Johnny Thingers, his album SO ALONE, his junk habit… Elvis Costello, Springsteen, and thoughts about playing (CLEM: “If you’re not going to do it all the way, you might as well not bother.”)
-                As someone screams, “What are all these people doing in my bedroom…!” the tape fades
-                off and out.........
-            </div>
-                <div>
-                <h1>CHINAS COMIDAS</h1>
-                
-                <p>Chinas Comidas’ new single on Exquisite Corpse records is “All American desperation.” They lyrics are great, but unfortunately in both “Snake in the Sun” and “Disease” they slide of the vinyl like embalming fluid.</p>
-                <p>The other side, “Lover/Lover” and “Peasant/Slave” are much more up-beat, and
-                    aren’t bad songs. When played on 45 rpms instead of 33 1/3 as the label suggests, they create a kind of anxiety. You know, like being caught in rush hour traffic, or waiting in line at the super market, when you got to be somewhere else. </p>
-                <p>Chinas definitely has a way with words. As in “The Alternate Vision of Snake in the Sun”, where she sings”</p>
-                <p>
-                <l>“There I am</l>
-                <l>With my cold feet on the floor</l>
-                <l>Holding on to the telephone</l>
-                <l>Realizing it will be tuned to cold cash in two weeks</l>
-                <l>So he can’t speak...”</l></p>
-                <p>Without the funeral march back-up this poetry could be good music. As it is, you have to keep reminding yourself that doomsday wasn’t yesterday, and Rev. Jim Jones dosen’t rule the world.</p>
-            </div></p>
-            
+            <p>PUT PAGE 14 HERE
+               !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
+
          </div>
-            
-         
+
+
 
          <pb n="15"/>
          <div>
@@ -1588,8 +1553,8 @@
             </figure>
             <p>page 15</p>
          </div>
-         
-         
+
+
          <pb n="16"/>
          <div type="page">
             <div>
@@ -1597,14 +1562,14 @@
                   <p> XTC continues... </p>
                </div>
                <div>
-                  
+
                   <p>fancy at the moment. At the moment im playing the new Clash album, and it's
                      great. Lush guitar. And that tom-tom sound--like giant insects getting
                      sqashed.</p>
-                  
+
                   <p>(We talk about the cost of imports).</p>
                   <p>C: What chance do you have to sell albums at that price?</p>
-                  
+
                   <p>B:There's a big room in the Tate Gallery (in London), which has four big
                      paintings which must be 20 feet across. And each one of these paintings was in
                      maroon and black. It was just the black background with two big maroon strips.
@@ -1613,23 +1578,23 @@
                      you being entertained. That's the direction I'd like to go. You can do it. It's
                      being done --alot of successful rock and roll formulas are just doing that
                      anyhow... The idea of all the lights going</p>
-                  
+
                   <p>S: Basically you're talking about going beyond being musicians or going beyond
                      playing music to creating performances.</p>
-                  
+
                   <p>B: The total experience. Assault on the senses from every direction. Speakers
                      full of custard and everyone is given a spoon. (laughter)</p>
-                  
+
                   <p>But when all the lip {servide} to all these high ideals stops what really
                      matters is the way you run your business. You can be as much of an urban
                      guerrilla as you like on stage. When it really counts is what your ticket
                      prices are, and whether your manager controls it or not.</p>
                </div>
             </div>
-            
+
             <div>
                <div>
-                  
+
                   <p>MORE FROM</p>
                   <p>Laura Davis</p>
                </div>
@@ -1640,18 +1605,18 @@
                      influences me, and gives me more incentive to push harder. They did-- why can't
                      we? I'm pretty optimistic about us. I have alot of faith in the people I play
                      with, 'cause they're so good. </p>
-                  
+
                   <p>S: You say you see others and it inspires you?</p>
-                  
+
                   <p>L: But it also scares the living daylights out of me! They go through lawsuits,
                      and they have lawyers and accounts, meetings and offices. It's 1ike a
                      corporation. Very scary. The whole idea, the whole essence, the whole real
                      feeling of the music gets lost somewhere. They're running off to these big
                      meetings around these brown leather labels with lawyers and accountants....
                      executives from the record company. Where are the songs?</p>
-                  
+
                   <p>S: Do you think it's possible to avoid that?</p>
-                  
+
                   <p>L: No. Unless...It's possible to avoid it depending on where you want to go. If
                      you want to go where Blondie wants to go... They want to be rich, so they can't
                      avoid this sort of thing. But if you don't care how much money you get, and you
@@ -1659,87 +1624,87 @@
                      just want to make good music and play, then it's easy to avoid. You just say,
                      "Fuck you" to the meetings, and "Fuck you" to the lawyers and accountants. "I'm
                      writing a song today."</p>
-                  
+
                   <p>S: Where are you in there?</p>
-                  
+
                   <p>L: In between. I don't know ‘cause I haven't touched on it yet. With them, it
                      happened very quick. They didn't have time to think about being scared I've
                      seen what happened to them, and if it happens to me maybe I'll know how to deal
                      with it. I'm lucky to be able to see what's going on. It'll be easy when the
                      tine comes, I'll know from watching them what decisions to make.</p>
-                  
+
                   <p>We haven't really thought of making that our direction. Like we're gonna write
                      this song so we'll be rich. That's why Blondie wrote "Heart of Glass" They
                      wanted to make money.</p>
-                  
+
                   <p>S: Your songwriting isn't influenced by that?</p>
-                  
+
                   <p>L: Mainly because we can't write 1ike that, because we don't have the ability.
                      Even 1f we wanted to write a disco tune, I can’t play disco.</p>
-                  
+
                   <p>S: What about an AM song? Not necessarily disco.</p>
-                  
+
                   <p>L: There 1s a song, our newest: “Channel 13". I think if it's correctly
                      arranged it can definately be a hit. It would get alot of airplay.</p>
                </div>
             </div>
-            
+
             <div>
                <div>
-                  
+
                   <figure> </figure>
-                  
+
                   <p>JOHN LENNON: BEFORE AND AFTER</p>
                </div>
-               
+
                <div>
                   <p>Q. I understand that with his hair cut short, John Lennon has lost all his sex
                      appeal. Would you show how he looks as a Beatle and how he looks as a square?
                      Thank you. —Libby Harmon, Wheeling, W. Va.</p>
-                  
+
                   <p>A. Lennon without his Beatle haircut generates as much sex appeal as a
                      grape.</p>
                </div>
             </div>
-            
+
             <div>
                <figure/>
-               
+
                <p>CUT US OUT</p>
                <figure/>
             </div>
-            
+
             <div>
                <div>
-                  
+
                   <p> UNLESS OTHERWISE NOTED, ALL WRITING DONE BY: </p>
                   <p> STELLA STREET </p>
-                  
+
                   <p>GRAPHICS &amp; ART:</p>
-                  
+
                   <lg>
                      <l>FRANKO</l>
                      <l>TAMI</l>
                      <l>FRANKIE</l>
                   </lg>
-                  
+
                   <p>PHOTOS:</p>
                   <p>RANDY HALL</p>
-                  
+
                   <p>CARTOON:</p>
                   <p>ROB MORGAN</p>
                </div>
-               
+
                <div>
-                  
+
                   <p>Stelazine is a WARRANT PROD. (R) 1978</p>
                </div>
-               
+
                <div>
-                  
+
                   <p>Send all praise, complaints, threats, ads, gossip, photos, artwork and writing
                      to:</p>
-                  
+
                   <address>
                      <addName>STELAZINE</addName>
                      <addrLine>1516 2nd Ave Rm.304</addrLine>
@@ -1747,20 +1712,20 @@
                   </address>
                </div>
             </div>
-            
-            
+
+
             <div>
                <figure>
                   <p>{img}</p>
                   <p>before after</p>
                </figure>
             </div>
-            
+
             <div>
                <figure>
                   <p>{img}</p>
                </figure>
-               
+
                <p>CUT US OUT</p>
                <figure>
                   <p>{img}</p>
@@ -1770,25 +1735,25 @@
                <figure>
                   <p> Precautions to avoid possible exposure to excessive microwave energy any one
                      of these full-featured, touch- control microwave ovens for only $449 95 </p>
-                  
+
                   <p> ...or how Americans sprec </p>
                </figure>
             </div>
-            
+
             <div>
                <figure>
                   <p> {img} </p>
                </figure>
             </div>
-            
+
             <div>
                <figure>
                   <p> {img} SCREAMERS </p>
                </figure>
-               
+
                <p> SCREAMERS ASSULT: Box 330 1626 N. Wilcox Hollywood CA 50028 </p>
             </div>
-            
+
             <div>
                <p> Julie Gorton {img} THE MUMPS 1978- JOIN! a membership in the Mumps Fan Club only
                   costs $2. and you get a free button upon joining. SUCH A DEAL!!!!
@@ -1797,17 +1762,17 @@
                   CPCCODIL2/CLEAN-- $2.00 MUMPS Fan Club Box 25087, LA, CA 90025 </p>
             </div>
          </div>
-         
-         
-         
-         
-         
-         
+
+
+
+
+
+
 
          <pb n="17"/>
          <div type="page">
             <p>RAMONES</p>
-            
+
             <p>Time Travelers</p>
             <p>Event</p>
             <p>RECORDS</p>
@@ -1826,7 +1791,7 @@
             <p>Books</p>
             <p>Hangout</p>
             <p>IMPORTS</p>
-            
+
             <p>
                <address>
                   <addName>Time Travelers</addName>
@@ -1834,12 +1799,12 @@
                   <addrLine>FOR INFORMATION CALL - 624-7806</addrLine>
                </address>
             </p>
-            
+
             <p>page 17</p>
          </div>
-         
-         
-         
+
+
+
          <pb n="18"/>
          <div>
             <head>BIRTHS &amp; OBITUARIES</head>
@@ -1851,7 +1816,7 @@
             </figure>
 
          </div>
-         
+
          <div>
             <p>SUBHUMANS Death to the Sickoids/Oh Canaduh Crass Productions no label</p>
             <p>I like these guys. The A-side is good (although I confess I'm not really sure what
@@ -1863,7 +1828,7 @@
                hear Margaret Trudeau humming it now...... "Don't have a job/Can't pay the rent/ And
                now we're paying interest on the money we've been lent………"</p>
          </div>
-         
+
          <div>
             <p>DOA The Prisoner/Thirteen Quintessence Records 1869 W. 4th Ave Vancouver, Canaduh V6J
                1M4</p>
@@ -1878,21 +1843,21 @@
                big zero." I think he hit it right on the head.</p>
             <cb/>
          </div>
-         
+
          <div>
             <figure>
                <graphic url="-"/>
                <figDesc>Wavy background with a box of text that states: "DRUNK AND DISORDERLY b/w
                   SUICIDE THE SHIRKERS".</figDesc>
             </figure>
-            
+
             <figure>
                <graphic url="-"/>
                <figDesc>Wavy background with two boxes on top. The left box has text that reads:
                   "DEATH TO THE SICKOIDS The SUBHUMANS". The right box includes three abstract
                   figures standing.</figDesc>
             </figure>
-            
+
             <figure>
                <graphic url="-"/>
                <figDesc>Wavy background with two boxes on top. The left box is an image of two feet
@@ -1901,7 +1866,7 @@
                   "'KILL YOURSELF'".</figDesc>
             </figure>
          </div>
-         
+
          <div>
             <p>THE SHIRKERS Drunk &amp; Disorderly/Suicide Limp Records 1327-J Rockville Pike
                Rockville, Maryland 20852 I knew the singer Steve Bailer when I lived in D.C. I
@@ -1913,7 +1878,7 @@
                record-be-a-star project. Capitol city punk without the Capitol city anger.</p>
             <cb/>
          </div>
-         
+
          <div>
             <p>POINTED STICKS What Do You Want Me To Do/Somebody's Mom Quintessence Records Finally,
                a great male Canadian singer. It's about time. A perfect pop voice. This is pop! A
@@ -1923,13 +1888,12 @@
                Sticks are like the Bay City Rollers with more integrity. A fine debut single from a
                band worth checking out. You won't be sorry.</p>
          </div>
-         
+
          <figure>
             <graphic url="-"/>
-            <figDesc>Image of a woman rotated horizontally with the text: "CUT ME
-               OUT".</figDesc>
+            <figDesc>Image of a woman rotated horizontally with the text: "CUT ME OUT".</figDesc>
          </figure>
-         
+
          <div>
             <p>LEWD Kill Yourself/Trashcan Babies/ Pay or Die Scratch Records 2420 1st Ave Seattle,
                Wash. 98121</p>
@@ -2127,80 +2091,119 @@
             <p>To the front!</p>
             <p>page 19</p>
          </div>
-         
-         
-         
-         
-         
+
+
+
+
+
          <pb n="20"/>
          <div type="page">
-            
+
             <figure>
                <graphic url="-"> </graphic>
             </figure>
-            
+
             <figure>
                <graphic url="-"> </graphic>
             </figure>
-            
-            
+
+
          </div>
-         
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       </body>
 
       <back>
          <div type="index">
-
-            <listPerson>
+            <listPerson type="artist">
                <person xml:id="Peter_Tosh">
-                  <persName/>
+                  <persName>Peter Tosh</persName>
+                  <note>Jamaican former Reggae singer (19 October 1944 – 11 September 1987)</note>
                </person>
-
-            </listPerson>
-            <listPlace>
-               <place xml:id="placeID">
-                  <placeName/>
-               </place>
-            </listPlace>
-            
-            <list type="song">
-               <item xml:id="songID">
-                  <title></title>
-                  <note type="artist"></note>
-               </item>
-            </list>
-
+               <person xml:id="Bee_Gees">
+                  <persName>Bee Gees</persName>
+                  <note>Disco music group formed in 1958</note>
+               </person>
+               <person xml:id="The_Dots">
+                  <persName>The Dots</persName>
+                  <note>"Alison East" refers to the guitarist of "The Dots"</note>
+               </person>
+               <person xml:id="Miki_Zone_Zoo"> <persName>Miki Zone Zoo</persName>
+                  <note>Formerly "The Fast", then "Man 2 Man" was an American glam/punk band in the  1970s</note>
+               </person> 
+               <person xml:id="Come_On">  <persName>Come On</persName>  <note>New York
+                     art-punk and "nervous-rock" band</note>  </person>  <person xml:id="Devo"> 
+                     <persName>Devo</persName>  <note>American new wave band from Akron, Ohio,
+                     formed in 1973</note>  </person>  
+               <person xml:id="Talking_Heads"> 
+                     <persName>Talking Heads</persName>  <note>American rock band from New York
+                     City, formed in 1975</note>  </person>  
+               <person xml:id="The_Radios"> 
+                     <persName>The Radios</persName>  </person>  
+               <person xml:id="The_St._Bernard_Quartet">  <persName>The St. Bernard Quartet</persName>
+               </person>  
+               <person xml:id="The_Girls">  <persName>The Girls</persName>  </person> 
+                  <person xml:id="The_Enemy">  <persName>The Enemy</persName>  </person>  <person
+                  xml:id="The_Fishsticks">  <persName>The Fishsticks</persName>  </person>  <person
+                  xml:id="The_Mystery_Horns">  <persName>The Mystery Horns</persName>  </person> 
+                  <person xml:id="George_Johnny_Ray_Gleason">  <persName>George “Johnny Ray”
+                     Gleason</persName>  </person>  <person xml:id="Rick_Buddy_Holly_Smith"> 
+                     <persName>Rick “Buddy Holly” Smith</persName>  </person>  <person
+                  xml:id="Cheaters">  <persName>Cheaters</persName>  </person>  <person
+                  xml:id="Electric_Tramps">  <persName>Electric Tramps</persName>  </person>   
+            </listPerson>   <listPlace>  <place xml:id="New_York">  <placeName>New York</placeName> 
+               </place>  <place xml:id="Max">  <placeName>Max's</placeName>  <note>Most likely
+                     refers to Max's Kansas City, which was a nightclub and  restaurant in New York
+                     City</note>  </place>  <place xml:id="Seattle"> 
+                  <placeName>Seattle</placeName>  </place>  </listPlace>   <list type="song">  <item
+                  xml:id="Let_Me_Take_You_Out_To_Lunch">  <title>Let Me Take You Out To
+                     Lunch</title>  <note type="artist">The Dots</note>  </item>  <item
+                  xml:id="The_Kids_Just_Wanna_Dance">  <title>The Kids Just Wanna Dance</title> 
+                     <note type="artist">Miki Zone Zoo</note>  </item>  </list>
          </div>
 
 
          <div type="endnotes">
-            <note xml:id="Epic">Epic Records is a record label that’s part of CBS, and owned by Sony
+            <note xml:id="n1">Epic Records is a record label that’s part of CBS, and owned by Sony
                Music Entertainment. Founded in 1953, it’s one of the oldest record labels in the US.
                They manufactured and distributed the Clash’s 1979 release, London Calling. <ref
                   type="biblio" target="EpicRecords">See source 2</ref>
             </note>
 
-            <note xml:id="Caroline Coon">Caroline Coon is an artist, photographer and feminist activist from
+            <note xml:id="n2">Caroline Coon is an artist, photographer and feminist activist from
                London who, at this time, was the manager of The Clash band from 1978 to 1980 and on
                their international tours. During this time, she was dating Paul Simonon, the bassist
                of the Clash. <ref type="biblio" target="TheCultureCrush">See source 3</ref>
             </note>
-            
-            <note xml:id="Clash">Other members of The Clash. Joe Strummer played rhythm guitar and
+
+            <note xml:id="n3">Other members of The Clash. Joe Strummer played rhythm guitar and
                sung, Mick Jones was lead guitar, and Nicholas “Topper” Headon played drums. <ref
                   type="biblio" target="TeachRock">See Source 4</ref>
             </note>
-            <note xml:id="Bo">Bo Diddley was an American guitarist, singer and songwriter who is
+            <note xml:id="n4">Bo Diddley was an American guitarist, singer and songwriter who is
                known to have been a large influence on The Clash. He toured with them on their 1979
                USA tour. <ref type="biblio" target="BoDiddley">See Source 5, 6</ref>
                <ref type="biblio" target="Colorado Sound"> See Source 5, 6</ref>
             </note>
          </div>
-         
-         
-         
-         
+
+
+
+
          <div type="bibliography">
             <listBibl>
 
