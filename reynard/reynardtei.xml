@@ -142,7 +142,7 @@
                <p><figure><figDesc>Illuminated capital "W."</figDesc><graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Capital4.png"></graphic></figure><hi rend="caps">han</hi> these wordes were spoken so stoode there a lytyl hounde,
                   and was named <persName>Courtoys</persName>, an dcomplayned to the kynge, how that
                   in the colde wynter in the harde froste he had ben sore for-wynterd, in suche wyse
-                  as he had kepte nomore mete than a bud-dyng, wych puddyng <persName>Reygnard the
+                  as he had kepte nomore mete than a <ref target="#c4n1">pud-dyng</ref>, wych puddyng <persName>Reygnard the
                      Foxe</persName> had taken away from hym <g ref="spiky"/> Tho spak
                      <persName>Thybert the Catte</persName>.</p>
                <pb n="4"/>
@@ -161,7 +161,7 @@
                      here, that he wel sold that he shuld lese good and wor-shyp, so that he myght
                      wynne as moche as a legge of a fat henne. I shal telle yow what I sawe hym do
                      yesterday to <persName>Cuwaert the Hare</persName> that hier standeth in the
-                     kynges <ref target="#c4n1">pees and saufgarde</ref>. He promysed to <persName>Cuwart</persName> and sayde
+                     kynges <ref target="#c4n2">pees and saufgarde</ref>. He promysed to <persName>Cuwart</persName> and sayde
                      he wold teche hym his credo, and make hym a good chapelayne; he made hym goo
                      sytte bytwene his legges, &amp; sange &amp; cryde lowde: Credo! Credo! My waye
                      laye ther by, there that I herde this songe; tho wente I ner, and fonde
@@ -352,7 +352,8 @@
             <note type="editorial" xml:id="c2n1">The titular "Reynard" is often spelled "Reynart" throughout the text.</note>
             <note type="editorial" xml:id="c2n2">"Mandementis" is the plural of mandament meaning command</note>
             <note type="editorial" xml:id="c3n1"><ref target="wit">"To wete" is an archaic form of "to wit," meaning "that is to say".</ref></note>
-            <note type="editorial" xml:id="c4n1">"pees and saufgarde" means peace and safeguard which refers to the peace and safety of not just the king but the kingdom as well.</note>
+            <note type="editorial" xml:id="c4n1">A “meat pudding” was a traditional British food, and might in this case refer to either black or white pudding as both contained some meat or meat casing.</note>
+            <note type="editorial" xml:id="c4n2">"pees and saufgarde" means peace and safeguard which refers to the peace and safety of not just the king but the kingdom as well.</note>
             <note type="editorial" xml:id="c5n1"><ref target="eme">"eme," Middle English for "uncle"</ref></note>
             <note type="editorial" xml:id="c5n2">The spelling "Ysegrym" is being used in place of "Isegrym" here with the "Y" interchangeable with the vowel "I".</note>
          </div>
