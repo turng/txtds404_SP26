@@ -31,6 +31,13 @@ h4 {
     font-family: Garamod;
     text-align:justify;
     text-justify:auto;
+}
+
+h5 {
+    color:black;
+    font-family: Garamod;
+    text-align:justify;
+    text-justify:auto;
     text-transform:uppercase;
 }
 
