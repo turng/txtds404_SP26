@@ -1577,10 +1577,12 @@ sponsor {
   margin-bottom: 0;
   /* Block element, maybe labeled  */
 }
+
 sponsor:before {
   font-weight: bold;
   content: "Sponsor:";
 }
+
 stage {
   display: block;
   margin-top: 1em;
