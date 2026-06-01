@@ -159,7 +159,7 @@
                     </note>
                     
                     
-                    <note xml:id="n1">
+                    <note xml:id="n1" xml:lang="en">
                         Le lieutenant de police était un haut officier royal chargé à Paris de la
                         police urbaine, de l’ordre public et de nombreux aspects de l’administration de la ville. Dans
                         la seconde moitié du dix-huitième siècle, son office devint un nœud central dans la
@@ -168,7 +168,7 @@
                         <ref type="biblio" target="#Darnton"/>
                     </note>
                     
-                    <note xml:id="n2">
+                    <note xml:id="n2" xml:lang="en">
                         La chambre syndicale de la librairie représentait les libraires et imprimeurs parisiens et
                         aidait la monarchie à réglementer le commerce du livre. Par ses registres et sa
                         correspondance, elle fournit une partie des archives grâce auxquelles on peut reconstituer la
@@ -176,7 +176,7 @@
                         <ref type="biblio" target="#Darnton"/>
                     </note>
                     
-                    <note xml:id="n3">
+                    <note xml:id="n3" xml:lang="en">
                         Le directeur-général de la librairie, ou magistrat de la librairie, dirigeait
                         l’administration royale du commerce du livre. Il coordonnait privilèges, permissions et
                         censure, en constant dialogue avec la police, et figurait ainsi comme un autre point de
@@ -184,7 +184,7 @@
                         <ref type="biblio" target="#Darnton"/>
                     </note>
                     
-                    <note xml:id="n4">
+                    <note xml:id="n4" xml:lang="en">
                         Le garde des sceaux était l’officier chargé des sceaux royaux et d’une partie de la justice.
                         En matière d’imprimés, il recevait les rapports sur les ouvrages controversés et
                         intervenait dans l’octroi ou le refus de privilèges, montrant comment la politique de cour
@@ -192,7 +192,7 @@
                         <ref type="biblio" target="#Darnton"/>
                     </note>
                     
-                    <note xml:id="n5">
+                    <note xml:id="n5" xml:lang="en">
                         L’imprimerie de Simon, attachée au Parlement de Paris et destinée en principe aux arrêts
                         judiciaires, occupait une position semi-indépendante par rapport à l’administration
                         ordinaire de la librairie. Manuel la présente comme un canal par lequel des écrits de parti
@@ -200,14 +200,14 @@
                         <ref type="biblio" target="#Darnton"/>
                     </note>
                     
-                    <note xml:id="n6">
+                    <note xml:id="n6" xml:lang="en">
                         La foire de Beaucaire était une grande foire commerciale du sud de la France, importante pour
                         la diffusion d’imprimés. Des ballots de livres, y compris des ouvrages prohibés, pouvaient y
                         transiter avant d’être redistribués dans différentes régions du royaume.
                         <ref type="biblio" target="#Darnton"/>
                     </note>
                     
-                    <note xml:id="n7">
+                    <note xml:id="n7" xml:lang="en">
                         Avignon, ville relevant de la juridiction pontificale, servait au
                         dix-huitième siècle de point d’entrée pour des livres étrangers ou clandestins. En la
                         contourant, les libraires pouvaient introduire en France des ouvrages qui échappaient à la
@@ -216,7 +216,7 @@
                     </note>
                     
                     
-                    <note xml:id="n8">
+                    <note xml:id="n8" xml:lang="en">
                         La lutte entre magistrats pour le contrôle de la librairie rappelle d’autres sociétés où des
                         autorités rivales cherchaient à discipliner la parole publique. Kulesza montre, dans un
                         contexte tout différent, comment les institutions de Sparte visaient à façonner le
@@ -224,7 +224,7 @@
                         <ref type="biblio" target="#Kulesza"/>
                     </note>
                     
-                    <note xml:id="n9">
+                    <note xml:id="n9" xml:lang="en">
                         L’inquiétude de Manuel devant la circulation de livres dans des espaces privilégiés comme
                         Versailles peut se comparer à la manière dont certaines statues grecques structuraient le
                         regard public. Gribbin suit les déplacements et réinterprétations de l’Athéna Parthénos pour
@@ -233,7 +233,7 @@
                         <ref type="biblio" target="#Gribbin"/>
                     </note>
                     
-                    <note xml:id="n10">
+                    <note xml:id="n10" xml:lang="en">
                         En décrivant la librairie comme un secteur où se croisent commerce, morale et politique,
                         Manuel soulève la question de ce qui peut ou non être montré. Havelock, dans son étude de
                         l’Aphrodite de Cnide, analyse de façon parallèle la tension entre idéalisation esthétique et
