@@ -146,7 +146,7 @@
                         <choice><orig>présens</orig><reg>présents</reg></choice> par-tout?
                     </p>
                     
-                    <note xml:id="nRegV1" xml:lang="en">
+ <note xml:id="nRegV1" xml:lang="en">
   This edition modernizes certain eighteenth-century French spellings by using
   <choice>
     <orig>suivans</orig>
@@ -158,64 +158,63 @@
 
 <note xml:id="n1" xml:lang="en">
   The lieutenant de police was a senior royal official in Paris responsible
-  for urban policing, public order, and many aspects of city administration.
-  In the late eighteenth century, his office was also deeply involved in the
-  surveillance of information and the regulation of print.
+  for urban policing, public order, and a wide range of city administration.
+  In the later eighteenth century, the office also became a key node in the
+  surveillance of information and the regulation of print, working with
+  specialized book-trade inspectors.
   <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n2" xml:lang="en">
   The chambre syndicale de la librairie represented Parisian booksellers and
-  printers and helped the monarchy regulate the book trade. Its records and
-  correspondence are important sources for reconstructing how printed material
-  circulated under official supervision.
-  <ref type="biblio" target="#Darnton"/>
+  printers and helped the monarchy regulate the book trade. Its registers and
+  correspondence document how permissions, seizures, and disputes were handled
+  under official supervision.
 </note>
 
 <note xml:id="n3" xml:lang="en">
   The directeur-général de la librairie, or magistrate of the book trade,
   headed the royal administration responsible for permissions, privileges, and
-  censorship. This office worked closely with police authorities to control the
-  circulation of books and pamphlets.
+  censorship. From the perspective of information control, this office worked
+  with the police to channel what kinds of printed material could legally
+  circulate in Paris.
   <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n4" xml:lang="en">
-  The garde des sceaux was the officer responsible for the royal seals and for
-  important judicial functions. In matters of print, he could influence the
-  granting or withholding of privileges for controversial works.
-  <ref type="biblio" target="#Darnton"/>
+  The garde des sceaux was the officer responsible for the royal seals and
+  for important judicial functions. In matters of print, he could support or
+  block privileges for controversial works by approving, withholding, or
+  conditioning official authorization.
 </note>
 
 <note xml:id="n5" xml:lang="en">
   The press of Simon, attached to the Parlement of Paris and officially meant
-  for judicial decrees, occupied a semi-independent position in relation to the
-  ordinary administration of the book trade. Manuel presents it as a channel
-  through which partisan writings could sometimes circulate.
-  <ref type="biblio" target="#Darnton"/>
+  for judicial decrees, occupied a semi-independent position in relation to
+  the ordinary administration of the book trade. Manuel presents it as a
+  channel through which partisan writings could sometimes circulate around
+  normal censorship controls.
 </note>
 
 <note xml:id="n6" xml:lang="en">
   The Beaucaire fair was one of the major commercial fairs of southern France
   and an important point for the distribution of printed material. Prohibited
-  books could pass through such fairs before being redistributed across the
-  kingdom.
-  <ref type="biblio" target="#Darnton"/>
+  books could pass through such fairs before being broken up into smaller lots
+  and redistributed across the kingdom.
 </note>
 
 <note xml:id="n7" xml:lang="en">
-  Avignon, which was under papal rather than royal jurisdiction, served in the
+  Avignon, under papal rather than royal jurisdiction, served in the
   eighteenth century as an entry point for foreign and clandestine books into
-  France. Its special political status made it useful for evading ordinary
-  censorship.
-  <ref type="biblio" target="#Darnton"/>
+  France. Its special political status made it useful for evading the ordinary
+  mechanisms of royal censorship.
 </note>
 
 <note xml:id="n8" xml:lang="en">
   The struggle between magistrates for control of the book trade recalls other
   societies in which rival authorities sought to discipline public expression.
-  Kulesza shows, in a very different context, how Spartan institutions aimed to
-  shape citizen behavior through law and education.
+  Kulesza shows, in a very different context, how Spartan institutions aimed
+  to shape citizen behavior through law and education.
   <ref type="biblio" target="#Kulesza"/>
 </note>
 
@@ -231,8 +230,9 @@
 <note xml:id="n10" xml:lang="en">
   By describing the book trade as a space where commerce, morality, and
   politics intersect, Manuel raises the question of what may or may not be
-  publicly displayed. Havelock similarly examines the tension between aesthetic
-  idealization and moral anxiety surrounding the female nude in Greek art.
+  publicly displayed. Havelock similarly examines the tension between
+  aesthetic idealization and moral anxiety surrounding the female nude in
+  Greek art.
   <ref type="biblio" target="#Havelock"/>
 </note>
                     
