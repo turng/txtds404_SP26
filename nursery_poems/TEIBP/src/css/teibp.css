@@ -1836,7 +1836,7 @@ html > body {
   margin: auto;
   padding: 0;
   padding: 2.5em; /* moved from html below. */
-  width: 60%;
+  width: 40%;
 }
 html {
   margin: 0;
@@ -1849,7 +1849,7 @@ html {
   color: #292929;
 }
 img {
-  border: 1px solid #AAA;
+  border: 0px solid #AAA;
 }
 footer {
   display: none;
@@ -1861,11 +1861,11 @@ footer {
 a:link,
 a:visited,
 a:active {
-  color: #5f0000;
+  color: #0467bd;
   text-decoration: none;
 }
 a:hover {
-  color: #5f0000;
+  color: #679ceb;
   text-decoration: underline;
 }
 #teibpToolbox {
