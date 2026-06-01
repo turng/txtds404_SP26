@@ -1,36 +1,22 @@
 /* Place project-specific CSS here */
-TEI{
-    display: block;
-    background-color: Cornsilk;
-}
+
 
 h1 {
-    display: block;
     color:black;
     font-family:Garamond;
-    text-align:center;
-    text-transform:uppercase;
-    padding:50px;
-
+    text-align:justify;
+    text-justify:auto
 }
 
 h2 {
-    display: block;
     color:black;
     font-family:Garamond;
     text-align:left;
-    text-transform:uppercase;
-    padding:50px;
-    
 }
 
 h3 {
-    display: block;
     color:black;
     font-family: Garamond;
-    text-align:center;
-    text-transform:uppercase;
-    padding:50px;
-    
+    text-align: center;
 }
 
