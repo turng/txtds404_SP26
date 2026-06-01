@@ -1,13 +1,13 @@
 /* Place project-specific CSS here */
-[rend~="italicized"] {
+lg > l[rend~="italicized"] {
     font-style: italic;
 }
-[rend~="center"] {
-    font-align: center;
+lg > l[rend~="center"] {
+    text-align: center;
 }
-[rend~="left"] {
-    font-align: left;
+lg > l[rend~="left"] {
+    text-align: left;
 }
-[rend~="indented"] {
+lg > l[rend~="indented"] {
     text-indent: 50px;
 }
