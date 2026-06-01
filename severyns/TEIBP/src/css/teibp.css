@@ -45,7 +45,6 @@
   max-height: 60px;
 }
 .-teibp-pb {
-  display: block;
   width: 100%;
   text-align: justify;
   text-justify: auto;
@@ -95,6 +94,8 @@
   font-family: Courier,monospace;
 }
 .page-setup {
+  text-align: justify;
+  text-justify: auto;
   margin-left: 2em;
   margin-right: 4em;
   padding: 2.5em;
