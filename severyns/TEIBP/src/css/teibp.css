@@ -94,6 +94,8 @@
   font-family: Courier,monospace;
 }
 .page-setup {
+  text-align: justify;
+  text-justify: auto;
   margin-left: 4em;
   margin-right: 4em;
   padding: 2.5em;
