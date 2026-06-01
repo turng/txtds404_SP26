@@ -72,11 +72,10 @@
 
       <body>
          <div type="cover">
-            <head>STELAZINE</head>
+            <head xml:id="main">STELAZINE</head>
             <figure>
-               <graphic url="https://drive.google.com/thumbnail?id=1L7x4OCzbOSqc2k0rDvvlIWzIglRru4m6"/>
+               <graphic url="https://drive.google.com/thumbnail?id=1L7x4OCzbOSqc2k0rDvvlIWzIglRru4m6&amp;sz=w2000"/>
                <figDesc>The cover of this issue of STELAZINE</figDesc>
-               <head>STELAZINE</head>
                <p>50!</p>
                <p>Vol.2</p>
                <p>No.1</p>
@@ -2054,13 +2053,13 @@
 
             </listPerson>
             <listPlace>
-               <place xml:id="-">
+               <place xml:id="placeID">
                   <placeName/>
                </place>
             </listPlace>
             
             <list type="song">
-               <item xml:id="">
+               <item xml:id="songID">
                   <title></title>
                   <note type="artist"></note>
                </item>
@@ -2068,7 +2067,7 @@
 
          </div>
 
->>>>>>> 3066f85 
+
          <div type="endnotes">
             <note xml:id="n1">Epic Records is a record label that’s part of CBS, and owned by Sony
                Music Entertainment. Founded in 1953, it’s one of the oldest record labels in the US.
