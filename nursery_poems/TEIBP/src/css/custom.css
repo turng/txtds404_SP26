@@ -9,5 +9,5 @@
     font-align: left;
 }
 [rend~=indented] {
-    text-indent: 2em;
+    text-indent: 50px;
 }
