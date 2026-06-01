@@ -72,7 +72,7 @@
         <p>On observe encore sur l’article 12, que quand les <choice><reg>plaignants</reg><orig>plaignans</orig></choice> se pourvoient en justice réglée, cela regarde M. le lieutenant-général de police en première instance, par appel au conseil ou le bureau des affaires contentieuses.</p>
 
         <p>Une fois à leur place, ces deux magistrats se <pb n="33"/> <choice><reg>disputaient</reg><orig>disputoient</orig></choice> la gloire d’entretenir la cour de leurs services. L’un <choice><reg>écrivait</reg><orig>écrivoit</orig></choice> au roi : ”Une tolérance trop décidée a enhardi et les auteurs et les libraires. J’ai trouvé établi le système que la librairie étant une branche de commerce, on ne <choice><reg>pouvait</reg><orig>pouvoit</orig></choice> lui donner trop d’étendue et de liberté. A la faveur de ce principe, on ferme les yeux sur l’impression, la publication et la distribution de tous les ouvrages prohibés. Le prétexte de ne point faire passer l’argent chez l’étranger , autorise la plus coupable licence, comme si la religion ne <choice><reg>devait</reg><orig>devoit</orig></choice> pas commander à la politique. Ce qui peut rassurer votre majesté, c’est que les littérateurs sont fortement persuadés qu’au milieu des grands objets dont votre majesté est occupée, elle a daigné descendre aux détails de la librairie, et donner les ordres les plus précis pour la défense de tout livre que je croirai dangereux”. L’autre <choice><reg>écrivait</reg><orig>écrivoit</orig></choice>: ”Sire, votre majesté n’ignore pas qu’il y a dans Paris une imprimerie qui n’est pas entièrement soumise à mon inspection. Celle de <ref target="#n5">Simon</ref>, est en quelque sorte dépendante du parlement; elle ne <choice><reg>devait</reg><orig>devoit</orig></choice> être employée qu’à imprimer ses arrêts. Cependant l’intérêt et la complaisance de l’imprimeur lui
-          C
+          C<!-- unresolved fragment in source -->
           <pb n="34"/>
           font quelquefois oublier son devoir; et c’est par cette voie que les ouvrages de parti se sont répandus souvent dans le public... Un abus d’un autre genre que je crois devoir vous dénoncer, c’est l’établissement qu’on a toléré depuis 40 ans des marchands de livres dans les maisons royales, aux spectacles, dans le château même de Versailles, et dans tous les lieux privilégiés”.</p>
 
@@ -82,34 +82,76 @@
 
         <note xml:id="n1">
           The lieutenant de police was a senior royal official in Paris responsible for urban policing, public order, and many aspects of city administration, including oversight of the book trade and censorship.
+          <ref type="biblio" target="#Darnton"/>
         </note>
 
         <note xml:id="n2">
           The chambre syndicale de la librairie was the corporate body representing Parisian booksellers and printers. It played a central role in regulating the book trade, supervising privileges, and enforcing censorship decisions.
+          <ref type="biblio" target="#Darnton"/>
         </note>
 
         <note xml:id="n3">
           In the late Ancien Régime, the directeur-général de la librairie, also called the magistrat de la librairie, was the crown official in charge of supervising the book trade, including printing privileges, permissions, and censorship policy.
+          <ref type="biblio" target="#Darnton"/>
         </note>
 
         <note xml:id="n4">
           The garde des sceaux (Keeper of the Seals) was the minister responsible for the royal seals and the justice system. In matters of print, he oversaw the granting of privileges and high-level decisions about censored works.
+          <ref type="biblio" target="#Darnton"/>
         </note>
 
         <note xml:id="n5">
           The Simon press in Paris was attached to the Parlement and in principle reserved for printing its judicial decrees. Manuel presents it as a semi‑independent press through which partisan writings could circulate outside ordinary royal oversight.
+          <ref type="biblio" target="#Darnton"/>
         </note>
 
         <note xml:id="n6">
           The Beaucaire fair was one of the major commercial fairs of southern France and an important hub for the distribution of books, including clandestine or prohibited works that could then circulate throughout the kingdom.
+          <ref type="biblio" target="#Darnton"/>
         </note>
 
         <note xml:id="n7">
           In the eighteenth century Avignon, under papal rather than royal jurisdiction, served as a major entry point for foreign and clandestine books into France, allowing prohibited works to be smuggled in despite official controls.
+          <ref type="biblio" target="#Darnton"/>
         </note>
 
       </div>
     </body>
-    <back/>
+    <back>
+      <listBibl>
+        <bibl xml:id="Darnton">
+          <author>Robert Darnton</author>
+          <title>An Early Information Society: News and the Media in Eighteenth-Century Paris</title>
+          <title level="j">The American Historical Review</title>
+          <date when="2000">2000</date>
+          <biblScope unit="volume">105</biblScope>
+          <biblScope unit="issue">1</biblScope>
+          <biblScope unit="page">1–35</biblScope>
+        </bibl>
+        <bibl xml:id="Havelock">
+          <author>Christine Mitchell Havelock</author>
+          <title>The Aphrodite of Knidos and Her Successors: A Historical Review of the Female Nude in Greek Art</title>
+          <pubPlace>Ann Arbor</pubPlace>
+          <publisher>University of Michigan Press</publisher>
+          <date when="1995">1995</date>
+        </bibl>
+        <bibl xml:id="Gribbin">
+          <author>Christopher Gribbin</author>
+          <title>Athens to Australia: The Athena Parthenos</title>
+          <title level="j">Agora</title>
+          <date when="2019">2019</date>
+          <biblScope unit="volume">54</biblScope>
+          <biblScope unit="issue">1</biblScope>
+          <biblScope unit="page">3–9</biblScope>
+        </bibl>
+        <bibl xml:id="Kulesza">
+          <author>Ryszard Kulesza</author>
+          <title>Sparta: History, State, and Society</title>
+          <pubPlace>Berlin</pubPlace>
+          <publisher>Peter Lang</publisher>
+          <date when="2022">2022</date>
+        </bibl>
+      </listBibl>
+    </back>
   </text>
 </TEI>
