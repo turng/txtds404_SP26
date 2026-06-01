@@ -97,8 +97,7 @@
             <pb n="2"/>
             <div type="chapter">
                <head><hi rend="rt">Howe the <persName>Lyon</persName>, kynge of alle bestis, sent
-                     out hys <ref target="#c2n2">mandementis</ref> that alle beestis sholde come to his feest and court,
-                     capitulo primo<g ref="flower"/><g ref="flower"/></hi></head>
+                     out hys <ref target="#c2n2">mandementis</ref> that alle beestis sholde come to his feest and court, <ref target="latin">capitulo primo</ref><g ref="flower"/><g ref="flower"/></hi></head>
                <p><hi rend="il">I</hi><hi rend="caps">t</hi> was about the time of <date>Penthecoste</date> or
                      <date>Whytsontyde</date>, that the wodes comynly be lusty and gladsom, and the
                   trees clad with leuys and blossoms, and the grounde with herbes &amp; flowris
@@ -370,6 +369,10 @@
             <bibl xml:id="eme">
                Middle English Dictionary (MED), University of Michigan.
                https://quod.lib.umich.edu/m/middle-english-dictionary/
+            </bibl>
+            <bibl xml:id="latin">
+               Mahoney, Kevin. “Capitulum.” Latdict. https://latin-dictionary.net/definition/8026/capitulum-capituli.
+               Mahoney, Kevin. “Primo.” Latdict. https://latin-dictionary.net/search/latin/primo. 
             </bibl>
          </div>
       </back>
