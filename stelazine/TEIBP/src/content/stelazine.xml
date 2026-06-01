@@ -1723,7 +1723,7 @@
          
          <pb n="18"/>
          <div>
-            <p>BIRTHS &amp; OBITUARIES</p>
+            <head>BIRTHS &amp; OBITUARIES</head>
             <p>LOCAL RELEASES</p>
             <figure>
                <graphic url="-"/>
@@ -1857,6 +1857,7 @@
                it made the Pistols bloody famous!</p>
             <p>NEVA: It sure did. Any last words, Poly?</p>
             <p>POLY: Yeah. Do you want a cup of coffee?</p>
+            <cb/>
             <figure>
                <graphic url="-"/>
                <figDesc>Image of an unknown woman with the text: "CUT ME OUT".</figDesc>
@@ -2044,6 +2045,30 @@
       </body>
 
       <back>
+         <div type="index">
+
+            <listPerson>
+               <person xml:id="Peter_Tosh">
+                  <persName/>
+               </person>
+
+            </listPerson>
+            <listPlace>
+               <place xml:id="-">
+                  <placeName/>
+               </place>
+            </listPlace>
+            
+            <list type="song">
+               <item xml:id="">
+                  <title></title>
+                  <note type="artist"></note>
+               </item>
+            </list>
+
+         </div>
+
+>>>>>>> 3066f85 
          <div type="endnotes">
             <note xml:id="n1">Epic Records is a record label that’s part of CBS, and owned by Sony
                Music Entertainment. Founded in 1953, it’s one of the oldest record labels in the US.
@@ -2071,11 +2096,6 @@
          
          
          
-         
-         
-         
-         
-
          <div type="bibliography">
             <listBibl>
 
