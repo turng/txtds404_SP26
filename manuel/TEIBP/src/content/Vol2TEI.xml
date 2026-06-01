@@ -1,242 +1,339 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<?xml-stylesheet type="text/xsl" href="custom.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>La Police de Paris dévoilée — vol. 2, pp. 23–25 (line-by-line diplomatic transcription)</title>
-                <author>
-                    <persName>
-                        <forename>Louis-Pierre</forename>
-                        <surname>Manuel</surname>
-                    </persName>
-                </author>
-            </titleStmt>
-            <publicationStmt>
-                <p>Unpublished TEI transcription for class project.</p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>La Police de Paris dévoilée</title>
-                    <biblScope unit="volume">2</biblScope>
-                    <biblScope unit="page">23–25</biblScope>
-                    <date when="1794">1794</date>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    
-    <text>
-        <body xml:lang="fr">
-            <div type="excerpt" n="vol2_p23-25" xml:id="V2">
-                
-                <pb n="23"/>
-                <p rend="head">DE LA POLICE<lb/>SUR LES<lb/>MAISONS DE FORCE.</p>
-                
-                <p>QUAND un Roi s’imagine que vingt mil-<lb break="no"/>lions d’hommes sont faits pour lui seul, et<lb/>
-                    qu’il veut être lui seul plus fort qu’eux<lb/>
-                    tous; quand il a des ministres, dont le<lb/>
-                    plus doux a expédié, sur l’affaire de la<lb/>
-                    bulle <ref target="#n1">Unigenitus</ref>, plus de 54,000 lettres de<lb/>
-                    cachet, il faut qu’il ait des prisons par-<lb break="no"/>tout où il a à craindre qu’un <ref target="#n2">Blasktone</ref><lb/>
-                    réveille le peuple pour lui dire que la con-<lb break="no"/>servation de la liberté particulière est si im-<lb break="no"/>portante, que s’il étoit laissé à la volonté des<lb/>
-                    magistrats, et même du magistrat suprême ,<lb/>
-                    d’emprisonner arbitrairement ceux que lui ou<lb/>
-                    ses Officiers jugent devoir l’être, tous les droits ,<lb/>
-                    toutes les immunités seroient bientôt anéanties.</p>
-                
-                <p>La France étoit hérissée de ces maisons<lb/>
-                    de force, où le despotisme qui ne parois-<lb break="no"/>soit doux que parce qu’il étoit corrompu ,<lb/>
-                    et qui eût été moins dur s’il eût été plus<lb/>
-                    méchant , avoit la lâcheté de renfermer des<lb/>
-                    victimes qu’il n’eût eu pas le courage de tuer.</p>
-                
-                <p>B 4</p>
-                
-                <pb n="24"/>
-                <p>Chaque province étoit son géolier. La Bre-<lb break="no"/>tagne lui gardoit le <ref target="#n3">Château du Taureau</ref>,<lb/>
-                    l’Anjou , celui de <ref target="#n4">Saumur</ref> , la Guyenne ,<lb/>
-                    le <ref target="#n5">Château-Trompette</ref>, le Lyonnois, celui<lb/>
-                    de <ref target="#n6">Pierre-Encise</ref> , le Languedoc, le fort de<lb/>
-                    <ref target="#n7">Bréhon</ref> , la Normandie , le <ref target="#n8">Mont-Saint-Michel</ref> , la Picardie , le <ref target="#n9">Château de Ham</ref>, la<lb/>
-                    Provence , les îles <ref target="#n10">Sainte-Marguerite</ref>. Ce<lb/>
-                    n’est pas tout. Comme la capitale qui a<lb/>
-                    <ref target="#n11">Saint-Lazare</ref> , <ref target="#n12">Bicêtre</ref> et <ref target="#n13">Charenton</ref> , chaque<lb/>
-                    ville offroit ses couvens, où des moines, qui<lb/>
-                    ne prioient que Dieu, gardoient des hommes<lb/>
-                    qui ne prioient souvent que le Roi. Cé-<lb break="no"/>toient à Angers, à Nancy, à Rouen, les Ecoles<lb/>
-                    chrétiennes : à Mont-Jean, à Beauvais,<lb/>
-                    à Tanlay, à Châtillon-sur-Seine, à Amboise,<lb/>
-                    les Cordeliers : à Saint - Venant, à Armen-<lb break="no"/>tieres , à Lille , les Bons-fils : à Senlis , à<lb/>
-                    Château - Thierry , à Romans , à Cadillac,<lb/>
-                    à Pontorson , à Poitiers , les Frères de la<lb/>
-                    Charité : à Vailly , les <ref target="#n14">Picpus</ref> ; &amp;c. Ce n’est<lb/>
-                    pas tout encore. Que faire des femmes,<lb/>
-                    quand n’étant plus assez jolies pour avoir<lb/>
-                    toujours raison, leurs défauts passent pour<lb/>
-                    des vices , et leurs foiblesses pour des crimes?<lb/>
-                    Il faut les cacher ou les perdre. Mais la<lb/>
-                    <ref target="#n15">Salpêtrière</ref>, <ref target="#n16">Sainte-Pélagie</ref>, les <ref target="#n17">Magdalonnettes</ref>,<lb/>
-                    ni le couvent de <ref target="#n18">Valdonne</ref> , ne les con-<pb n="25"/><lb break="no"/>tiendroient pas toutes. Le <ref target="#n19">Refuge</ref> à Dijon ,<lb/>
-                    les <ref target="#n20">Annonciades</ref> à Clermont-Margone , la Ma-<lb break="no"/>deleine à la Flèche , Notre-Dame-de-Charité<lb/>
-                    à Guimgamp , celle de la Riche à Tours ,<lb/>
-                    les Ursulines à Chinon , les Hospitalières ,<lb/>
-                    à Comond , s’ouvroient complaisamment à<lb/>
-                    des prisonnières d’Etat qui souvent étoient<lb/>
-                    des Messalines que des Vestales avoient or-<lb break="no"/>dre de surveiller et de servir.</p>
-                
-                <p>C’est dans ces fosses religieuses que s’en-<lb break="no"/>gloutissoient pour long-temps, pour toujours<lb/>
-                    quelquefois , des jeunes gens dont le pre-<lb break="no"/>mier malheur a été leur éducation , qui<lb/>
-                    sans avoir troublé l’ordre public par des<lb/>
-                    délits , coupables de quelques infidélités ,<lb/>
-                    de quelques abus de confiance que dénon-<lb break="no"/>çoient leurs pères , n’avoient enfin rien fait<lb/>
-                    qui les exposât à la sévérité des lois ; c’est<lb/>
-                    là que des familles que les préjugés rendoient<lb/>
-                    barbares , condamnoient à une mort lente<lb/>
-                    ceux qui devoient expier leur vie en don-<lb break="no"/>nant l’exemple utile des échafauds. Mais<lb/>
-                    il paroît que la fureur ou la démence étoit<lb/>
-                    un prétexte qui valoit encore mieux que<lb/>
-                    des raisons , lorsque la faveur vouloit servir<lb/>
-                    la haine : et les bourreaux prenoient le mas-<lb break="no"/>que hypocrite de la bienfaisance. Enchaîner<lb/>
-                    ces malheureux , disoient-il , c’est leur ôter</p>
-                
-                <note xml:id="n1">
-                    The bull Unigenitus, issued in 1713, condemned one hundred and one propositions taken from the writings of Pasquier Quesnel and became a focal point of eighteenth‑century French religious and political conflict.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n2">
-                    “Blasktone” here refers to William Blackstone, the English jurist whose Commentaries on the Laws of England emphasized protection of individual liberty against arbitrary imprisonment.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n3">
-                    The Château du Taureau, a fortress in the bay of Morlaix, served as a state prison and site of internment for political and administrative detainees.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n4">
-                    The château of Saumur, on the Loire, was used in the seventeenth and eighteenth centuries as a place of detention for prisoners of state.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n5">
-                    The Château‑Trompette in Bordeaux was a royal citadel used as a prison for political and administrative prisoners.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n6">
-                    Pierre‑Encise, near Lyon, was a fortress that also functioned as a state prison.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n7">
-                    The fort of Bréhon, in the Languedoc region, formed part of the network of strongholds used by the crown for internment.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n8">
-                    Mont‑Saint‑Michel was long used as a place of detention, especially for political and religious prisoners.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n9">
-                    The château of Ham in Picardy served at various times as a state prison, notably for political opponents of the regime.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n10">
-                    The Îles Sainte‑Marguerite, off the coast near Cannes, housed a fortified prison where a number of notable detainees—real and legendary—were confined.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n11">
-                    Saint‑Lazare in Paris functioned as a house of correction, a debtors’ prison, and a site of administrative internment, particularly for women and young people.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n12">
-                    Bicêtre was a large Parisian complex combining hospital, poorhouse, and house of correction, and it also served as a prison.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n13">
-                    Charenton here refers to the asylum and detention facility at Charenton, used both for the mentally ill and for people imprisoned by administrative decision.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n14">
-                    The Picpus were a religious congregation whose houses, like those of other orders, could be used as places of internment for women judged scandalous or troublesome.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n15">
-                    The Salpêtrière in Paris combined hospital, workhouse, and house of correction functions, and many women were confined there by lettres de cachet.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n16">
-                    Sainte‑Pélagie was a Parisian prison for women, used for political detainees as well as those confined for reasons of morality.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n17">
-                    The Magdalonnettes, or Filles de la Madeleine, was a Parisian institution for women accused of debauchery or deemed morally dangerous.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n18">
-                    The convent of Valdonne, like other religious houses mentioned, could be used as a place of confinement for women placed there by their families or by administrative order.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n19">
-                    The Refuge in Dijon was one of several provincial institutions where women were confined under the guise of moral reform or correction.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-                <note xml:id="n20">
-                    The Annonciades and the other female communities Manuel lists were incorporated into the system of maisons de force, receiving women who were prisoners of state or denounced by their families.
-                    <ref type="biblio" target="#Darnton"/>
-                </note>
-                
-            </div>
-        </body>
-        <back>
-            <listBibl>
-                <bibl xml:id="Darnton">
-                    <author>Robert Darnton</author>
-                    <title>An Early Information Society: News and the Media in Eighteenth-Century Paris</title>
-                    <title level="j">The American Historical Review</title>
-                    <date when="2000">2000</date>
-                    <biblScope unit="volume">105</biblScope>
-                    <biblScope unit="issue">1</biblScope>
-                    <biblScope unit="page">1–35</biblScope>
-                </bibl>
-                <bibl xml:id="Havelock">
-                    <author>Christine Mitchell Havelock</author>
-                    <title>The Aphrodite of Knidos and Her Successors: A Historical Review of the Female Nude in Greek Art</title>
-                    <pubPlace>Ann Arbor</pubPlace>
-                    <publisher>University of Michigan Press</publisher>
-                    <date when="1995">1995</date>
-                </bibl>
-                <bibl xml:id="Gribbin">
-                    <author>Christopher Gribbin</author>
-                    <title>Athens to Australia: The Athena Parthenos</title>
-                    <title level="j">Agora</title>
-                    <date when="2019">2019</date>
-                    <biblScope unit="volume">54</biblScope>
-                    <biblScope unit="issue">1</biblScope>
-                    <biblScope unit="page">3–9</biblScope>
-                </bibl>
-                <bibl xml:id="Kulesza">
-                    <author>Ryszard Kulesza</author>
-                    <title>Sparta: History, State, and Society</title>
-                    <pubPlace>Berlin</pubPlace>
-                    <publisher>Peter Lang</publisher>
-                    <date when="2022">2022</date>
-                </bibl>
-            </listBibl>
-        </back>
-    </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Police de Paris dévoilée — vol. 2, pp. 23–25 (prose transcription)</title>
+        <author>
+          <persName>
+            <forename>Louis-Pierre</forename>
+            <surname>Manuel</surname>
+          </persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished TEI transcription for class project.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>La Police de Paris dévoilée</title>
+          <biblScope unit="volume">2</biblScope>
+          <biblScope unit="page">23–25</biblScope>
+          <date when="1794">1794</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body xml:lang="FR">
+      <div type="volume" xml:id="V2">
+        <div type="section" xml:id="MaisonsDeForce">
+
+          <pb n="23"/>
+          <p rend="head">DE LA POLICE SUR LES MAISONS DE FORCE.</p>
+
+          <p>
+            QUAND un Roi s’imagine que vingt <choice><orig>milions</orig><reg>millions</reg></choice> d’hommes
+            sont faits pour lui seul, et qu’il veut être lui seul plus fort qu’eux tous; quand il a des
+            ministres, dont le plus doux a expédié, sur l’affaire de la bulle
+            <ref target="#n1">Unigenitus</ref>, plus de 54 000 lettres de cachet, il faut qu’il ait des
+            prisons partout où il a à craindre qu’un <ref target="#n2">Blackstone</ref> réveille le peuple
+            pour lui dire que la conservation de la liberté particulière est si importante, que s’il
+            <choice><orig>étoit</orig><reg>était</reg></choice> laissé à la volonté des magistrats, et même du
+            magistrat suprême, d’emprisonner arbitrairement ceux que lui ou ses officiers jugent devoir
+            l’être, tous les droits, toutes les immunités
+            <choice><orig>seroient</orig><reg>seraient</reg></choice> bientôt anéanties.
+          </p>
+
+          <p>
+            La France <choice><orig>étoit</orig><reg>était</reg></choice> hérissée de ces maisons de force, où
+            le despotisme qui ne paraissait doux que parce qu’il
+            <choice><orig>étoit</orig><reg>était</reg></choice> corrompu, et qui
+            <choice><orig>eût</orig><reg>eut</reg></choice> été moins dur s’il
+            <choice><orig>eût</orig><reg>eut</reg></choice> été plus méchant, avait la lâcheté de renfermer
+            des victimes qu’il n’<choice><orig>eût</orig><reg>eut</reg></choice> pas eu le courage de tuer.
+          </p>
+
+          <p>B 4</p>
+
+          <pb n="24"/>
+          <p>
+            Chaque province <choice><orig>étoit</orig><reg>était</reg></choice> son geôlier. La Bretagne lui
+            gardait le <ref target="#n3">Château du Taureau</ref>, l’Anjou, celui de
+            <ref target="#n4">Saumur</ref>, la Guyenne,
+            le <ref target="#n5">Château-Trompette</ref>, le Lyonnais, celui de
+            <ref target="#n6">Pierre-Encise</ref>, le Languedoc, le fort de <ref target="#n7">Bréhon</ref>, la
+            Normandie, le <ref target="#n8">Mont-Saint-Michel</ref>, la Picardie, le
+            <ref target="#n9">Château de Ham</ref>, la Provence, les îles
+            <ref target="#n10">Sainte-Marguerite</ref>. Ce n’est pas tout. Comme la capitale qui a
+            <ref target="#n11">Saint-Lazare</ref>, <ref target="#n12">Bicêtre</ref> et
+            <ref target="#n13">Charenton</ref>, chaque ville offrait ses couvents, où des moines, qui ne
+            priaient que Dieu, gardaient des hommes qui ne priaient souvent que le Roi. C’étaient à
+            Angers, à Nancy, à Rouen, les Écoles chrétiennes; à Mont-Jean, à Beauvais, à Tanlay, à
+            Châtillon-sur-Seine, à Amboise, les Cordeliers; à Saint-Venant, à Armentières, à Lille, les
+            Bons-Fils; à Senlis, à Château-Thierry, à Romans, à Cadillac, à Pontorson, à Poitiers, les
+            Frères de la Charité; à Vailly, les <ref target="#n14">Picpus</ref>; etc. Ce n’est pas tout
+            encore. Que faire des femmes, quand n’étant plus assez jolies pour avoir toujours raison, leurs
+            défauts passent pour des vices, et leurs
+            <choice><orig>foiblesses</orig><reg>faiblesses</reg></choice> pour des crimes? Il faut les cacher
+            ou les perdre. Mais la <ref target="#n15">Salpêtrière</ref>,
+            <ref target="#n16">Sainte-Pélagie</ref>, les <ref target="#n17">Magdalonnettes</ref>, ni le
+            couvent de <ref target="#n18">Valdonne</ref>, ne les contiendraient pas toutes. Le
+            <ref target="#n19">Refuge</ref> à Dijon, les <ref target="#n20">Annonciades</ref> à
+            Clermont-Margone, la Madeleine à la Flèche, Notre-Dame-de-Charité à Guingamp, celle de la
+            Riche à Tours, les Ursulines à Chinon, les Hospitalières à Comond, s’ouvraient
+            complaisamment à des prisonnières d’État qui souvent étaient des Messalines que des Vestales
+            avaient ordre de surveiller et de servir.
+          </p>
+
+            <pb n="25"/>
+            <p>
+                C’est dans ces fosses religieuses que
+                s’<choice>
+                    <orig>engloutissoient</orig>
+                    <reg>engloutissaient</reg>
+                </choice>
+                pour longtemps, pour toujours quelquefois, des jeunes gens dont le premier malheur a été leur
+                éducation, qui, sans avoir troublé l’ordre public par des délits, coupables de quelques
+                infidélités, de quelques abus de confiance que dénonçaient leurs pères, n’avaient enfin rien fait
+                qui les exposât à la sévérité des lois; c’est là que des familles que les préjugés rendaient
+                barbares condamnaient à une mort lente ceux qui
+                <choice>
+                    <orig>devoient</orig>
+                    <reg>devaient</reg>
+                </choice>
+                expier leur vie en donnant l’exemple utile des échafauds. Mais il paraît que la fureur ou la
+                démence
+                <choice>
+                    <orig>étoit</orig>
+                    <reg>était</reg>
+                </choice>
+                un prétexte qui valait encore mieux que des raisons, lorsque la faveur voulait servir la haine; et
+                les bourreaux prenaient le masque hypocrite de la bienfaisance. Enchaîner ces malheureux,
+                disaient-ils, c’est leur ôter...
+            </p>
+
+          <note xml:id="nRegV2" xml:lang="en">
+  This section modernizes certain spellings used by Manuel through pairs such
+  as
+  <choice>
+    <orig>étoit</orig>
+    <reg>était</reg>
+  </choice>.
+  The original form is preserved, while the regularized form is supplied to
+  make the text more accessible to modern readers.
+</note>
+
+<note xml:id="n1" xml:lang="en">
+  The bull Unigenitus, issued in 1713, condemned propositions associated with
+  Jansenism and became a major source of religious and political conflict in
+  eighteenth-century France. Manuel invokes it to show how disputes over belief
+  could lead to administrative repression and imprisonment.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n2" xml:lang="en">
+  “Blackstone” refers to William Blackstone, author of the Commentaries on the
+  Laws of England, which strongly emphasized protection against arbitrary
+  imprisonment. Manuel uses Blackstone as a contrast to criticize the French
+  system of confinement without open judicial process.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n3" xml:lang="en">
+  The Château du Taureau, in the bay of Morlaix, was one of several fortresses
+  used to detain prisoners under royal authority. Manuel includes it in order
+  to emphasize the broad geography of state confinement.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n4" xml:lang="en">
+  The château of Saumur, on the Loire, served at various times as a place of
+  detention. For Manuel, sites like this show that administrative imprisonment
+  extended well beyond Paris itself.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n5" xml:lang="en">
+  The Château-Trompette in Bordeaux was a royal citadel also used as a prison.
+  Manuel presents it as part of a kingdom-wide network of places where the
+  monarchy could confine people by administrative authority.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n6" xml:lang="en">
+  Pierre-Encise, near Lyon, functioned as a state prison as well as a
+  fortress. The succession of such place names encourages readers to imagine a
+  map of France covered with sites of arbitrary confinement.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n7" xml:lang="en">
+  The fort of Bréhon in Languedoc formed part of this dispersed network of
+  strongholds. Manuel’s emphasis is less on each site individually than on the
+  cumulative effect of so many prisons across the kingdom.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n8" xml:lang="en">
+  Mont-Saint-Michel, famous as a religious site, was also used as a prison for
+  religious and political detainees. Its inclusion shows how places of devotion
+  could also become instruments of confinement.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n9" xml:lang="en">
+  The château of Ham in Picardy was another fortress used as a place of state
+  detention. Such prisons became powerful symbols of arbitrary authority in the
+  political culture of the late Ancien Régime.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n10" xml:lang="en">
+  The Îles Sainte-Marguerite, off the Mediterranean coast, contained a
+  fortified prison that held both well-known and obscure detainees. Manuel uses
+  it to show that royal imprisonment extended even to island sites.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n11" xml:lang="en">
+  Saint-Lazare in Paris combined charitable, corrective, and carceral
+  functions. Manuel includes it in a broader continuum of institutions where
+  care, discipline, and punishment overlapped.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n12" xml:lang="en">
+  Bicêtre was at once a hospital, poorhouse, and prison. Its mixed functions
+  illustrate how social assistance and coercive confinement were often closely
+  linked in the old regime.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n13" xml:lang="en">
+  Charenton refers here to the asylum and detention site where people judged
+  insane or socially disruptive could be confined by administrative decision.
+  Manuel suggests that claims of madness could become a convenient excuse for
+  removing inconvenient people from public life.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n14" xml:lang="en">
+  The Picpus and similar religious congregations could receive women whom their
+  families or authorities wished to hide, discipline, or control. Manuel
+  treats such houses as extensions of the wider system of confinement.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n15" xml:lang="en">
+  The Salpêtrière in Paris combined hospital, workhouse, and correctional
+  functions, and many women were confined there through lettres de cachet or
+  family denunciation. Manuel uses it as a symbol of moral and administrative
+  coercion.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n16" xml:lang="en">
+  Sainte-Pélagie functioned as a women’s prison and later became known as a
+  site of political detention. In Manuel’s account, it represents the
+  intersection of gender, morality, and state power.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n17" xml:lang="en">
+  The Magdalonnettes, or Filles de la Madeleine, housed women accused of moral
+  disorder. Manuel groups them with other institutions to show how allegations
+  of vice could justify punitive isolation.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n18" xml:lang="en">
+  The convent of Valdonne, like other houses in Manuel’s list, could receive
+  women placed there by their families or by administrative order. He presents
+  this practice as imprisonment disguised as moral reform.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n19" xml:lang="en">
+  The Refuge in Dijon was one of several provincial institutions where women
+  could be enclosed in the name of protection or correction. Manuel describes
+  such places as religious pits in which people disappeared for years.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n20" xml:lang="en">
+  The Annonciades and the other female communities listed by Manuel formed part
+  of a wider network of institutions used to confine women across the kingdom.
+  Together they reveal the cooperation of family authority, religious life, and
+  royal power in enforcing a hidden parallel justice.
+  <ref type="biblio" target="#Darnton"/>
+</note>
+
+<note xml:id="n21" xml:lang="en">
+  Manuel’s description of women being hidden and controlled through confinement
+  can be compared with broader questions about how societies regulate the
+  visibility of the female body. Havelock’s study of Aphrodite in Greek art
+  shows how female display could be both admired and morally policed.
+  <ref type="biblio" target="#Havelock"/>
+</note>
+
+<note xml:id="n22" xml:lang="en">
+  The network of prisons and convents mapped by Manuel can be compared with the
+  movement of powerful cultural objects across space. Gribbin shows how the
+  Athena Parthenos acquired new meanings as it was copied and relocated in
+  different settings.
+  <ref type="biblio" target="#Gribbin"/>
+</note>
+
+<note xml:id="n23" xml:lang="en">
+  Manuel’s attack on confinement as a system of discipline invites comparison
+  with other highly regulated societies. Kulesza’s account of Sparta shows a
+  very different world in which institutions and laws were used to shape
+  collective behavior and civic identity.
+  <ref type="biblio" target="#Kulesza"/>
+</note>
+        </div>
+      </div>
+    </body>
+      
+      <back>
+          <listBibl>
+          <bibl xml:id="Darnton">
+            <author>Robert Darnton</author>
+            <title>An Early Information Society: News and the Media in Eighteenth-Century Paris</title>
+            <title level="j">The American Historical Review</title>
+            <date when="2000">2000</date>
+            <biblScope unit="volume">105</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <biblScope unit="page">1–35</biblScope>
+          </bibl>
+          <bibl xml:id="Havelock">
+            <author>Christine Mitchell Havelock</author>
+            <title>The Aphrodite of Knidos and Her Successors: A Historical Review of the Female Nude in Greek Art</title>
+            <pubPlace>Ann Arbor</pubPlace>
+            <publisher>University of Michigan Press</publisher>
+            <date when="1995">1995</date>
+          </bibl>
+          <bibl xml:id="Gribbin">
+            <author>Christopher Gribbin</author>
+            <title>Athens to Australia: The Athena Parthenos</title>
+            <title level="j">Agora</title>
+            <date when="2019">2019</date>
+            <biblScope unit="volume">54</biblScope>
+            <biblScope unit="issue">1</biblScope>
+            <biblScope unit="page">3–9</biblScope>
+          </bibl>
+          <bibl xml:id="Kulesza">
+            <author>Ryszard Kulesza</author>
+            <title>Sparta: History, State, and Society</title>
+            <pubPlace>Berlin</pubPlace>
+            <publisher>Peter Lang</publisher>
+            <date when="2022">2022</date>
+          </bibl>
+          </listBibl>
+      </back>
+      
+  </text>
 </TEI>

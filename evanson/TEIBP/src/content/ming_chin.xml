@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital Scholarly Edition: “Ming Chin and the Baby Giant Panda” from the Ella
+               Evanson Scrapbooks</title>
+            <editor>Dean</editor>
+            <editor>Linhe</editor>
+            <editor>Shawn</editor>
+            <editor>Zhifan</editor>
+            <respStmt>
+               <resp>Encoded and curated by:</resp>
+               <name>Dean, Linhe, Shawn, Zhifan</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Washington, Textual Studies Program</publisher>
+            <date when="2026">Spring 2026</date>
+            <availability>
+               <p>Produced for educational purposes under the TXTDS 404 course project.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Evanson, Ella C.</author>
+               <title level="m">Ella Evanson Scrapbooks, 1941-1974</title>
+               <publisher>University of Washington Libraries, Special Collections (Accession No.
+                  2402-001)</publisher>
+               <pubPlace>Seattle, WA</pubPlace>
+               <note>This edition focuses specifically on the narrative document: “Ming Chin and the
+                  Baby Giant Panda.”</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>The team members followed a consistent encoding standard. We have preserved the
+               original student spellings and grammatical structures to respect the historical
+               authenticity of the narrative.</p>
+            <normalization>
+               <p>No systematic normalization has been applied to the dialogue or narrative
+                  content.</p>
+            </normalization>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2026-05-26" who="Shawn">Refined header for final full draft; narrowed scope
+            to Ming Chin text to prioritize depth of annotation.</change>
+         <change when="2026-05-31" who="Zhifan">Revised the editorial introduction to align with the
+            narrowed focus on “Ming Chin and the Baby Giant Panda”; reorganized the body text within
+            a div element for a clearer TEI edition structure.</change>
+      </revisionDesc>
+   </teiHeader>
+
+   <text>
+      <front>
+         <div type="editorial_intro">
+            <head>Editorial Introduction</head>
+            <p>This digital edition presents Ella C. Evanson’s “Ming Chin and the Baby Giant Panda,”
+               a typescript narrative preserved in the Ella Evanson Scrapbooks held by University of
+               Washington Libraries Special Collections. Produced in Seattle in the early 1940s, the
+               text emerges from the wartime classroom culture of Washington School, where Evanson
+               taught students from diverse racial backgrounds. The story centers on a Chinese
+               student, Ming Chin, and his classmates’ efforts to raise funds for a baby giant
+               panda. At the same time, its references to China, Japan, war, and classroom conflict
+               place the story within the broader context of World War II and the racial tensions
+               that shaped Asian American life on the West Coast.</p>
+            <p>Our edition treats “Ming Chin and the Baby Giant Panda” not only as a children’s
+               story, but also as a social and archival artifact. The narrative preserves traces of
+               classroom life, wartime feeling, racial language, and the ways global conflict
+               entered the everyday world of students. As Yoon K. Pak argues in <title level="m"
+                  >Wherever I Go, I Will Always Be a Loyal American</title>, Seattle’s Japanese
+               American schoolchildren experienced a painful contradiction between democratic
+               citizenship education and the racial exclusion authorized by Executive Order 9066.
+               Although Evanson’s story focuses on a Chinese student, its classroom setting and its
+               reference to anti-Japanese language make it important for understanding the
+               racialized atmosphere of Seattle schools during the war.</p>
+            <p>Our editorial approach is primarily diplomatic. We preserve original spelling,
+               punctuation, capitalization, grammar, and historically charged language rather than
+               modernizing or sanitizing the document. We use TEI markup to identify people, places,
+               historical references, and key terms, while editorial notes provide historical and
+               archival context. This apparatus is designed to help readers understand the story as
+               both a literary text and a record of wartime student experience and local Asian
+               American history in Seattle.</p>
+         </div>
+      </front>
+
+      <body>
+         <div type="edition" xml:id="ming_chin">
+            <head>Ming Chin and the Baby Giant Panda</head>
+
+            <p>James Smith strutted up to the front of the schoolroom and said, "Miss Brown, may I
+               make an announcement?"</p>
+            <p>"Yes, certainly, James."</p>
+            <p>"As treasurer of the <seg xml:id="term_panda_fund">Baby Giant Panda Fund</seg><note
+                  xml:id="note_panda" target="#croke2005">During the late 1930s and early 1940s, the
+                  acquisition of a live giant panda from China became a major cultural event in
+                  American zoos, often accompanied by large-scale public fundraising campaigns
+                  initiated by children. The efforts of the students in the story reflect this real
+                  historical “panda craze,” and the content announced by the teacher highlights how
+                  the outbreak of the Pacific War suddenly ended these trans-Pacific cultural and
+                  diplomatic exchanges.</note>, I wish to report that the last penny is in and now
+               we can pay for our baby giant panda."</p>
+
+            <p>The noisy applause that followed was offset by the report of <persName
+                  xml:id="char_brown">Miss Brown</persName><note xml:id="note_brown"
+                  target="#evanson_archive">Based on Ella C. Evanson, the actual teacher at the
+                  Washington School who collected these student narratives. She actively documented
+                  the diverse and everyday experiences of her students during the World War II era,
+                  acting as both educator and archivist.</note>, "I am sorry to tell you that on
+               account of the war the panda cannot yet be brought over from China."</p>
+
+            <p>Miss Brown's announcement was met by stunned silence, then Sylvia voiced her
+               resentment, "And after we worked so hard to raise the money! It's a gyp!"</p>
+
+            <p><persName xml:id="char_toji">Toji</persName><note xml:id="note_toji_archetype"
+                  target="#pak2002">The name Tooji, used by the student author of “My Ambition,” is
+                  closely echoed in Toji, the fictional Japanese American pupil who appears in
+                  Evanson’s classroom stories. The proximity is almost certainly deliberate: Evanson
+                  appears to have drawn the aspirational voice and ambition from her student’s own
+                  composition.</note>, appropriately said, "<seg xml:id="slur_japs">Those
+                  Japs</seg><note xml:id="note_japs_slur" target="#warren1999">This pejorative word
+                  reflects the strong anti-Japanese sentiment and wartime hysteria that broke out on
+                  the Pacific coast after the Pearl Harbor incident. As the Puget Sound area was
+                  mobilized for the war, the local Japanese-American community suffered a severe
+                  burden, which eventually led to the emptying of Seattle's vibrant Japantown and
+                  thousands of residents being forcibly relocated and detained. A student in the
+                  story uses this word to show how deeply these geopolitical tensions permeate the
+                  daily social dynamics of children in the classroom.</note> have no business in
+               China."</p>
+
+            <p>All the children were sad but Ming Chin seemed saddest.</p>
+
+            <p>"I wonder why Ming is so sad," said James as he watched the tall boy hurrying down
+               the street to <placeName xml:id="loc_yesler">Yesler School</placeName> a few days
+               later.</p>
+
+            <p>Each morning Ming Chin arrived breathless barely beating the tardy bell deadline.</p>
+
+            <p>"Bet I'd be plenty happy if I could do such good work," said the black-faced Abe.</p>
+
+            <p>"He makes me feel like a chiseler," James continued, "studying every minute. He works
+               in his brother's laundry on Pike Street, too. His father is in China."</p>
+
+            <p>"Isn't that enough to make him sad? Work in school every minute and work after
+               school?" Abe's sympathy was evident.</p>
+
+            <p>Miss Brown, realizing Ming Chin's loneliness, found a way to unlock his tense
+               lips.</p>
+            <p>"Ming, I'd like to hear about your home in China. How long since you left? What does
+               your father do?"</p>
+            <p>The class suddenly stopped. They had keen ears for stories.</p>
+            <p>A look of happiness changed the handsome face of the fourteen-year-old boy, and
+               though he spoke timidly in a low voice, not one of the forty interested listeners
+               missed a word.</p>
+            <p>"Two year were pass since I leave China. My father was professor of zoology in school
+               in Hong Kong."</p>
+            <p>"I get it," said James. "That's why you're always studying."</p>
+
+            <p><seg xml:id="hist_eo9066">Executive Order 9066</seg><note xml:id="note_eo9066"
+                  target="#archives_eo9066">Executive Order 9066, signed by President Franklin D.
+                  Roosevelt on 19 February 1942, authorized the Secretary of War and designated
+                  military commanders to establish military areas from which “any or all persons”
+                  might be excluded. Although there was no specific group named, it was enforced
+                  exclusively against people of Japanese ancestry in practice, resulting in an
+                  incarceration rate of approximately 120,000 individuals, the majority of whom were
+                  American citizens.</note> loomed over the community shortly after.</p>
+
+            <p><placeName xml:id="loc_washington_school">George Washington School</placeName><note
+                  xml:id="note_wash_school" target="#evanson_archive">George Washington School,
+                  referred to in this collection as Washington School, was a public junior high
+                  school in Seattle’s Central District where Ella Evanson taught seventh and eighth
+                  grade from 1928 until her retirement in 1956. They are known for its explicit
+                  commitment to democratic ideals and racial tolerance, serving roughly one thousand
+                  students drawn from Japanese American, Chinese American, Jewish, African American,
+                  and white families.</note> maintained its commitment to solidarity during these
+               trying times.</p>
+         </div>
+      </body>
+
+      <back>
+         <div type="bibliography">
+            <head>Bibliography</head>
+            <listBibl>
+               <bibl xml:id="pak2002">
+                  <author>Pak, Yoon K.</author>
+                  <title level="m">Wherever I Go, I Will Always Be a Loyal American: Schooling
+                     Seattle’s Japanese Americans During World War II</title>
+                  <publisher>Routledge</publisher>
+                  <pubPlace>New York</pubPlace>
+                  <date when="2002">2002</date>
+               </bibl>
+
+               <bibl xml:id="abe2021">
+                  <author>Abe, Frank</author>
+                  <author>Nimura, Tamiko</author>
+                  <title level="m">We Hereby Refuse: Japanese American Resistance to Wartime
+                     Incarceration</title>
+                  <publisher>Chin Music Press</publisher>
+                  <pubPlace>Seattle</pubPlace>
+                  <date when="2021">2021</date>
+               </bibl>
+
+               <bibl xml:id="fugita2004">
+                  <author>Fugita, Stephen</author>
+                  <author>Fernandez, Marilyn</author>
+                  <title level="m">Altered Lives, Enduring Community: Japanese Americans Remember
+                     Their World War II Incarceration</title>
+                  <publisher>University of Washington Press</publisher>
+                  <pubPlace>Seattle</pubPlace>
+                  <date when="2004">2004</date>
+               </bibl>
+
+               <bibl xml:id="warren1999">
+                  <author>Warren, James R.</author>
+                  <title level="a">World War II Home Front on Puget Sound</title>
+                  <title level="j">HistoryLink</title>
+                  <date when="1999-09-13">13 September 1999</date>
+                  <ref target="https://www.historylink.org/File/1664"/>
+               </bibl>
+
+               <bibl xml:id="croke2005">
+                  <author>Croke, Vicki Constantine</author>
+                  <title level="m">The Lady and the Panda: The True Adventures of the First American
+                     Explorer to Bring Back China's Most Exotic Animal</title>
+                  <publisher>Random House</publisher>
+                  <pubPlace>New York</pubPlace>
+                  <date when="2005">2005</date>
+               </bibl>
+
+               <bibl xml:id="archives_eo9066">
+                  <author>National Archives</author>
+                  <title level="a">Executive Order 9066: Resulting in Japanese-American
+                     Incarceration</title>
+                  <title level="j">National Archives</title>
+                  <date when="2021">2021</date>
+                  <ref target="https://www.archives.gov/milestone-documents/executive-order-9066"/>
+               </bibl>
+
+               <bibl xml:id="evanson_archive">
+                  <author>Evanson, Ella C.</author>
+                  <title level="m">Ella Evanson Scrapbooks, 1941-1974</title>
+                  <publisher>University of Washington Libraries, Special Collections</publisher>
+                  <pubPlace>Seattle, WA</pubPlace>
+                  <date from="1941" to="1974">1941-1974</date>
+               </bibl>
+            </listBibl>
+         </div>
+      </back>
+   </text>
+</TEI>
