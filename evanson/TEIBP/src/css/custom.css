@@ -309,3 +309,71 @@ div[subtype="back_matter"] {
   margin-top: 3em !important;
   border-left-color: #8f7a55 !important;
 }
+/* =========================
+   Bibliography formatting
+   ========================= */
+
+/* Make the bibliography section visually separate */
+div[type="bibliography"],
+.bibliography {
+  margin-top: 3em !important;
+  padding-top: 1.5em !important;
+  border-top: 2px solid #d6cdbc !important;
+}
+
+/* Force each bibliographic entry onto its own line/block */
+listBibl,
+.listBibl {
+  display: block !important;
+  margin-top: 1em !important;
+}
+
+/* TEI Boilerplate may output bibl as inline, so force block display */
+bibl,
+.bibl,
+listBibl > bibl,
+.listBibl > .bibl {
+  display: block !important;
+  margin-bottom: 1.2em !important;
+  padding-left: 1.8em !important;
+  text-indent: -1.8em !important;
+  line-height: 1.45 !important;
+}
+
+/* Make bibliography text slightly smaller than main text */
+div[type="bibliography"] bibl,
+.bibliography .bibl,
+listBibl bibl,
+.listBibl .bibl {
+  font-size: 0.9em !important;
+}
+
+/* Keep titles italic, but avoid excessive spacing */
+bibl title,
+.bibl title,
+.titlem,
+.titlea,
+.titlej {
+  font-style: italic !important;
+}
+
+/* Add punctuation-like spacing between bibliographic components */
+bibl author::after,
+.bibl .author::after {
+  content: ". " !important;
+}
+
+bibl title::after,
+.bibl .title::after {
+  content: ". " !important;
+}
+
+bibl publisher::after,
+.bibl .publisher::after {
+  content: ", " !important;
+}
+
+bibl pubPlace::after,
+.bibl .pubPlace::after {
+  content: ", " !important;
+}
