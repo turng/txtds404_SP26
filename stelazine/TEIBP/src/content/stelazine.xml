@@ -74,7 +74,7 @@
          <div type="cover">
             <head>STELAZINE</head>
             <figure>
-               <graphic url="COVER_IMG"/>
+               <graphic url="https://drive.google.com/thumbnail?id=1L7x4OCzbOSqc2k0rDvvlIWzIglRru4m6"/>
                <figDesc>The cover of this issue of STELAZINE</figDesc>
                <head>STELAZINE</head>
                <p>50!</p>
@@ -84,10 +84,9 @@
                <p>New York</p>
             </figure>
          </div>
-         <pb n="1"/>
 
 
-
+         <pb n="2"/>
          <div type="page">
             <head>STALKED</head>
             <figure>
@@ -262,9 +261,9 @@
 
             <p> Penetration will play <name type="location">the Whiskey</name> in LA <date>June
                   15-17</date>.... </p>
-
          </div>
 
+        
          <div>
             <figure>
                <graphic url="-"/>
@@ -312,10 +311,14 @@
                </p>
             </figure>
          </div>
-         <pb n="2"/>
 
+
+
+
+
+
+         <pb n="3"/>
          <div type="page">
-
             <figure>
                <graphic url="-"/>
                <figDesc>Collage of pictures of CLASH band members</figDesc>
@@ -447,14 +450,14 @@
                on the east coast have trouble getting signed. It seemed that British bands had an
                easier time getting signed after awhile. CONTINUED ON PAGE 4 </p>
             <p>PAGE 3</p>
-            <pb n="3"/>
          </div>
   
             
+         <pb n="4"/>
             <div>
                <head>MORE PAUL</head> 
                 
-<figure>
+         <figure>
                <graphic url="-"/>
                <figDesc></figDesc>
             </figure>                
@@ -498,7 +501,10 @@
                 <p><hi rend="italic">(At this point road manager Johnny Green broke up the interviews. We all grab the last bits of food in the dressing room and leave).</hi></p>
             </div>
 
-            <div>
+         
+         
+         <pb n="5"/>
+         <div type="page">
 		  <figure>
 		     <graphic url="X"/>
 		  </figure>
@@ -547,7 +553,9 @@
                     <p>POLY: So far I haven’t really liked any of them, but maybe that’s because alot of them are older, and I only really like the young groups—’cause to me that’s what it should be about. So if there was young New York groups I’d probably like them, but they’re all quite old and they come from another period. I can’t really relate to it.</p>
                     <p>NEVA: What kind of music do you like then?</p>
 			</div>
+         
 
+         <pb n="6"/>
          <div type="poem">
             <lg>
                <l>New York, New York,......n.y. A city tingling in the cold. This city</l>
@@ -652,8 +660,9 @@
                <p> page 6 </p>
             </div>
          </div>
-         <pb n="6"/>
+         
 
+         <pb n="7"/>
          <div type="page">
             <head>LAURA DAVI</head>
             <figure>
@@ -840,10 +849,10 @@
 
             <p>PAGE 7</p>
          </div>
-         <pb n="7"/>
 
+         
+         <pb n="8"/>
          <div type="page">
-
             <head>I.O.G.T HALL MARCH 31ST</head>
             <figure>
                <graphic url="-"/>
@@ -853,10 +862,11 @@
                <p>page 8</p>
             </figure>
          </div>
-         <pb n="8"/>
          
-         <div>
-            
+         
+         
+         <pb n="9"/>
+         <div type='page'>
             <p> NEW YORK CONTINUES </p>
             <p><name>Vince Scelsa)</name>, will not commit itself to the future. WPLJ-FM has sunk to
                ass-kissing the NY music industry. The surprises are WPIX and WLIB, two stations with
@@ -1005,9 +1015,11 @@
             </figure>
             <p>page 9</p>
          </div>
-         <pb n="9"/>
          
-         <div>
+         
+         
+         <pb n="10"/>
+         <div type="page">
             <p> NEW YEAR'S PARTY 1979 …New Year’s Eve in <name type="location">Seattle</name> saw
                one of the most all around <hi rend="ul">amusing</hi> parties in years--local freaks
                packed the enemy’s practice studio to down Guyana punch + dance their hearts away to
@@ -1064,9 +1076,11 @@
             </figure>
             <p>page 10</p>
          </div>
-         <pb n="10"/>
+        
          
-         <div>
+         
+         <pb n="11"/>
+         <div type="page">
             <figure>
                <graphic url="a"/>
                <graphic url="b"/>
@@ -1078,11 +1092,13 @@
             </figure>
             <p>page 11</p>
          </div>
-         <pb n="11"/>
          
          
+         
+         <pb n="12"/>
          <div type="page">
             <head>XTE</head>
+            
             <figure>
                <graphic url="-"/>
                <p>XTE</p>
@@ -1330,11 +1346,10 @@
                   </div>
                </div>
             </div>
-         </div>
-         <pb n="12"/>
+         </div> 
 
 
-
+         <pb n="13"/>
          <div type="page">
             <figure>
                <graphic url="-"/>
@@ -1344,9 +1359,14 @@
                <p><name type="band">THE RADIOS</name></p>
             </figure>
          </div>
-         <pb n="13"/>
          
          
+         <pb n="14"/>
+         <div type="page">
+            <p>PUT PAGE 14 HERE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
+            
+         </div>
+            
          
 
          <pb n="15"/>
