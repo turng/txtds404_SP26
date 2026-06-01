@@ -1,10 +1,5 @@
 /* Place project-specific CSS here */
 
-.content {
-    width: 75%;
-    margin: auto;
-    border: 1px;
-}
 
 h1 {
     color:black;
@@ -27,4 +22,39 @@ h3 {
 
 div {
     text-align: center;
+}
+TEI head {
+  display: block;
+  text-align: justify;
+  text-justify: auto;
+  font-family: Garamound;
+  font-weight: normal;
+}
+body > head {
+  text-align: justify;
+  text-justify: auto;
+  font-size: 180%;
+  text-indent: -0.5em;
+}
+div > head {
+  text-align: justify;
+  text-justify: auto;
+  font-size: 170%;
+  text-indent: -0.5em;
+}
+div > div > head {
+  font-size: 155%;
+}
+div > div > div > head {
+  font-size: 140%;
+}
+div > div > div > div > head,
+list > head {
+  font-size: 130%;
+}
+div > div > div > div > div > head {
+  font-size: 120%;
+}
+div > div > div > div > div > div head {
+  font-size: 110%;
 }
