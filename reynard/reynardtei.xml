@@ -117,7 +117,7 @@
             <div type="chapter">
                <head><hi rend="rt">The firste complaynt made <persName>Isegrym the Wulf</persName>
                      on <persName>Reynart</persName>, capitulo
-                  ij<g>flower</g><g>flower</g></hi></head>
+                  ij<g ref="flower"/><g ref="flower"/></hi></head>
                <p><persName><hi rend="il">I</hi>segrym the Wulf</persName> wyth his lynage and
                   frendes cam and stode to fore the kynge, &amp; sayde <g ref="spiky"/><said>Hye and
                      myghty prynce, my lord the hynge, I beseche yow that thurgh your grete mygtht,
