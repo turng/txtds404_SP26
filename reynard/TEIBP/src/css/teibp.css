@@ -289,7 +289,9 @@ back {
   display: block;
 }
 bibl {
-  /* Empty Rule Set */
+  display: block;
+  padding-left: 2em;
+  text-indent: -2em;
 }
 bibl[rend~="block"],
 bibl[rendition~="#block"] {
@@ -1938,11 +1940,13 @@ div.facsImage img:first-child {
   font-weight: normal;
 }
 
-body > div > head > hi style {
-    font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
+body > div > head > hi style[[:rt:]] {
+  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
   font-weight: bold;
   color: #1100;
   display: inline;
     }
-
+back > div[[:annotations:]] {
+  display: block
+}
