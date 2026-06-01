@@ -344,6 +344,8 @@
                   he cam not so meryly agayn.</p>
             </div>
          </div>
+      </body>
+      <back>
          <div type="annotations">
             <head>Editorial Notes</head>
             <note xml:id="c1n1">The consonant "v" and the vowel "u" were interchangeable in written English through the Middle Ages. This began with the all-uppercase Latin script and is seen here in "dyuerse" (diverse).</note>
@@ -353,6 +355,6 @@
             <note xml:id="c4n1">"pees and saufgarde" means peace and safeguard which refers to the peace and safety of not just the king but the kingdom as well.</note>
             <note xml:id="c5n1">The spelling "Ysegrym" is being used in place of "Isegrym" here with the "Y" interchangeable with the vowel "I". </note>
          </div>
-      </body>
+      </back>
    </text>
 </TEI>
