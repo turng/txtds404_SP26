@@ -1977,3 +1977,7 @@ div.facsImage img:first-child {
     display:flex;
     justify-content:center;
 }
+
+.p{
+    font-size:12px;
+}
