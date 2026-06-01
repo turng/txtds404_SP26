@@ -827,6 +827,13 @@ l {
   padding-left: 2em;
   text-indent: -2em;
 }
+l[rend="indented"] {
+   text-indent: 50px;
+}
+p[rend="italicized"],
+l[rend="italicized"] {
+    font-style: italic;
+} /*added from custom.css, not sure if it will work*/
 list[type="gloss"] > label {
   display: block;
   margin-top: 0.25em;
@@ -889,6 +896,12 @@ lg {
   margin-top: 1em;
   margin-bottom: 1em;
 }
+lg[rend="center"] {
+    align-content: center;
+}
+lg[rend="left"] {
+    justify-content: left;
+} /* also added from custom.css */
 link {
   /* Empty Rule Set */
 }

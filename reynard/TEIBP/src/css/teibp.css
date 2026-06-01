@@ -289,7 +289,9 @@ back {
   display: block;
 }
 bibl {
-  /* Empty Rule Set */
+  display: block;
+  padding-left: 2em;
+  text-indent: -2em;
 }
 bibl[rend~="block"],
 bibl[rendition~="#block"] {
@@ -655,7 +657,7 @@ graph {
   /* Empty for now */
 }
 graphic {
-  display: none;
+  display: inline;
 }
 group {
   /* Empty Rule Set */
