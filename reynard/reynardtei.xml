@@ -69,8 +69,17 @@
             chose to diplomatically transcribe without modernizing spelling and keeping all
             punctuation the same. However, we provided some modernized spellings in editorial notes
             for clarity and readability. There are also several illustrations which are included in
-            our digital edition, such as the illuminated letters or the title page. </p>
-         <p>The History of Reynard the Foxe</p>
+            our digital edition, such as the illuminated letters or the title page.</p>
+         <titlePage>
+            <docTitle>
+               <titlePart>The History of Reynard the Foxe</titlePart>
+            </docTitle>
+            <figure>
+               <figDesc>Illuminated title page.</figDesc>
+               <graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/TitlePage.png">
+               </graphic>
+            </figure>
+         </titlePage>
       </front>
       <body>
          <div type="chapter">
@@ -97,8 +106,7 @@
             <pb n="2"/>
             <div type="chapter">
                <head><hi rend="rt">Howe the <persName>Lyon</persName>, kynge of alle bestis, sent
-                     out hys <ref target="#c2n2">mandementis</ref> that alle beestis sholde come to his feest and court,
-                     capitulo primo<g ref="flower"/><g ref="flower"/></hi></head>
+                     out hys <ref target="#c2n2">mandementis</ref> that alle beestis sholde come to his feest and court, <ref target="c2n3">capitulo primo</ref><g ref="flower"/><g ref="flower"/></hi></head>
                <p><figure><figDesc>Illuminated capital "I."</figDesc><graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Capital2.png"></graphic></figure><hi rend="caps">t</hi> was about the time of <date>Penthecoste</date> or
                      <date>Whytsontyde</date>, that the wodes comynly be lusty and gladsom, and the
                   trees clad with leuys and blossoms, and the grounde with herbes &amp; flowris
@@ -351,6 +359,7 @@
             <note type="editorial" xml:id="c1n1">The consonant "v" and the vowel "u" were interchangeable in written English through the Middle Ages. This began with the all-uppercase Latin script and is seen here in "dyuerse" (diverse).</note>
             <note type="editorial" xml:id="c2n1">The titular "Reynard" is often spelled "Reynart" throughout the text.</note>
             <note type="editorial" xml:id="c2n2">"Mandementis" is the plural of mandament meaning command</note>
+            <note type="editorial" xml:id="c2n3"><ref target="latin">capitulo primo," Latin for "chapter one"</ref></note>
             <note type="editorial" xml:id="c3n1"><ref target="wit">"To wete" is an archaic form of "to wit," meaning "that is to say".</ref></note>
             <note type="editorial" xml:id="c4n1">A “meat pudding” was a traditional British food, and might in this case refer to either black or white pudding as both contained some meat or meat casing.</note>
             <note type="editorial" xml:id="c4n2">"pees and saufgarde" means peace and safeguard which refers to the peace and safety of not just the king but the kingdom as well.</note>
@@ -371,6 +380,10 @@
             <bibl xml:id="eme">
                Middle English Dictionary (MED), University of Michigan.
                https://quod.lib.umich.edu/m/middle-english-dictionary/
+            </bibl>
+            <bibl xml:id="latin">
+               Mahoney, Kevin. “Capitulum.” Latdict. https://latin-dictionary.net/definition/8026/capitulum-capituli.
+               Mahoney, Kevin. “Primo.” Latdict. https://latin-dictionary.net/search/latin/primo. 
             </bibl>
          </div>
       </back>
