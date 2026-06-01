@@ -13,7 +13,12 @@
             <editor>Jolin Nie</editor>
          </titleStmt>
          <publicationStmt>
-            <p>As of yet unpublished.</p>
+            <publisher>Professor Geoffrey Turnovsky</publisher>
+            <date when="2026-05">May 2026</date>
+            <availability>
+               <p>Published online as a digital scholarly edition.</p>
+            </availability>
+            <idno type="URL">https://turng.github.io/txtds404_SP26/nursery_poems/TEIBP/src/content/nursery_poems.xml</idno>
          </publicationStmt>
          <sourceDesc>
             <p>A 16 page chapbook, with woodblock illustrations. This text was fisrt published in Banbury, Engand, in the 17th century (the exact date of publishment is unknown, often estimated as being published around 1840). It is attributed as having been printed by J. G. Rusher. The copy we've adapted is stored in the University of Washington's historical children's literature collection in the rare books archive.
@@ -24,6 +29,38 @@
                   <date notBefore="1830" notAfter="1877"></date>
                   <idno type="OCLC">270951267</idno>
                </bibl>
+               <listBibl>
+                  <head>Bibliography</head>
+                  <bibl>
+                     <author>Kumar, Mohan</author>
+                     <title>Curious Origins and Meaning of 'Sing a Song of Sixpence'</title>
+                     <publisher>HubPages</publisher>
+                     <date when="2024-06-13">13 June 2024</date>
+                     <ref target="https://discover.hubpages.com/literature/Curious-Origins-of-Nursery-Rhymes-Sing-a-Song-of-Sixpence">https://discover.hubpages.com/literature/Curious-Origins-of-Nursery-Rhymes-Sing-a-Song-of-Sixpence</ref>
+                  </bibl>
+                  <bibl>
+                     <title>That's the Way to Do It! A History of Punch &amp; Judy</title>
+                     <publisher>Victoria and Albert Museum</publisher>
+                     <date when="2024-04-17">17 April 2024</date>
+                     <ref target="https://www.vam.ac.uk/articles/thats-the-way-to-do-it-a-history-of-punch-and-judy">https://www.vam.ac.uk/articles/thats-the-way-to-do-it-a-history-of-punch-and-judy</ref>
+                  </bibl>
+                  <bibl>
+                     <title>This Pig Went to Market — Lyrics &amp; Meaning | Nursery Rhymes from Mother Goose</title>
+                     <publisher>Nursery Rhymes From Mother Goose</publisher>
+                     <ref target="https://nurseryrhymesmg.com/rhymes/this_pig_went_to_market.htm">https://nurseryrhymesmg.com/rhymes/this_pig_went_to_market.htm</ref>
+                  </bibl>
+                  <bibl>
+                     <author>Various</author>
+                     <title>The Big Book of Nursery Rhymes</title>
+                     <editor>Walter Jerrold</editor>
+                     <editor>David Edwards</editor>
+                     <editor>Matthew Wheaton</editor>
+                     <publisher>Project Gutenberg</publisher>
+                     <note>Originally published by Blackie &amp; Son, Ltd.</note>
+                     <date when="2012-01-13">13 January 2012</date>
+                     <ref target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm">https://www.gutenberg.org/files/38562/38562-h/38562-h.htm</ref>
+                  </bibl>
+               </listBibl>
             </p>
          </sourceDesc>
       </fileDesc>
@@ -70,7 +107,7 @@
                <l>Sing a song a sixpence,</l>
                <l rend="indented">A bag full of rye;</l>
                <l>Four-and-twenty blackbirds</l>
-               <l rend="indented">Baked in a pie;</l>
+               <l rend="indented"><ref target="#fn-1-1">Baked in a pie</ref>;</l>
                <l>When the pie was opened,</l>
                <l rend="indented">The birds began to sing;</l>
                <l>Was not this a dainty dish</l>
@@ -87,6 +124,24 @@
                <l rend="indented">And snapt at her nose.</l>
             </lg>
          </lg>
+         <noteGrp>
+            <note type="footnote" xml:id="fn-1-1">
+               <p>
+                  Blackbird pie was an 'entremet' dish where live birds were sealed within a piecrust, to be released when the crust was cut as a spectacle for diners (Kumar). 
+               </p>
+            </note>
+            <note type="footnote" xml:id="fn-1-2">
+               <p>
+                  In the 1950's an additional stanza (below) of 4 lines was added to this poem which changes the ending to a happier one, where a named version of our maid reacquires her nose after it is bitten off (Kumar).
+               </p>
+               <lg type="stanza">
+                  <l>There was such a commotion,</l>
+                  <l>that little Jenny Wren</l>
+                  <l>Flew down into the garden,</l>
+                  <l>and put it back again.</l>
+               </lg>
+            </note>
+         </noteGrp>
          <pb n="2"/>
          <figure type="image" rend="left">
             <graphic url="imgs/rooster.png"/>
@@ -94,12 +149,17 @@
          </figure>
          <lg type="poem" n="2">
             <lg type="stanza" rend="left" rhyme="aaba">
-               <l>Crows Cock-a-doodle-do!</l>
+               <l><ref target="#fn-2-1">Crows</ref> Cock-a-doodle-do!</l>
                <l rend="indented">My dame has lost her shoe;</l>
                <l>Master broke his fiddle-stick,</l>
                <l rend="indented">And don't know what to do.</l>
             </lg>
          </lg>
+         <note type="footnote" xml:id="fn-2-1">
+            <p>
+               <ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#COCK-A-DOODLE-DO">A version of this poem</ref> found in <hi rend="italicized">The Big Book of Nursery Rhymes</hi> (2012) omits the word 'crows' on the inital line. This version also adds a second stanza.
+            </p>
+         </note>
          <pb n="3"/>
          <figure type="image" rend="center">
             <graphic url="imgs/book_quill_and_feathers.png"/>
@@ -150,6 +210,11 @@
                <l rend="indented">And could n't find his way home.</l>
             </lg>
          </lg>
+         <note type="footnote" xml:id="fn-5-1">
+            <p>
+               <hi rend="italicized">Song set to the five toes</hi>, is an early version of the enduring nursery rhyme <hi rend="italicized">This Little Piggy</hi>. Notable changes in the modern version include the replacement of 'pig' with 'piggy' which lends a more lighthearted tone to the poem; line three's bread and butter have been supplanted by roast beef (though other historical versions of the rhyme simply used 'roast meat' in this line); the shift from 'week' to 'wee' to represent the squeals of the fifth pig; and finally the conclusion of the poem shifting from our version's lost pig to the modern line ending "all the way home" (<hi rend="italicized">This Pig Went to Market</hi>) Just like in <hi rend="italicized">Sing a song a sixpence</hi> the modern editions of this rhyme add a happier conclusion.
+            </p>
+         </note>
          <pb n="5"/>
          <figure>
             <graphic url="imgs/dog.png"/>
@@ -173,6 +238,9 @@
                <l rend="indented">hop!</l>
             </lg>
          </lg>
+         <note type="footnote" xml:id="fn-6-1">
+            <p><hi rend="italicized">The Big Book of Nursery Rhymes</hi> contains an identical poem entitled <hi rend="italicized"><ref target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#TWO_LITTLE_DOGS">Two Little Dogs</ref></hi></p>
+         </note>
          <pb n="6"/>
          <figure>
             <graphic url="imgs/pig.png"/>
@@ -181,7 +249,7 @@
          <lg type="poem" n="8">
             <lg type="stanza" rend="center" rhyme="abcb">
                <l>Now have you ever heard</l>
-               <l rend="indented">Of Billy Pringle's Pig?</l>
+               <l rend="indented">Of <ref target="#fn-8-1">Billy Pringle's Pig?</ref></l>
                <l>It was not very small,</l>
                <l rend="indented">Nor yet so very big:</l>
             </lg>
@@ -198,6 +266,11 @@
                <l rend="indented">And poor piggy wiggee.</l>
             </lg>
          </lg>
+         <note type="footnote" xml:id="fn-8-1">
+            <p>
+               The <hi rend="italicized">Big Book of Nursery Rhymes</hi> (2012) contains a version of this poem entitled <hi rend="italicized"><ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#BETTY_WINKLES_PIG">Betty Winkle's Pig</ref></hi>, which makes a few key changes. Firstly and most obviously the titular character's name has been changed from Billy to Betty, and appears to have been reimagined as a little girl who's pet pig has died. This version also abandons the stanzaic structure found in the one from our chapbook. Instead it uses indentation to separate sections, indenting the fifth, seventh, ninth, tenth, and eleventh lines a single time, while indenting the sixth and eighth lines twice. The rhymes remain unchanged. Additionally the framing device present in our verion's first line is omitted entirely in the <hi rend="italicized">Big Book of Nursery Rhymes</hi> version.
+            </p>
+         </note>
          <pb n="7"/>
          <figure type="image" rend="center">
             <graphic url="imgs/barn_cat.png"/>
@@ -233,7 +306,7 @@
             <l rend="center">—</l> 
             <lg type="stanza" rend="left" rhyme="abba">
                <l>Pray who is her doctor?</l>
-               <l rend="indented">I, said fam'd Mister Punch,</l>
+               <l rend="indented">I, said fam'd <ref target="#fn-9-1">Mister Punch</ref>,</l>
                <l rend="indented">At my back a great hunch;</l>
                <l>But I am her doctor.</l>
             </lg>
@@ -259,6 +332,9 @@
                <l>And we'll ring the great bell.</l>
             </lg>
          </lg>
+         <note type="footnote" xml:id="fn-9-1">
+            <p>This line references "Mister Punch", a popular character in English puppet theatre from the 18th century onwards, and especially as a hand-puppet in the 19th century, when this text would have been circulating ("That's the way to do it").</p>
+         </note>
          <pb n="10"/>
          <figure>
             <graphic url="imgs/rabbit.png"/>
@@ -310,6 +386,11 @@
                <l rend="indented">Jiggety jog.</l>
             </lg>
          </lg>
+         <note type="footnote" xml:id="fn-12-1">
+            <p>
+               This poem appears to be a localized version of <ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#TO_MARKET">a nearly identical poem</ref> included in <hi rend="italicized">The Big Book of Nursery Rhymes</hi>, which makes no mention of Banbury, instead repeating the first line at the beginning of the second stanza. Since this text was printd in Banbury we can surmize that this change was made to lend the poem some local identity.
+            </p>
+         </note>
          <pb n="12"/>
          <figure>
             <graphic url="imgs/man_with_gun.png"/>
@@ -336,10 +417,13 @@
                <l>Shall win, be they master or miss.</l>
             </lg>
          </lg>
+         <note type="footnote" xml:id="fn-13-1">
+            <p><hi rend="italicized">The Big Book of Nursery Rhymes</hi> includes <ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#THE_LITTLE_MAN_WITH_A_GUN">a somewhat similar poem</ref>, but with substantial variance in structure and content. This version has the gunman shoot Johnny Sprig, where the <hi rend="italicized">Big Book</hi> edition's man targets a duck, then a drake. It seperates the lines into three stanzas and also repeats the final word of each evenly numbered line three times.</p>
+         </note>
          <pb n="13"/>
          <lg type="poem" n="15">
             <lg type="stanza" rend="center" rhyme="abcbdeaefghgijkj">
-               <l>Robin and Richard</l>
+               <l><ref target="#fn-15-1">Robin and Richard</ref></l>
                <l rend="indented">Were two little men,</l>
                <l>They did not awake</l>
                <l rend="indented">Till the clock struck ten:</l>
@@ -366,6 +450,11 @@
                <l rend="indented">When mettle's put to test.</l>
             </lg>
          </lg>
+         <note type="footnote" xml:id="fn-15-1">
+            <p>
+               This poem differs from a nearly identical version in <hi rend="italicized">The Big Book of Nursery Rhymes</hi> only in lineation, this version opting to split into twice as many lines as <ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#ROBIN_AND_RICHARD">the other</ref>.
+            </p>
+         </note>
          <pb n="14"/>
          <figure>
             <graphic url="imgs/mother_goose.png"/>
@@ -401,7 +490,7 @@
          </figure>
          <lg type="poem" n="19">
             <lg type="stanza" rend="left" rhyme="abcbdefe">
-               <l>I had a little Pony,</l>
+               <l><ref target="#fn-19-1">I had a little Pony</ref>,</l>
                <l rend="indented">And call'd it Dapple Grey;</l>
                <l>I lent it to a lady,</l>
                <l rend="indented">To ride a mile away:</l>
@@ -420,6 +509,11 @@
                <l rend="indented">The Children in the Wood.</l>
             </lg>
          </lg>
+         <note type="footnote" xml:id="fn-19-1">
+            <p>
+               There is <ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#I_HAD_A_LITTLE_PONY">a similar poem</ref> in <hi rend="italicized">The Big Book of Nursery Rhymes</hi> which includes the first 'I' as a drop-cap within an image, and uses slightly different language to this one. That version does not use the contracted forms found in this one. 
+            </p>
+         </note>
          <pb n="16"/>
       </body>
   </text>

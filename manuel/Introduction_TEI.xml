@@ -2,22 +2,61 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Title</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Publication Information</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Information about the source</p>
-         </sourceDesc>
-      </fileDesc>
+     <fileDesc>
+        <titleStmt>
+           <title>La Police de Paris Dévoilée</title>
+           <author>Pierre-Louis Manuel</author>
+           <editor>Brandon Hrnjak</editor>
+           <editor>Haylee Weisner</editor>
+        </titleStmt>
+        <publicationStmt>
+           <p>
+              This student digital edition strives to connect modern students and researchers interested in the history of policing, the French Revolution, and how state power is organized and justified with an 18th-century, firsthand account of administrative power in Paris. The selections included in this excerpt provide an accessible entry-point for those unfamiliar with obsolete French (perhaps French language learners) who want to begin to engage primary documents without needing to read the entire work. Through robust indexing and the addition of contextual footnotes, this edition aims to clarify references, explain historical institutions, and highlight patterns in the text’s treatment of surveillance and public order.
+           </p>
+        </publicationStmt>
+        <sourceDesc>
+           <p> La Police de Paris Dévoilée offers a contemporary account of the practices, personnel, and institutions of the Paris police, written from the perspective of Pierre-Louis Manuel, who served as a municipal official during the early years of the French Revolution. Manuel was later arrested and guillotined for his revolutionary work. The text contains two volumes of critique about policing, prisons, and the importance of freedom of press. 
+              <bibl>
+                 <title>La Police de Paris Dévoilée</title>
+                 <author>Pierre-Louis Manuel</author>
+                 <publisher>J.B. Garnery</publisher>
+                 <pubPlace>17 rue Serpente, Paris</pubPlace>
+                 <date>1791</date>
+                 <idno type="callNumber">HV8206.P3 M3 1791</idno>
+                 <idno type="OCLC">573635075</idno>
+              </bibl>
+           </p>
+        </sourceDesc>
+     </fileDesc>
+     <encodingDesc>
+        <editorialDecl>
+           <normalization>
+              <p>
+                 In this publication, spelling was modernized for ease of contemporary readers. Each instance of modernized spelling will be tagged with the choice element, and the original and regularized spellings will be listed using "orig" and "reg".  
+              </p>
+           </normalization>
+           <punctuation>
+              <p>
+                 Punctuation has not been regularized as it does not meaningfully impede textual comprehension. The editors have done their best to transcribe punctuation exactly as it appears in the text, which entails inconsistent patterns of spacing before/after punctuation marks.
+              </p>
+           </punctuation>
+           <interpretation>
+              <p>
+                 Sentence construction and other grammatical aspects were left as found in the original to best maintain the voice of the author and avoid divorcing the text from the temporal context in which it emerged. 
+              </p>
+           </interpretation>
+        </editorialDecl>
+     </encodingDesc>
   </teiHeader>
-  <text>
+   <text>
+      <front>
+         <p>La Police de Paris Dévoilée is a rare and critical text from an era of immense censorship and oppression. In late-Ancien Régime Paris, flow of information pertaining to the government and its actions was highly constrained. Paris did not have a daily newspaper until 1777, over a century later than some other major Western European cities <ref target="#Darnton">(Darnton 2000)</ref>. The printed materials that did exist were heavily monitored by a secret police force through practices described in La Police de Paris Dévoilée. This text is especially compelling because it does not simply describe institutions from a distance; it engages questions of surveillance, authority, and the relationship between government and the public from the perspective of an insider in ways that still feel urgent.</p> 
+         <p>This edition is primarily interested in the textual content of the work rather than the formal features of this copy. In particular, this project focuses on encoding the book’s treatment of censorship, surveillance, citizens’ rights, and police accountability, while also considering how a French text from the late 1700s can be made more accessible to modern audiences. This edition aims to help readers engage the historical and political significance of the text without losing sight of its original context. It also strives to create a foundation for future editorial and translation work by identifying places where issues of readability, interpretation, and political meaning are especially important.</p>
+         <p>This project regularizes spelling while maintaining all uses of archaic grammar or typographical quirks in order to represent the source text as accurately as possible while still emphasizing accessibility to the modern reader. In this way the transcription becomes a reliable base text for further works concerning modernization or translation. It also reflects an attempt to balance accessibility with respect for the age, provenance and historical character of the text.</p> 
+         
+      </front>
       <body>
          <div type="V1"> 
 <div type="AuxAmis">
@@ -25,7 +64,7 @@
    <head>AUX AMIS DE LA CONSTIUTION</head>
             
 <opener>
-   <salute>MESSIEURS,</salute>
+   <salute><hi rend="smallcaps">MESSIEURS,</hi></salute>
 </opener> 
             
 <p>Je n'ai quitté Paris qu'après m'être assuré que de l'herbe <choice><reg>couvrait</reg><orig>couvroit</orig></choice> la <hi rend="italic">bastille</hi>.</p> 
@@ -53,15 +92,15 @@
 <p>Il <choice><reg>faudrait</reg><orig>faudroit</orig></choice> qu'il y eut dans chaque ville un homme de lettres qui, avec toute l'énergie que donne l'amour de l'ordre, doué de ce vrai mérite <pb n="10"/>qui est trop modeste pour espérer des honneurs , et trop fier pour en chercher, fut chargé par les législateurs eux-mêmes , de relever tous les préjugés de ces administrations naissantes , où l'art de commander n'est pas plus avancé que l'art d'obéir. Il <choice><reg>apprendrait</reg><orig>apprendroit</orig></choice> <hi rend="italic">au peuple</hi>, tout souverain qu'il est , à avoir pour ceux à qui il a remis et ses forces et ses droits, cette déférence que <ref target="n#3">Lacédémone</ref> <choice><reg>avait</reg><orig>avoit</orig></choice> pour ses <hi rend="italic"><ref target="#n4">Ephores</ref></hi> , que Rome <choice><reg>avait</reg><orig>avoit</orig></choice> pour ses tribuns : <hi rend="italic">aux municipalités</hi>, que leurs fonctions sont une espèce de sacerdoce où les moeurs ne sont pas moins indispensable que les <choice><reg>talents</reg><orig>talens</orig></choice> ; et qu'avec une <hi rend="italic">écharpe</hi> on ressemble à ces <hi rend="italic">archontes</hi> que les grecs <choice><reg>condamnaient</reg><orig>condamnoient</orig></choice> à mort, lorsque perdant leur raison dans l'ivresse des repas, ils <choice><reg>exposaient</reg><orig>exposoient</orig></choice> au mépris les marques <pb n="11"/>de leurs dignité ; aux <hi rend="italic">prêtres</hi> enfin, que la religion dans un état ne doit défendre que ce que défend la loi ; que les actions des hommes ne sont point bonnes , parce qu'elles plaisent à Dieu, mais qu'elles plaisent à Dieu parce qu'elles sont bonnes et que tout citoyen peut naître, vivre et mourir sans eux, qui n'ont de pouvoir, ni sur les opinions, ni sur les consciences.</p> 
             
 <closer>
-   <salute>C'est dans ces <choice><reg>sentiments</reg><orig>sentimens</orig></choice> que je suis avec autant de respect que d'attachement ,
+   <salute><l>C'est dans ces <choice><reg>sentiments</reg><orig>sentimens</orig></choice> que je suis avec autant de respect que d'attachement ,</l>
             
-Messieurs, 
+<l>Messieurs,</l> 
             
-Votre très-dévoué frère,
+<l>Votre très-dévoué frère,</l>
    </salute> 
             
 <signed>
-   P. MANUEL
+   <hi rend="smallcaps">P. MANUEL</hi>
 </signed>
 </closer>
 </div>
@@ -71,20 +110,29 @@ Votre très-dévoué frère,
      <div type="endnotes">
         <note xml:id="n1">
            By saying "Vénus de Praxitelles" (or Venus of Praxitelles) Manuel is referring to the marble sculpture "Aphrodite of Knidos," which was carved by Praxiteles around 350BCE. While Manuel uses the Roman name for the goddess, the Greek is more common in anglophone circles. Aphrodite of Knidos was the first known 3-dimensional female nude, depicting a completely nude Aphrodite, in preparation for a bath, perhaps. It was reknowned for its eroticism. The work eventually succumbed to a fire in 476.
-<ref type="biblio" target="Havelock"></ref>
-           The Aphrodite of Knidos and her successors : a historical review of the female nude in Greek art / Christine Mitchell Havelock
+<ptr target="#Havelock"/>
         </note>
        <note xml:id="n2">
-          When Manuel says "Minerve de Phidias" (Minerva of Phidias), he is referencing the statue "Athena Parthenos", a gold and ivory portrait over ten meters tall which once stood in the center of the Parthenon. Again, Manuel uses the Roman name for the goddess. Athena Parthenos was carved between 447 and 438 BCE by Phidias, a reknowned sculptor, who later created the statue of Zeus at Olympia. In the work, Athena stands elegantly dressed and suited in her armor. Historians know neither when the statue disappeared from the Parthenon nor why.<ref type="biblio" target="Gribbin"></ref>
+          When Manuel says "Minerve de Phidias" (Minerva of Phidias), he is referencing the statue "Athena Parthenos", a gold and ivory portrait over ten meters tall which once stood in the center of the Parthenon. Again, Manuel uses the Roman name for the goddess. Athena Parthenos was carved between 447 and 438 BCE by Phidias, a reknowned sculptor, who later created the statue of Zeus at Olympia. In the work, Athena stands elegantly dressed and suited in her armor. Historians know neither when the statue disappeared from the Parthenon nor why.
+          <ptr target="#Gribbin"/>
        </note>
        <note xml:id="n3">
-Archaic term for Sparta. 
+Lacedaemon. The official name of Sparta. 
+<ptr target="#Oxford"/>
        </note>
         <note xml:id="n4">
-           The Ephors was a committee of five democratically elected Spartan men who exercised executive power over the state. Each individual Ephor was selected for a term of one year, which one could only serve once during their lifetime. Ephors had particular power over the king, including the ability to put the king to death should they find he has transgressed, and checking monarchal power was understood as one of their major duties.<ref type="biblio" target="Kulesza"></ref>
+           The Ephors was a committee of five democratically elected Spartan men who exercised executive power over the state. Each individual Ephor was selected for a term of one year, which one could only serve once during their lifetime. Ephors had particular power over the king, including the ability to put the king to death should they find he has transgressed, and checking monarchal power was understood as one of their major duties.
+           <ptr target="#Kulesza"/>
         </note>
      </div>   
 <div type="bibliography">
+<bibl xml:id="Darnton">
+   <author>Robert Darnton</author>
+   <title>An Early Information Society: News and the Media in Eighteenth-Century Paris</title>
+   <date>2000</date>
+   <publisher>Oxford University Press</publisher>
+   <pubPlace>Oxford, UK</pubPlace>
+</bibl>
 <bibl xml:id="Havelock">
   <author>Christine Mitchell Havelock</author>
    <title>The Aphrodite of Knidos and her Successors : a Historical Review of the Female Nude in Greek Art</title>
@@ -98,16 +146,22 @@ Archaic term for Sparta.
    <date>2019</date>
    <publisher>Agora</publisher>
 </bibl>
+<bibl xml:id="Oxford">
+   <editor>Simon Hornblower</editor>
+   <editor>Antony Spawforth</editor>
+   <editor>Esther Eidinow</editor>
+   <title>The Oxford Classical Dictionary</title>
+   <date>2012</date>
+   <publisher>Oxford University Press</publisher>
+   <pubPlace>Oxford, UK</pubPlace>
+</bibl>
 <bibl xml:id="Kulesza">
    <author>Ryszard Kulsza</author>
-   <title>Sparta: History, state, and society</title>
+   <title>Sparta: History, State, and Society</title>
    <date>2022</date>
    <publisher>Peter Lang Press</publisher>
 </bibl>
- 
-   
 </div>
-   
      </back>
   </text>
 </TEI>

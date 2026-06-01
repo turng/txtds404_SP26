@@ -18,40 +18,40 @@
    </teiHeader>
    <text>
       <body>
-         <div type="V1"> 
+         <div type="V1">
+            <div type="LaLibrairie">
 <pb n="30"/>
 <p>Alors la librairie eût deux rois. La ligne de démarcation entre leurs empires est le chef-d’œuvre des deux souverains. Après plusieurs conférences , les articles <choice><reg>suivants</reg><orig>suivans</orig></choice> furent arrêtés.</p>
 
-<p rend="head">Pour le lieutenant de Police.</p>
+<p><hi rend="italic">Pour le lieutenant de Police.</hi></p>
 
 <list>
    <item n="1">Permettre l’entrée des livres aux barrières.</item>
    <item n="2">Les faire rendre à la <choice><reg>douane</reg><orig>douanne</orig></choice>.</item>
    <item n="3">Les saisies ou suspensions de livres par les commis des fermes , tant aux barrières de Paris que dans la province.</item>
-   <item n="4">Les saisies des livres prohibés faites dans les chambres syndicales , par les inspecteurs de la librairie ou officiers , ainsi que par les commis des fermes dans leurs tournées.
+   <item n="4">Les saisies des livres prohibés faites dans les chambres syndicales , par les <ref target="n1">inspecteurs de la librairie</ref> ou officiers , ainsi que par les commis des fermes dans leurs tournées.
    La visite qui se fait tous les ans à la chambre syndicale , pour décider du sort des livres qui y sont confisqués ou suspendus.</item>
    <item n="5">Recevoir le serment des nouveaux officiers de la librairie , et celui des nouveaux libraires.</item>
    <item n="7">Tenir la main à l’exécution du réglement.</item>
 <pb n="31"/>
    <item n="8">Permettre l’impression d’un ouvrage jusqu’à concurrence de deux feuilles.</item>
-   <item n="9">Défendre ou arrêter la vente de toute espece d’ouvrages suivant les circonstances.</item>
+   <item n="9">Défendre ou arrêter la vente de toute <choice><reg>espèce</reg><orig>espece</orig></choice> d’ouvrages suivant les circonstances.</item>
    <item n="10">Toutes perquisitions ou saisies de l’ordre du roi , ou emprisonnement.</item>
-   <item n="11">Censure des pieces de théâtre.</item>
-   <item n="12">On doit fournir au magistrat une copie des permissions tacites. Il faudroit aussi lui donner copie de tous les <choice><reg>jugements</reg><orig>jugemens</orig></choice>.</item>
+   <item n="11">Censure des <choice><reg>pièce</reg><orig>pieces</orig></choice> de théâtre.</item>
+   <item n="12">On doit fournir au magistrat une copie des permissions tacites. Il <choice><reg>faudrait</reg><orig>faudroit</orig></choice> aussi lui donner copie de tous les <choice><reg>jugements</reg><orig>jugemens</orig></choice>.</item>
 </list>
 
-<p>A quelques subtiles observations près,
-   tout accordé.</p>
+<p>A quelques subtiles observations près,tout accordé.</p>
 
-<p rend="head">Pour le directeur-général de la librairie</p>
+<p><hi rend="italic">Pour le directeur-général de la librairie</hi></p>
 
-<p>Détail de la librairie gracieuse.</p>
+<p><hi rend="italic">Détail de la librairie gracieuse.</hi></p>
 
 <list>
    <item n="1">Proposer la nomination d’un nouveau censeur.</item>
    <item n="2">Nommer le censeur d’un ouvrage.</item>
    <item n="3">Recevoir son jugement.</item>
-   <item n="4">En rendre compte à M. le garde des sceaux.</item>
+   <item n="4">En rendre compte à <ref target="n2">M. le garde des sceaux</ref>.</item>
    <item n="5">Lui adresser la feuille des <choice><reg>jugements</reg><orig>jugemens</orig></choice>, ou des permissions tacites.</item>
    <item n="6">Proposer la nomination des inspecteurs de la librairie , tant à Paris qu’en province.</item>
 <pb n="32"/>
@@ -60,24 +60,86 @@
    <item n="9">Punir un libraire qui aura mis en vente avant la permission.</item>
    <item n="10">Recevoir les plaintes des auteurs contre les libraires, et en rendre compte à M. le garde des sceaux.</item>
    <item n="11">Rendre compte à M. le garde des sceaux des demandes de privilèges , des refus d’enregistrement desdits privilèges, à la chambre syndicale.</item>
-   <item n="12">Des plaintes de contrefactions, d’analyses, d’extraits, de plagiats.</item>
+   <item n="12">Des plaintes de <choice><reg>contrefaçons</reg><orig>contrefactions</orig></choice>, d’analyses, d’extraits, de plagiats.</item>
 </list>
 
 <p>Le tout accordé, en observant toutefois que le magistrat de la librairie doit avoir le droit de faire exécuter une interdiction prononcée par un arrêt du conseil; mais dans le cas de police civile, il convient de consulter le magistrat de police.</p>
 
-<p>On observe encore sur l’article 12, que quand les <choice><reg>plaignants</reg><orig>plaignans</orig></choice> se pourvoient en justice réglée, cela regarde M. le lieutenant-général de police en première instance, par appel au conseil ou le bureau des affaires contentieuses.</p>
+<p>On observe encore sur l’article 12, que quand les <choice><reg>plaignants</reg><orig>plaignans</orig></choice> se pourvoient en justice réglée, cela regarde <ref target="n3">M. le lieutenant-général de police</ref> en première instance, par appel au conseil ou le bureau des affaires contentieuses.</p>
 
-<p>Une fois à leur place, ces deux magistrats se <pb n="33"/> <choice><reg>disputaient</reg><orig>disputoient</orig></choice> la gloire d’entretenir la cour de leurs services. L’un <choice><reg>écrivait</reg><orig>écrivoit</orig></choice> au roi : ”Une tolérance trop décidée a enhardi et les auteurs et les libraires. J’ai trouvé établi le système que la librairie étant une branche de commerce, on ne <choice><reg>pouvait</reg><orig>pouvoit</orig></choice> lui donner trop d’étendue et de liberté. A la faveur de ce principe, on ferme les yeux sur l’impression, la publication et la distribution de tous les ouvrages prohibés. Le prétexte de ne point faire passer l’argent chez l’étranger , autorise la plus coupable licence, comme si la religion ne <choice><reg>devait</reg><orig>devoit</orig></choice> pas commander à la politique. Ce qui peut rassurer votre majesté, c’est que les littérateurs sont fortement persuadés qu’au milieu des grands objets dont votre majesté est occupée, elle a daigné descendre aux détails de la librairie, et donner les ordres les plus précis pour la défense de tout livre que je croirai dangereux”. L’autre <choice><reg>écrivait</reg><orig>écrivoit</orig></choice>: ”Sire, votre majesté n’ignore pas qu’il y a dans Paris une imprimerie qui n’est pas entièrement soumise à mon inspection. Celle de Simon, est en quelque sorte dépendante du parlement; elle ne <choice><reg>devait</reg><orig>devoit</orig></choice> être employée qu’à imprimer ses arrêts. Cependant l’intérêt et la complaisance de l’imprimeur lui
-   C<!---wtf how do i encode that shit-->
-   <pb n="34"/>
-font quelquefois oublier son devoir; et c’est par cette voie que les ouvrages de parti se sont répandus souvent dans le public... Un abus d’un autre genre que je crois devoir vous dénoncer, c’est l’établissement qu’on a toléré depuis 40 ans des marchands de livres dans les maisons royales, aux spectacles, dans le château même de Versailles, et dans tous les lieux privilégiés”.</p>
+<p>Une fois à leur place, ces deux magistrats se <pb n="33"/> <choice><reg>disputaient</reg><orig>disputoient</orig></choice> la gloire d’entretenir la cour de leurs services. L’un <choice><reg>écrivait</reg><orig>écrivoit</orig></choice> au roi : ”Une tolérance trop décidée a enhardi et les auteurs et les libraires. J’ai trouvé établi le <choice><reg>système</reg><orig>systême</orig></choice> que la librairie étant une branche de commerce, on ne <choice><reg>pouvait</reg><orig>pouvoit</orig></choice> lui donner trop d’étendue et de liberté. A la faveur de ce principe, on ferme les yeux sur l’impression, la publication et la distribution de tous les ouvrages prohibés. Le prétexte de ne point faire passer l’argent chez l’étranger , autorise la plus coupable licence, comme si la religion ne <choice><reg>devait</reg><orig>devoit</orig></choice> pas commander à la politique. Ce qui peut rassurer votre majesté, c’est que les littérateurs sont fortement persuadés qu’au milieu des grands objets dont votre majesté est occupée, elle a daigné descendre aux détails de la librairie, et donner les ordres les plus précis pour la défense de tout livre que je croirai dangereux”. L’autre <choice><reg>écrivait</reg><orig>écrivoit</orig></choice>: ”Sire, votre majesté n’ignore pas qu’il y a dans Paris une imprimerie qui n’est pas entièrement soumise à mon inspection. Celle de <ref target="n4">Simon</ref>, est en quelque sorte dépendante du parlement; elle ne <choice><reg>devait</reg><orig>devoit</orig></choice> être employée qu’à imprimer ses arrêts. Cependant l’intérêt et la complaisance de l’imprimeur lui<pb n="34"/> font quelquefois oublier son devoir; et c’est par cette voie que les ouvrages de parti se sont répandus souvent dans le public... Un abus d’un autre genre que je crois devoir vous dénoncer, c’est l’établissement qu’on a toléré depuis 40 ans des marchands de livres dans les maisons royales, aux spectacles, dans le château même de Versailles, et dans tous les lieux privilégiés”.</p>
 
-<p>Tous les deux se <choice><reg>faisaient</reg><orig>faisoient</orig></choice> un grand mérite d’avoir fait saisir à la foire de Beaucaire, 40 ballots de livres défendus, destinés pour la France et introduits par Avignon; d’avoir fait arrêter à Lyon, à Bayonne des libraires en contravention.</p>
+<p>Tous les deux se <choice><reg>faisaient</reg><orig>faisoient</orig></choice> un grand mérite d’avoir fait saisir à la foire de <ref target="n5">Beaucaire</ref>, 40 ballots de livres défendus, destinés pour la France et introduits par Avignon; d’avoir fait arrêter à Lyon, à Bayonne des libraires en contravention.</p>
 
 <p>La postérité me pardonnera-t-elle de n’avoir pas déposé au temple de mémoire, les noms de ces magistrats qui sans la gazette ecclésiastique qui leur <choice><reg>échappait</reg><orig>échappoit</orig></choice> toujours, <choice><reg>auraient</reg><orig>auroient</orig></choice> eu, comme Dieu, la réputation d’être <choice><reg>présents</reg><orig>présens</orig></choice> par-tout?</p>
          </div>
+         </div>
       </body>
       <back>
+         <div type="endnotes">
+         <note xml:id="n1" type="editorial" place="foot">
+Inspecteurs de la librairie refers to a class of inspectors created by royal decree in 1777. Inspectors were obligated to perform rigorous quarterly inspections of every printing shop. The inspectors played a key role in controlling the book trade by reporting their findings directly to the central government, which resulted in the ordered closure of many printing shops.
+<ptr target="#Burrows"/>
+         </note>
+         <note xml:id="n2" type="editorial" place="foot">
+The garde de sceaux was a distinct royal position held prior to the revolution, whose duties have since been subsumed by the Minister of Justice. The garde des sceaux used the sceau, or official French seal, to validate and authenticate letters patent including documents like pardons.
+<ptr target="#FrGov"/>
+         </note>
+
+         <note xml:id="n3" type="editorial" place="foot">
+The lieutenant-général de police was a position established in 1667 that worked closely with the king. Towards the second half of the 18th century, the role was understood as protecting the interests of the rich and opressing vulnerable populations.
+<ptr target="#Stoll"/>
+         </note>
+            <note xml:id="n4" type="editorial" place="foot">
+It is the editors' best guess that this refers to Paul-Guillaume Simon, the printer of the Parisian parliament from 1741-1782. Reputable biographical information on Simon is scarce. 
+<ptr target="#BnF" />
+<ptr target="#Boussemart"/>
+            </note>
+            <note xml:id="n5" type="editorial" place="foot">
+La Foire de Beaucaire was a large annual market that drew significant international trade within and outside of Europe as a result of its location on the Rhône and its proximity to the Mediterrannean. The market would go on to disappear by 1870 after a lengthy period of decline beginning roughly around the revolution. 
+Vie et mort d'un grand marché international. La foire de Beaucaire (XVIIIe-XIXe siècles) [article]
+sem-link Pierre Léon
+<ptr target="#Léon"/>
+            </note>
+         </div>
+         <div type="bibliography">
+            <bibl xml:id="Burrows">
+               <author>Simon Burrows</author>
+               <title>Charmet and the Book Police: Clandestinity, Illegality and Popular Reading in Late Ancien Régime France</title>
+               <date>2015</date>
+               <publisher>French History and Civilization</publisher>
+            </bibl>
+            <bibl xml:id="FrGov">
+               <title>Les Sceaux des Origines à Nos Jours</title>
+               <publisher>Ministère de la Justice de France</publisher>
+               <ptr target="https://www.justice.gouv.fr/sceaux-origines-nos-jours#h2-lusage-du-sceau-jusqua-la-revolution-francaise"/>
+            </bibl>
+            <bibl xml:id="Stoll">
+               <author>Mathieu Stoll</author>
+               <title>Création de la Charge de Lieutenant de Police de Paris</title>
+               <date>2024</date>
+               <publisher>FranceArchives</publisher>
+               <ptr target="https://francearchives.gouv.fr/fr/commemo/recueil-2017/26287398"/>
+            </bibl>
+            <bibl xml:id="BnF">
+               <title>Pierre-Guillaume Simon (1722-1787)</title>
+               <publisher>Bibliothèque Nationale de France</publisher>
+               <ptr target="https://data.bnf.fr/en/ark:/12148/cb12250739s#"/>
+            </bibl>
+            <bibl xml:id="Boussemart">
+               <author>Mathias Boussemart</author>
+               <title>De petits Bois de Justice</title>
+               <date>2025</date>
+               <publisher>Justices Manifestes</publisher>
+            </bibl>
+            <bibl xml:id="Léon">
+               <author>Pierre Léon</author>
+               <title>Vie et Mort d'un Grand Marché International. La Foire de Beaucaire (XVIIIe-XIXe Siècles)</title>
+               <date>1953</date>
+               <publisher>Revue de Géographie de Lyon</publisher>
+            </bibl>
+
+         </div>
       </back>
    </text>
 </TEI>
