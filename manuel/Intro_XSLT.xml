@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+<text>
+    <body>
+        <div type="V1"> 
+            <div type="AuxAmis">
+                <pb n="5"/>
+                <head>AUX AMIS DE LA CONSTIUTION</head>
+                
+                <opener>
+                    <salute><hi rend="smallcaps">MESSIEURS,</hi></salute>
+                </opener> 
+                
+                <p>Je n'ai quitté Paris qu'après m'être assuré que de l'herbe <choice><reg>couvrait</reg><orig>couvroit</orig></choice> la <hi rend="italic">bastille</hi>.</p> 
+                
+                <p>Ma tâche <choice><reg>était</reg><orig>étoit</orig></choice> finie : car le peuple m'<choice><reg>avait</reg><orig>avoit</orig></choice> relevé de mon poste : et j'<choice><reg>emportais</reg><orig>emportois</orig></choice> son estime.</p>
+                
+                <p>Mais c'<choice><reg>était</reg><orig>étoit</orig></choice> pour mieux le servir que je m'<choice><reg>éloignais</reg><orig>éloignois</orig></choice> du théâtre de la <hi rend="italic">révolution</hi>. Il m'a semblé que c'<choice><reg>était</reg><orig>étoit</orig></choice> entrer dans ses vues comme dans ses besoins , que de lui révéler toutes les turpitudes de cette <hi rend="italic">police</hi> qui n'a jamais rien trouvé d'impossible , parce que pour elle il n'y eut jamais rien ni d'injuste ni de malhonnête. Quand il connoîtra les magistrats que lui <choice><reg>donnaient</reg><orig>donnoient</orig></choice> des rois , il sentira tout ce que vaut le droit qu'il n'<choice><reg>au<pb n="6"/>rait</reg><orig>auroit</orig></choice> jamais dû perdre , de les choisir lui-même.</p> 
+                
+                <p>Il m'a fallu du courage pour dénoncer les coupables : car ce sont presque tous des <hi rend="italic">très-hauts</hi> et <hi rend="italic">très-<choice><reg>puissants</reg><orig>puissans</orig></choice> seigneurs</hi>. Mais si, quand on veut se corriger , on se confesse , ils ne me sauront pas mauvais gré de les avoir montrés tels que je les ai surpris , avec leurs foiblesses , leurs vices et leurs crimes. Après tout , je ne les damne pas encore. Dieu lui-même, comme le <choice><reg>disait</reg><orig>disoit</orig></choice> madame de <hi rend="italic">Thiange</hi>, quand il s'agira de personnes de si <hi rend="italic">haute extraction</hi>, Dieu y regardera à deux fois.</p> 
+                
+                <p>Il résultera du moins de cette instruction publique une vérité consolante, que, des <hi rend="italic">trois ordres</hi>, celui qui a été le moins riche, a toujours été le plus sage, et par consé<pb n="7"/>quent le mieux disposé aux formes républicaines de la liberté.</p> 
+                
+                <p>S'il est un moyen d'arrêter la gangrenne d'une Nation, c'est d'abandonner tous les citoyens à la censure, jusqu'à ce que chacun se croye digne d'occuper une maison de verre.</p> 
+                
+                <p>La grande puissance sur les mœurs c'est <hi rend="italic">l'opinion</hi> : et avec la molle indulgence des procédés, elle ne se <choice><reg>formerait</reg><orig>formeroit</orig></choice> jamais. Une politesse hypocrite énerve tous les caractères. Par elle, on s'embrasse, quand on se hait ; on se flatte, quand on se méprise. Des leçons, des vérités ! voilà ce que nous nous devons tous : et qu'une franche médisance éloigne de nos foyers la lâche calomnie.</p> 
+                
+                <p>Lorsque les <hi rend="italic">Athéniens</hi>, qui prirent si long-temps le plaisir pour le bonheur, se furent enfin apperçu que <pb n="8"/>les femmes <choice><reg>avaient</reg><orig>avoient</orig></choice> tout-à-fait oublié que leur gloire <choice><reg>était</reg><orig>étoit</orig></choice> de donner des hommes au monde, ils créèrent des magistrats pour veiller sur elles : et leurs sentences, inscrites sur des tablettes, <choice><reg>étaient</reg><orig>étoient</orig></choice> suspendues à l'un des platanes de la promenade publique. Peu-à-peu la Grèce se régénéra : et les <hi rend="italic"><ref target="#n1">Vénus de Praxitelle</ref></hi> se cachèrent au moins devant la <hi rend="italic"><ref target="#n2">Minerve de Phidias</ref></hi>.</p> 
+                
+                <p>Comme ses lois, la <placeName><country>France</country></placeName> doit changer ses mœurs : et cette réforme dépend de la répartition qu'elle saura faire de l'estime et du mépris. Il ne faut plus qu'elle juge ses <choice><reg>enfants</reg><orig>enfans</orig></choice> sur ce qu'ils payent, mais sur ce qu'ils valent. Elle a des honneurs et des places à donner; c'est à la vertu , c'est au talent qu'ils sont dûs.</p> 
+                
+                <p>Mais disons-le souvent, disons-le <pb n="9"/>toujours : c'est sur-tout la liberté de la <hi rend="italic">presse</hi>, qui conservera au peuple tous les bienfaits de la <hi rend="italic">révolution</hi>. Des imprimeries sont plus utiles que des paroisses : et si la patrie avoit déjà des apôtres, comme en a eu la religion , les riches qui ne savent pas encore à quoi sert la fortune , s'<choice><reg>empresseraient</reg><orig>empresseroient</orig></choice> de fonder des imprimeries , comme jadis on <choice><reg>fondait</reg><orig>fondoit</orig></choice> des chapelles ; et collateurs de ces bénéfices, ils les <choice><reg>feraient</reg><orig>feroient</orig></choice> deservir par des missionaires de la philosophie qui <choice><reg>semeraient</reg><orig>semeroient</orig></choice> par-tout les principes de la <hi rend="italic">constitution</hi>.</p> 
+                
+                <p>Des journaux sont les phares d'un peuple libre.</p> 
+                
+                <p>Il <choice><reg>faudrait</reg><orig>faudroit</orig></choice> qu'il y eut dans chaque ville un homme de lettres qui, avec toute l'énergie que donne l'amour de l'ordre, doué de ce vrai mérite <pb n="10"/>qui est trop modeste pour espérer des honneurs , et trop fier pour en chercher, fut chargé par les législateurs eux-mêmes , de relever tous les préjugés de ces administrations naissantes , où l'art de commander n'est pas plus avancé que l'art d'obéir. Il <choice><reg>apprendrait</reg><orig>apprendroit</orig></choice> <hi rend="italic">au peuple</hi>, tout souverain qu'il est , à avoir pour ceux à qui il a remis et ses forces et ses droits, cette déférence que <ref target="#n3">Lacédémone</ref> <choice><reg>avait</reg><orig>avoit</orig></choice> pour ses <hi rend="italic"><ref target="#n4">Ephores</ref></hi> , que Rome <choice><reg>avait</reg><orig>avoit</orig></choice> pour ses tribuns : <hi rend="italic">aux municipalités</hi>, que leurs fonctions sont une espèce de sacerdoce où les moeurs ne sont pas moins indispensable que les <choice><reg>talents</reg><orig>talens</orig></choice> ; et qu'avec une <hi rend="italic">écharpe</hi> on ressemble à ces <hi rend="italic">archontes</hi> que les grecs <choice><reg>condamnaient</reg><orig>condamnoient</orig></choice> à mort, lorsque perdant leur raison dans l'ivresse des repas, ils <choice><reg>exposaient</reg><orig>exposoient</orig></choice> au mépris les marques <pb n="11"/>de leurs dignité ; aux <hi rend="italic">prêtres</hi> enfin, que la religion dans un état ne doit défendre que ce que défend la loi ; que les actions des hommes ne sont point bonnes , parce qu'elles plaisent à Dieu, mais qu'elles plaisent à Dieu parce qu'elles sont bonnes et que tout citoyen peut naître, vivre et mourir sans eux, qui n'ont de pouvoir, ni sur les opinions, ni sur les consciences.</p> 
+                
+                <closer>
+                    <salute>C'est dans ces <choice><reg>sentiments</reg><orig>sentimens</orig></choice> que je suis avec autant de respect que d'attachement ,
+                        
+                        Messieurs,
+                        
+                        Votre très-dévoué frère,
+                    </salute> 
+                    
+                    <signed>
+                        <hi rend="smallcaps">P. MANUEL</hi>
+                    </signed>
+                </closer>
+            </div>
+        </div>
+    </body>
+    <back>
+        <div type="endnotes">
+            <note xml:id="n1">
+                By saying "Vénus de Praxitelles" (or Venus of Praxitelles) Manuel is referring to the marble sculpture "Aphrodite of Knidos," which was carved by Praxiteles around 350BCE. While Manuel uses the Roman name for the goddess, the Greek is more common in anglophone circles. Aphrodite of Knidos was the first known 3-dimensional female nude, depicting a completely nude Aphrodite, in preparation for a bath, perhaps. It was reknowned for its eroticism. The work eventually succumbed to a fire in 476.
+                <ptr target="#Havelock"/>
+            </note>
+            <note xml:id="n2">
+                When Manuel says "Minerve de Phidias" (Minerva of Phidias), he is referencing the statue "Athena Parthenos", a gold and ivory portrait over ten meters tall which once stood in the center of the Parthenon. Again, Manuel uses the Roman name for the goddess. Athena Parthenos was carved between 447 and 438 BCE by Phidias, a reknowned sculptor, who later created the statue of Zeus at Olympia. In the work, Athena stands elegantly dressed and suited in her armor. Historians know neither when the statue disappeared from the Parthenon nor why.
+                <ptr target="#Gribbin"/>
+            </note>
+            <note xml:id="n3">
+                Lacedaemon. The official name of Sparta. 
+                <ptr target="#Oxford"/>
+            </note>
+            <note xml:id="n4">
+                The Ephors was a committee of five democratically elected Spartan men who exercised executive power over the state. Each individual Ephor was selected for a term of one year, which one could only serve once during their lifetime. Ephors had particular power over the king, including the ability to put the king to death should they find he has transgressed, and checking monarchal power was understood as one of their major duties.
+                <ptr target="#Kulesza"/>
+            </note>
+        </div>   
+        <div type="bibliography">
+            <bibl xml:id="Havelock">
+                <author>Christine Mitchell Havelock</author>
+                <title>The Aphrodite of Knidos and her Successors : a Historical Review of the Female Nude in Greek Art</title>
+                <date>1995</date>
+                <publisher>Univeristy of Michigan Press</publisher>
+                <pubPlace>Ann Arbor, MI</pubPlace>
+            </bibl>
+            <bibl xml:id="Gribbin">
+                <author>Gribbin</author>
+                <title>Athens to Australia: The Athena Parthenos</title>
+                <date>2019</date>
+                <publisher>Agora</publisher>
+            </bibl>
+            <bibl xml:id="Oxford">
+                <editor>Simon Hornblower</editor>
+                <editor>Antony Spawforth</editor>
+                <editor>Esther Eidinow</editor>
+                <title>The Oxford Classical Dictionary</title>
+                <date>2012</date>
+                <publisher>Oxford University Press</publisher>
+                <pubPlace>Oxford, UK</pubPlace>
+            </bibl>
+            <bibl xml:id="Kulesza">
+                <author>Ryszard Kulsza</author>
+                <title>Sparta: History, State, and Society</title>
+                <date>2022</date>
+                <publisher>Peter Lang Press</publisher>
+            </bibl>
+        </div>
+    </back>
+</text>
+</TEI>
