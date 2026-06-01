@@ -358,6 +358,14 @@
          <div type="bibliography">
             <head>Bibliography</head>
             <bibl xml:id="wit">“To wit.” Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/to%20wit. Accessed 1 June 2026.</bibl>
+            <bibl xml:id="brit">
+               Reynard the Fox (literary character), Encyclopedia Britannica. 
+               https://www.britannica.com/topic/Reynard-the-Fox-literary-character 
+            </bibl>
+            <bibl xml:id="morris">
+               “William Morris and the Kelmscott Press.” Library of Congress.
+               https://guides.loc.gov/medievalism/morris
+            </bibl>
          </div>
       </back>
    </text>
