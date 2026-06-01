@@ -146,7 +146,6 @@
                         <choice><orig>présens</orig><reg>présents</reg></choice> par-tout?
                     </p>
                     
-                    <!-- Regularization policy note -->
                     <note xml:id="nRegV1">
                         Cette édition modernise certaines orthographes françaises du dix-huitième siècle
                         en utilisant la structure
@@ -159,7 +158,6 @@
                         orthographiques prévisibles et n’altère ni la syntaxe ni le vocabulaire de Manuel.
                     </note>
                     
-                    <!-- Historical / contextual notes: mainly Darnton plus comparisons -->
                     
                     <note xml:id="n1">
                         Le lieutenant de police était un haut officier royal chargé à Paris de la
@@ -217,7 +215,6 @@
                         <ref type="biblio" target="#Darnton"/>
                     </note>
                     
-                    <!-- Comparative/contextual notes for other sources -->
                     
                     <note xml:id="n8">
                         La lutte entre magistrats pour le contrôle de la librairie rappelle d’autres sociétés où des
