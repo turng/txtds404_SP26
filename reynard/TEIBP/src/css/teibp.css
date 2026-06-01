@@ -658,6 +658,8 @@ graph {
 }
 graphic {
   display: inline;
+  width: 200px;
+  height: auto;
 }
 group {
   /* Empty Rule Set */
