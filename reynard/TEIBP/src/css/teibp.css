@@ -658,6 +658,8 @@ graph {
 }
 graphic {
   display: inline;
+  width: 200px;
+  height: auto;
 }
 group {
   /* Empty Rule Set */
@@ -1940,13 +1942,23 @@ div.facsImage img:first-child {
   font-weight: normal;
 }
 
-body > div > head > hi style[[:rt:]] {
+body > div > head > hi > rend > rt {
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
   font-weight: bold;
   color: #1100;
   display: inline;
     }
-back > div[[:annotations:]] {
+    
+body > div > head > hi > rend > caps {
+  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
+  font-size: 14pt;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: black;
+  display: inline;
+    }
+    
+back > div {
   display: block
 }
