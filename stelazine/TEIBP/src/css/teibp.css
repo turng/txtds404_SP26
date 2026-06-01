@@ -1972,3 +1972,8 @@ div.facsImage img:first-child {
   font-family: Arvo, sans-serif;
   font-weight: normal;
 }
+
+#main{
+    display:flex;
+    justify-content:center;
+}
