@@ -20,7 +20,7 @@
       into an html shell, which provides access to javascript and other features from the
       html/browser environment.</xd:p>
     </xd:desc>
-  </xd:doc>
+  </xd:doc> 
   <xsl:include href="xml-to-string.xsl"/>
 
   <xsl:output encoding="UTF-8" method="xml" omit-xml-declaration="yes"/>
