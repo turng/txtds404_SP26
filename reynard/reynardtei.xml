@@ -95,7 +95,6 @@
          </div>
          <div type="chapter">
             <pb n="2"/>
-            <div type="chapter">
                <head><hi rend="rt">Howe the <persName>Lyon</persName>, kynge of alle bestis, sent
                      out hys mandementis that alle beestis sholde come to his feest and court,
                      capitulo primo<g ref="flower"/><g ref="flower"/></hi></head>
@@ -113,8 +112,8 @@
                   auenture to goo thyder <g ref="spiky"/> Whan the kynge of alle beestis has
                   assemblid all his court, ther was none of them alle but that he had complayned
                   sore on <persName>Reynart the Foxe</persName>.</p>
-            </div>
-            <div type="chapter">
+         </div>
+         <div type="chapter">
                <head><hi rend="rt">The firste complaynt made <persName>Isegrym the Wulf</persName>
                      on <persName>Reynart</persName>, capitulo
                   ij<g>flower</g><g>flower</g></hi></head>
@@ -343,7 +342,6 @@
                <p>Thus departed <persName>Brune</persName> meryly fro thens, but it is to drede that
                   he cam not so meryly agayn.</p>
             </div>
-         </div>
       </body>
    </text>
 </TEI>
