@@ -78,7 +78,7 @@
             <head><hi rend="rt">Hyer begynneth the hystorye of <persName>Reynard the
                      Foxe</persName><g ref="flower"/><g ref="flower"/><g ref="flower"/></hi></head>
             <p><hi rend="il">I</hi><hi rend="caps">n</hi> thys hystorye ben wreton the parables, goode lerynge, and
-               <note type="editorial" target="c1n1">dyuerse</note>poyntes to be merkyed, by whiche poyntes men maye lerne to come to the
+               <ref target="#c1n1">dyuerse</ref>poyntes to be merkyed, by whiche poyntes men maye lerne to come to the
                subtylle knoweleche of suche thynges as dayly ben vsed and had in the counseyllys of
                lordes and prelates, gostely and worldly, and also emonge marchantes &amp; other
                comone peple. And this booke is maade for nede and prouffyte of alle god folke, as
@@ -97,7 +97,7 @@
             <pb n="2"/>
             <div type="chapter">
                <head><hi rend="rt">Howe the <persName>Lyon</persName>, kynge of alle bestis, sent
-                     out hys mandementis that alle beestis sholde come to his feest and court,
+                     out hys <ref target="#c2n2">mandementis</ref> that alle beestis sholde come to his feest and court,
                      capitulo primo<g ref="flower"/><g ref="flower"/></hi></head>
                <p><hi rend="il">I</hi><hi rend="caps">t</hi> was about the time of <date>Penthecoste</date> or
                      <date>Whytsontyde</date>, that the wodes comynly be lusty and gladsom, and the
@@ -112,7 +112,7 @@
                   in many thinges ayenst many beestis that thyder sholde comen, that he durste not
                   auenture to goo thyder <g ref="spiky"/> Whan the kynge of alle beestis has
                   assemblid all his court, ther was none of them alle but that he had complayned
-                  sore on <persName><note type="editorial" target="c2n1">Reynart</note> the Foxe</persName>.</p>
+                  sore on <persName><ref target="#c2n1">Reynart</ref> the Foxe</persName>.</p>
             </div>
             <div type="chapter">
                <head><hi rend="rt">The firste complaynt made <persName>Isegrym the Wulf</persName>
@@ -123,7 +123,7 @@
                      myghty prynce, my lord the hynge, I beseche yow that thurgh your grete mygtht,
                      ryght, &amp; mercy, that ye wyl haue pyte on the grete trespas &amp; the
                      vnreasonable mys<pb n="3"/>dedes that <persName>Reynart the Foxe</persName>
-                     hath don to me &amp; to my wyf.</q> <note type="editorial" target="c3n1">That is to wete</note>, he is comen in to my
+                     hath don to me &amp; to my wyf.</q> <ref target="#c3n1">That is to wete</ref>, he is comen in to my
                   hows ayenst the wylle of my wyf, and there he hath be-pyssed my chyldren where as
                   they laye, in suche wyse as they therof ben woxen blynde. Wherupon was a day
                   sette, and was juged that <persName>Reygnart</persName> shold come and haue
@@ -161,7 +161,7 @@
                      here, that he wel sold that he shuld lese good and wor-shyp, so that he myght
                      wynne as moche as a legge of a fat henne. I shal telle yow what I sawe hym do
                      yesterday to <persName>Cuwaert the Hare</persName> that hier standeth in the
-                     kynges pees and saufgarde. He promysed to <persName>Cuwart</persName> and sayde
+                     kynges <ref target="#c4n1">pees and saufgarde</ref>. He promysed to <persName>Cuwart</persName> and sayde
                      he wold teche hym his credo, and make hym a good chapelayne; he made hym goo
                      sytte bytwene his legges, &amp; sange &amp; cryde lowde: Credo! Credo! My waye
                      laye ther by, there that I herde this songe; tho wente I ner, and fonde
@@ -203,7 +203,7 @@
                      notwythstandyng he had wonnen the flycche of ba-con wyth grete drede, for the
                      man cam and threw hym in a sacke that he scarsely cam out wyth his lyf. Suche
                      maner thynges hath <persName>Reynart</persName> many tymes suffred thurgh
-                        <persName><note type="editorial" target="c5n1">Ysegrym</note></persName>.</q>
+                        <persName><ref target="#c5n1">Ysegrym</ref></persName>.</q>
                </p>
                <p><q><hi rend="il">O</hi><hi rend="caps">ye</hi> lordes, thynke ye that this is good; yet is ther
                      more! He complayneth how that <persName>Reynart</persName> myn eme hath moche
@@ -348,12 +348,12 @@
       <back>
          <div type="annotations">
             <head>Editorial Notes</head>
-            <note xml:id="c1n1">The consonant "v" and the vowel "u" were interchangeable in written English through the Middle Ages. This began with the all-uppercase Latin script and is seen here in "dyuerse" (diverse).</note>
-            <note xml:id="c2n1">The titular "Reynard" is often spelled "Reynart" throughout the text.</note>
-            <note xml:id="c2n2">"Mandementis" is the plural of mandament meaning command</note>
-            <note xml:id="c3n1"><ref target="wit">"To wete" is an archaic form of "to wit," meaning "that is to say".</ref></note>
-            <note xml:id="c4n1">"pees and saufgarde" means peace and safeguard which refers to the peace and safety of not just the king but the kingdom as well.</note>
-            <note xml:id="c5n1">The spelling "Ysegrym" is being used in place of "Isegrym" here with the "Y" interchangeable with the vowel "I".</note>
+            <note type="editorial" xml:id="c1n1">The consonant "v" and the vowel "u" were interchangeable in written English through the Middle Ages. This began with the all-uppercase Latin script and is seen here in "dyuerse" (diverse).</note>
+            <note type="editorial" xml:id="c2n1">The titular "Reynard" is often spelled "Reynart" throughout the text.</note>
+            <note type="editorial" xml:id="c2n2">"Mandementis" is the plural of mandament meaning command</note>
+            <note type="editorial" xml:id="c3n1"><ref target="wit">"To wete" is an archaic form of "to wit," meaning "that is to say".</ref></note>
+            <note type="editorial" xml:id="c4n1">"pees and saufgarde" means peace and safeguard which refers to the peace and safety of not just the king but the kingdom as well.</note>
+            <note type="editorial" xml:id="c5n1">The spelling "Ysegrym" is being used in place of "Isegrym" here with the "Y" interchangeable with the vowel "I".</note>
          </div>
          <div type="bibliography">
             <head>Bibliography</head>

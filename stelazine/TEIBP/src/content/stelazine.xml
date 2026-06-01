@@ -284,7 +284,7 @@
                   15-17</date>.... </p>
          </div>
 
-        
+
          <div>
             <figure>
                <graphic url="https://drive.google.com/thumbnail?id=12sRWmragW460kPUEfP8OqpqbKb4UG9SO&amp;sz=w300"/> 
@@ -2163,47 +2163,72 @@
 
       <back>
          <div type="index">
-
-            <listPerson>
+            <listPerson type="artist">
                <person xml:id="Peter_Tosh">
-                  <persName/>
+                  <persName>Peter Tosh</persName>
+                  <note>Jamaican former Reggae singer (19 October 1944 – 11 September 1987)</note>
                </person>
-
-            </listPerson>
-            <listPlace>
-               <place xml:id="placeID">
-                  <placeName/>
-               </place>
-            </listPlace>
-            
-            <list type="song">
-               <item xml:id="songID">
-                  <title></title>
-                  <note type="artist"></note>
-               </item>
-            </list>
-
+               <person xml:id="Bee_Gees">
+                  <persName>Bee Gees</persName>
+                  <note>Disco music group formed in 1958</note>
+               </person>
+               <person xml:id="The_Dots">
+                  <persName>The Dots</persName>
+                  <note>"Alison East" refers to the guitarist of "The Dots"</note>
+               </person>
+               <person xml:id="Miki_Zone_Zoo"> <persName>Miki Zone Zoo</persName>
+                  <note>Formerly "The Fast", then "Man 2 Man" was an American glam/punk band in the  1970s</note>
+               </person> 
+               <person xml:id="Come_On">  <persName>Come On</persName>  <note>New York
+                     art-punk and "nervous-rock" band</note>  </person>  <person xml:id="Devo"> 
+                     <persName>Devo</persName>  <note>American new wave band from Akron, Ohio,
+                     formed in 1973</note>  </person>  
+               <person xml:id="Talking_Heads"> 
+                     <persName>Talking Heads</persName>  <note>American rock band from New York
+                     City, formed in 1975</note>  </person>  
+               <person xml:id="The_Radios"> 
+                     <persName>The Radios</persName>  </person>  
+               <person xml:id="The_St._Bernard_Quartet">  <persName>The St. Bernard Quartet</persName>
+               </person>  
+               <person xml:id="The_Girls">  <persName>The Girls</persName>  </person> 
+                  <person xml:id="The_Enemy">  <persName>The Enemy</persName>  </person>  <person
+                  xml:id="The_Fishsticks">  <persName>The Fishsticks</persName>  </person>  <person
+                  xml:id="The_Mystery_Horns">  <persName>The Mystery Horns</persName>  </person> 
+                  <person xml:id="George_Johnny_Ray_Gleason">  <persName>George “Johnny Ray”
+                     Gleason</persName>  </person>  <person xml:id="Rick_Buddy_Holly_Smith"> 
+                     <persName>Rick “Buddy Holly” Smith</persName>  </person>  <person
+                  xml:id="Cheaters">  <persName>Cheaters</persName>  </person>  <person
+                  xml:id="Electric_Tramps">  <persName>Electric Tramps</persName>  </person>   
+            </listPerson>   <listPlace>  <place xml:id="New_York">  <placeName>New York</placeName> 
+               </place>  <place xml:id="Max">  <placeName>Max's</placeName>  <note>Most likely
+                     refers to Max's Kansas City, which was a nightclub and  restaurant in New York
+                     City</note>  </place>  <place xml:id="Seattle"> 
+                  <placeName>Seattle</placeName>  </place>  </listPlace>   <list type="song">  <item
+                  xml:id="Let_Me_Take_You_Out_To_Lunch">  <title>Let Me Take You Out To
+                     Lunch</title>  <note type="artist">The Dots</note>  </item>  <item
+                  xml:id="The_Kids_Just_Wanna_Dance">  <title>The Kids Just Wanna Dance</title> 
+                     <note type="artist">Miki Zone Zoo</note>  </item>  </list>
          </div>
 
 
          <div type="endnotes">
-            <note xml:id="Epic">Epic Records is a record label that’s part of CBS, and owned by Sony
+            <note xml:id="n1">Epic Records is a record label that’s part of CBS, and owned by Sony
                Music Entertainment. Founded in 1953, it’s one of the oldest record labels in the US.
                They manufactured and distributed the Clash’s 1979 release, London Calling. <ref
                   type="biblio" target="EpicRecords">See source 2</ref>
             </note>
 
-            <note xml:id="Caroline_Coon">Caroline Coon is an artist, photographer and feminist activist from
+            <note xml:id="n2">Caroline Coon is an artist, photographer and feminist activist from
                London who, at this time, was the manager of The Clash band from 1978 to 1980 and on
                their international tours. During this time, she was dating Paul Simonon, the bassist
                of the Clash. <ref type="biblio" target="TheCultureCrush">See source 3</ref>
             </note>
-            
-            <note xml:id="Clash">Other members of The Clash. Joe Strummer played rhythm guitar and
+
+            <note xml:id="n3">Other members of The Clash. Joe Strummer played rhythm guitar and
                sung, Mick Jones was lead guitar, and Nicholas “Topper” Headon played drums. <ref
                   type="biblio" target="TeachRock">See Source 4</ref>
             </note>
-            <note xml:id="Bo">Bo Diddley was an American guitarist, singer and songwriter who is
+            <note xml:id="n4">Bo Diddley was an American guitarist, singer and songwriter who is
                known to have been a large influence on The Clash. He toured with them on their 1979
                USA tour. <ref type="biblio" target="BoDiddley">See Source 5, 6</ref>
                <ref type="biblio" target="Colorado Sound"> See Source 5, 6</ref>
