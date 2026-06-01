@@ -94,8 +94,8 @@
   font-family: Courier,monospace;
 }
 .page-setup {
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 4em;
+  margin-right: 4em;
   padding: 2.5em;
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
