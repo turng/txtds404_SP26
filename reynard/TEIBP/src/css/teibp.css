@@ -1948,6 +1948,15 @@ body > div > head > hi > rend > rt {
   display: inline;
     }
     
+body > div > head > hi > rend > caps {
+  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
+  font-size: 14pt;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: black;
+  display: inline;
+    }
+    
 back > div {
   display: block
 }
