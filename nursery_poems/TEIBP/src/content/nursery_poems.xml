@@ -100,7 +100,7 @@
                <lg type="stanza">
                   <l>There was such a commotion,</l>
                   <l>that little Jenny Wren</l>
-                  <l>Flew don into the garden,</l>
+                  <l>Flew down into the garden,</l>
                   <l>and put it back again.</l>
                </lg>
             </note>
@@ -120,7 +120,7 @@
          </lg>
          <note type="footnote" xml:id="fn-2-1">
             <p>
-               <ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#COCK-A-DOODLE-DO">A version of this poem</ref> found in <hi rend="italicized">The Big Book of Nursery Rhymes</hi> (2012) omits the word "crows" on the inital line. This version also addes a second stanza.
+               <ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#COCK-A-DOODLE-DO">A version of this poem</ref> found in <hi rend="italicized">The Big Book of Nursery Rhymes</hi> (2012) omits the word 'crows' on the inital line. This version also adds a second stanza.
             </p>
          </note>
          <pb n="3"/>
@@ -295,7 +295,7 @@
                <l>And we'll ring the great bell.</l>
             </lg>
          </lg>
-         <note type="footnote">
+         <note type="footnote" xml:id="fn-9-1">
             <p>This line references "Mister Punch", a popular character in English puppet theatre from the 18th century onwards, and especially as a hand-puppet in the 19th century, when this text would have been circulating ("That's the way to do it").</p>
          </note>
          <pb n="10"/>
@@ -453,7 +453,7 @@
          </figure>
          <lg type="poem" n="19">
             <lg type="stanza" rend="left" rhyme="abcbdefe">
-               <l>I had a little Pony,</l>
+               <l><ref target="#fn-19-1">I had a little Pony</ref>,</l>
                <l rend="indented">And call'd it Dapple Grey;</l>
                <l>I lent it to a lady,</l>
                <l rend="indented">To ride a mile away:</l>
@@ -472,7 +472,7 @@
                <l rend="indented">The Children in the Wood.</l>
             </lg>
          </lg>
-         <note type="footnote" xml:id="fn-20-1">
+         <note type="footnote" xml:id="fn-19-1">
             <p>
                There is <ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#I_HAD_A_LITTLE_PONY">a similar poem</ref> in <hi rend="italicized">The Big Book of Nursery Rhymes</hi> which includes the first 'I' as a drop-cap within an image, and uses slightly different language to this one. That version does not use the contracted forms found in this one. 
             </p>
