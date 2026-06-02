@@ -4,11 +4,11 @@ l[rend="italicized"] {
     font-style: italic;
 }
 lg[rend="center"] {
-    text-align: center;
+    align-content: center;
 }
 lg[rend="left"] {
-    text-align: left;
+    justify-content: left;
 }
 l[rend="indented"] {
-    text-indent: 50px;
+    margin-left: 50px;
 }

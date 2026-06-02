@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="custom.xsl"?>
+<?xml-stylesheet type="text/xsl" href="manuel_xslt.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -115,7 +115,7 @@
                 disaient-ils, c’est leur ôter...
             </p>
 
-          <note xml:id="nRegV2" xml:lang="en">
+         <note xml:id="nRegV2" xml:lang="en">
   This section modernizes certain spellings used by Manuel through pairs such
   as
   <choice>
@@ -130,15 +130,16 @@
   The bull Unigenitus, issued in 1713, condemned propositions associated with
   Jansenism and became a major source of religious and political conflict in
   eighteenth-century France. Manuel invokes it to show how disputes over belief
-  could lead to administrative repression and imprisonment.
+  could lead to administrative repression and imprisonment within a broader
+  system of control.
   <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n2" xml:lang="en">
   “Blackstone” refers to William Blackstone, author of the Commentaries on the
   Laws of England, which strongly emphasized protection against arbitrary
-  imprisonment. Manuel uses Blackstone as a contrast to criticize the French
-  system of confinement without open judicial process.
+  imprisonment. Manuel uses Blackstone as a foil to criticize a French system
+  of confinement that often bypassed open judicial process.
   <ref type="biblio" target="#Darnton"/>
 </note>
 
@@ -146,70 +147,60 @@
   The Château du Taureau, in the bay of Morlaix, was one of several fortresses
   used to detain prisoners under royal authority. Manuel includes it in order
   to emphasize the broad geography of state confinement.
-  <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n4" xml:lang="en">
   The château of Saumur, on the Loire, served at various times as a place of
   detention. For Manuel, sites like this show that administrative imprisonment
   extended well beyond Paris itself.
-  <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n5" xml:lang="en">
   The Château-Trompette in Bordeaux was a royal citadel also used as a prison.
   Manuel presents it as part of a kingdom-wide network of places where the
   monarchy could confine people by administrative authority.
-  <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n6" xml:lang="en">
   Pierre-Encise, near Lyon, functioned as a state prison as well as a
   fortress. The succession of such place names encourages readers to imagine a
   map of France covered with sites of arbitrary confinement.
-  <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n7" xml:lang="en">
   The fort of Bréhon in Languedoc formed part of this dispersed network of
   strongholds. Manuel’s emphasis is less on each site individually than on the
   cumulative effect of so many prisons across the kingdom.
-  <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n8" xml:lang="en">
   Mont-Saint-Michel, famous as a religious site, was also used as a prison for
   religious and political detainees. Its inclusion shows how places of devotion
   could also become instruments of confinement.
-  <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n9" xml:lang="en">
   The château of Ham in Picardy was another fortress used as a place of state
   detention. Such prisons became powerful symbols of arbitrary authority in the
   political culture of the late Ancien Régime.
-  <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n10" xml:lang="en">
   The Îles Sainte-Marguerite, off the Mediterranean coast, contained a
   fortified prison that held both well-known and obscure detainees. Manuel uses
   it to show that royal imprisonment extended even to island sites.
-  <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n11" xml:lang="en">
   Saint-Lazare in Paris combined charitable, corrective, and carceral
   functions. Manuel includes it in a broader continuum of institutions where
   care, discipline, and punishment overlapped.
-  <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n12" xml:lang="en">
   Bicêtre was at once a hospital, poorhouse, and prison. Its mixed functions
   illustrate how social assistance and coercive confinement were often closely
   linked in the old regime.
-  <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n13" xml:lang="en">
@@ -217,14 +208,12 @@
   insane or socially disruptive could be confined by administrative decision.
   Manuel suggests that claims of madness could become a convenient excuse for
   removing inconvenient people from public life.
-  <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n14" xml:lang="en">
   The Picpus and similar religious congregations could receive women whom their
   families or authorities wished to hide, discipline, or control. Manuel
   treats such houses as extensions of the wider system of confinement.
-  <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n15" xml:lang="en">
@@ -232,35 +221,30 @@
   functions, and many women were confined there through lettres de cachet or
   family denunciation. Manuel uses it as a symbol of moral and administrative
   coercion.
-  <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n16" xml:lang="en">
   Sainte-Pélagie functioned as a women’s prison and later became known as a
   site of political detention. In Manuel’s account, it represents the
   intersection of gender, morality, and state power.
-  <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n17" xml:lang="en">
   The Magdalonnettes, or Filles de la Madeleine, housed women accused of moral
   disorder. Manuel groups them with other institutions to show how allegations
   of vice could justify punitive isolation.
-  <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n18" xml:lang="en">
   The convent of Valdonne, like other houses in Manuel’s list, could receive
   women placed there by their families or by administrative order. He presents
   this practice as imprisonment disguised as moral reform.
-  <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n19" xml:lang="en">
   The Refuge in Dijon was one of several provincial institutions where women
   could be enclosed in the name of protection or correction. Manuel describes
   such places as religious pits in which people disappeared for years.
-  <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n20" xml:lang="en">
@@ -268,7 +252,6 @@
   of a wider network of institutions used to confine women across the kingdom.
   Together they reveal the cooperation of family authority, religious life, and
   royal power in enforcing a hidden parallel justice.
-  <ref type="biblio" target="#Darnton"/>
 </note>
 
 <note xml:id="n21" xml:lang="en">

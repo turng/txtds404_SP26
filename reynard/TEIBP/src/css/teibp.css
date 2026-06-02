@@ -289,7 +289,9 @@ back {
   display: block;
 }
 bibl {
-  /* Empty Rule Set */
+  display: block;
+  padding-left: 2em;
+  text-indent: -2em;
 }
 bibl[rend~="block"],
 bibl[rendition~="#block"] {
@@ -655,7 +657,9 @@ graph {
   /* Empty for now */
 }
 graphic {
-  display: none;
+  display: inline;
+  width: 200px;
+  height: auto;
 }
 group {
   /* Empty Rule Set */
@@ -1938,11 +1942,23 @@ div.facsImage img:first-child {
   font-weight: normal;
 }
 
-body > div > head > hi style {
-    font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
+body > div > head > hi > rend > rt {
+  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
   font-weight: bold;
   color: #1100;
   display: inline;
     }
-
+    
+body > div > head > hi > rend > caps {
+  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
+  font-size: 14pt;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: black;
+  display: inline;
+    }
+    
+back > div {
+  display: block
+}
