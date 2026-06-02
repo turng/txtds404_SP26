@@ -596,7 +596,7 @@ fileDesc > extent {
 }
 /* f */
 figure {
-  display: block;
+  display: inline flow-root;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -657,7 +657,7 @@ graph {
   /* Empty for now */
 }
 graphic > url {
-  display: inline;
+  display: inline flow-root;
   width: 200px;
   height: auto;
 }
