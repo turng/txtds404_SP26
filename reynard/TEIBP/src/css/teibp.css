@@ -1839,7 +1839,11 @@ html {
   font-size: 14pt;
   background-color: #f4eee0;
 }
-img {
+front > img {
+  border: none;
+  width: 100%;
+}
+body > img {
   border: none;
   width: 30%;
   float: left;
