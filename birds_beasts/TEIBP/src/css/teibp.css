@@ -15,7 +15,7 @@
   width: 325px;
   position: relative;
   border: 1px solid #AAA;
-  background: #FAFAFA;
+  background: #FFFFFF;
   /* reset text-indent for note with <l> ancestors. */
   text-indent: 0;
   font-size: 85%;
@@ -677,15 +677,16 @@ handShift {
 TEI head {
   display: block;
   font-family: Arvo, sans-serif;
-  font-weight: normal;
+  font-weight: bold;
 }
 body > head {
   font-size: 180%;
   text-indent: -0.5em;
 }
 div > head {
-  font-size: 170%;
+  font-size: 100%;
   text-indent: -0.5em;
+  text-align: center;
 }
 div > div > head {
   font-size: 155%;
@@ -737,7 +738,7 @@ heraldry {
   /* Empty Rule Set */
 }
 hi {
-  /* GLS: do we want to bold this or change the background color? */
+  text-align: center;
 }
 history {
   /* Empty Rule Set */
@@ -826,6 +827,7 @@ l {
   display: block;
   padding-left: 2em;
   text-indent: -2em;
+  text-align: center
 }
 list[type="gloss"] > label {
   display: block;
@@ -841,11 +843,11 @@ lacunaStart {
 }
 [lang="ar"] {
   direction: rtl;
-  text-align: right;
+  text-align: center;
 }
 [lang="en"] {
   direction: ltr;
-  text-align: left;
+  text-align: center;
 }
 lang {
   /* Empty Rule Set */
@@ -1138,7 +1140,7 @@ p {
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
-  text-align: justify;
+  text-align: center;
 }
 *[rendition~="#center"] p {
   text-align: center;
@@ -1164,18 +1166,19 @@ pb {
   text-align: right;
   color: gray;
   margin: 2em 0 2em 0;
-  font-size: 11pt;
+  font-size: 14pt;
+  text-align: center;
 }
 .pb {
   display: block;
   width: 100%;
   text-align: right;
-  color: gray;
+  color: black;
   margin: 2em 0 2em 0;
   font-size: 11pt;
 }
 pb:before {
-  content: "page:\a0" attr(n);
+  content: "\a0" attr(n);
 }
 pc {
   /* Empty Rule Set */
@@ -1690,6 +1693,7 @@ border: 1px solid black;
 background:white;
 */
   line-height: 1.5;
+  text-align: center;
 }
 textClass {
   display: none;
@@ -1840,12 +1844,12 @@ html {
   padding: 2.5em;
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
-  background-color: #EBEBEB;
+  background-color: #FFFFFF;
   color: #292929;
   width: 33em;
 }
 img {
-  border: 1px solid #AAA;
+  border: 1px solid #FFFFFF;
 }
 footer {
   margin-top: 1em;
@@ -1864,6 +1868,7 @@ a:hover {
   text-decoration: underline;
 }
 #teibpToolbox {
+display: none;
   left: 56em;
   top: 25px;
   position: fixed;
@@ -1881,6 +1886,7 @@ a:hover {
   width: 12em;
 }
 #teibpToolbox h1 {
+display: none;
   font-weight: bold;
   font-size: 115%;
   margin-top: 0;
