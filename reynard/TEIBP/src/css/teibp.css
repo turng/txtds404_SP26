@@ -707,12 +707,11 @@ figure {
   display: inline flow-root;
   margin: auto;
   padding: .5em 1.5em 1.5em 1.5em;
-  border: 1px solid black;
-  border-radius: 5px;
+  border: none;
   width: 325px;
   height: auto;
   position: relative;
-  border: 1px solid #AAA;
+  border: none;
   background: #FAFAFA;
   /* reset text-indent for note with <l> ancestors. */
   text-indent: 0;

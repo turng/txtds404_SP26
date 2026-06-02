@@ -40,19 +40,19 @@
          <charDecl>
             <glyph xml:id="flower">
                <desc>This glyph is a small, red flower ornament.</desc>
-               <graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Flower.png"/>
+               <graphic url="ImagesForReynard/Flower.png"/>
             </glyph>
          </charDecl>
          <charDecl>
             <glyph xml:id="round">
                <desc>This glyph is a small, black leaf with rounded edges.</desc>
-               <graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/SmoothLeaf.png"/>
+               <graphic url="ImagesForReynard/SmoothLeaf.png"/>
             </glyph>
          </charDecl>
          <charDecl>
             <glyph xml:id="spiky">
                <desc>This glyph is a small, black leaf with spiky edges.</desc>
-               <graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/SpikyLeaf.png"/>
+               <graphic url="ImagesForReynard/SpikyLeaf.png"/>
             </glyph>
          </charDecl>
       </encodingDesc>
@@ -97,7 +97,7 @@
             </docTitle>
             <figure>
                <figDesc>Illuminated title page reading "The History of Reynard the Foxe."</figDesc>
-               <graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/TitlePage.png">
+               <graphic url="ImagesForReynard/TitlePage.png">
                </graphic>
             </figure>
          </titlePage>
@@ -107,7 +107,7 @@
             <pb n="1"/>
             <head><hi rend="rt">Hyer begynneth the hystorye of <persName>Reynard the
                      Foxe</persName><g ref="#flower"/><g ref="#flower"/><g ref="#flower"/></hi></head>
-            <p><figure><figDesc>Illuminated capital "I."</figDesc><graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Capital1.png"></graphic></figure><hi rend="caps">n</hi> thys hystorye ben wreton the parables, goode lerynge, and
+            <p><figure><figDesc>Illuminated capital "I."</figDesc><graphic url="ImagesForReynard/Capital1.png"></graphic></figure><hi rend="caps">n</hi> thys hystorye ben wreton the parables, goode lerynge, and
                <ref target="#c1n1">dyuerse</ref>poyntes to be merkyed, by whiche poyntes men maye lerne to come to the
                subtylle knoweleche of suche thynges as dayly ben vsed and had in the counseyllys of
                lordes and prelates, gostely and worldly, and also emonge marchantes &amp; other
