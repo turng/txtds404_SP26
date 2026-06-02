@@ -841,11 +841,11 @@ lacunaStart {
 }
 [lang="ar"] {
   direction: rtl;
-  text-align: right;
+  text-align: center;
 }
 [lang="en"] {
   direction: ltr;
-  text-align: left;
+  text-align: center;
 }
 lang {
   /* Empty Rule Set */
