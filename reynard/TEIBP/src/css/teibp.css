@@ -712,7 +712,7 @@ figure {
   height: auto;
   position: relative;
   border: none;
-  background: #FAFAFA;
+  background: none;
   /* reset text-indent for note with <l> ancestors. */
   text-indent: 0;
   font-size: 85%;
