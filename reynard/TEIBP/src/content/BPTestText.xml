@@ -40,7 +40,7 @@
          <charDecl>
             <glyph xml:id="flower">
                <desc>This glyph is a small, red flower ornament.</desc>
-               <graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Flower.png"/>
+               <graphic url="ImagesForReynard/Flower.png"/>
             </glyph>
          </charDecl>
          <charDecl>
@@ -97,7 +97,7 @@
             </docTitle>
             <figure>
                <figDesc>Illuminated title page reading "The History of Reynard the Foxe."</figDesc>
-               <graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/TitlePage.png">
+               <graphic url="ImagesForReynard/TitlePage.png">
                </graphic>
             </figure>
          </titlePage>
