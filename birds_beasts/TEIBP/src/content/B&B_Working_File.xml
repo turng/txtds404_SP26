@@ -51,7 +51,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <rendition xml:id="hollow">font-style: hollow;</rendition>
             <rendition xml:id="caps">text-transform: uppercase;</rendition>
             <rendition xml:id="italics">font-style: italic;</rendition>
-            <rendition xml:id="bold">font-style: bold;</rendition>
+            <rendition xml:id="bold">font-weight: bold;</rendition>
          </tagsDecl>
       </encodingDesc>
    </teiHeader>
@@ -165,7 +165,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
            <head> THE CUCKOO.</head>
             <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_008.jpg"/></figure>
             <lg>
-               <l><hi rend="dc">T</hi>he <hi rend="italics">Cuckoo</hi> tells a merry tale,</l><l> Upon the hill and in the vale.</l>
+               <l><hi rend="dc">T</hi>HE <hi rend="italics">Cuckoo</hi> tells a merry tale,</l><l> Upon the hill and in the vale.</l>
             </lg>
             <p> There's the pretty <hi rend="italics">Cuckoo ! </hi> This good-natured bird comes a long journey once every year to see all his friends, and sing them a sng. And after he has obliged them with his company about three months, he takes his leave, and returns to his own country again.</p>
          </div>
@@ -174,7 +174,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <head>THE COW.</head>
     <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_009.jpg"/></figure>
     <lg>
-        <l><hi rend="dc">E</hi>ARLY the <hi rend="italics">milkmaid</hi> to the meadow hies,</l> <l>And the <hi rend="italics">red Cow</hi> her empty pail
+        <l><hi rend="dc">E</hi>ARLY the <hi rendition="#italics">milkmaid</hi> to the meadow hies,</l> <l>And the <hi rend="italics">red Cow</hi> her empty pail
             supplies.</l>
     </lg>
     <p>This is the good-natured <hi rend="italics">Cow</hi> to which we are all so much obliged. She comes, poor
