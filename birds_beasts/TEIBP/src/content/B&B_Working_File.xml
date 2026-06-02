@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Short History of Birds and Beasts, for the Amusement and Instruction of
+               Children. </title>
+            <author>Anonymous</author>
+            <editor>Audrey Goddard, Phoebe Norton, and Marin Tisdale</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>We are interested in this particular text because of how it combines visual and
+               textual elements in a format intended for younger audiences. In other words, we are
+               interested in the intersection between the physicality of the text in relation to its
+               audience, and how this relationship can evolve over time. By preserving our text, we
+               hope to offer insight into the historical evolution of children’s literature in order
+               to better understand the factors contributing to such change.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A Short History of Birds and Beasts is a 19th century children's chapbook created for
+               children to both entertain and instill moral teachings. It is written in both prose
+               and verse with entries for thirteen different animals accompanied by corresponding
+               illustrations. This chapbook is accessible through the UW Libraries: physically in
+               their special collections and digitally through Project Gutenberg. <bibl>
+                  <title>A Short History of Birds and Beasts</title>
+                  <author>Anonymous</author>
+                  <pubPlace> Wellington, Salop</pubPlace>
+                  <publisher>F. Houlston and Son</publisher>
+                  <date> Published between 1828 and 1840</date>
+                  <idno type="OCLC">746053694</idno>
+               </bibl>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <styleDefDecl scheme="css"
+            schemeVersion="2.1"/>
+         <!-- ... -->
+         <tagsDecl>
+            <rendition xml:id="center">text-align: center;</rendition>
+            <rendition xml:id="small">font-size: small;</rendition>
+            <rendition xml:id="medium">font-size: medium;</rendition>
+            <rendition xml:id="large">font-size: large;</rendition>
+            <rendition xml:id="serif">font-type: serif</rendition>
+            <rendition xml:id="hollow">font-style: hollow</rendition>
+            <rendition xml:id="caps">font-style: all caps</rendition>
+            <rendition xml:id="italics">font-style: italics</rendition>
+            <rendition xml:id="bold">font-style: bold</rendition>
+         </tagsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <titlePage>
+            <docTitle>
+               <titlePart type="main"> <hi rend="#center #serif #caps #small">A</hi>
+                  <lb/><hi rend="#center #serif #caps #medium">SHORT HISTORY</hi>
+                  <lb/><hi rend="#center #serif #caps #small">OF</hi>
+                  <lb/><hi rend="#center #serif #caps #medium #hollow" >BIRDS AND BEASTS,</hi>                  <lb/><hi rend="#center #serif #caps #small">FOR THE</hi>
+                  <lb/><hi rend="#center #serif #small #italics">Amusement and Instruction</hi>
+                  <lb/> <hi rend="#center #serif #caps #small">OF</hi>
+                  <lb/> <hi rend="#center #serif #caps #medium #bold">CHILDREN.</hi>
+                  <lb/> <figure></figure>
+                  <lb/> <hi rend="#center #serif #caps #small">ADORNED WITH CUTS.</hi>
+                  <lb/> <figure></figure>
+               </titlePart>
+            </docTitle>
+            <docImprint>
+               <lb/><pubPlace><hi rend="#center #serif #caps #small">LONDON:</hi></pubPlace> 
+               <lb/><publisher><hi rend="#center #serif #caps #small ">PRINTED FOR HOULSTON AND SON,</hi></publisher>
+               <lb/><pubPlace>
+                  <lb/><hi rend="#center #serif #small">65, Paternoster-Rew;</hi>
+                  <lb/> <hi rend="#center #serif #caps #small">AND AT WELLINGTON, SALOP.</hi>
+               </pubPlace>
+               <figure></figure>
+            </docImprint>
+            <epigraph><p><hi rend="#center #serif #small #italics">Price One Penny.</hi></p></epigraph>
+         </titlePage>
+           <div type="editorial_intro">
+            <p>Published between 1828 and 1840, A Short History of Birds and Beasts is a small
+               catalog of birds, insects, and mammals, with images and brief descriptions of each
+               animal underneath—intended for a child audience. The descriptions are presented in a
+               nursery rhyme-like form rather than as a scientific report in order to further
+               audience engagement with the text. Additionally, the pocket-sized nature of the
+               text’s physical form lends itself to portability. With its compact size, variety of
+               fonts, and detailed imagery, A Short History of Birds and Beasts combines rhyming
+               verse with visual imagery to ultimately create a text that is both entertaining and
+               educational in its message. This edition seeks to draw attention to how the
+               combination of visual and textual elements within children’s literature can play a
+               role in audience engagement and understanding of a text. In doing so, a unique
+               perspective on the historical evolution of children’s literature becomes more
+               distinctly illuminated. To do this, we chose to utilize a diplomatic transcription of
+               the text to highlight this evolution as distinctly as possible. In order to maintain
+               the combination of the textual and visual, the images and fonts used in the original
+               edition were transcribed within our digital edition. Furthermore, by digitizing text
+               previously attainable only through the UW Special Collections, we hope to increase
+               the accessibility of our text in a wider, not purely archival, context. </p>
+         </div>
+      </front>
+    
+      <body>
+         <div>
+            <pb n="2"/>
+            <head>FRONTISPIECE.</head>
+            <figure><graphic url="X"/></figure>
+            <figure><graphic url="X"/></figure>
+            <head>THE LION.</head>
+            <lg>
+               <l>The Lion, the King of all Beasts,</l>
+               <l>How famous for Courage is he!</l>
+               <l>And you, as the King of Good Boys,</l>
+               <l>To learn your Book diligent be.</l>
+            </lg>
+         </div>
+         
+         <div>
+         <pb n="3"/>
+            <p><hi rend="#center #serif #caps #medium">A</hi>
+          <lb/> <hi rend="#center #serif #caps #medium">SHORT HISTORY</hi>
+          <lb/> OF
+          <lb/> <hi rend="#center #serif #caps #large #italics">BIRDS &amp; Beasts,</hi>
+               <lb/> <hi rend="#center #serif #caps #medium">FOR THE</hi>
+               <lb/> <hi rend="#center #serif #medium">Amusement and Instruction</hi>
+               <lb/> <hi rend="#center #serif #caps #medium">OF</hi>
+               <lb/> <hi rend="#center #serif #caps #medium">CHILDREN.</hi>
+         </p> 
+          <figure>
+             <figDesc> Wavy, thin leading spanning almost the entirety of the page.</figDesc>
+          </figure> 
+           <p> <hi rend="#center #serif #medium">Adorned with Cuts.</hi></p>
+            <figure>
+            <figDesc> Wavy, thin leading spanning almost the entirety of the page.</figDesc>
+            </figure>
+            <p> <hi rend="#center #serif #medium">WELLINGTON, SALOP:</hi>
+               <lb/> <hi rend="#center #serif #medium">Printed by F. Houlston and Son.</hi>
+               <lb/> <hi rend="#center #serif #medium">Price One Penny.</hi> </p>
+         </div>
+         
+         <pb n="4" type="blank"/>
+         
+         <div>
+            <pb n="5"/>
+            <head> THE COCK.</head>
+            <figure><graphic url="X"/></figure>
+            <lg>
+               <l><hi rend="dc">T</hi>he<hi rend="italics">Cock</hi> doth crow to let you know,</l>
+               <l>If you be wise, what time to rise.</l>
+            </lg>
+            <p>There is no bird treated with so much cruelty as the <hi rend="italics">Cock</hi>; for he, poor <pb n="6"/>thing, (without the least offence,) is tied to a stake, and throw at by a set of idle, wicked, barbarous fellows, till he is beaten in pieces. This is a custom the very heathens would blush at; and therefore I hope you, who are christian, will never be guilty of any thing so inhuman.</p>
+         </div>
+         
+         <div>
+         <pb n="7"/>
+         <head>THE PARROT.</head>
+         <figure><graphic url="X"/></figure>
+         <lg>
+            <l> <hi rend="dc">T</hi>he <hi rend="italics">Parrot</hi>prates he knows not</l><l>what,</l><l>For all he says got by rote.</l>
+         </lg>
+            <p>The<hi rend="italics">Parrot</hi>is a chattering bird, he talks a greate deal, yet knows not what he says; and is therefore not unlike some silly boys, who prate without thinking, and learn their lesson with-out looking at their book.</p>
+         </div>
+         <div>
+          <pb n="8"/>
+           <head> THE CUCKOO.</head>
+            <figure><graphic url="X"/></figure>
+            <lg>
+               <l><hi rend="dc">T</hi>he <hi rend="italics">Cuckoo</hi> tells a merry tale,</l><l> Upon the hill and in the vale.</l>
+            </lg>
+            <p> There's the pretty <hi rend="italics">Cuckoo ! </hi> This good-natured bird comes a long journey once every year to see all his friends, and sing them a sng. And after he has obliged them with his company about three months, he takes his leave, and returns to his own country again.</p>
+         </div>
+        <div>
+    <pb n="9"/>
+    <head>THE COW.</head>
+    <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_009.jpg"/></figure>
+    <lg>
+        <l><hi rend="dc">E</hi>arly the <hi rend="italics">milkmaid</hi> to the meadow hies,</l> <l>And the <hi rend="italics">red Cow</hi> her empty pail
+            supplies.</l>
+    </lg>
+    <p>This is the good-natured <hi rend="italics">Cow</hi> to which we are all so much obliged. She comes, poor
+        thing! in the morning, and brings her udder full of milk for <pb n="10"/> our
+        breakfast, and the same at night for our supper. To her we are indebted for our
+        custards, cheesecakes, curds, and cream, as well as for our milk, butter, and
+        cheese.</p>
+    <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_010.jpg"/></figure>
+</div>
+<div>
+    <pb n="11"/>
+    <head>THE NIGHTINGALE.</head>
+    <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_011.jpg"/></figure>
+    <lg>
+        <l><hi rend="dc">T</hi>he <hi rend="italics">Nightingale</hi> doth sweetly sing,</l> <l>To welcome in the cheerful spring.</l>
+    </lg>
+    <p>What a pretty bird the <hi rend="italics">Nightingale</hi> is! How sweetly she sings! I could wish 'twas
+        summer all the year for the sake of her good company.</p>
+</div>
+<div>
+    <pb n="12"/>
+    <head>THE LAMB.</head>
+    <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_012.jpg"/></figure>
+    <lg>
+        <l><hi rend="dc">T</hi>he little <hi rend="italics">Lamb</hi> doth skip and play,</l> <l>Always merry, always gay.</l>
+    </lg>
+    <p>See the little <hi rend="italics">Lamb</hi>! how innocent he looks! he never did any harm, and therefore is
+        beloved by every body: but the fox and the wolf, who are always in mischief, are
+        hated and despised.</p>
+</div>
+<div>
+    <pb n="13"/>
+    <head>THE LION.</head>
+    <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_013.jpg"/></figure>
+    <lg>
+        <l><hi rend="dc">T</hi>he <hi rend="italics">Lion</hi> ranges round the wood,</l> <l>And makes the lesser beasts his food:</l> <l>Thus tyrants
+            on their subject prey,</l> <l>And rule with arbitrary sway.</l>
+    </lg>
+    <p>Though the <hi rend="italics">Lion</hi> is such a strong devouring creature, yet <ref target="#n13"><hi rend="italics">Daniel</hi></ref> was thrown into a den
+        among several of <pb n="14"/> them, and received no harm. For he was punished on
+        account of his religion and virtue, he prayed unto God, and the Lord delivered
+        him.</p>
+    <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_014.jpg"/></figure>
+</div>
+<div>
+    <pb n="15"/>
+    <head>THE WHALE.</head>
+    <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_015.jpg"/></figure>
+    <lg>
+        <l><hi rend="dc">T</hi>he <hi rend="italics">Whale's</hi> the monarch of the main,</l> <l>(As is the Lion of the plain:)</l> <l>He keeps the
+            lesser fish in awe,</l> <l>And, tyrant-like, his will's his law.</l>
+    </lg>
+    <p>When the prophet <ref target="#n15"><hi rend="italics">Jonah</hi></ref> attempted to fly over sea from the presence of the Lord, there
+        arose a great storm, and <pb n="16"/> he being cast into the deep, was swallowed by
+        this great fish, in whose belly he repented sincerely, and prayed unto God; wherefore
+        the Lord commanded the fish, and he swam to shore, and cast him upon dry land.</p>
+    <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_016.jpg"/></figure>
+</div>
+         <div>
+            <pb n="17"/>
+            <head>THE BUTTERFLY.</head>
+            <figure>
+               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_017.jpg"/>
+            </figure>
+            <lg>
+               <l><hi rend="dc">T</hi>he <hi rend="italics">Butterfly</hi> in gaudy dress,</l>
+               <l>The worthless coxcomb doth express,</l>
+               <l>Who not regarding whence he rose,</l>
+               <l>Is proud of what?-- of his fine clothes</l>
+            </lg>
+            <p>This gaudy <hi rend="italics">Butterfly</hi> owes its being to a poor worm, and has nothing to boast of but
+               his fine wings, which perhaps will <pb n="18"/> be lost the first frosty day: and
+               then his case will be much like the cox-comb's, who having lost his fine hat and bag
+               wig, has nothing to support him but a head full of emptiness.</p>
+            <figure>
+               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_018.jpg"/>
+            </figure>
+         </div>
+         <div>
+            <pb n="19"/>
+            <head>THE CROCODILE.</head>
+            <figure>
+               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_019.jpg"/>
+            </figure>
+            <lg>
+               <l><hi rend="dc">T</hi>he <hi rend="italics">Crocodile</hi>, with watery eyes,</l>
+               <l>O'er man and every creature cries,</l>
+               <l>Then feeds with pleasure on his prey;</l>
+               <l>So hypocrites their friends betray</l>
+            </lg>
+            <p>This terrible creature is said to weep over his prey before he devours it, as if he was unwilling to destroy any thing; but in truth, that whining is only to <pb n="20"/> bring other creatures to see what's the matter, that Mr. <hi rend="italics">Crocodile</hi> may get another snap for his belly.</p>
+            <figure>
+               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_020.jpg"/>
+            </figure>
+         </div>
+         <div>
+            <pb n="21"/>
+            <head>THE ASS.</head>
+            <figure>
+               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_021.jpg"/>
+            </figure>
+            <lg>
+               <l><hi rend="italics">T</hi>he <hi rend="italics">Ass</hi>, tho' mean, will by his bray</l>
+               <l>Oblige your horse to run away.</l>
+            </lg>
+            <p>Though this animal makes such a mean figure, yes, <ref target="#n21">Samson</ref>, with the jawbone of an <hi rend="italics">Ass</hi>, slew a thousand men. But then the Lord was with him, and God Almighty can do any thing.</p>
+         </div> 
+         <div>
+            <pb n="22"/>
+            <head>THE ANT.</head>
+            <figure>
+               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_022.jpg"/>
+            </figure>
+            <lg>
+               <l><hi rend="dc">T</hi>he little <hi rend="italics">Ant</hi> no labour spares,</l>
+               <l>Wisely preventing future cares;</l>
+               <l>For ere the hoary frost comes on,</l>
+               <l>Her stock's laid up, and business done.</l>
+            </lg>
+            <p>This little creature was a great favourite with the wise king <ref target="#n23">Solomon</ref>, who much admired her industry and care- <pb n="23"/>fulness, and recommends her to the consideration of every idle person. <quote>"Arise, though sluggard, go to the <hi rend="italics">Ant</hi>, consider her ways, and be wise."</quote></p>
+            <figure>
+               <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_023.jpg"/>
+            </figure>
+         </div> 
+         <div type="endnotes">
+            <note xml:id="n1"> We edited the line groups of verse into quatrains separate from the
+               following prose <ref type="biblio" target="#source4"> See source 4. </ref>
+            </note>
+            <note xml:id="n13">Section 13: The Lion references the biblical story of Daniel in the
+               lions’ den.</note>
+            <note xml:id="n15">Section 15: The Whale references the biblical story of Jonah, who was
+               swallowed by a whale.</note>
+            <note xml:id="n21">Section 21: The Ass references the biblical story of Samson.</note>
+            <note xml:id="n22">Section 22: The Ant references and quotes the biblical king
+               Solomon.</note>
+         </div>
+      </body>
+      <back>
+         <div>
+            <pb n="24"/>
+            <head>Books printed and sold by F HOULSTON &amp; SON, 65, Paternoster Row, London; and at WELLINGTON, SALOP.</head>
+            <p>The HISTORY of SIR RICHARD WHITTINGTON and HIS CAT. Price 1d.</p>
+            <p>SCRIPTURE HISTORIES; from the Creation of the World to the Death of Jesus Christ. With a Description of St. Paul's Cathedral, London. Price 1d.</p>
+            <p>WILLIAM and GEORGE. The Rich Boy and the Poor Boy; or, A contended Mind is the best Feast. Price 1d.</p>
+            <p>The WILD-BEAST SHOW. Price 1d.</p>
+            <p>The FAITHFUL DOG. A Tale. Price 1d.</p>
+            <p>GLEANINGS from NATURAL HISTORY: for the Amusement and Instruction of Youth. Price 1d.</p> 
+         </div>
+         <div type="bibliography">
+            <listBibl>
+               <bibl xml:id="source1">
+                  <title>Tei-c.org. “2 the TEI Header - the TEI Guidelines,” 2026.</title>
+                  <ref>https://tei-c.org/release/doc/tei-p5-doc/en/html/HD.html#HD57.</ref>
+               </bibl>
+               <bibl xml:id="source2">
+                  <title>Tei-c.org. “3 Elements Available in All TEI Documents - the TEI
+                     Guidelines,” 2026.</title>
+                  <ref>https://tei-c.org/release/doc/tei-p5-doc/en/html/CO.html#CONA.</ref>
+               </bibl>
+               <bibl xml:id="source3">
+                  <title>Teibyexample.org. “TEI by Example | Tutorials | Module 3: Prose,”
+                     2020.</title>
+                  <ref>https://teibyexample.org/exist/tutorials/TBED03v00.htm.</ref>
+               </bibl>
+               <bibl xml:id="source4">
+                  <title>Teibyexample.org."TEI by Example.org.“TEI by Example | Tutorials | Module
+                     4: Poetry,” 2020.</title>
+                  <ref>https://teibyexample.org/exist/tutorials/TBED04v00.htm.</ref>
+               </bibl>
+            </listBibl>
+         </div>
+      </back>
+   </text>
+</TEI>
