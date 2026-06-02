@@ -39,7 +39,7 @@
          <charDecl>
             <glyph xml:id="flower">
                <desc>This glyph is a small, red flower ornament.</desc>
-               <graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Flower.png"/>
+               <graphic url="ImagesForReynard/Flower.png"/>
             </glyph>
          </charDecl>
          <charDecl>
