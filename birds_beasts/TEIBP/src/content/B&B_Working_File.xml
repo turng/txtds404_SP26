@@ -47,11 +47,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <rendition xml:id="small">font-size: 0.75em;</rendition>
             <rendition xml:id="medium">font-size: 1em;</rendition>
             <rendition xml:id="large">font-size: 1.25em;</rendition>
-            <rendition xml:id="serif">font-type: serif</rendition>
-            <rendition xml:id="hollow">font-style: hollow</rendition>
-            <rendition xml:id="caps">font-style: capitals</rendition>
-            <rendition xml:id="italics">font-style: italics</rendition>
-            <rendition xml:id="bold">font-style: bold</rendition>
+            <rendition xml:id="serif">font-family: serif;</rendition>
+            <rendition xml:id="hollow">font-style: hollow;</rendition>
+            <rendition xml:id="caps">text-transform: uppercase;</rendition>
+            <rendition xml:id="italics">font-style: italic;</rendition>
+            <rendition xml:id="bold">font-style: bold;</rendition>
          </tagsDecl>
       </encodingDesc>
    </teiHeader>
