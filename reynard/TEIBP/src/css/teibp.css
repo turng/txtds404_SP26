@@ -705,11 +705,12 @@ div > div > div > div > div > div head {
 }
 figure {
   display: inline flow-root;
-  margin: 1.5em auto 1.5em auto;
+  margin: auto;
   padding: .5em 1.5em 1.5em 1.5em;
   border: 1px solid black;
   border-radius: 5px;
   width: 325px;
+  height: auto;
   position: relative;
   border: 1px solid #AAA;
   background: #FAFAFA;
