@@ -1167,6 +1167,7 @@ pb {
   color: gray;
   margin: 2em 0 2em 0;
   font-size: 11pt;
+  text-align: center;
 }
 .pb {
   display: block;

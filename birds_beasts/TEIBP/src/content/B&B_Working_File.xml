@@ -44,9 +44,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <!-- ... -->
          <tagsDecl>
             <rendition xml:id="center">text-align: center;</rendition>
-            <rendition xml:id="small">font-size: small;</rendition>
-            <rendition xml:id="medium">font-size: medium;</rendition>
-            <rendition xml:id="large">font-size: large;</rendition>
+            <rendition xml:id="small">font-size: 0.75em;</rendition>
+            <rendition xml:id="medium">font-size: 1 em;</rendition>
+            <rendition xml:id="large">font-size: 1.25;</rendition>
             <rendition xml:id="serif">font-type: serif</rendition>
             <rendition xml:id="hollow">font-style: hollow</rendition>
             <rendition xml:id="caps">font-style: all caps</rendition>
