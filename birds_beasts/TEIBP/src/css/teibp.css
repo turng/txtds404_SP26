@@ -1881,6 +1881,7 @@ a:hover {
   width: 12em;
 }
 #teibpToolbox h1 {
+display: none;
   font-weight: bold;
   font-size: 115%;
   margin-top: 0;
