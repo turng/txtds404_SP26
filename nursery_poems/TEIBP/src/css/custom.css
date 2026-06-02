@@ -10,5 +10,5 @@ lg[rend="left"] {
     justify-content: left;
 }
 l[style="indented"] {
-    margin-left: 50px;
+    text-indent: 1em;
 }
