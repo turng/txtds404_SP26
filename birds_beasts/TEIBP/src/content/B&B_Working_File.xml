@@ -60,14 +60,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <titlePage>
             <docTitle>
                <titlePart type="main"> <hi rend="#center #serif #caps #small">A</hi>
-                  <lb/><hi rend="#center #serif #caps #medium">SHORT HISTORY</hi>
-                  <lb/><hi rend="#center #serif #caps #small">OF</hi>
-                  <lb/><hi rend="#center #serif #caps #medium #hollow" >BIRDS AND BEASTS,</hi>                  <lb/><hi rend="#center #serif #caps #small">FOR THE</hi>
-                  <lb/><hi rend="#center #serif #small #italics">Amusement and Instruction</hi>
-                  <lb/> <hi rend="#center #serif #caps #small">OF</hi>
-                  <lb/> <hi rend="#center #serif #caps #medium #bold">CHILDREN.</hi>
+                  <lb/><hi rendition="#center #serif #caps #medium">SHORT HISTORY</hi>
+                  <lb/><hi rendition="#center #serif #caps #small">OF</hi>
+                  <lb/><hi rendition="#center #serif #caps #medium #hollow" >BIRDS AND BEASTS,</hi>                  <lb/><hi rend="#center #serif #caps #small">FOR THE</hi>
+                  <lb/><hi rendition="#center #serif #small #italics">Amusement and Instruction</hi>
+                  <lb/> <hi rendition="#center #serif #caps #small">OF</hi>
+                  <lb/> <hi rendition="#center #serif #caps #medium #bold">CHILDREN.</hi>
                   <lb/> <figure></figure>
-                  <lb/> <hi rend="#center #serif #caps #small">ADORNED WITH CUTS.</hi>
+                  <lb/> <hi rendition="#center #serif #caps #small">ADORNED WITH CUTS.</hi>
                   <lb/> <figure></figure>
                </titlePart>
             </docTitle>
@@ -120,20 +120,20 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          
          <div>
          <pb n="3"/>
-            <p><hi rend="#center #serif #caps #medium">A</hi>
-          <lb/> <hi rend="#center #serif #caps #medium">SHORT HISTORY</hi>
+            <p><hi rendition="#center #serif #caps #medium">A</hi>
+          <lb/> <hi rendition="#center #serif #caps #medium">SHORT HISTORY</hi>
           <lb/> OF
-          <lb/> <hi rend="#center #serif #caps #large #italics">BIRDS &amp; Beasts,</hi>
-               <lb/> <hi rend="#center #serif #caps #medium">FOR THE</hi>
-               <lb/> <hi rend="#center #serif #medium">Amusement and Instruction</hi>
-               <lb/> <hi rend="#center #serif #caps #medium">OF</hi>
-               <lb/> <hi rend="#center #serif #caps #medium">CHILDREN.</hi>
+          <lb/> <hi rendition="#center #serif #caps #large #italics">BIRDS &amp; Beasts,</hi>
+               <lb/> <hi rendition="#center #serif #caps #medium">FOR THE</hi>
+               <lb/> <hi rendition="#center #serif #medium">Amusement and Instruction</hi>
+               <lb/> <hi rendition="#center #serif #caps #medium">OF</hi>
+               <lb/> <hi rendition="#center #serif #caps #medium">CHILDREN.</hi>
          </p>
-           <p> <hi rend="#center #serif #medium">Adorned with Cuts.</hi></p>
+           <p> <hi rendition="#center #serif #medium">Adorned with Cuts.</hi></p>
             <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/titlelogo.jpg"></graphic></figure>
-            <p> <hi rend="#center #serif #medium">WELLINGTON, SALOP:</hi>
-               <lb/> <hi rend="#center #serif #medium">Printed by F. Houlston and Son.</hi>
-               <lb/> <hi rend="#center #serif #medium">Price One Penny.</hi> </p>
+            <p> <hi rendition="#center #serif #medium">WELLINGTON, SALOP:</hi>
+               <lb/> <hi rendition="#center #serif #medium">Printed by F. Houlston and Son.</hi>
+               <lb/> <hi rendition="#center #serif #medium">Price One Penny.</hi> </p>
          </div>
          
          <pb n="4" type="blank"/>
