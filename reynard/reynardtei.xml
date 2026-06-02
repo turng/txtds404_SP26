@@ -62,11 +62,11 @@
          <p><persName>William Caxton</persName> translated the fable of <persName>Reynard the
                Fox</persName> into <lang>English</lang> in <date>1481</date>, but the cycle had
             existed in other European countries since the <date>10th century</date>. <ref
-               target="morris">It is a historic text that has gone through many different
+               target="#morris">It is a historic text that has gone through many different
                transmissions, finally being edited by <persName>William Morris</persName> in
                   <date>1892</date>, who also printed the edition and designed the ornamentation
                that decorates it </ref>. The text communicates parables to the audience in a
-            humorous and instructive tone. <ref target="brit">The stories center around the fox
+            humorous and instructive tone. <ref target="#brit">The stories center around the fox
                character of <persName>Reynard</persName>, who lives in a society of other talking
                animals. He is an antihero, often tricking or committing crimes against his fellow
                animals. The animal community resembles a court in a satirical representation of
@@ -126,7 +126,7 @@
             <pb n="2"/>
             <div type="chapter">
                <head><hi rend="rt">Howe the <persName>Lyon</persName>, kynge of alle bestis, sent
-                     out hys <ref target="#c2n2">mandementis</ref> that alle beestis sholde come to his feest and court, <ref target="c2n3">capitulo primo</ref><g ref="#flower"/><g ref="#flower"/></hi></head>
+                     out hys <ref target="#c2n2">mandementis</ref> that alle beestis sholde come to his feest and court, <ref target="#c2n3">capitulo primo</ref><g ref="#flower"/><g ref="#flower"/></hi></head>
                <p><figure><figDesc>Illuminated capital "I."</figDesc><graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Capital2.png"></graphic></figure><hi rend="caps">t</hi> was about the time of <date>Penthecoste</date> or
                      <date>Whytsontyde</date>, that the wodes comynly be lusty and gladsom, and the
                   trees clad with leuys and blossoms, and the grounde with herbes &amp; flowris
@@ -337,7 +337,7 @@
             <div type="chapter">
                <head><hi rend="rt">How the kyng spack touchyng this conplaynt, capitulo vj</hi><g
                      ref="#flower"/><g ref="#flower"/></head>
-               <p><figure><figDesc>Illuminated capital "T."</figDesc><graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Capital11.png"></graphic></figure><hi rend="caps">hen</hi> spacke the kynge <g ref="round"/><q><persName>Syre
+               <p><figure><figDesc>Illuminated capital "T."</figDesc><graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Capital11.png"></graphic></figure><hi rend="caps">hen</hi> spacke the kynge <g ref="#round"/><q><persName>Syre
                         Dasse</persName>, here ye thys wel of the re-cluse your eme; he hath fasted
                      &amp; prayde that if I liue a yere he shal abye it. Now herke
                         <persName>Chaunteclere</persName>, youre playnte is ynoughe; youre doughter
@@ -364,7 +364,7 @@
                      see wel to for your self, for <persName>Reynart</persName> is a shrewe, and
                      felle, and knoweth so many wyles that he shallye and flatre, and shal thynke
                      how he may begyle, deceyue, &amp; brynge yow to some mock-erye</q><g
-                     ref="spiky"/>Tho sayde <persName>Brune</persName>: <q>What, good lord, late
+                     ref="#spiky"/>Tho sayde <persName>Brune</persName>: <q>What, good lord, late
                      it allone. Deceyueth me the <persName>Foxe</persName>? so haue I ylle lerned my
                      casus. I trowe he shall come to late to mocque me</q>
                   <g ref="#spiky"/></p>
@@ -379,11 +379,11 @@
             <note type="editorial" xml:id="c1n1">The consonant "v" and the vowel "u" were interchangeable in written English through the Middle Ages. This began with the all-uppercase Latin script and is seen here in "dyuerse" (diverse).</note>
             <note type="editorial" xml:id="c2n1">The titular "Reynard" is often spelled "Reynart" throughout the text.</note>
             <note type="editorial" xml:id="c2n2">"Mandementis" is the plural of mandament meaning command</note>
-            <note type="editorial" xml:id="c2n3"><ref target="latin">capitulo primo," Latin for "chapter one"</ref></note>
-            <note type="editorial" xml:id="c3n1"><ref target="wit">"To wete" is an archaic form of "to wit," meaning "that is to say".</ref></note>
+            <note type="editorial" xml:id="c2n3"><ref target="#latin">capitulo primo," Latin for "chapter one"</ref></note>
+            <note type="editorial" xml:id="c3n1"><ref target="#wit">"To wete" is an archaic form of "to wit," meaning "that is to say".</ref></note>
             <note type="editorial" xml:id="c4n1">A “meat pudding” was a traditional British food, and might in this case refer to either black or white pudding as both contained some meat or meat casing.</note>
             <note type="editorial" xml:id="c4n2">"pees and saufgarde" means peace and safeguard which refers to the peace and safety of not just the king but the kingdom as well.</note>
-            <note type="editorial" xml:id="c5n1"><ref target="eme">"eme," Middle English for "uncle"</ref></note>
+            <note type="editorial" xml:id="c5n1"><ref target="#eme">"eme," Middle English for "uncle"</ref></note>
             <note type="editorial" xml:id="c5n2">The spelling "Ysegrym" is being used in place of "Isegrym" here with the "Y" interchangeable with the vowel "I".</note>
          </div>
          <div type="bibliography">
