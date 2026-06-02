@@ -182,7 +182,7 @@
                   number above <del rend="scribble"><gap reason="illegible"/></del> if you're doing
                   a show or know someone who is <del rend="scribble"><gap reason="illegible"
                      /></del><add place="above">and</add> need(s) an inexpensive but excellant<sic/>
-                  opening band. <hi rend="bold"><name type="band" ref="#false_liberty">False
+                  opening band. <hi rend="format(bold)"><name type="band" ref="#false_liberty">False
                         Liberty</name></hi> will also be touring this summer. If you would like them
                   to play in your town, call me at <hi rend="format(bold)"><num type="phone"><ref
                            target="#n1">[censored]</ref></num></hi> and we'll talk, OK.? Cool.</hi>
@@ -219,7 +219,7 @@
             <head>by <name type="person" ref="#verna">Verna D.</name></head>
             <ab><hi rend="font(allCaps)"><hi rend="font(handwritten)">There was this young woman who
                      thought she could, you know, take on, not the world, but a thing/something in
-                     her gut <hi rend="underlined">drove</hi> her to do it/what was it? No one
+                     her gut <hi rend="format(underlined)">drove</hi> her to do it/what was it? No one
                      knows<pb/> for sure just what it was/Most of the time she felt lonely and much
                      like an outsider, never fitting in, though she tried, not to get in, but just
                      make peace for once <pb/> be accepted as she was/Of course this never
@@ -267,7 +267,7 @@
                haid)<sic/>...</p>
             <p>I'm bummin'. I don't know why. Not really as "up" for the show as I would like to be.
                At this point , I will settle for a few recognizable faces.</p>
-            <p><hi rend="indent">(Stopped at a <name type="place" ref="#chehalis">Chehalis,WA</name>
+            <p><hi rend="align(center)">(Stopped at a <name type="place" ref="#chehalis">Chehalis,WA</name>
                   gas station/askin' directons to a skate park/I joke about the small hicktown
                   whiteness of the place/"take a left at the crossburnin'"/<del rend="scribble"><gap
                         reason="illegible"/></del> this has me goin' even after we leave the
@@ -628,7 +628,7 @@
                   text. It depicts a person facing and pointing towards the right. The image is
                   grainy which makes its hard to definitively tell who it is.</figDesc>
                <p><unclear reason="illegible"/>
-                  <hi rend="align(center) font(Times New Roman)">will come down on civil-liberties
+                  <hi rend="align(center) font(Times_New_Roman)">will come down on civil-liberties
                      and civil-rights</hi></p>
             </figure>
             <p>Yet, the test results show that your the one that has to go. Your drug of choice is
@@ -676,7 +676,7 @@
                   text. The image depicts a man at about a 45 degree angle towards the right with
                   his hands overlapping in front of his abdomin. There is a white line through the
                   image.</figDesc>
-               <p><unclear reason="illegible">Free sprs</unclear><hi rend="font(Times New Roman)"
+               <p><unclear reason="illegible">Free sprs</unclear><hi rend="font(Times_New_Roman)"
                      >Scalia has <unclear reason="faded">co</unclear>nsistenly expressed narrow
                         <unclear reason="faded">vie</unclear>w of the <unclear reason="faded"
                         >F</unclear>irst A<unclear reason="faded">men</unclear>dment.</hi></p>
@@ -706,9 +706,9 @@
                   He wears rectagular glasses, a sweater vest over a dress shirt and tie, and a
                   smirk on his face. The image is entirely in black and white. The image bleeds into
                   the paragraph causing the first letter of each line to be faded.</figDesc>
-               <p><hi rend="align(center) font(Times New Roman)"><unclear reason="smudged"
+               <p><hi rend="align(center) font(Times_New_Roman)"><unclear reason="smudged"
                         >J</unclear>ustice <unclear reason="smudged">R</unclear>ehnquist</hi></p>
-               <p><hi rend="align(left) font(Times New Roman)"><unclear reason="faded">T</unclear>he
+               <p><hi rend="align(left) font(Times_New_Roman)"><unclear reason="faded">T</unclear>he
                      powerful anchor of <unclear reason="faded">t</unclear>he court's right
                      wing</hi></p>
             </figure>
@@ -750,7 +750,7 @@
                   the top of his bald head.</figDesc>
                <p><hi rend="align(left) font(arial) format(bold)">William Rehnquist</hi></p>
                <p><hi rend="align(left) font(arial) format(bold)"> Age: 81</hi></p>
-               <p><hi rend="align(left) fon(Times New Roman)">Hospitalized in 1981 to be weaned from
+               <p><hi rend="align(left) fon(Times_New_Roman)">Hospitalized in 1981 to be weaned from
                      a drug <corr>prescribed</corr></hi></p>
             </figure>
 
@@ -822,11 +822,11 @@
                   and face of Pat Robertson at a 45 degree angle. At the neck, there is a block of
                   text that says "Pat Roberson" and below that, "An up and coming
                   orwellion"</figDesc>
-               <p><hi rend="align(left) font(Times New Roman)">Pat Robertson</hi></p>
+               <p><hi rend="align(left) font(Times_New_Roman)">Pat Robertson</hi></p>
                <p><hi rend="align(left) font(handwritten)">An up and coming orwellion</hi></p>
             </figure>
 
-            <p><hi rend="align(center) font(allCaps) format(45 degree angle)">Reagan's Law</hi></p>
+            <p><hi rend="align(center) font(allCaps) format(45_degree_angle)">Reagan's Law</hi></p>
 
             <figure>
                <figDesc>The image lies at the bottom right corner of the page. It depicts Ronald
