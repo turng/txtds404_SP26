@@ -2333,7 +2333,7 @@
                      <p>POLY STYRENE Cont.</p>
                      <figure>
                         <graphic
-                           url= "https://drive.google.com/thumbnail?id=1TXTm_6R_Nt5EudmfNRKVXP2uBRHeNxIE&amp;sz=w500"/>
+                           url="https://drive.google.com/thumbnail?id=1TXTm_6R_Nt5EudmfNRKVXP2uBRHeNxIE&amp;sz=w500"/>
                         <figDesc>Three beads.</figDesc>
                      </figure>
                      <p>POLY: In the new wave I only like the Pistols, apart from us. And Reggae. I
@@ -2604,32 +2604,68 @@
                   <note>Formerly "The Fast", then "Man 2 Man" was an American glam/punk band in the 
                      1970s</note>
                </person>
-               <person xml:id="Come_On"><persName>Come On</persName>  <note>New York
-                     art-punk and "nervous-rock" band</note>  </person>  <person xml:id="Devo"> 
-                     <persName>Devo</persName>  <note>American new wave band from Akron, Ohio,
-                     formed in 1973</note>  </person>  <person xml:id="Talking_Heads"> 
-                     <persName>Talking Heads</persName>  <note>American rock band from New York
-                     City, formed in 1975</note>  </person>  <person xml:id="The_Radios"> 
-                     <persName>The Radios</persName>  </person>  <person
-                  xml:id="The_St._Bernard_Quartet">  <persName>The St. Bernard Quartet</persName>
-               </person>  <person xml:id="The_Girls">  <persName>The Girls</persName>  </person> 
-                  <person xml:id="The_Enemy">  <persName>The Enemy</persName>  </person>  <person
-                  xml:id="The_Fishsticks">  <persName>The Fishsticks</persName>  </person>  <person
-                  xml:id="The_Mystery_Horns">  <persName>The Mystery Horns</persName>  </person> 
-                  <person xml:id="George_Johnny_Ray_Gleason">  <persName>George “Johnny Ray”
-                     Gleason</persName>  </person>  <person xml:id="Rick_Buddy_Holly_Smith"> 
-                     <persName>Rick “Buddy Holly” Smith</persName>  </person>  <person
-                  xml:id="Cheaters">  <persName>Cheaters</persName>  </person>  <person
-                  xml:id="Electric_Tramps">  <persName>Electric Tramps</persName>  </person>   
-            </listPerson>   <listPlace>  <place xml:id="New_York">  <placeName>New York</placeName> 
-               </place>  <place xml:id="Max">  <placeName>Max's</placeName>  <note>Most likely
-                     refers to Max's Kansas City, which was a nightclub and  restaurant in New York
-                     City</note>  </place>  <place xml:id="Seattle"> 
-                  <placeName>Seattle</placeName>  </place>  </listPlace>   <list type="song">  <item
-                  xml:id="Let_Me_Take_You_Out_To_Lunch">  <title>Let Me Take You Out To
-                     Lunch</title>  <note type="artist">The Dots</note>  </item>  <item
-                  xml:id="The_Kids_Just_Wanna_Dance">  <title>The Kids Just Wanna Dance</title> 
-                     <note type="artist">Miki Zone Zoo</note>  </item>  </list>
+               <person xml:id="Come_On">
+                  <persName>Come On</persName>
+                  <note>New York art-punk and "nervous-rock" band</note>
+               </person>
+               <person xml:id="Devo">
+                  <persName>Devo</persName>
+                  <note>American new wave band from Akron, Ohio, formed in 1973</note>
+               </person>
+               <person xml:id="Talking_Heads">
+                  <persName>Talking Heads</persName>
+                  <note>American rock band from New York City, formed in 1975</note>
+               </person>
+               <person xml:id="The_Radios">
+                  <persName>The Radios</persName>
+               </person>
+               <person xml:id="The_St._Bernard_Quartet">
+                  <persName>The St. Bernard Quartet</persName>
+               </person>
+               <person xml:id="The_Girls">
+                  <persName>The Girls</persName>
+               </person>
+               <person xml:id="The_Enemy">
+                  <persName>The Enemy</persName>
+               </person>
+               <person xml:id="The_Fishsticks">
+                  <persName>The Fishsticks</persName>
+               </person>
+               <person xml:id="The_Mystery_Horns">
+                  <persName>The Mystery Horns</persName>
+               </person>
+               <person xml:id="George_Johnny_Ray_Gleason">
+                  <persName>George “Johnny Ray” Gleason</persName>
+               </person>
+               <person xml:id="Rick_Buddy_Holly_Smith">
+                  <persName>Rick “Buddy Holly” Smith</persName>
+               </person>
+               <person xml:id="Cheaters">
+                  <persName>Cheaters</persName>
+               </person>
+               <person xml:id="Electric_Tramps">
+                  <persName>Electric Tramps</persName>
+               </person>
+            </listPerson>
+            <listPlace>
+               <place xml:id="New_York">
+                  <placeName>New York</placeName>
+               </place>
+               <place xml:id="Max">
+                  <placeName>Max's</placeName>
+                  <note>Most likely refers to Max's Kansas City, which was a nightclub and 
+                     restaurant in New York City</note>
+               </place>
+               <place xml:id="Seattle">
+                  <placeName>Seattle</placeName>
+               </place>
+            </listPlace>
+            <list type="song">
+               <item xml:id="Let_Me_Take_You_Out_To_Lunch">  <title>Let Me Take You Out To
+                     Lunch</title>  <note type="artist">The Dots</note>  </item>
+               <item xml:id="The_Kids_Just_Wanna_Dance">  <title>The Kids Just Wanna Dance</title> 
+                     <note type="artist">Miki Zone Zoo</note>  </item>
+            </list>
          </div>
 
 
