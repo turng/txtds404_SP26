@@ -35,6 +35,26 @@
             </p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <charDecl>
+            <glyph xml:id="flower">
+               <desc>This glyph is a small, red flower ornament.</desc>
+               <graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Flower.png"/>
+            </glyph>
+         </charDecl>
+         <charDecl>
+            <glyph xml:id="round">
+               <desc>This glyph is a small, black leaf with rounded edges.</desc>
+               <graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/SmoothLeaf.png"/>
+            </glyph>
+         </charDecl>
+         <charDecl>
+            <glyph xml:id="spiky">
+               <desc>This glyph is a small, black leaf with spiky edges.</desc>
+               <graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/SpikyLeaf.png"/>
+            </glyph>
+         </charDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <front>
