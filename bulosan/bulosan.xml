@@ -413,6 +413,20 @@
                edition.</note>
          </div>
 
+         <div type="bibliography">
+            <listBibl>
+               <bibl xml:id="BibBA1">Bulosan, Carlos. “Be American.” On Becoming Filipino: Selected
+                  Writings of Carlos Bulosan, by Carlos Bulosan, edited by E. San Juan Jr.,
+                  Philadelphia, Temple University Press, 1995, pp. 66–72,
+                  archive.org/details/onbecomingfilipi0000bulo/page/66/mode/2up. Accessed 18 May
+                  2026.</bibl>
+               <bibl xml:id="BibBA2">“Author, Poet, and Worker: The World of Carlos Bulosan.”
+                  Washington.edu, University of Washington Libraries, 2019,
+                  content.lib.washington.edu/exhibits/bulosan/index.html. Accessed 18 May
+                  2026.</bibl>
+            </listBibl>
+         </div>
+
       </back>
 
    </text>
@@ -764,7 +778,19 @@
             </listPerson>
          </div>
 
+         <div type="bibliography">
+            <listBibl>
+               <bibl xml:id="BibLM1">“The Lonesome Mermaid.” The Philippines Is in the Heart: A
+                  Collection of Stories, by Carlos Bulosan, edited by E. San Juan, Jr., Quezon City,
+                  New Day Publishers, 1978, pp. 186–192,
+                  archive.org/details/philippinesisinh00bulo/mode/2up. Accessed 18 May 2026.</bibl>
+               <bibl xml:id="BibLM2">“Author, Poet, and Worker: The World of Carlos Bulosan.”
+                  Washington.edu, University of Washington Libraries, 2019,
+                  content.lib.washington.edu/exhibits/bulosan/index.html. Accessed 18 May
+                  2026.</bibl>
 
+            </listBibl>
+         </div>
 
       </back>
    </text>
