@@ -1840,8 +1840,9 @@ html {
   background-color: #f4eee0;
 }
 img {
-  border: 1px solid #AAA;
-  width: 100%;
+  border: none;
+  width: 30%;
+  float: left;
 }
 footer {
   display: none;
