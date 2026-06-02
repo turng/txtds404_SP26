@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
-<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
-
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -108,7 +105,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <div>
             <pb n="2"/>
             <head>FRONTISPIECE.</head>
-            <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/frontis.jpg"/></figure>
+            <figure><graphic url="X"/></figure>
+            <figure><graphic url="X"/></figure>
             <head>THE LION.</head>
             <lg>
                <l>The Lion, the King of all Beasts,</l>
@@ -128,9 +126,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <lb/> <hi rend="#center #serif #medium">Amusement and Instruction</hi>
                <lb/> <hi rend="#center #serif #caps #medium">OF</hi>
                <lb/> <hi rend="#center #serif #caps #medium">CHILDREN.</hi>
-         </p>
+         </p> 
+          <figure>
+             <figDesc> Wavy, thin leading spanning almost the entirety of the page.</figDesc>
+          </figure> 
            <p> <hi rend="#center #serif #medium">Adorned with Cuts.</hi></p>
-            <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/titlelogo.jpg"></graphic></figure>
+            <figure>
+            <figDesc> Wavy, thin leading spanning almost the entirety of the page.</figDesc>
+            </figure>
             <p> <hi rend="#center #serif #medium">WELLINGTON, SALOP:</hi>
                <lb/> <hi rend="#center #serif #medium">Printed by F. Houlston and Son.</hi>
                <lb/> <hi rend="#center #serif #medium">Price One Penny.</hi> </p>
@@ -154,9 +157,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <head>THE PARROT.</head>
          <figure><graphic url="X"/></figure>
          <lg>
-            <l> <hi rend="dc">T</hi>he <hi rend="italics">Parrot</hi> prates he knows not</l><l>what,</l><l>For all he says got by rote.</l>
+            <l> <hi rend="dc">T</hi>he <hi rend="italics">Parrot</hi>prates he knows not</l><l>what,</l><l>For all he says got by rote.</l>
          </lg>
-            <p>The<hi rend="italics">Parrot</hi> is a chattering bird, he talks a greate deal, yet knows not what he says; and is therefore not unlike some silly boys, who prate without thinking, and learn their lesson with-out looking at their book.</p>
+            <p>The<hi rend="italics">Parrot</hi>is a chattering bird, he talks a greate deal, yet knows not what he says; and is therefore not unlike some silly boys, who prate without thinking, and learn their lesson with-out looking at their book.</p>
          </div>
          <div>
           <pb n="8"/>
