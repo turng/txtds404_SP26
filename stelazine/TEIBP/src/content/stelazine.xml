@@ -119,23 +119,23 @@
 
          <div>
             <p> If you're going to San Francsico... We are losing people to the south. On their way
-               are Annie, Tammy Smith, Jerri, and the Little Magnets (Paul Hood, Dame Dimitri, Lee
+               are Annie, Tammy Smith, Jerri, and <name type="band" ref="#TheLittleMagnets">the Little Magnets</name> (Paul Hood, Dame Dimitri, Lee
                Lumsden). Farewell... </p>
 
-            <p> Is it true <name type="band">Time Travelers</name> is looking to open a club/theater
-               in <name type="location">Pioneer Square</name>?? Cellophane Square will be producing
-               a show <date>May 25th</date> at <name type="location">Washington Hall</name>......
-               Featuring <name type="band">The Cheaters</name> and <name type="band">The
+            <p> Is it true <name type="band" ref="#TimeTravelers">Time Travelers</name> is looking to open a club/theater
+               in <name type="location" ref="#PioneerSquare">Pioneer Square</name>?? Cellophane Square will be producing
+               a show <date>May 25th</date> at <name type="location" ref="#WashingtonHall">Washington Hall</name>......
+               Featuring <name type="band" ref="#TheCheaters">The Cheaters</name> and <name type="band" ref="#The Radios">The
                   Radios</name>. </p>
 
-            <p> Suprise band gigging in Seattle lately: <name type="band">The Fishsticks</name>. Who
+            <p> Suprise band gigging in Seattle lately: <name type="band" ref="#TheFishsticks">The Fishsticks</name>. Who
                says bubblegum rock is dead?? </p>
 
-            <p> Expect an extravaganza! <name type="band">The Dead Kennedy's</name> will be here
+            <p> Expect an extravaganza! <name type="band" ref="#TheDeadKennedys">The Dead Kennedy's</name> will be here
                   <date>July 13 &amp; 14</date>. Brought to you by Time Travelers </p>
 
             <p> The first new wave band to come out from the wilds of <name type="location"
-                  >Bellingham</name> is called <name type="band">The Accident.</name>
+                  ref="#Bellingham">Bellingham</name> is called <name type="band" ref="#TheAccident">The Accident.</name>
             </p>
          </div>
 
@@ -148,16 +148,16 @@
          </div>
 
          <div>
-            <p> News from the <name type="band">Readymades</name>..... They are only two to three
+            <p> News from the <name type="band" ref="#Readymades">Readymades</name>..... They are only two to three
                weeks away from a recording contract, says bassist Wayne Deitzel. The band has some
-               gigs lined up, including opening for Tom Robinson, and playing second bill to <name
-                  type="band">Roxy Music</name>. The band is still working with Sandy Pearlman, and
+               gigs lined up, including opening for <name type="person" ref="#TomRobinson">Tom Robinson</name>, and playing second bill to <name
+                  type="band" ref="#RoxyMusic">Roxy Music</name>. The band is still working with Sandy Pearlman, and
                may be signed by one of the following labels: Warner Bros., Electra, Mercury, and get
-               this: RSO. Watch out Bee Gees!! </p>
+               this: RSO. Watch out <name type="band" ref="#BeeGees">Bee Gees</name>!! </p>
 
             <p> -- -- -- -- </p>
 
-            <p> If you dont already know, The Mentors are dead. Rumor has it that Eldon is in LA to
+            <p> If you dont already know, <name type="band" ref="#TheMentors">The Mentors</name> are dead. Rumor has it that Eldon is in LA to
                form a new band. Son of Mentor???? </p>
 
             <p> -- -- -- -- </p>
@@ -177,7 +177,7 @@
             <p> Rock against Racism chapters are forming around the USA. Concerts are being planed.
                If youre interested, contact them in Ny at: <address>
                   <addrLine> PO Box 392, Canal St. Sta. NYC 10013 </addrLine>
-               </address> (212) 553-5028 <name type="band">The Cheaters</name> have a new drummer:
+               </address> (212) 553-5028 <name type="band" ref="#TheCheaters">The Cheaters</name> have a new drummer:
                James Gascoigne......... </p>
          </div>
 
@@ -190,11 +190,11 @@
          </div>
 
          <div>
-            <p> Vinyl out from <name type="singer">Ian Fisher</name> soon. A-side has an ex-Telepath
+            <p> Vinyl out from <name type="person" ref="#IanFisher">Ian Fisher</name> soon. A-side has an ex-Telepath
                back up, and B-side has an ex-Invader backup. Noy bad..... </p>
 
             <p>
-               <name type="band">The Moderley's</name> continue to gig around town, getting a great
+               <name type="band" ref="#TheModerley">The Moderley's</name> continue to gig around town, getting a great
                share of local newspaper publicity. So how come most people don't like them. Do
                Patrick and George known something the rest of us don't?? Maybe it's all in knowing
                the right people.... </p>
@@ -202,19 +202,19 @@
             <p> Ex-Generator (and ex-e member) Mitchael Wonderful is the new Enemy bass player..
                George returns to rhythm. </p>
 
-            <p> Be on the lookout for a great new single for Ice 9. Featured are: <name type="song"
-                  >"Out, Out, Out"</name>, <name type="song">"Revolting Mess"</name>, and <name
-                  type="song">"27.3"</name>. It's gonna be great!! </p>
+            <p> Be on the lookout for a great new single for <name type="band" ref="#Ice9">Ice 9</name>. Featured are: <name type="song"
+                  ref="#OutOutOut">"Out, Out, Out"</name>, <name type="song" ref="#RevoltingMess">"Revolting Mess"</name>, and <name
+                  type="song" ref="#27.3">"27.3"</name>. It's gonna be great!! </p>
 
-            <p> The next show: <date>May 19</date> 8PM at <name type="location">Washington
-                  Hall</name> (14th and Fir), featuring: <name type="band">The Dils</name>
-               <name type="band">DOA</name> and <name type="band">Chinas Comidas</name>. A Robert
+            <p> The next show: <date>May 19</date> 8PM at <name type="location" ref="#WashingtonHall">Washington
+                  Hall</name> (14th and Fir), featuring: <name type="band" ref="#TheDils">The Dils</name>
+               <name type="band" ref="#DOA">DOA</name> and <name type="band" ref="#ChinasComidas">Chinas Comidas</name>. A Robert
                Benne- tt/Wes (second Time Round) Production. </p>
 
-            <p> Greg Scars has left the <name type="band">Avengers</name> to form a new band. His
+            <p> Greg Scars has left the <name type="band" ref="#Avengers">Avengers</name> to form a new band. His
                replacement is Brad Kunt (ex-DOA). </p>
 
-            <p> Are Time Travelers bringing the Screamers to Seattle? Is Roger Husbands? Who will
+            <p> Are Time Travelers bringing <name type="band" ref="#TheScreamers">the Screamers</name> to Seattle? Is Roger Husbands? Who will
                win? </p>
          </div>
 
@@ -227,28 +227,28 @@
          </div>
 
          <div>
-            <p> Gina and Gary (ex-Generator) were recen- tly married in a Canadian extravaganza.. We
+            <p> Gina and Gary (ex-Generator) were recently married in a Canadian extravaganza.. We
                at STELLAZINE send them a mint copy of "Gimme Money"...... </p>
 
-            <p> Look for the new <name type="band">Offs</name> single on Walking Dead Productions.
-                  <name type="song">"Jonny Too Bad"</name> b/w "624803". Soon back from a stint in
+            <p> Look for the new <name type="band" ref="#Offs">Offs</name> single on Walking Dead Productions.
+                  <name type="song" ref="#JonnyTooBad">"Jonny Too Bad"</name> b/w "624803". Soon back from a stint in
                NY. </p>
 
             <p> New Avengers single produced by ex-Pistol Steve Jones includes <name type="song"
-                  >"White ******"</name>. Are they on their way to an English record company
+                  ref="#White******">"White ******"</name>. Are they on their way to an English record company
                contract????? </p>
 
-            <p> And finally, Seattle will be back on the concert path in about a month. The cir-
-               cuit will be Portland, Seattle and Vanc- ouver....We can't wait!!!! </p>
+            <p> And finally, Seattle will be back on the concert path in about a month. The
+               circuit will be Portland, Seattle and Vanc- ouver....We can't wait!!!! </p>
 
             <p>
-               <name type="band">The X-Men</name> have disbanded. Gregor and Glen are writing music
+               <name type="band" ref="#TheX-Men">The X-Men</name> have disbanded. Gregor and Glen are writing music
                together. Dickle fever will engulf Seattle in a couple of months when they return
                from a European tour..... </p>
 
             <p> Engineer Harry Cool has formed a record label for the area. First band to sign: Ice
-               9. Look for possible vinyl fom some Seattle bands...... The name? Vynyl Re-
-               cords...... </p>
+               9. Look for possible vinyl fom some Seattle bands...... The name? Vynyl Records
+               ...... </p>
          </div>
 
          <div>
@@ -262,11 +262,11 @@
          <div>
             <p> Ex-Clones Jeff and Sheldon are in SF to form a new band. </p>
 
-            <p> Radio news: Kim has not been kicked out. Allan will do vocals, and a new guitar- ist
+            <p> Radio news: Kim has not been kicked out. Allan will do vocals, and a new guitarist
                has been added. Look for a possible gig in May with the Cheaters, produced by
                Cellophane Square..... </p>
 
-            <p> Randy Pandora (ex-Generator) has a new band: <name type="band">The Detectives</name>
+            <p> Randy Pandora (ex-Generator) has a new band: <name type="band" ref="#TheDetectives">The Detectives</name>
             </p>
 
             <p> New on the concert promotion scene: Time Travelers and Cellophane Square. </p>
@@ -279,13 +279,17 @@
                </address>
             </p>
 
-            <p> Two New bands to look for: <name type="band">The Innocents</name> (with Jeff Larson)
-               and, <name type="band">The Blackouts</name>: Bill Reiflin <lb/>Roland <lb/>Mike
-               Davidson <lb/>Eric Werner </p>
+            <p> Two New bands to look for: <name type="band" ref="#TheInnocents">The Innocents</name> (with Jeff Larson)
+               and, <name type="band" ref="#TheBlackouts">The Blackouts</name>: 
+               Bill Reiflin 
+               <lb/>Roland 
+               <lb/>Mike
+               Davidson 
+               <lb/>Eric Werner </p>
 
             <p>-- -- -- --</p>
 
-            <p> Penetration will play <name type="location">the Whiskey</name> in LA <date>June
+            <p> Penetration will play <name type="location" ref="#TheWhiskey">the Whiskey</name> in LA <date>June
                   15-17</date>.... </p>
          </div>
 
@@ -340,6 +344,7 @@
                </p>
             </figure>
          </div>
+      
 
 
 
@@ -998,9 +1003,9 @@
                <div>
                   <p> I wanted to interview Laura after hearing Student Teachers at CBGB's, and
                      being impressed with her drumming. Laura is a stand-out destined to make a name
-                     for herself. The interview was conducted at an apartment in <name
-                        type="location">Manhattan</name> which Laura shares with Jimmy "The
-                     Housepainter Destri. We talked in the living room/bedroom, amid a ringing
+                     for herself. The interview was conducted at an apartment in
+                     Manhattan which Laura shares with Jimmy "The Housepainter Destri".
+                     We talked in the living room/bedroom, amid a ringing
                      telephone and Laura's sister. The one window on the room had a teriffic view of
                      the city....... </p>
                </div>
@@ -1035,7 +1040,7 @@
                   <p>S:Which one?</p>
                   <p>L:It's Friend's Seminary on E. 16th.. It's a private H.S. A joke, but we played
                      a concert just to get the feel of playing in front of people. Our friends <name
-                        type="band">The Blessed</name> came to see us ...They liked us, and were
+                        type="band" ref="#TheBlessed">The Blessed</name> came to see us ...They liked us, and were
                      playing the next Sunday as Max's and said: "Why don't you open for us?" So we
                      went to Max's (we knew the booking agent), and said:"Why don'cha let us do
                      this?" She said fine. We didn't get billed or anything. It was like an audition
@@ -1048,13 +1053,13 @@
                      recorded in the middle of last July. Recorded our single, which isn't out
                      yet,but should be soon.</p>
                   <p>S:What songs?</p>
-                  <p>L:<name type="song">"Christmas Weather"</name> and <name type="song">"The
+                  <p>L:<name type="song" ref="#ChristmasWeather">"Christmas Weather"</name> and <name type="song" ref="#TheQuake">"The
                         Quake"</name></p>
                   <p>S:"The Quake" seems to be a popular song.</p>
                   <p>L:Yeah, that's the one Bill and I write. The major songwriters are Bill &amp;
                      Phillip, which is strange, 'cause they write in completely differnt ways</p>
                   <p>S:Was that your drumkit you used at CB's?</p>
-                  <p>L:No.It was Jane's of the <name type="band">Erasers</name>. It is an incredible
+                  <p>L:No.It was Jane's of the <name type="band" ref="#TheErasers">Erasers</name>. It is an incredible
                      drum kit. A vintage Pearl.</p>
                   <p>S:It was miked well.</p>
                   <p>JD:Thank you.</p>
@@ -1093,15 +1098,15 @@
                      just feel it. But I don't go out there and say... <cb/> "I'm gonna direct this
                      song!" I guess it just happens.</p>
                   <p>S:It's spontaneous...What's going on with the record?</p>
-                  <p>L:Well, good question. As far as the record's concered, it's been sold. To Red
-                     Star Records who have expressed extreme intrest in us, but haven't moved their
+                  <p>L:Well, good question. As far as the record's concered, it's been sold. To <name type="recordlable" ref="#RedStarRecords">Red
+                     Star Records</name> who have expressed extreme intrest in us, but haven't moved their
                      asses. So they bought our single.</p>
                   <p>S:New blood.</p>
                   <p>L:Yes. Alot of interest has come, but we get impatient. We intend to work hard
-                     enough to get something. We feel we can. It gets very tough,you know. But I
+                     enough to get something. We feel we can. It gets very tough, you know. But I
                      have alot of optimistic hopes.</p>
                   <p>S:So you have a job outside of the band?</p>
-                  <p>L:Not at the moment. 'cause I've got school. I'm in my last year of H.S-- Hi!
+                  <p>L:Not at the moment 'cause I've got school. I'm in my last year of H.S-- Hi!
                      mom. And so it gets very difficult. I'm looking for one. I need the money.</p>
                   <p>S:How do you feel when you're playing. Do you think of anything specific?</p>
                   <p>L:Yes. First of all I think about whats going on. Like I'm listening to the
@@ -1122,7 +1127,8 @@
                   <p>L:You know, school music.</p>
                   <p>S: Is it difficult being so young?</p>
                   <p>L:Yes. Yes and no. Sometimes it's fun lens are we're young and I guess a litte
-                     naive. We feel separated from <cb/> the musicians who are 24, 25---who've been
+                     naive. We feel separated from 
+                  <cb/> the musicians who are 24, 25---who've been
                      playing a long time. The Erasers are all 27, 28--old age land (Laughter) We
                      still get the look ike we're little kids having fun, who are pretty
                      accomplished for our age. But there'r still seperations. (To Jimmy) Well..
@@ -1159,13 +1165,13 @@
                      things. I don't wanna get crazy and do ten million rolls like those rock and
                      roll drummers do. That's a waste. It's just boring.</p>
                   <p>S:Whose drumming do you like?</p>
-                  <p>L:Well, <name type="musician">Clem Burke</name> is my idol. I also like <name
-                        type="musician">Chris Frantz</name> (T. Heads-Ed.). Right now I'm following
+                  <p>L:Well, <name type="musician" ref="#ClemBurke">Clem Burke</name> is my idol. I also like <name
+                        type="musician" ref="#ChrisFrantz">Chris Frantz</name> (T. Heads-Ed.). Right now I'm following
                      his style which is very straightforward. There are no female drummers that I
                      know that I like.</p>
                   <p>S:What are some of your influences?</p>
                   <p>L:Jimmy. Thank god he's in the shower. He influences me a lot. I'm always
-                     around Blondies and their success. I wa-</p>
+                     around <name type="band" ref="#Blondies">Blondies</name> and their success. I wa-</p>
 
                   <p>CONTINUED ON PAGE 16</p>
                </div>
@@ -1174,6 +1180,8 @@
                   <figure>
                      <graphic
                         url="https://drive.google.com/thumbnail?id=1hoXeQWatBKGGjEDVnQTmXCjzGOmyQ_PW&amp;sz=w300"/>
+                     <figDesc>cut out figures of an upside-down older man next to a rightside-up older
+                           woman</figDesc>
                      <p>CUT US OUT</p>
                   </figure>
 
@@ -1436,19 +1444,21 @@
                   <figure>
                      <graphic
                         url="https://drive.google.com/thumbnail?id=1I2PGlctt-kxOiTsuHMBSZMfosKREf541&amp;sz=w5000"/>
+                     <figDesc>photograph of all four XTE mebers each stainding infront of a white door,
+                           alogh with a black and white stripped background</figDesc>
                      <p>Photo Credit Roy Esmonde</p>
                   </figure>
 
 
                   <div>
                      <p> A late word from Virgin Records is that Barry Andrews has left <name
-                           type="band">XTC</name> to persue a solo career. The band remains
+                           type="band" ref="#XTE">XTC</name> to persue a solo career. The band remains
                         together, and the split was said to be amicable. </p>
                   </div>
 
                   <div>
                      <p> This interview was done in the dining room of the <name type="location"
-                           >Gramercy Park Hotel</name>. The resturant was not happy that we were
+                           ref="GramercyParkHotel">Gramercy Park Hotel</name>. The resturant was not happy that we were
                         there, and proceeded to make it difficult for us. Barry and I had to
                         repeatedly tell the waiters what we wanted. It made for a bit of an
                         uncomfortable atmosphere. But we survived. </p>
@@ -1462,8 +1472,8 @@
                      <p>S:How long have you been playing together?</p>
                      <p>B:This line-up about two years</p>
                      <p>S:Where are you from?</p>
-                     <p>B:We're all from <name type="location">Swindon</name>. I was born in <name
-                           type="location"/>London, but moved to Swindon. The others are born and
+                     <p>B:We're all from <name type="location" ref="#Swindon">Swindon</name>. I was born in
+                        London, but moved to Swindon. The others are born and
                         bred</p>
                      <p>S:Is that near London?</p>
                      <p>B:It's 80 miles down the motorway. It's an appalling little town known only
@@ -1519,7 +1529,7 @@
                      <p>S:How do you feel about that?</p>
                      <p>B:A bit desperate.</p>
                      <p>S:Is it bad publicity? Is it that the music isn't accessible for</p>
-                     <p>S:So you think it's only music like the <name type="band">Ramones</name>,
+                     <p>S:So you think it's only music like the <name type="band" ref="#TheRamones">Ramones</name>,
                         which is so blatent, so clear, That people have something to grab on to?</p>
                      <p>B:Pop music is about that.</p>
                      <p>S:You define yourself as a pop band</p>
@@ -1527,7 +1537,7 @@
                         Being a pop band. (Here I am introduced to Colin Moulding, bass
                         player....Barry comments on <cb/> the waiters:"This place is really
                         fascist...")</p>
-                     <p>S:But if all music was <name type="band">Blondie</name> and the Ramones it
+                     <p>S:But if all music was <name type="band" ref="Blondie">Blondie</name> and the Ramones it
                         would be boring. Your music balances that.</p>
                      <p>B:I don't think it should all be like that. On the other hand, to do that
                         unsuccessfully is a failure, isn't it. And to try and not do that and yet
@@ -1570,7 +1580,7 @@
                      <p>C:They dont really like us. I mean they do, But not coming in down here (the
                         resturant). They want you to keep in your room.</p>
                      <p>B:They alwasy stick us in obscure wings. They put us in a hotel in <name
-                           type="location">Scarborough</name> once where they were still building
+                           type="location" ref="Scarborough">Scarborough</name> once where they were still building
                         it! It's a great hotel; all chandeliers, a golden staircase. The clerk said:
                         "Oh, you're in 148." We go up and up and up and you're in some wing, and the
                         workmen are still in <cb/> there! Sawing and hammering.... This is where we
@@ -1580,7 +1590,7 @@
                      <p>S:Are you self-taught musicians?</p>
                      <p>C:Well, I supposedly had this year of tutoring from this old bloke. He's
                         sort of a bit decrepit, he's like 65. He used teach me songs like <name
-                           type="song">"Bill Bailey"</name>.</p>
+                           type="song" ref="BillBailey">"Bill Bailey"</name>.</p>
                      <p>S:Nothing you could use. Did you learn off records?</p>
                      <p>C:Yeah. He never used to let me turn the amp up. Low volume 'cause the rest
                         of his family were in the other room. It's really inhibiting. I blew that
@@ -1635,7 +1645,7 @@
                         say you're much better live th le say you're much better live than you are
                         on record.</p>
                      <p>S:You're not talked about as much as Brittish bands like the <name
-                           type="band">Clash</name>, <name type="band">Buzzcocks</name>...Is it your
+                           type="band" ref="#TheClash">Clash</name>, <name type="band" ref="#Buzzcocks">Buzzcocks</name>...Is it your
                         music? You're popularity?</p>
                      <p>B:Part of it's popularity. We're less popular than any of these groups.
                         because we never managed any punk image. Some of them did because they were,
@@ -1646,8 +1656,8 @@
                         bands I can think of.</p>
                      <p>C:Myabe that's why we're getting accepted over here. I was suprised how
                         popular we've been.</p>
-                     <p>B:Bob Geldorf (<name type="band">Boomtown Rats</name>) ripped us off on a
-                           single:<name type="song">"Like Clackwork."</name> He admists he just
+                     <p>B:Bob Geldorf (<name type="band" ref="#BoomtownRats">Boomtown Rats</name>) ripped us off on a
+                           single:<name type="song" ref="#LikeClockwork">"Like Clockwork."</name> He admists he just
                         popped it straight off of us.</p>
                      <p>S:You don't think immitation is the sincerest form of flattery?</p>
                      <p>B:Not if he get's all the royalties &amp; we don't. Their are lots of
@@ -1666,7 +1676,9 @@
                      <figure>
                         <graphic
                            url="https://drive.google.com/thumbnail?id=1bG-4ia9_iDnRBq7yStKOmmlQyjDXnRxU&amp;sz=w300"/>
-                        <figDesc/>
+                        <figDesc>far left square contains a cut-out puside-down figure of a smiling man, and the
+                              four boxes to the right contain a suit vest with some ties, a heeled shoe, a small 
+                              leather jacket, and finaly a man and a woman in sunglasses.</figDesc>
                         <p>CUT ME OUT</p>
                         <p>BEATLE BOOTS</p>
                         <p>BABY LEATHERS</p>
@@ -1686,6 +1698,8 @@
                   <figure>
                      <graphic
                         url="https://drive.google.com/thumbnail?id=1IdFy9jJY2f49fLc1D4w-95b9NeWrg3Uh&amp;sz=w1000"/>
+                     <figDesc>a collage of black and white photographs of singers performing (assumedly the 
+                           named bands) as well as other headshots of people</figDesc>
                      <p><name type="band">THE GIRLS</name></p>
                      <p><hi rend="ul"><name type="band">THE FISHSTICKS</name></hi></p>
                      <p><name type="band">THE LITTLE MAGNETS</name></p>
@@ -2619,7 +2633,7 @@
                </person>
                <person xml:id="Miki_Zone_Zoo">
                   <persName>Miki Zone Zoo</persName>
-                  <note>Formerly "The Fast", then "Man 2 Man" was an American glam/punk band in the 
+                  <note>Formerly "The Fast", then "Man 2 Man" was an American glam/punk band in the
                      1970s</note>
                </person>
                <person xml:id="Come_On">
@@ -2671,7 +2685,7 @@
                </place>
                <place xml:id="Max">
                   <placeName>Max's</placeName>
-                  <note>Most likely refers to Max's Kansas City, which was a nightclub and 
+                  <note>Most likely refers to Max's Kansas City, which was a nightclub and
                      restaurant in New York City</note>
                </place>
                <place xml:id="Seattle">
@@ -2679,10 +2693,10 @@
                </place>
             </listPlace>
             <list type="song">
-               <item xml:id="Let_Me_Take_You_Out_To_Lunch">  <title>Let Me Take You Out To
-                     Lunch</title>  <note type="artist">The Dots</note>  </item>
-               <item xml:id="The_Kids_Just_Wanna_Dance">  <title>The Kids Just Wanna Dance</title> 
-                     <note type="artist">Miki Zone Zoo</note>  </item>
+               <item xml:id="Let_Me_Take_You_Out_To_Lunch"> <title>Let Me Take You Out To
+                     Lunch</title> <note type="artist">The Dots</note> </item>
+               <item xml:id="The_Kids_Just_Wanna_Dance"> <title>The Kids Just Wanna Dance</title>
+                     <note type="artist">Miki Zone Zoo</note> </item>
             </list>
          </div>
 
