@@ -656,7 +656,7 @@ gramGrp {
 graph {
   /* Empty for now */
 }
-graphic > url {
+graphic {
   display: inline flow-root;
   width: 200px;
   height: auto;
