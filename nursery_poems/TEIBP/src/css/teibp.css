@@ -827,6 +827,8 @@ l {
   padding-left: 2em;
   text-indent: -2em;
 }
+/* The issue is here: in the HTML, @rend is turned to the attribue @style. So you want these 
+conditionals to be based on the style attribute */
 l[style="indented"] {
    text-indent: 4em;
 }
