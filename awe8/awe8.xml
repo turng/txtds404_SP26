@@ -216,7 +216,7 @@
          <div type="prose" subtype="diary">
             <head><hi rend="font(allcaps)"><orgName ref="#dennys">Denny's</orgName> Was Closed, A
                   Saga in <placeName ref="#portland">Portland</placeName></hi></head>
-            <head>by <persName ref="#verna">Verna D.</persName></head>
+            <head>by <name type="person" ref="#verna">Verna D.</name></head>
             <ab><hi rend="font(allCaps)"><hi rend="font(handwritten)">There was this young woman who
                      thought she could, you know, take on, not the world, but a thing/something in
                      her gut <hi rend="underlined">drove</hi> her to do it/what was it? No one
@@ -260,8 +260,8 @@
             <p>Bad sleep lately.</p>
             <p>I want to stare at the sun until I learn to see. Something like that. If I stare at
                the sun on <name type="person">Hank's</name> back,will it have <del rend="scribble"
-                     ><gap reason="illegible"/></del> the same effect?(I been readin' <persName
-                  ref="#rollins">Rollins'</persName>
+                     ><gap reason="illegible"/></del> the same effect?(I been readin' <name type="person"
+                  ref="#rollins">Rollins'</name>
                <bibl ref="#hallucinations"><hi rend="format(underlined)">Hallucinations of
                      Grandeur</hi></bibl>, on the way down here Friday, and it stuck in my
                haid)<sic/>...</p>
@@ -333,20 +333,20 @@
                hot. Sets were too short. A guy dove off the stage and busted his head maybe. He's
                like , <said>"Fuck you! I don't want to go to the hospital!"</said> (His choice was
                either go with the medics or with the cop. Now which would you choose?)</p>
-            <p>Did <persName ref="#stan">Stan</persName> ( promoter of the show in <placeName
+            <p>Did <name type="person" ref="#stan">Stan</name> ( promoter of the show in <placeName
                   ref="#olympia">Olympia</placeName>) do okay? I wonder.</p>
             <ab type="subheading">8:40 a.m. Sunday.Sleep okay.Not good yet.When will it be? I
                wonder. I told the bands their soundchecks were at 2 and 3,etc. Fuck is the sound
                   <del rend="scribble"><gap reason="illegible"/></del>even gonna be there?That would
                be kind of stupid if it weren't.</ab>
-            <p>This place, this place is a castle. <persName ref="#jeannie">Jeannie</persName> and
-                  <persName ref="#steven">Steven's</persName> place is rather the cool spot. Nice.
+            <p>This place, this place is a castle. <name type="person" ref="#jeannie">Jeannie</name> and
+                  <name type="person" ref="#steven">Steven's</name> place is rather the cool spot. Nice.
                Plushy almost.Roomy enough to hold all three bands. No,not really. Want to get to
-               talk more with <persName ref="#kevin">Kevin</persName>, but why?</p>
-            <p>The best stuff is what I leave out of the journal. Crap. Invited <persName
-                  ref="#jennifer">Jennifer</persName> and <persName ref="#kris">Kris</persName> to
-               the show. <persName ref="#kris">Kris</persName> won't make it and <persName
-                  ref="#jennifer">Jennifer</persName> will forget. I feel crummy for lying to her. I
+               talk more with <name type="person" ref="#kevin">Kevin</name>, but why?</p>
+            <p>The best stuff is what I leave out of the journal. Crap. Invited <name type="person"
+                  ref="#jennifer">Jennifer</name> and <name type="person" ref="#kris">Kris</name> to
+               the show. <name type="person" ref="#kris">Kris</name> won't make it and <name type="person"
+                  ref="#jennifer">Jennifer</name> will forget. I feel crummy for lying to her. I
                lied so much last nightf. I'm just a liar. Panik was there. Good.<pb/></p>
             <p>I look in the mirror and I hate what I see. I hate what I see ,and can almost like
                what I hate. I look sick,stupid,and lame.I feel strong ,absorbant<sic/>,reliable,
@@ -374,12 +374,12 @@
                contest,telling the skaters they can get in for free with the $4 entry fee to the
                contest! Fuck, it's s'posed to be the other way around,I thought I made that clear,
                but oh well.Well, this is just dandy. Where is the money from the show going to come
-               from? Fuck it all to hell.I really don't feel in control now,but <persName
-                  ref="#steven">Steven</persName> (co-promoter) seems to have everything pretty much
+               from? Fuck it all to hell.I really don't feel in control now,but <name type="person"
+                  ref="#steven">Steven</name> (co-promoter) seems to have everything pretty much
                taken care of.</p>
             <p>Well, it kinda sucks that I can't go in the <orgName ref="#monqui">Monqui</orgName>
                office ,and that they (<orgName ref="#monqui">Monqui</orgName>) won't listen to me
-               and will listen to <persName ref="#steven">Steven</persName>,but they don't really
+               and will listen to <name type="person" ref="#steven">Steven</name>,but they don't really
                know me, and he works for 'em. So, I paid them (it still sucks). The guy that was
                supposed to clean never showed up so I just did what I could. It wasn't that
                gruesome. Things seem to be going wrong left and right. Everyone's late pretty much.
@@ -394,9 +394,9 @@
                   Angels</orgName>. They were supposed to be here an hour ago. Maybe they got a late
                start.Shit, the doors are supposed to open now. I feel like a complete jerk. My
                security didn't even show up. What the fuck,the show must go on without them. It's
-               good that some <orgName ref="#monqui">Monqui</orgName> people,or <persName
-                  ref="#steven">Steve's</persName> friends,are here (thanks <persName ref="#bruno"
-                  >Bruno</persName>, thanks <persName ref="#bill">>Bill</persName> and others!) or I
+               good that some <orgName ref="#monqui">Monqui</orgName> people,or <name type="person"
+                  ref="#steven">Steve's</name> friends,are here (thanks <name type="person" ref="#bruno"
+                  >Bruno</name>, thanks <name type="person" ref="#bill">>Bill</name> and others!) or I
                would be dead.I'm not even worried about the skate thing anymore,too busy worrying
                about the <orgName ref="#fallen_angels">Fallen Angels</orgName> not being here. I'm a
                wreck. Safe in this ticket booth I guess. There seems to be a lot of kids waitin' to
@@ -405,8 +405,8 @@
                <pb/>comin' in too. Great! Ah relief,the <orgName ref="#fallen_angels">Fallen
                   Angels</orgName> got here finally. I am not mad at them, just exasperated in a
                way...</p>
-            <p>Well, I"m missing all the bands sittin' out here in this booth. <persName
-                  ref="#bruce2">Bruce</persName> is here to keep me company and that is great. He is
+            <p>Well, I"m missing all the bands sittin' out here in this booth. <name type="person"
+                  ref="#bruce2">Bruce</name> is here to keep me company and that is great. He is
                the only stabilising force around me right now , and I can't say how much of a great
                comfort that is to me. He even bought me an ice tea! What a pal!</p>
             <p>Looks like at this preliminary count that I'm about three hundred or more in the
@@ -452,8 +452,8 @@
                   ref="#bobs">Bob's</orgName> destruction and thievery. Hugs and kissies and off we
                all go into the wild night... (And my prose falls apart). WE get in our respective
                vehicles and mosey on down the highway, <orgName ref="#yobs">Yobs</orgName> on their
-               way home, and the rest of back to <persName ref='#steven"'>Steve</persName> and
-                  <persName ref="#jeannie">Jeanniess<sic/></persName> for rest and chatter.then ,
+               way home, and the rest of back to <name type="person" ref='#steven"'>Steve</name> and
+                  <name type="person" ref="#jeannie">Jeanniess<sic/></name> for rest and chatter.then ,
                sleep.</p>
             <p>(end of memory-writing,back to journal)<pb/></p>
             <ab type="subheading"><hi rend="font(handwritten)"><date>10/19/86</date></hi></ab>
@@ -461,8 +461,8 @@
                in.I don't like people much right now.Butre then I'm sure they like me even less.
                It's here that my writing falls apart.I'm hittin' the burnin' stuff(vodka) and feel
                like I don't know who I am really.I never have.Don't know if I ever will.Should I
-               leave.(over at <persName ref="#jeannie">Jeannie</persName> and <persName
-                  ref="#steven">Steven's</persName> house/feeling uncomfortable)I kinda want to. The
+               leave.(over at <name type="person" ref="#jeannie">Jeannie</name> and <name type="person"
+                  ref="#steven">Steven's</name> house/feeling uncomfortable)I kinda want to. The
                reading tomorrow should be real good,leaving me emptier than ever. I sort of
                understand,but I don't know. Who do I have to talkk to?No one really knows what's
                going on inside my head.No one wants to. I know I don't. Lucidity is a lie. I'm
@@ -474,7 +474,7 @@
                   rend="scribble"><gap reason="illegible"/></del> last night. So (around 5 a.m.) I'm
                in the <orgName ref="#qp">Q.P.</orgName> and order a baked potato.I attempt to
                anyway, but my voice is gone, so the order is a faint whisper, right. So, I'm writing
-               theis letter to <persName ref="#kevin">Kevin</persName>,which became dotted with
+               theis letter to <name type="person" ref="#kevin">Kevin</name>,which became dotted with
                butter,thinking suicidal as I write,no,but he doesn't need to hear my ramblings at a
                late nite/all nite diner,foggy from lack of sleep... Augghhh! Had to bail from this
                house. Nothing to lose.</p>
@@ -887,100 +887,100 @@
          <div type="editorial">
             <listPerson>
                <person xml:id="verna">
-                  <persName>
+                  <name type="person">
                      <surname>Doherty</surname>
                      <forename>Verna</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="randy">
-                  <persName>
+                  <name type="person">
                      <surname>Strickfaden</surname>
                      <forename>Randy</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="bruce">
-                  <persName>
+                  <name type="person">
                      <surname>Storm</surname>
                      <forename>Bruce</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="greg">
-                  <persName>
+                  <name type="person">
                      <forename>Greg</forename>
                      <note><p>The Greg mentioned here, is most likely the same Greg Anderson who is
                            a member of False Liberty</p></note>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="mg">
-                  <persName>
+                  <name type="person">
                      <forename>MG</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="rollins">
-                  <persName>
+                  <name type="person">
                      <forename>Henry</forename>
                      <surname>Rollins</surname>
                      <note>Henry Rollins is a singer, spoken-word artist, writer, and creator who
                         performed with the rock band Black Flag during the 1980s. He is known as one
                         of the most recognizable artists of the punk era (<ref target="#britannica"
                            >Encyclopedia Britannica).</ref></note>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="hank">
-                  <persName>
+                  <name type="person">
                      <forename>Hank</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="stan">
-                  <persName>
+                  <name type="person">
                      <forename>Stan</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="jeannie">
-                  <persName>
+                  <name type="person">
                      <forename>Jeannie</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="steven">
-                  <persName>
+                  <name type="person">
                      <forename>Steven</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="kevin">
-                  <persName>
+                  <name type="person">
                      <forename>Kevin</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="kris">
-                  <persName>
+                  <name type="person">
                      <forename>Kris</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="jennifer">
-                  <persName>
+                  <name type="person">
                      <forename>Jennifer</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="bruno">
-                  <persName>
+                  <name type="person">
                      <forename>Bruno</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="bill">
-                  <persName>
+                  <name type="person">
                      <forename>Bill></forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="bruce2">
-                  <persName>
+                  <name type="person">
                      <forename>Bruce</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="kurt">
-                  <persName>
+                  <name type="person">
                      <forename>Kurt</forename>
                      <surname>Flansburg</surname>
-                  </persName>
+                  </name>
                   <note>The vocalist of Dangermouse.</note>
                </person>
             </listPerson>
