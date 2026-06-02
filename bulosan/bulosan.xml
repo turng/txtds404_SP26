@@ -9,7 +9,7 @@
          <titleStmt>
             <title>Be American and The Lonesome Mermaid</title>
             <author>Carlos Bulosan</author>
-            <editor>Naomi Roper, Ioana Cheldiu, Alice Leppert, Alice Wagar, Blythe Windle, Poe
+            <editor>Naomi Roper<editor/>,<editor>Ioana Cheldiu<editor/>,<editor>Alice Leppert<editor/>,<editor>Alice Wagar<editor/>,<editor>Blythe Windle<editor/>,<editor> Poe
                Claudio</editor>
          </titleStmt>
          <publicationStmt>
@@ -27,12 +27,13 @@
                Mermaid' is a fantasy following a child (presumably in the Philippines) who observes
                a strange man in his village who claims to be in love with a mermaid who has been
                kidnapping promising young men.</p>
-            <p>'Be American' location: UW Special Collection in Seattle, WA, USA, Container: Box
+            <bibl>'Be American' location: UW Special Collection in Seattle, WA, USA, Container: Box
                0581-012 Box 1, Folder 14 Accession No. 0581-012: Carlos Bulosan papers, 1936-1976
-               (bulk 1948-1956) / Writings / Prose ‘The Lonesome Mermaid' location: UW Special
+               (bulk 1948-1956) / Writings / Prose 
+				‘The Lonesome Mermaid' location: UW Special
                Collection in Seattle, WA, USA, Container: Box 0581-012 Box 1, Folder 22 Accession
                No. 0581-012: Carlos Bulosan papers, 1936-1976 (bulk 1948-1956) / Writings / Prose
-            </p>
+            </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -433,7 +434,7 @@
 
    <text type="shortstory" n="2">
       <body>
-         <pb n="-1-"/>
+         <pb n="-1-">
          <head><emph>The Lonesome Mermaid</emph></head>
 
          <p>Every once in a while<name type="person" ref="#mermaid">the mermaid</name>emerged from
@@ -464,10 +465,10 @@
          <p><said direct="true">“How do you know?”</said><name type="person" ref="#father"
                >Father</name>asked.</p>
 
-         <pb n="-2-"/>
+         <pb n="-2-">
 
-         <p><said direct="true">“The stranger himself said so,”</said>he said.<said direct="true"
-               >“That is why the whole town<lb/>is talking now.”</said></p>
+         <p><said direct="true">“The stranger himself said so,”</said>he said.<said direct="true">
+               “That is why the whole town<lb/>is talking now.”</said></p>
          <p><said direct="true">“Brother,”</said><name type="person" ref="#father">father</name>said
             quietly, as though he were humoring him,<said direct="true">“you<lb/>have been living a
                   <damage type="smudge">shady</damage>life too long. You hear fantastic things, but
@@ -507,8 +508,10 @@
                ref="#stanger">the stranger</name>.<said direct="true">“Now tell me<lb/>this: is love
                the sole property of the human race?”</said></p>
          <p><said direct="true">“I don’t know what you are talking about,”</said>said<name
-               type="person" ref="#mayor">the mayor</name>. Then he said<lb/>
-            <pb n="-3-"/> to the people,<said direct="true">“This man is a heretic! Let’s hang
+               type="person" ref="#mayor">the mayor</name>. Then he said<p/>
+           
+			 <pb n="-3-"> 
+			 <p>to the people,<said direct="true">“This man is a heretic! Let’s hang
                him!”</said></p>
          <p>Slowly<name type="person" ref="#stranger">the stranger</name>sat down and picked up his
             guitar. Delicately he<lb/>plucked at the strings, swaying from side to side. Then he
