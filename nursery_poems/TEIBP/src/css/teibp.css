@@ -825,10 +825,10 @@ kinesic {
 l {
   display: block;
   padding-left: 2em;
-  text-indent: 1em;
+  text-indent: -2em;
 }
 l[rend="indented"] {
-   text-indent: 50px;
+   text-indent: 4em;
 }
 p[rend="italicized"],
 l[rend="italicized"] {
