@@ -827,7 +827,7 @@ l {
   padding-left: 2em;
   text-indent: -2em;
 }
-l[rend="indented"] {
+l[style="indented"] {
    text-indent: 4em;
 }
 p[rend="italicized"],
