@@ -677,14 +677,14 @@ handShift {
 TEI head {
   display: block;
   font-family: Arvo, sans-serif;
-  font-weight: normal;
+  font-weight: bold;
 }
 body > head {
   font-size: 180%;
   text-indent: -0.5em;
 }
 div > head {
-  font-size: 170%;
+  font-size: 100%;
   text-indent: -0.5em;
   text-align: center;
 }
