@@ -17,5 +17,9 @@
          to be overridden here. -->
     <xsl:import href="teibp.xsl"/>
     
+    <xsl:template match="*[@rend='dc']">
+        <span class="dropcap"><xsl:apply-templates/></span>
+    </xsl:template>
+    
 
 </xsl:stylesheet>
