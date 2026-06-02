@@ -676,7 +676,7 @@ handShift {
 /* Need head with TEI parent to distinguish from HTML head */
 TEI head {
   display: block;
-  font-family: Arvo, sans-serif;
+  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-weight: bold;
 }
 body > head {
