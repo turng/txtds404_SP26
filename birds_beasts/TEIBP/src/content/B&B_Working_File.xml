@@ -140,19 +140,21 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          
          <div>
             <pb n="5"/>
+            <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/004.jpg"></graphic></figure>
             <head> THE COCK.</head>
-            <figure><graphic url="X"/></figure>
+            <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_005.jpg"/></figure>
             <lg>
                <l><hi rend="dc">T</hi>he<hi rend="italics"> Cock</hi> doth crow to let you know,</l>
                <l>If you be wise, what time to rise.</l>
             </lg>
             <p>There is no bird treated with so much cruelty as the <hi rend="italics">Cock</hi>; for he, poor <pb n="6"/>thing, (without the least offence,) is tied to a stake, and throw at by a set of idle, wicked, barbarous fellows, till he is beaten in pieces. This is a custom the very heathens would blush at; and therefore I hope you, who are christian, will never be guilty of any thing so inhuman.</p>
+            <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_005.jpg"></graphic></figure>
          </div>
          
          <div>
          <pb n="7"/>
          <head>THE PARROT.</head>
-         <figure><graphic url="X"/></figure>
+            <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_007.jpg"/></figure>
          <lg>
             <l> <hi rend="dc">T</hi>he <hi rend="italics">Parrot</hi> prates he knows not</l><l>what,</l><l>For all he says got by rote.</l>
          </lg>
@@ -161,7 +163,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <div>
           <pb n="8"/>
            <head> THE CUCKOO.</head>
-            <figure><graphic url="X"/></figure>
+            <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_008.jpg"/></figure>
             <lg>
                <l><hi rend="dc">T</hi>he <hi rend="italics">Cuckoo</hi> tells a merry tale,</l><l> Upon the hill and in the vale.</l>
             </lg>
