@@ -9,6 +9,6 @@ lg[rend="center"] {
 lg[rend="left"] {
     justify-content: left;
 }
-l[rend="indented"] {
+l[style="indented"] {
     margin-left: 50px;
 }
