@@ -1185,9 +1185,9 @@
                      <imprint>
                         <publisher>Supreme Court Historical Society</publisher>
                         <pubPlace>Washington, D.C.</pubPlace>
-                        <note>https://supremecourthistory.org/chief-justices/william-rehnquist-1986-2005/</note>
                      </imprint>
                   </monogr>
+                  <ptr target="https://supremecourthistory.org/chief-justices/william-rehnquist-1986-2005"/>
                </biblStruct>
                <biblStruct type="newspaper" xml:id="japenga">
                   <analytic>
@@ -1204,7 +1204,7 @@
                         <date when="1993-11-14">November 14, 1993</date>
                      </imprint>
                   </monogr>
-                  <note>https://orbiscascade-washington.primo.exlibrisgroup.com/permalink/01ALLIANCE_UW/1asafqm/cdi_proquest_newspapers_282079835</note>
+                  <ptr target="https://orbiscascade-washington.primo.exlibrisgroup.com/permalink/01ALLIANCE_UW/1asafqm/cdi_proquest_newspapers_282079835"/>
                </biblStruct>
                <biblStruct type="ebook" xml:id="lipke">
                   <analytic>
@@ -1220,7 +1220,7 @@
                         <pubPlace>Clemson, South Carolina</pubPlace>
                      </imprint>
                   </monogr>
-                  <note>https://opentextbooks.clemson.edu/hlth4000holcombtugman/chapter/the-failure-of-reagan-era-drug-policy-and-d-a-r-e/</note>
+                  <ptr target="https://opentextbooks.clemson.edu/hlth4000holcombtugman/chapter/the-failure-of-reagan-era-drug-policy-and-d-a-r-e/"/>
                </biblStruct>
                <biblStruct type="ebook" xml:id="misiroglu">
                   <monogr>
@@ -1255,7 +1255,7 @@
                      <biblScope unit="issue">10</biblScope>
                      <biblScope unit="page">i-xxiii</biblScope>
                   </monogr>
-                  <note>https://www.jstor.org/stable/29765812?seq=24</note>
+                  <ptr target="https://www.jstor.org/stable/29765812?seq=24"/>
                </biblStruct>
 
                <biblStruct type="article" xml:id="goldberg">
@@ -1271,7 +1271,7 @@
                      </imprint>
                      <biblScope unit="issue">452</biblScope>
                   </monogr>
-                  <note>https://www.rollingstone.com/music/music-news/black-flag-husker-du-and-the-replacements-lead-punks-new-wave-117690/</note>
+                  <ptr target="https://www.rollingstone.com/music/music-news/black-flag-husker-du-and-the-replacements-lead-punks-new-wave-117690/"/>
                </biblStruct>
                <biblStruct type="webpage" xml:id="umbrella">
                   <analytic>
@@ -1284,7 +1284,7 @@
                         <date>2022</date>
                      </imprint>
                   </monogr>
-                  <note>https://www.umbrellaprojectoregon.com/quality-pie</note>
+                  <ptr target="https://www.umbrellaprojectoregon.com/quality-pie"/>
                </biblStruct>
 
                <biblStruct type="article" xml:id="britannica">
@@ -1302,7 +1302,7 @@
                         <date>April 18, 2026</date>
                      </imprint>
                   </monogr>
-                  <note>https://www.britannica.com/biography/Henry-Rollins</note>
+                  <ptr target="https://www.britannica.com/biography/Henry-Rollins"/>
                </biblStruct>
 
                <biblStruct type="article" xml:id="wikipedia">
@@ -1320,12 +1320,12 @@
                         <publisher>Wikipedia</publisher>
                      </imprint>
                   </monogr>
-                  <note>https://en.wikipedia.org/wiki/7_Seconds_(band)</note>
-                  <note>https://en.wikipedia.org/wiki/The_Fallen_Angels_(band)</note>
-                  <note>https://en.wikipedia.org/wiki/The_Boys_(English_band)</note>
-                  <note>https://en.wikipedia.org/wiki/Tex_%26_the_Horseheads</note>
-                  <note>https://en.wikipedia.org/wiki/Melvins</note>
-                  <note>https://en.wikipedia.org/wiki/Saccharine_Trust</note>
+                  <ptr target="https://en.wikipedia.org/wiki/7_Seconds_(band)"/>
+                  <ptr target="https://en.wikipedia.org/wiki/The_Fallen_Angels_(band)"/>
+                  <ptr target="https://en.wikipedia.org/wiki/The_Boys_(English_band)"/>
+                  <ptr target="https://en.wikipedia.org/wiki/Tex_%26_the_Horseheads"/>
+                  <ptr target="https://en.wikipedia.org/wiki/Melvins"/>
+                  <ptr target="https://en.wikipedia.org/wiki/Saccharine_Trust"/>
                </biblStruct>
 
                <biblStruct type="webpage" xml:id="concertarchives">
@@ -1338,7 +1338,7 @@
                         <publisher>Concert Archives</publisher>
                      </imprint>
                   </monogr>
-                  <note>https://www.concertarchives.org/bands/false-liberty</note>
+                  <ptr target="https://www.concertarchives.org/bands/false-liberty"/>
                </biblStruct>
 
                <biblStruct type="webpage" xml:id="sy">
@@ -1351,7 +1351,7 @@
                         <publisher>Skin Yard</publisher>
                      </imprint>
                   </monogr>
-                  <note>https://www.skin-yard.com/skinfo.htm</note>
+                  <ptr target="https://www.skin-yard.com/skinfo.htm"/>
                </biblStruct>
 
                <biblStruct type="webpage" xml:id="omh">
@@ -1364,7 +1364,7 @@
                         <publisher>OMHP</publisher>
                      </imprint>
                   </monogr>
-                  <note>https://www.olympiamusichistory.org/bands/dangermouse</note>
+                  <ptr target="https://www.olympiamusichistory.org/bands/dangermouse"/>
                </biblStruct>
 
                <biblStruct type="webpage" xml:id="wigout">
@@ -1377,7 +1377,7 @@
                         <publisher>Girl Trouble</publisher>
                      </imprint>
                   </monogr>
-                  <note>https://wig-out.com/</note>
+                  <ptr target="https://wig-out.com/"/>
                </biblStruct>
 
                <biblStruct type="webpage" xml:id="for">
@@ -1390,7 +1390,7 @@
                         <publisher>Fallout Records</publisher>
                      </imprint>
                   </monogr>
-                  <note>https://falloutrecords.com/about.html</note>
+                  <ptr target="https://falloutrecords.com/about.html"/>
                </biblStruct>
 
                <biblStruct type="webpage" xml:id="rettman">
@@ -1407,7 +1407,7 @@
                         <date>June 10, 2022</date>
                      </imprint>
                   </monogr>
-                  <note>https://daily.bandcamp.com/hidden-gems/unseen-force-in-search-of-the-truth-review</note>
+                  <ptr target="https://daily.bandcamp.com/hidden-gems/unseen-force-in-search-of-the-truth-review"/>
                </biblStruct>
 
                <biblStruct type="webpage" xml:id="rebelskates">
@@ -1420,7 +1420,7 @@
                         <publisher>Rebel Skates</publisher>
                      </imprint>
                   </monogr>
-                  <note>https://www.rebelskates.com/heritage</note>
+                  <ptr target="https://www.rebelskates.com/heritage"/>
                </biblStruct>
 
                <biblStruct type="webpage" xml:id="monquisite">
@@ -1433,7 +1433,7 @@
                         <publisher>Monqui Presents</publisher>
                      </imprint>
                   </monogr>
-                  <note>https://monqui.com/</note>
+                  <ptr target="https://monqui.com/"/>
                </biblStruct>
 
                <biblStruct type="webpage" xml:id="bbb">
@@ -1446,7 +1446,7 @@
                         <publisher>Big Boy</publisher>
                      </imprint>
                   </monogr>
-                  <note>https://www.bigboy.com/bobs</note>
+                  <ptr target="https://www.bigboy.com/bobs"/>
                </biblStruct>
             </listBibl>
          </div>
