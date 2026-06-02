@@ -897,10 +897,10 @@ lg {
   margin-bottom: 1em;
 }
 lg[rend="center"] {
-    align-content: center;
+    text-justify: center;
 }
 lg[rend="left"] {
-    justify-content: left;
+    text-justify: left;
 } /* also added from custom.css */
 link {
   /* Empty Rule Set */
