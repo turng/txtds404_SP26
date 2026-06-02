@@ -827,6 +827,7 @@ l {
   display: block;
   padding-left: 2em;
   text-indent: -2em;
+  text-align: center
 }
 list[type="gloss"] > label {
   display: block;
@@ -1691,6 +1692,7 @@ border: 1px solid black;
 background:white;
 */
   line-height: 1.5;
+  text-align: center;
 }
 textClass {
   display: none;
