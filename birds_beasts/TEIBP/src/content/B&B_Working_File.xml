@@ -191,8 +191,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <lg>
        <l><hi rend="dc">T</hi>HE <hi rendition="#italics">Nightingale</hi> doth sweetly sing,</l> <l>To welcome in the cheerful spring.</l>
     </lg>
-   <p>What a pretty bird the <hi rendition="#italics">Nightingale</hi> is! How sweetly she sings! I could wish 'twas
-        summer all the year for the sake of her good company.</p>
+   <p>What a pretty bird the <hi rendition="#italics">Nightingale</hi><lb/>is! How sweetly she sings! I could<lb/>wish 'twas
+      summer all the year for the<lb/>sake of her good company.</p>
 </div>
 <div>
     <pb n="12"/>
@@ -201,8 +201,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <lg>
        <l><hi rend="dc">T</hi>HE little <hi rendition="#italics">Lamb</hi> doth skip and play,</l> <l>Always merry, always gay.</l>
     </lg>
-   <p>See the little <hi rendition="#italics">Lamb</hi>! how innocent he looks! he never did any harm, and therefore is
-        beloved by every body: but the fox and the wolf, who are always in mischief, are
+   <p>See the little <hi rendition="#italics">Lamb</hi>! how innocent<lb/>he looks! he never did any harm, and<lb/>therefore is
+      beloved by every body: but<lb/>the fox and the wolf, who are always<lb/>in mischief, are
         hated and despised.</p>
 </div>
 <div>
@@ -210,12 +210,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <head>THE LION.</head>
     <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_013.jpg"/></figure>
     <lg>
-       <l><hi rend="dc">T</hi>HE <hi rendition="#italics">Lion</hi> ranges round the wood,</l> <l>And makes the lesser beasts his food:</l> <l>Thus tyrants
+       <l><hi rend="dc">T</hi>HE <hi rendition="#italics">Lion</hi> ranges round the wood,</l> <l>And makes the lesser beasts his<lb/>food:</l> <l>Thus tyrants
             on their subject prey,</l> <l>And rule with arbitrary sway.</l>
     </lg>
-   <p>Though the <hi rendition="#italics">Lion</hi> is such a strong devouring creature, yet <ref target="#n13"><hi rendition="#italics">Daniel</hi></ref> was thrown into a den
-        among several of <pb n="14"/> them, and received no harm. For he was punished on
-        account of his religion and virtue, he prayed unto God, and the Lord delivered
+   <p>Though the <hi rendition="#italics">Lion</hi> is such a strong<lb/>devouring creature, yet <ref target="#n13"><hi rendition="#italics">Daniel</hi></ref> was<lb/>thrown into a den
+      among several of <pb n="14"/> them, and received no harm. For he<lb/>was punished on
+      account of his religion<lb/>and virtue, he prayed unto God, and the<lb/>Lord delivered
         him.</p>
     <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_014.jpg"/></figure>
 </div>
@@ -224,13 +224,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <head>THE WHALE.</head>
     <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_015.jpg"/></figure>
     <lg>
-       <l><hi rend="dc">T</hi>HE <hi rendition="#italics">Whale's</hi> the monarch of the main,</l> <l>(As is the Lion of the plain:)</l> <l>He keeps the
+       <l><hi rend="dc">T</hi>HE <hi rendition="#italics">Whale's</hi> the monarch of the<lb/>main,</l> <l>(As is the Lion of the plain:)</l> <l>He keeps the
             lesser fish in awe,</l> <l>And, tyrant-like, his will's his law.</l>
     </lg>
-    <p>When the prophet <ref target="#n15"><hi rend="italics">Jonah</hi></ref> attempted to fly over sea from the presence of the Lord, there
-        arose a great storm, and <pb n="16"/> he being cast into the deep, was swallowed by
-        this great fish, in whose belly he repented sincerely, and prayed unto God; wherefore
-        the Lord commanded the fish, and he swam to shore, and cast him upon dry land.</p>
+   <p>When the prophet <ref target="#n15"><hi rend="italics">Jonah</hi></ref> attempted<lb/>to fly over sea from the presence of<lb/>the Lord, there
+      arose a great storm, and <pb n="16"/> he being cast into the deep, was swal-<lb/>lowed by
+      this great fish, in whose belly<lb/>he repented sincerely, and prayed unto<lb/>God; wherefore
+      the Lord commanded<lb/>the fish, and he swam to shore, and<lb/>cast him upon dry land.</p>
     <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_016.jpg"/></figure>
 </div>
          <div>
@@ -241,13 +241,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </figure>
             <lg>
                <l><hi rend="dc">T</hi>HE <hi rendition="#italics">Butterfly</hi> in gaudy dress,</l>
-               <l>The worthless coxcomb doth express,</l>
+               <l>The worthless coxcomb doth ex-<lb/>press,</l>
                <l>Who not regarding whence he rose,</l>
                <l>Is proud of what?-- of his fine clothes</l>
             </lg>
-            <p>This gaudy <hi rendition="#italics">Butterfly</hi> owes its being to a poor worm, and has nothing to boast of but
+            <p>This gaudy <hi rendition="#italics">Butterfly</hi> owes its being<lb/>to a poor worm, and has nothing to boast<lb/>of but
                his fine wings, which perhaps will <pb n="18"/> be lost the first frosty day: and
-               then his case will be much like the cox-comb's, who having lost his fine hat and bag
+               then<lb/>his case will be much like the cox-<lb/>comb's, who having lost his fine hat<lb/>and bag
                wig, has nothing to support him but a head full of emptiness.</p>
             <figure>
                <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_018.jpg"/>
