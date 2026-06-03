@@ -1841,11 +1841,13 @@ html {
 }
 front > img {
   border: none;
-  width: 100%;
+  width: 60%;
+  height: auto;
 }
 body > img {
   border: none;
   width: 30%;
+  height: auto;
   float: left;
 }
 footer {
