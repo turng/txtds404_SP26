@@ -2678,6 +2678,23 @@
                <person xml:id="Electric_Tramps">
                   <persName>Electric Tramps</persName>
                </person>
+               <person xml:id="TomRobinson">
+                  <personName>Tom Robinson</personName>
+                  <note>member of Tom Robison Band. A British singer, bassist, 
+                  and radio presenter</note>
+               </person>    
+               <person xml:id="IanFisher">
+                  <personName>Ian Fisher</personName>
+                  <note>lead vocalist of the seattle rock band "The Cowboys" (1979-85)</note>
+               </person>    
+               <person xml:id="ClemBurke">
+                  <personName>Clem Burke</personName>
+                  <note>drummer of the rock band, "Blondie"</note>
+               </person>    
+               <person xml:id="ChrisFrantz">
+                  <personName>Chris Frantz</personName>
+                  <note>smerican producer and co-founder/drummer of The Talking Heads</note>
+               </person>
             </listPerson>
             <listPlace>
                <place xml:id="New_York">
