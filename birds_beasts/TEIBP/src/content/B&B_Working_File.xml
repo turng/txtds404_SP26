@@ -199,7 +199,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <head>THE LAMB.</head>
     <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_012.jpg"/></figure>
     <lg>
-       <l><hi rend="dc">T</hi>HE little <hi rendition="#italics">Lamb</hi> doth skip and play,</l> <l>Always merry, always gay.</l>
+       <l><hi rend="dc">T</hi>HE little <hi rendition="#italics">Lamb</hi> doth skip and<lb/>play,</l> <l>Always merry, always gay.</l>
     </lg>
    <p>See the little <hi rendition="#italics">Lamb</hi>! how innocent<lb/>he looks! he never did any harm, and<lb/>therefore is
       beloved by every body: but<lb/>the fox and the wolf, who are always<lb/>in mischief, are
