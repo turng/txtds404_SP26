@@ -1953,20 +1953,7 @@ div.facsImage img:first-child {
   font-weight: normal;
 }
 
-.dropcap {
-  color: #000000;
-  float: left;
-  font-family: Georgia;
-  font-size: 4rem;
-  line-height: 0.85;
-  margin: 0;
-  padding: 0 5px 0 0;
-}
-
-.dropcap_line {
-  text-align: left;
-  margin-left: 20%;
-}
+.
 
 lg:first-of-type {
   overflow: hidden;
@@ -1975,4 +1962,19 @@ lg:first-of-type {
 lg:first-of-type l {
   text-align: center;
   text-indent: 0;
+}
+
+dropcap {
+  color: #000000;
+  float: left;
+  font-family: Georgia;
+  font-size: 3.5rem;
+  line-height: 0.85;
+  margin: 0;
+  padding: 0 5px 0 0;
+}
+
+.dropcap_line {
+  text-align: left;
+  margin-left: 20% !important;'
 }
