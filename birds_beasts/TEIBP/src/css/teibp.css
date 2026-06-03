@@ -1959,7 +1959,7 @@ div.facsImage img:first-child {
   font-family: Georgia;
   font-size: 4rem;
   line-height: 0.85;
-  margin: 0 0.05em 0 2.5em;
+  margin: 0 -3.8em 0 30%;
   padding: 0;
 }
 
