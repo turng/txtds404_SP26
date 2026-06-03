@@ -1958,5 +1958,12 @@ div.facsImage img:first-child {
   float: left;
   font-family: Georgia;
   font-size: 6rem;
-  margin: 0.1em 0.1em 0.1em 0;
+  line-height: 0.85;
+  margin: 0 0.05em 0 0;
+  padding: 0;
+}
+
+lg:first-of-type l:first-of-type {
+  text-align: left;
+  text-indent: 0;
 }
