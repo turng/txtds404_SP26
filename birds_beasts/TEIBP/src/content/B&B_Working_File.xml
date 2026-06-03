@@ -156,7 +156,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <head>THE PARROT.</head>
             <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_007.jpg"/></figure>
          <lg>
-            <l> <span class="dropcap">T</span>HE<hi rendition="#italics">Parrot</hi> prates he knows not</l><l>what,</l><l>For all he says got by rote.</l>
+            <l> <span class="dropcap">T</span>HE<hi rendition="#italics"> Parrot</hi> prates he knows not</l><l>what,</l><l>For all he says got by rote.</l>
          </lg>
             <p>The <hi rendition="#italics">Parrot</hi> is a chattering bird, he<lb/> talks a greate deal, yet knows not what<lb/>he says; and is therefore not unlike<lb/>some silly boys, who prate without<lb/>thinking, and learn their lesson with-<lb/>out looking at their book.</p>
          </div>
