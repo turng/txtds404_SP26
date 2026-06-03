@@ -565,7 +565,7 @@
         <span class="dropcap"><xsl:apply-templates/></span>
     </xsl:template>
 
-  <xsl:template match="tei:l[tei:hi[@rend='dc']]">
+  <xsl:template match="tei:l[tei:hi[1][@rend='dc']]">
   <l class="dropcap_line"><xsl:apply-templates/></l>
 </xsl:template>
   
