@@ -1975,4 +1975,5 @@ lg:first-of-type l {
 .dropcap_line {
   text-align: left !important;
   margin: auto !important;
+  width: 375px;
 }
