@@ -1686,7 +1686,7 @@ background:white;
   border-bottom: 1px solid #999;
 }
 TEI > text {
-  display: none;
+  display: block;
   /*
 border-radius: 15px;
 border: 1px solid black;
