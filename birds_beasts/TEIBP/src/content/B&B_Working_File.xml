@@ -158,7 +158,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <lg>
             <l> <hi rend="dc">T</hi>HE <hi rendition="#italics">Parrot</hi> prates he knows not</l><l>what,</l><l>For all he says got by rote.</l>
          </lg>
-            <p>The<hi rendition="#italics">Parrot</hi> is a chattering bird, he talks a greate deal, yet knows not what he says; and is therefore not unlike some silly boys, who prate without thinking, and learn their lesson with-out looking at their book.</p>
+            <p>The <hi rendition="#italics">Parrot</hi> is a chattering bird, he talks a greate deal, yet knows not what he says; and is therefore not unlike some silly boys, who prate without thinking, and learn their lesson with-out looking at their book.</p>
          </div>
          <div>
           <pb n="8"/>
@@ -167,7 +167,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <lg>
                <l><hi rend="dc">T</hi>HE <hi rendition="#italics">Cuckoo</hi> tells a merry tale,</l><l> Upon the hill and in the vale.</l>
             </lg>
-            <p> There's the pretty <hi rendition="#italics">Cuckoo ! </hi> This good-natured bird comes a long journey once every year to see all his friends, and sing them a sng. And after he has obliged them with his company about three months, he takes his leave, and returns to his own country again.</p>
+            <p> There's the pretty <hi rendition="#italics">Cuckoo ! </hi> This <lb/>good-natured bird comes a long journey<lb/>once every year to see all his friends,<lb/>and sing them a song. And after he<lb/>has obliged them with his company about<lb/>three months, he takes his leave, and<lb/> returns to his own country again.</p>
          </div>
         <div>
     <pb n="9"/>
