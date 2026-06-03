@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<?xml-stylesheet type="text/xsl" href="custom.xsl"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
@@ -144,10 +144,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <head> THE COCK.</head>
             <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_005.jpg"/></figure>
             <lg>
-               <l><hi rend="dc">T</hi>HE<hi rend="italics"> Cock</hi> doth crow to let you know,</l>
+               <l><hi rend="dc">T</hi>HE<hi rendition="#italics"> Cock</hi> doth crow to let you know,</l>
                <l>If you be wise, what time to rise.</l>
             </lg>
-            <p>There is no bird treated with so much cruelty as the <hi rend="italics">Cock</hi>; for he, poor <pb n="6"/>thing, (without the least offence,) is tied to a stake, and throw at by a set of idle, wicked, barbarous fellows, till he is beaten in pieces. This is a custom the very heathens would blush at; and therefore I hope you, who are christian, will never be guilty of any thing so inhuman.</p>
+            <p>There is no bird treated with so much cruelty as the <hi rendition="#italics">Cock</hi>; for he, poor <pb n="6"/>thing, (without the least offence,) is tied to a stake, and throw at by a set of idle, wicked, barbarous fellows, till he is beaten in pieces. This is a custom the very heathens would blush at; and therefore I hope you, who are christian, will never be guilty of any thing so inhuman.</p>
             <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_006.jpg"></graphic></figure>
          </div>
          
@@ -156,28 +156,28 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <head>THE PARROT.</head>
             <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_007.jpg"/></figure>
          <lg>
-            <l> <hi rend="dc">T</hi>HE <hi rend="italics">Parrot</hi> prates he knows not</l><l>what,</l><l>For all he says got by rote.</l>
+            <l> <hi rend="dc">T</hi>HE <hi rendition="#italics">Parrot</hi> prates he knows not</l><l>what,</l><l>For all he says got by rote.</l>
          </lg>
-            <p>The<hi rend="italics">Parrot</hi> is a chattering bird, he talks a greate deal, yet knows not what he says; and is therefore not unlike some silly boys, who prate without thinking, and learn their lesson with-out looking at their book.</p>
+            <p>The<hi rendition="#italics">Parrot</hi> is a chattering bird, he talks a greate deal, yet knows not what he says; and is therefore not unlike some silly boys, who prate without thinking, and learn their lesson with-out looking at their book.</p>
          </div>
          <div>
           <pb n="8"/>
            <head> THE CUCKOO.</head>
             <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_008.jpg"/></figure>
             <lg>
-               <l><hi rend="dc">T</hi>HE <hi rend="italics">Cuckoo</hi> tells a merry tale,</l><l> Upon the hill and in the vale.</l>
+               <l><hi rend="dc">T</hi>HE <hi rendition="#italics">Cuckoo</hi> tells a merry tale,</l><l> Upon the hill and in the vale.</l>
             </lg>
-            <p> There's the pretty <hi rend="italics">Cuckoo ! </hi> This good-natured bird comes a long journey once every year to see all his friends, and sing them a sng. And after he has obliged them with his company about three months, he takes his leave, and returns to his own country again.</p>
+            <p> There's the pretty <hi rendition="#italics">Cuckoo ! </hi> This good-natured bird comes a long journey once every year to see all his friends, and sing them a sng. And after he has obliged them with his company about three months, he takes his leave, and returns to his own country again.</p>
          </div>
         <div>
     <pb n="9"/>
     <head>THE COW.</head>
     <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_009.jpg"/></figure>
     <lg>
-        <l><hi rend="dc">E</hi>ARLY the <hi rendition="#italics">milkmaid</hi> to the meadow hies,</l> <l>And the <hi rend="italics">red Cow</hi> her empty pail
+       <l><hi rend="dc">E</hi>ARLY the <hi rendition="#italics">milkmaid</hi> to the meadow hies,</l> <l>And the <hi rendition="#italics">red Cow</hi> her empty pail
             supplies.</l>
     </lg>
-    <p>This is the good-natured <hi rend="italics">Cow</hi> to which we are all so much obliged. She comes, poor
+           <p>This is the good-natured <hi rendition="#italics">Cow</hi> to which we are all so much obliged. She comes, poor
         thing! in the morning, and brings her udder full of milk for <pb n="10"/> our
         breakfast, and the same at night for our supper. To her we are indebted for our
         custards, cheesecakes, curds, and cream, as well as for our milk, butter, and
@@ -189,9 +189,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <head>THE NIGHTINGALE.</head>
     <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_011.jpg"/></figure>
     <lg>
-        <l><hi rend="dc">T</hi>HE <hi rend="italics">Nightingale</hi> doth sweetly sing,</l> <l>To welcome in the cheerful spring.</l>
+       <l><hi rend="dc">T</hi>HE <hi rendition="#italics">Nightingale</hi> doth sweetly sing,</l> <l>To welcome in the cheerful spring.</l>
     </lg>
-    <p>What a pretty bird the <hi rend="italics">Nightingale</hi> is! How sweetly she sings! I could wish 'twas
+   <p>What a pretty bird the <hi rendition="#italics">Nightingale</hi> is! How sweetly she sings! I could wish 'twas
         summer all the year for the sake of her good company.</p>
 </div>
 <div>
@@ -199,9 +199,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <head>THE LAMB.</head>
     <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_012.jpg"/></figure>
     <lg>
-        <l><hi rend="dc">T</hi>HE little <hi rend="italics">Lamb</hi> doth skip and play,</l> <l>Always merry, always gay.</l>
+       <l><hi rend="dc">T</hi>HE little <hi rendition="#italics">Lamb</hi> doth skip and play,</l> <l>Always merry, always gay.</l>
     </lg>
-    <p>See the little <hi rend="italics">Lamb</hi>! how innocent he looks! he never did any harm, and therefore is
+   <p>See the little <hi rendition="#italics">Lamb</hi>! how innocent he looks! he never did any harm, and therefore is
         beloved by every body: but the fox and the wolf, who are always in mischief, are
         hated and despised.</p>
 </div>
@@ -210,10 +210,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <head>THE LION.</head>
     <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_013.jpg"/></figure>
     <lg>
-        <l><hi rend="dc">T</hi>HE <hi rend="italics">Lion</hi> ranges round the wood,</l> <l>And makes the lesser beasts his food:</l> <l>Thus tyrants
+       <l><hi rend="dc">T</hi>HE <hi rendition="#italics">Lion</hi> ranges round the wood,</l> <l>And makes the lesser beasts his food:</l> <l>Thus tyrants
             on their subject prey,</l> <l>And rule with arbitrary sway.</l>
     </lg>
-    <p>Though the <hi rend="italics">Lion</hi> is such a strong devouring creature, yet <ref target="#n13"><hi rend="italics">Daniel</hi></ref> was thrown into a den
+   <p>Though the <hi rendition="#italics">Lion</hi> is such a strong devouring creature, yet <ref target="#n13"><hi rendition="#italics">Daniel</hi></ref> was thrown into a den
         among several of <pb n="14"/> them, and received no harm. For he was punished on
         account of his religion and virtue, he prayed unto God, and the Lord delivered
         him.</p>
@@ -224,7 +224,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <head>THE WHALE.</head>
     <figure><graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_015.jpg"/></figure>
     <lg>
-        <l><hi rend="dc">T</hi>HE <hi rend="italics">Whale's</hi> the monarch of the main,</l> <l>(As is the Lion of the plain:)</l> <l>He keeps the
+       <l><hi rend="dc">T</hi>HE <hi rendition="#italics">Whale's</hi> the monarch of the main,</l> <l>(As is the Lion of the plain:)</l> <l>He keeps the
             lesser fish in awe,</l> <l>And, tyrant-like, his will's his law.</l>
     </lg>
     <p>When the prophet <ref target="#n15"><hi rend="italics">Jonah</hi></ref> attempted to fly over sea from the presence of the Lord, there
@@ -240,12 +240,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_017.jpg"/>
             </figure>
             <lg>
-               <l><hi rend="dc">T</hi>HE <hi rend="italics">Butterfly</hi> in gaudy dress,</l>
+               <l><hi rend="dc">T</hi>HE <hi rendition="#italics">Butterfly</hi> in gaudy dress,</l>
                <l>The worthless coxcomb doth express,</l>
                <l>Who not regarding whence he rose,</l>
                <l>Is proud of what?-- of his fine clothes</l>
             </lg>
-            <p>This gaudy <hi rend="italics">Butterfly</hi> owes its being to a poor worm, and has nothing to boast of but
+            <p>This gaudy <hi rendition="#italics">Butterfly</hi> owes its being to a poor worm, and has nothing to boast of but
                his fine wings, which perhaps will <pb n="18"/> be lost the first frosty day: and
                then his case will be much like the cox-comb's, who having lost his fine hat and bag
                wig, has nothing to support him but a head full of emptiness.</p>
@@ -260,7 +260,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_019.jpg"/>
             </figure>
             <lg>
-               <l><hi rend="dc">T</hi>HE <hi rend="italics">Crocodile</hi>, with watery eyes,</l>
+               <l><hi rend="dc">T</hi>HE <hi rendition="#italics">Crocodile</hi>, with watery eyes,</l>
                <l>O'er man and every creature cries,</l>
                <l>Then feeds with pleasure on his prey;</l>
                <l>So hypocrites their friends betray</l>
@@ -277,10 +277,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_021.jpg"/>
             </figure>
             <lg>
-               <l><hi rend="italics">T</hi>HE <hi rend="italics">Ass</hi>, tho' mean, will by his bray</l>
+               <l><hi rendition="#italics">T</hi>HE <hi rendition="#italics">Ass</hi>, tho' mean, will by his bray</l>
                <l>Oblige your horse to run away.</l>
             </lg>
-            <p>Though this animal makes such a mean figure, yes, <ref target="#n21">Samson</ref>, with the jawbone of an <hi rend="italics">Ass</hi>, slew a thousand men. But then the Lord was with him, and God Almighty can do any thing.</p>
+            <p>Though this animal makes such a mean figure, yes, <ref target="#n21">Samson</ref>, with the jawbone of an <hi rendition="#italics">Ass</hi>, slew a thousand men. But then the Lord was with him, and God Almighty can do any thing.</p>
          </div> 
          <div>
             <pb n="22"/>
@@ -289,7 +289,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_022.jpg"/>
             </figure>
             <lg>
-               <l><hi rend="dc">T</hi>HE little <hi rend="italics">Ant</hi> no labour spares,</l>
+               <l><hi rend="dc">T</hi>HE little <hi rendition="#italics">Ant</hi> no labour spares,</l>
                <l>Wisely preventing future cares;</l>
                <l>For ere the hoary frost comes on,</l>
                <l>Her stock's laid up, and business done.</l>
