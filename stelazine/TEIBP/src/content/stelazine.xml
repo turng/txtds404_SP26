@@ -2629,6 +2629,35 @@
                <place xml:id="Seattle">
                   <placeName>Seattle</placeName>
                </place>
+               <place xml:id="PioneerSquare">
+                  <placeName>Pioneer Square</placeName>
+                  <note>a neighborhood in the southwest corner of downtown 
+                        Seattle, Wa.</note>
+               </place>    
+               <place xml:id="WashingtonHall">
+                  <placeName>Washington Hall</placeName>
+                  <note>an events venue in Seattle, Wa's central district</note>
+               </place>    
+               <place xml:id="Bellingham">
+                  <placeName>Bellingham</placeName>
+                  <note>a city in Washington state</note>
+               </place>   
+               <place xml:id="TheWhiskey">
+                  <placeName>The Whiskey</placeName>
+                  <note>a bar/event venue in Beltown, Seattle.</note>
+               </place>   
+               <place xml:id="GramercyParkHotel">
+                  <placeName>Gramercy Park Hotel</placeName>
+                  <note>hotel/event venue in New York City</note>
+               </place>   
+               <place xml:id="Swindon">
+                  <placeName>Swindon</placeName>
+                  <note>a town in Wiltshire, South West England</note>
+               </place>    
+               <place xml:id="Scarbourough">
+                  <placeName>Scarbourough</placeName>
+                  <note>town in England</note>
+               </place>
             </listPlace>
             <list type="song">
                <item xml:id="Let_Me_Take_You_Out_To_Lunch"> <title>Let Me Take You Out To
