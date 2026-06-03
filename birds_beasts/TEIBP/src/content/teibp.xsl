@@ -561,7 +561,7 @@
          </xsl:copy>
        </xsl:template>
 
-	<xsl:template match="*[@rend='dc']">
+	<xsl:template match="tei:*[@rend='dc']">
         <span class="dropcap"><xsl:apply-templates/></span>
     </xsl:template>
 
