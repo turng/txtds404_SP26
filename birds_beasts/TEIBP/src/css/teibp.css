@@ -1548,16 +1548,12 @@ space:before {
   font-weight: bold;
   content: "";
 }
-.dropcap {
-  color: #903;
-  float: left;
-  font-family: Georgia;
-  font-size: 75px;
-  line-height: 60px;
-  padding-top: 4px;
-  padding-right: 8px;
-  padding-left: 3px;
+
+TEI span {
+  /* jawalsh: why were we hiding this? */
+  /* .hide; */
 }
+
   /* jawalsh: why were we hiding this? */
   /* .hide; */
 }
@@ -1955,4 +1951,15 @@ div.facsImage img:first-child {
 .head-font {
   font-family: Arvo, sans-serif;
   font-weight: normal;
+}
+
+.dropcap {
+  color: #903;
+  float: left;
+  font-family: Georgia;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
 }
