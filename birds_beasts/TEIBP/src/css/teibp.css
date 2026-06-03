@@ -1973,6 +1973,6 @@ lg:first-of-type l {
 }
 
 .dropcap_line {
-  text-align: left;
-  margin-left: 20% !important;'
+  text-align: left !important;
+  margin-left: 20% !important;
 }
