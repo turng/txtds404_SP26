@@ -1959,8 +1959,13 @@ div.facsImage img:first-child {
   font-family: Georgia;
   font-size: 4rem;
   line-height: 0.85;
-  margin: 0 -3.8em 0 30%;
-  padding: 0;
+  margin: 0;
+  padding: 0 5px 0 0;
+}
+
+.dropcap_line {
+  text-align: left;
+  margin-left: 20%;
 }
 
 lg:first-of-type {
