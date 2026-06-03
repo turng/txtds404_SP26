@@ -1963,7 +1963,7 @@ div.facsImage img:first-child {
   padding: 0;
 }
 
-lg:first-of-type l:first-of-type {
+lg:first-of-type l {
   text-align: left;
   text-indent: 0;
 }
