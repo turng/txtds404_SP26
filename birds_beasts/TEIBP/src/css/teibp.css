@@ -1953,8 +1953,6 @@ div.facsImage img:first-child {
   font-weight: normal;
 }
 
-.
-
 lg:first-of-type {
   overflow: hidden;
 }
@@ -1964,7 +1962,7 @@ lg:first-of-type l {
   text-indent: 0;
 }
 
-dropcap {
+.dropcap {
   color: #000000;
   float: left;
   font-family: Georgia;
