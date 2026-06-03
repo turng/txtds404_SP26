@@ -277,7 +277,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <graphic url="https://www.gutenberg.org/cache/epub/59261/images/i_021.jpg"/>
             </figure>
             <lg>
-               <l><hi rendition="#italics">T</hi>HE <hi rendition="#italics">Ass</hi>, tho' mean, will by his bray</l>
+               <l><hi rend="dc">T</hi>HE <hi rendition="#italics">Ass</hi>, tho' mean, will by his bray</l>
                <l>Oblige your horse to run away.</l>
             </lg>
             <p>Though this animal makes such a<lb/>mean figure, yes, <ref target="#n21">Samson</ref>, with the<lb/>jawbone of an <hi rendition="#italics">Ass</hi>, slew a thousand<lb/>men. But then the Lord was with<lb/>him, and God Almighty can do any<lb/>thing.</p>
