@@ -1,8 +1,8 @@
-/* Custom CSS for the Ming Chin TEI Boilerplate edition /
+/* Custom CSS for the Ming Chin TEI Boilerplate edition */
 
-/ =========================
+/* =========================
    General page style
-   ========================= /
+   ========================= */
 
 body {
   background: #f4f1ea !important;
@@ -14,7 +14,7 @@ body {
   padding: 0 !important;
 }
 
-/ Main content container /
+/* Main content container */
 body > div:first-of-type,
 #main,
 #content,
@@ -29,7 +29,7 @@ main {
   box-sizing: border-box !important;
 }
 
-/ Avoid strange justified spacing /
+/* Avoid strange justified spacing */
 div,
 section,
 article,
@@ -40,9 +40,9 @@ p {
   letter-spacing: normal !important;
 }
 
-/ =========================
+/* =========================
    Titles and headings
-   ========================= /
+   ========================= */
 
 h1 {
   font-family: "Helvetica Neue", Arial, sans-serif !important;
@@ -78,9 +78,9 @@ h6 {
   color: #3f3428 !important;
 }
 
-/ =========================
+/* =========================
    Paragraphs and text
-   ========================= /
+   ========================= */
 
 p {
   font-size: 1em !important;
@@ -88,7 +88,7 @@ p {
   margin: 0 0 1.1em 0 !important;
 }
 
-/ Header metadata /
+/* Header metadata */
 .docAuthor,
 .byline,
 .editor,
@@ -98,18 +98,18 @@ p {
   color: #555 !important;
 }
 
-/ Light emphasis for encoded names and places /
+/* Light emphasis for encoded names and places */
 .persName,
 .placeName,
 .name {
   font-weight: 600 !important;
 }
 
-/ =========================
+/* =========================
    Footnote references
-   ========================= /
+   ========================= */
 
-/ Make note references look like footnote numbers /
+/* Make note references look like footnote numbers */
 a[href^="#note"],
 ref[target^="#note"] {
   font-size: 0.78em !important;
@@ -120,7 +120,7 @@ ref[target^="#note"] {
   padding-left: 0.08em !important;
 }
 
-/ General link style /
+/* General link style */
 a {
   color: #6c4a1f !important;
   text-decoration: none !important;
@@ -130,11 +130,11 @@ a:hover {
   text-decoration: underline !important;
 }
 
-/ =========================
+/* =========================
    Notes section
-   ========================= /
+   ========================= */
 
-/ Notes section in the back matter /
+/* Notes section in the back matter */
 div[type="notes"],
 .notes {
   margin-top: 3em !important;
@@ -144,7 +144,7 @@ div[type="notes"],
   line-height: 1.5 !important;
 }
 
-/ Notes heading /
+/* Notes heading */
 div[type="notes"] head,
 .notes h2,
 .notes h3 {
@@ -153,7 +153,7 @@ div[type="notes"] head,
   color: #3f3428 !important;
 }
 
-/ Individual notes /
+/* Individual notes */
 div[type="notes"] item,
 .notes li,
 .notes p {
@@ -164,14 +164,14 @@ div[type="notes"] item,
   line-height: 1.5 !important;
 }
 
-/ Note labels: 1., 2., etc. /
+/* Note labels: 1., 2., etc. */
 label {
   font-weight: 700 !important;
   margin-right: 0.4em !important;
   color: #4b3a2a !important;
 }
 
-/ Prevent old inline notes from becoming large boxes /
+/* Prevent old inline notes from becoming large boxes */
 .note,
 .noteContent,
 span.note,
@@ -190,68 +190,6 @@ div.note {
   color: inherit !important;
 }
 
-/ =========================
-   Bibliography
-   ========================= /
-
-div[type="bibliography"],
-.bibliography,
-.listBibl {
-  margin-top: 3em !important;
-  padding-top: 1.5em !important;
-  border-top: 1px solid #c9c1b3 !important;
-  font-size: 0.92em !important;
-  line-height: 1.5 !important;
-}
-
-.bibl,
-listBibl bibl {
-  display: block !important;
-  margin-bottom: 1em !important;
-  padding-left: 1.5em !important;
-  text-indent: -1.5em !important;
-}
-
-/ =========================
-   TEI Boilerplate toolbox
-   ========================= /
-
-#teibpToolbox,
-.toolbox {
-  font-family: "Helvetica Neue", Arial, sans-serif !important;
-  font-size: 0.85em !important;
-  opacity: 0.75 !important;
-}
-
-/ =========================
-   Responsive layout
-   ========================= */
-
-@media screen and (max-width: 900px) {
-  body {
-    font-size: 15px !important;
-  }
-
-  body > div:first-of-type,
-  #main,
-  #content,
-  .tei,
-  article,
-  main {
-    max-width: 94% !important;
-    margin: 1em auto !important;
-    padding: 2em !important;
-  }
-
-  h1 {
-    font-size: 1.45em !important;
-  }
-
-  h2,
-  h3 {
-    font-size: 1.15em !important;
-  }
-}
 /* =========================
    Visual section divisions
    ========================= */
@@ -263,7 +201,7 @@ div[type="editorial_intro"] {
   border-bottom: 2px solid #d6cdbc !important;
 }
 
-/* Style the typescript front/back matter as a separate paratext block */
+/* Style the ordinary paratext block */
 div[type="paratext"] {
   max-width: 620px !important;
   margin: 2.5em 0 3em 2em !important;
@@ -274,11 +212,66 @@ div[type="paratext"] {
   line-height: 1.45 !important;
 }
 
-/* Keep paratext compact */
+/* Keep ordinary paratext compact */
 div[type="paratext"] p,
 div[type="paratext"] ab {
   margin: 0 !important;
   line-height: 1.45 !important;
+}
+
+/* =========================
+   Typescript header layout
+   ========================= */
+
+/* Two-column layout for the original typescript header */
+div[type="paratext"][subtype="typescript_header"] {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr !important;
+  column-gap: 5em !important;
+
+  max-width: 760px !important;
+  margin: 2.5em auto 3em auto !important;
+  padding: 1.4em 1.8em !important;
+
+  background: #f7f4ec !important;
+  border-left: none !important;
+  border: 1px solid #d6cdbc !important;
+
+  font-family: "Courier New", Courier, monospace !important;
+  font-size: 1em !important;
+  letter-spacing: 0.04em !important;
+  line-height: 2 !important;
+  color: #222 !important;
+}
+
+/* Left and right header blocks */
+div[type="paratext"][subtype="typescript_header"] ab[type="left_header"],
+div[type="paratext"][subtype="typescript_header"] ab[type="right_header"] {
+  display: block !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 2 !important;
+  white-space: normal !important;
+}
+
+/* Keep the right block aligned like the original image */
+div[type="paratext"][subtype="typescript_header"] ab[type="right_header"] {
+  justify-self: start !important;
+}
+
+/* Make TEI line breaks appear as real line breaks */
+div[type="paratext"][subtype="typescript_header"] lb::after {
+  content: "\A" !important;
+  white-space: pre !important;
+}
+
+/* Responsive layout for the typescript header */
+@media screen and (max-width: 700px) {
+  div[type="paratext"][subtype="typescript_header"] {
+    grid-template-columns: 1fr !important;
+    row-gap: 1.5em !important;
+    max-width: 100% !important;
+  }
 }
 
 /* Separate main story from paratext */
@@ -309,16 +302,20 @@ div[subtype="back_matter"] {
   margin-top: 3em !important;
   border-left-color: #8f7a55 !important;
 }
+
 /* =========================
    Bibliography formatting
    ========================= */
 
 /* Make the bibliography section visually separate */
 div[type="bibliography"],
-.bibliography {
+.bibliography,
+.listBibl {
   margin-top: 3em !important;
   padding-top: 1.5em !important;
   border-top: 2px solid #d6cdbc !important;
+  font-size: 0.92em !important;
+  line-height: 1.5 !important;
 }
 
 /* Force each bibliographic entry onto its own line/block */
@@ -376,4 +373,45 @@ bibl publisher::after,
 bibl pubPlace::after,
 .bibl .pubPlace::after {
   content: ", " !important;
+}
+
+/* =========================
+   TEI Boilerplate toolbox
+   ========================= */
+
+#teibpToolbox,
+.toolbox {
+  font-family: "Helvetica Neue", Arial, sans-serif !important;
+  font-size: 0.85em !important;
+  opacity: 0.75 !important;
+}
+
+/* =========================
+   Responsive layout
+   ========================= */
+
+@media screen and (max-width: 900px) {
+  body {
+    font-size: 15px !important;
+  }
+
+  body > div:first-of-type,
+  #main,
+  #content,
+  .tei,
+  article,
+  main {
+    max-width: 94% !important;
+    margin: 1em auto !important;
+    padding: 2em !important;
+  }
+
+  h1 {
+    font-size: 1.45em !important;
+  }
+
+  h2,
+  h3 {
+    font-size: 1.15em !important;
+  }
 }
