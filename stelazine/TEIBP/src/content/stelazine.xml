@@ -810,42 +810,40 @@
 
 
                <pb n="6"/>
-
+               
                <figure>
                   <graphic
                      url="https://drive.google.com/thumbnail?id=1EYyPlKyogYMp1tQJfX_dFfjrEdas6jMz&amp;sz=w1000"/>
-
                </figure>
-
+               
                <div type="poem">
                   <lg>
                      <l>New York, New York,......n.y. A city tingling in the cold. This city</l>
                      <l>never sticks. Winds creating a tunnel underneath the skyscrapers. At</l>
                      <l>times it hurts to breathe.</l>
-                     <l>Watching Japanese television. Comedy shows from Japan Everything</l>
-                     <l>with a wash of rice paper. Colors:from red to green:yellows into blue.</l>
+                     <l>Watching Japanese television. Comedy shows from Japan. Everything</l>
+                     <l>with a wash of rice paper. Colors: from red to green, yellows into blue.</l>
                      <l>Calligraphy in sound and motion. Asian faces. Strange language. Who</l>
-                     <l>knows what they are saying? Is this Tokyo?</l>
-                     <l>Frantic humor/split images. Mass produced faces we can laugh at It</l>
+                     <l>knows what they are saying? Is this <name type="location">Tokyo</name>?</l>
+                     <l>Frantic humor/split images. Mass produced faces we can laugh at. It</l>
                      <l>all comes back to me.........</l>
                   </lg>
-
+                  
                   <lg>
-                     <l>Late night blue television. Tuning in for a quick fuck on the motor-</l>
-                     <l>cycle.</l>
-                     <l>We stay across from the Chelsea Hotel, in a loft with a great view of</l>
+                     <l>Late night blue television. Tuning in for a quick fuck on the motorcycle.</l>
+                     <l>We stay across from the <name type="location">Chelsea Hotel</name>, in a loft with a great view of</l>
                      <l>watertowers. Fire escapes zig-zagging across the landscape.</l>
                      <l>I see the city through vertical lines. Cold metal slashing through</l>
                      <l>the cityscape. And people. Crazies in the all-night Have-a-Donut. Shop-</l>
                      <l>ping bags and twilight chatter. Sirens cutting holes in my brain.</l>
                      <l>A city always on the move. So many people you want to scream at times.</l>
-                     <l>Prality comes in flashcubes of consciousness. You couldn't hold your</l>
+                     <l>Plurality comes in flashcubes of consciousness. You couldn't hold your</l>
                      <l>breath if you tried.......</l>
                   </lg>
-
+                  
                   <lg>
                      <l>Whispers drill holes in the midnight air. People in doorways eager</l>
-                     <l>to talk. New York is the only place in the world were you can fall in</l>
+                     <l>to talk. New York is the only place in the world where you can fall in</l>
                      <l>love with mannequins, he said.</l>
                      <l>Invisible people crowd corners. Datapanik in the year sero......</l>
                      <l>Subway stations deserted, like empty cages in a long forgotten zoo. The</l>
@@ -853,78 +851,94 @@
                      <l>is the grasp for air....</l>
                      <l>This is what we saw.</l>
                   </lg>
-
                </div>
-
+               
                <div>
                   <div>
-
-                     <p> There are three established clubs in the city: CBGB's, Max's, and Hurrah All
+                     <p> There are three established clubs in the city: <name type="location">CBGB's</name>,
+                        <name type="location">Max's</name>, and <name type="location">Hurrah</name>. All
                         week music. Admission is $4 to $6 depending on the day. Count on seeing
                         anyone. It's the crowd that can sway your feelings. CB's is overrun with
                         tourists eager for a glimpse of "new wave". You can't get out of your seat
-                        so where's the fun? Max's is better, although the sound isn't as good. Th-
-                        ere's a coldness about it to me. Hur- rah's is highly considered by people
-                        in the city. Getting better. Then there are the week-end clubs... Mudd Club,
-                        Club 57, Club Hollywood... Studio 10 and sometimes Trax. Studio 10 is a
-                        Yippie club in the west Vill- age. Club 57 is gaining prominence--- strong
-                        shows, good atmosphere and go- od fun. Admission is $4. One of the places to
-                        go to. Mudd Club is the most highly prais- ed. With acoustics rumored as
-                        being designed by the one and only Eno--- it is new and rising fast. Set in
-                        the Soho area it provides weekend entert- ainment of the most novel kind.
-                        Cons- tant choices. </p>
-
-                     <p> Clubs advertize in the newspapers: Village Voice and Shoh Weekly. Other-
-                        wise you see wall posters. few bands print posters. New bands never do. We
-                        in Seattle have relied on wall posters like a great wall of informa¬ tion.
-                        But we have not had media acce- ptance. The price you pay for being a
-                        provincial city... Poster artwork runs the gamut from imaginative to boring.
-                        Too few of the former, too much of the latter. Opinions are worn on lapels
-                        in this city. Store bought, profuse. Why make them when you can buy them?
-                        The star- kest difference here is the accepti- bility of new wave. You can
-                        hang out in the East Villa- ge: Manic Panic (and talk to Snooky).. Trash
-                        &amp; Vaudeville, Defiant pose... Or to the West Village and the Bowery¬
-                        Next Empire and Revenge, Bookstores.. Record stores—the best being Village
-                        Oldies, where you can hear reggae on the radio, and any band you care to on
-                        the stereo. Even clothing if you're just in from the 'burbs.... Visit Punk
-                        Mag or the Rocker. Find </p>
-
+                        so where's the fun? Max's is better, although the sound isn't as good.
+                        There's a coldness about it to me. Hurrah's is highly considered by people
+                        in the city. Getting better. Then there are the weekend clubs...
+                        <name type="location">Mudd Club</name>, <name type="location">Club 57</name>,
+                        <name type="location">Club Hollywood</name>...
+                        <name type="location">Studio 10</name> and sometimes
+                        <name type="location">Trax</name>. Studio 10 is a Yippie club in the West
+                        Village. Club 57 is gaining prominence--- strong shows, good atmosphere and
+                        good fun. Admission is $4. One of the places to go to. Mudd Club is the most
+                        highly praised. With acoustics rumored as being designed by the one and only
+                        <name type="artist">Eno</name>--- it is new and rising fast. Set in the
+                        <name type="location">Soho</name> area it provides weekend entertainment of
+                        the most novel kind. Constant choices. </p>
+                     
+                     <p> Clubs advertize in the newspapers: <name>Village Voice</name> and
+                        <name>Shoh Weekly</name>. Otherwise you see wall posters. Few bands print
+                        posters. New bands never do. We in <name type="location">Seattle</name> have
+                        relied on wall posters like a great wall of information. But we have not
+                        had media acceptance. The price you pay for being a provincial city...
+                        Poster artwork runs the gamut from imaginative to boring. Too few of the
+                        former, too much of the latter. Opinions are worn on lapels in this city.
+                        Store bought, profuse. Why make them when you can buy them? The starkest
+                        difference here is the acceptability of new wave. You can hang out in the
+                        <name type="location">East Village</name>:
+                        <name type="location">Manic Panic</name> (and talk to <name>Snooky</name>)..
+                        <name type="location">Trash &amp; Vaudeville</name>,
+                        <name type="location">Defiant Pose</name>... Or to the
+                        <name type="location">West Village</name> and the
+                        <name type="location">Bowery</name>.
+                        Next <name type="location">Empire</name> and
+                        <name type="location">Revenge</name>, bookstores.. Record stores—the best
+                        being <name type="location">Village Oldies</name>, where you can hear reggae
+                        on the radio, and any band you care to on the stereo. Even clothing if you're
+                        just in from the 'burbs.... Visit <name>Punk Mag</name> or the
+                        <name>Rocker</name>. Find </p>
+                     
+                     <cb/>
+                     
                      <p> book stores full of fanzines. It's all here. A decent selection of local
-                        fanzin- es (besides the big two). Esther too eclectic, or too "in scene".
-                        The best are "Beat It" and "No"-the latter be ing crammed with the impact of
-                        eight million images, impact, writing and ? Find it. Lesser interesting ones
-                        inc- lude: the in-joke "Skull Damage" for affecionados exclusively;
-                        "Smegma'-- xerox and fun, and "2+2= 3 or 4 or 5 or 6 or 7 or 8 or 9" -done
-                        by Susan Springfield of the Erasers. As bori- ing as her band and as trite.
-                        Everyone wears black leather. Youre either punk or pop. Take it as you like.
-                        Lots of clothes for the clothes conscious. Lots of celebrities. Like most
-                        towns the people are spl- it. A and B lists of bands depend on who you're
-                        talking to. Too many imit- ations: of Patti, of the Heads, of our boys from
-                        OHIO. Some are fun. The au- diences are made up of old-timers, those who are
-                        or have been in bands. A few wide-eyed kids figuring they've stumbled onto
-                        something BIG. Then th- </p>
-
-                     <p> ere are the tourists. Lots of bands are working on relea sing vinyl It
-                        helps the CB's puts out albums (the next one should be on the racks soon,
-                        and is worth picking up-ED.) People from established ban- ds will produce
-                        newer bands. It's im- pressive. There is a third generation gaining strength
+                        fanzines (besides the big two). Either too eclectic, or too "in scene".
+                        The best are <name>"Beat It"</name> and <name>"No"</name>—the latter being
+                        crammed with the impact of eight million images, impact, writing and ? Find
+                        it. Lesser interesting ones include: the in-joke <name>"Skull Damage"</name>
+                        for aficionados exclusively; <name>"Smegma"</name>-- xerox and fun, and
+                        <name>"2+2= 3 or 4 or 5 or 6 or 7 or 8 or 9"</name> -done by
+                        <name>Susan Springfield</name> of the <name type="artist">Erasers</name>. As
+                        boring as her band and as trite. Everyone wears black leather. You're either
+                        punk or pop. Take it as you like. Lots of clothes for the clothes conscious.
+                        Lots of celebrities. Like most towns the people are split. A and B lists of
+                        bands depend on who you're talking to. Too many imitations: of
+                        <name type="artist">Patti</name>, of <name type="artist">the Heads</name>,
+                        of our boys from OHIO. Some are fun. The audiences are made up of
+                        old-timers, those who are or have been in bands. A few wide-eyed kids
+                        figuring they've stumbled onto something <hi rend="ul">BIG</hi>. Then
+                        there are the tourists. </p>
+                     
+                     <p> Lots of bands are working on releasing vinyl. It
+                        helps that CB's puts out albums (the next one should be on the racks soon,
+                        and is worth picking up-ED.) People from established bands will produce
+                        newer bands. It's impressive. There is a third generation gaining strength
                         in the club scene. Bands who have watched the older ones form and are now
                         attempting to avoid the same pitfalls. Knowledge is passed on. Visions
-                        continue to expand. Younger people on the way up..... Commercially New York
-                        is a pop town Witness the strength of Blondie, everyone's role model. But
-                        equally as strong is the knowledge of their decision and desire for money.
-                        The musicians continue to be accessable, and running into one can bring you
-                        into contact with another. New York, once the progeniter of radio stations
-                        has for the most part fallen into the disco pool. WNEW-AM : is now MOR.
-                        WNEW-FM, the first to give new wave a listen (because of well wo- </p>
-
+                        continue to expand. Younger people on the way up..... Commercially
+                        <name type="location">New York</name> is a pop town. Witness the strength of
+                        <name type="artist">Blondie</name>, everyone's role model. But equally as
+                        strong is the knowledge of their decision and desire for money. The musicians
+                        continue to be accessible, and running into one can bring you into contact
+                        with another. New York, once the progenitor of radio stations, has for the
+                        most part fallen into the disco pool. <name>WNEW-AM</name> is now MOR.
+                        <name>WNEW-FM</name>, the first to give new wave a listen (because of well wo- </p>
+                     
                      <p> CONTINUED ON PAGE 9 </p>
                   </div>
                   <div>
                      <p> page 6 </p>
                   </div>
                </div>
-
+               
+               
                <pb n="7"/>
                <div type="page">
                   <head>LAURA DAVI</head>
@@ -2580,7 +2594,37 @@
                   <persName>Chris Frantz</persName>
                   <note>smerican producer and co-founder/drummer of The Talking Heads</note>
                </person>
+               <person xml:id="Eno">
+                  <persName>Eno</persName>
+                  <note>Brian Eno, British musician, producer, and artist, formerly of Roxy Music</note>
+               </person>
+               <person xml:id="Blondie">
+                  <persName>Blondie</persName>
+                  <note>American new wave band formed in New York City in 1974</note>
+               </person>
+               <person xml:id="Patti_Smith">
+                  <persName>Patti</persName>
+                  <note>Refers to Patti Smith, American punk poet and musician</note>
+               </person>
+               <person xml:id="The_Heads">
+                  <persName>the Heads</persName>
+                  <note>Refers to Talking Heads; see <ref target="#Talking_Heads">Talking Heads</ref></note>
+               </person>
+               <person xml:id="The_Erasers">
+                  <persName>The Erasers</persName>
+                  <note>New York punk/new wave band; Susan Springfield was a member</note>
+               </person>
+               <person xml:id="Snooky">
+                  <persName>Snooky</persName>
+                  <note>Refers to Snooky Bellomo, co-founder of Manic Panic in the East Village</note>
+               </person>
+               <person xml:id="Susan_Springfield">
+                  <persName>Susan Springfield</persName>
+                  <note>Member of The Erasers and producer of the fanzine "2+2= 3 or 4 or 5 or 6 or 7 or 8 or 9"</note>
+               </person>
             </listPerson>
+            
+            
             <listPlace>
                <place xml:id="New_York">
                   <placeName>New York</placeName>
@@ -2621,7 +2665,87 @@
                   <placeName>Scarbourough</placeName>
                   <note>town in England</note>
                </place>
+               <place xml:id="Tokyo">
+                  <placeName>Tokyo</placeName>
+                  <note>Capital city of Japan</note>
+               </place>
+               <place xml:id="Chelsea_Hotel">
+                  <placeName>Chelsea Hotel</placeName>
+                  <note>Historic hotel at 222 West 23rd Street, New York City, known for its artist residents</note>
+               </place>
+               <place xml:id="CBGB">
+                  <placeName>CBGB's</placeName>
+                  <note>Legendary punk and new wave music venue at 315 Bowery, New York City, open 1973–2006</note>
+               </place>
+               <place xml:id="Hurrah">
+                  <placeName>Hurrah</placeName>
+                  <note>New wave nightclub in New York City, active in the late 1970s–early 1980s</note>
+               </place>
+               <place xml:id="Mudd_Club">
+                  <placeName>Mudd Club</placeName>
+                  <note>Downtown Manhattan nightclub open 1978–1983, in the Soho/Tribeca area</note>
+               </place>
+               <place xml:id="Club_57">
+                  <placeName>Club 57</placeName>
+                  <note>East Village performance space and nightclub at 57 St. Marks Place, New York City</note>
+               </place>
+               <place xml:id="Club_Hollywood">
+                  <placeName>Club Hollywood</placeName>
+                  <note>New York City nightclub active in the late 1970s</note>
+               </place>
+               <place xml:id="Studio_10">
+                  <placeName>Studio 10</placeName>
+                  <note>Yippie-affiliated club in the West Village, New York City</note>
+               </place>
+               <place xml:id="Trax">
+                  <placeName>Trax</placeName>
+                  <note>New York City nightclub active in the late 1970s–early 1980s</note>
+               </place>
+               <place xml:id="Soho">
+                  <placeName>Soho</placeName>
+                  <note>Neighborhood in Lower Manhattan, New York City</note>
+               </place>
+               <place xml:id="East_Village">
+                  <placeName>East Village</placeName>
+                  <note>Neighborhood in Manhattan, New York City, center of punk and new wave culture</note>
+               </place>
+               <place xml:id="West_Village">
+                  <placeName>West Village</placeName>
+                  <note>Neighborhood in Manhattan, New York City</note>
+               </place>
+               <place xml:id="Bowery">
+                  <placeName>Bowery</placeName>
+                  <note>Street and neighborhood in Lower Manhattan, New York City; home to CBGB's</note>
+               </place>
+               <place xml:id="Empire">
+                  <placeName>Empire</placeName>
+                  <note>Record or clothing store in the West Village/Bowery area of New York City</note>
+               </place>
+               <place xml:id="Revenge">
+                  <placeName>Revenge</placeName>
+                  <note>Record or clothing store in the West Village/Bowery area of New York City</note>
+               </place>
+               <place xml:id="Village_Oldies">
+                  <placeName>Village Oldies</placeName>
+                  <note>Record store in Greenwich Village, New York City</note>
+               </place>
+               <place xml:id="Manic_Panic">
+                  <placeName>Manic Panic</placeName>
+                  <note>Punk clothing and hair dye shop in the East Village, New York City, founded by Tish and Snooky Bellomo</note>
+               </place>
+               <place xml:id="Trash_and_Vaudeville">
+                  <placeName>Trash &amp; Vaudeville</placeName>
+                  <note>Punk and rock clothing shop on St. Marks Place in the East Village, New York City</note>
+               </place>
+               <place xml:id="Defiant_Pose">
+                  <placeName>Defiant Pose</placeName>
+                  <note>Punk clothing store in the East Village, New York City</note>
+               </place>
             </listPlace>
+            
+            
+            
+            
             <list type="song">
                <item xml:id="Let_Me_Take_You_Out_To_Lunch">
                   <title>Let Me Take You Out To Lunch</title>
@@ -2631,6 +2755,7 @@
                   <title>The Kids Just Wanna Dance</title>
                   <note type="artist">Miki Zone Zoo</note>
                </item>
+               
             </list>
          </div>
 
