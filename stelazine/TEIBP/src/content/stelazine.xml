@@ -11,7 +11,10 @@
             <author>Stella Kramer</author>
             <respStmt>
                <resp>Creation of a digital version</resp>
-               <name>Madison McLean,</name><name>Karina McSwiney,</name><name>Evanora Pearce,</name><name>Pascal Diamond</name>
+               <name>Madison McLean,</name>
+               <name>Karina McSwiney,</name>
+               <name>Evanora Pearce,</name>
+               <name>Pascal Diamond</name>
             </respStmt>
          </titleStmt>
 
@@ -23,7 +26,6 @@
                <p>Published with explicit permission from the author.</p>
             </availability>
          </publicationStmt>
-
          <sourceDesc>
             <bibl>
                <title>Stelazine vol. 2 no. 1</title>
@@ -514,9 +516,6 @@
                   <figDesc>Another picture of Paul taken during the interview.</figDesc>
                </figure>
                <head>MORE PAUL</head>
-
-
-               <head>MORE PAUL</head>
                <div>
 
                   <figure>
@@ -736,14 +735,14 @@
                   </figure>
 
                   <p>NEVA: What types of places did you play at the very beginning?</p>
-                  <p>POLY: Our first gig was at the Roxy in Covent Garden. That place
-                     was one of the reasons that we were able to get our act together, because it
-                     was the only place in London where you could be seen…When it opened up the
-                     basic principle was to give any band the opportunity to play and have people
-                     come down to see them. That’s why it was a great club. But different people
-                     took it over–the guy who originally made it what it was got kicked out and the
-                     owners started running it. It lost all the atmosphere and just got
-                     ‘orrible.</p>
+                  <p>POLY: Our first gig was at the Roxy in Covent Garden. That place was one of the
+                     reasons that we were able to get our act together, because it was the only
+                     place in London where you could be seen…When it opened up the basic principle
+                     was to give any band the opportunity to play and have people come down to see
+                     them. That’s why it was a great club. But different people took it over–the guy
+                     who originally made it what it was got kicked out and the owners started
+                     running it. It lost all the atmosphere and just got ‘orrible.</p>
+
                   <p>NEVA: Hasn’t that happened to the whole movement, though? Now there’s grown-ups
                      singing with record companies and suddenly going punk overnight.</p>
                   <p>POLY: I suppose it has changed a bit, but then everything changes, doesn't it?
@@ -2709,33 +2708,33 @@
             <listBibl>
 
                <bibl xml:id="EpicRecords">
-                  <title>Epic Records. Visual Natives. (2022, July 1).
-                     https://visualnatives.com/case-study/epic-records/ </title>
+                  <note>Epic Records. Visual Natives. (2022, July 1).
+                     https://visualnatives.com/case-study/epic-records/ </note>
                </bibl>
 
                <bibl xml:id="TheCultureCrush">
-                  <title>Art. “The Culture Crush.” The Culture Crush, 2026,
-                     www.theculturecrush.com/stella-zine/</title>
+                  <note>Art. “The Culture Crush.” The Culture Crush, 2026,
+                     www.theculturecrush.com/stella-zine/</note>
                </bibl>
 
                <bibl xml:id="CarolineCoon">
-                  <title>Wikipedia contributors. (2026, March 10). Caroline Coon. Wikipedia.
-                     https://en.wikipedia.org/wiki/Caroline_Coon </title>
+                  <note>Wikipedia contributors. (2026, March 10). Caroline Coon. Wikipedia.
+                     https://en.wikipedia.org/wiki/Caroline_Coon </note>
                </bibl>
 
                <bibl xml:id="TeachRock">
-                  <title>“The Clash.” TeachRock, teachrock.org/people/clash/. Accessed 18 May 2026.
-                  </title>
+                  <note>“The Clash.” TeachRock, teachrock.org/people/clash/. Accessed 18 May 2026.
+                  </note>
                </bibl>
 
                <bibl xml:id="BoDiddley">
-                  <title>“Bo Diddley.” Wikipedia, 31 Aug. 2020,
-                     en.wikipedia.org/wiki/Bo_Diddley.</title>
+                  <note>“Bo Diddley.” Wikipedia, 31 Aug. 2020,
+                     en.wikipedia.org/wiki/Bo_Diddley.</note>
                </bibl>
                <bibl xml:id="ColoradoSound">
-                  <title>“Bo Diddley Remembers Opening for the Clash: ‘That Was Ridiculous.’” The
+                  <note>“Bo Diddley Remembers Opening for the Clash: ‘That Was Ridiculous.’” The
                      Colorado Sound, 8 Feb. 2022, coloradosound.org/bo-diddley-the-clash-opening-
-                     1979-tour-that-was-ridiculous/. </title>
+                     1979-tour-that-was-ridiculous/. </note>
                </bibl>
             </listBibl>
          </div>
