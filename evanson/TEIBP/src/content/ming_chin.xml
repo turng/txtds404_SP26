@@ -100,21 +100,21 @@
       </front>
 
       <body>
-<div type="paratext" subtype="typescript_header" xml:id="front_matter">
-   <ab type="left_header">
-      <persName xml:id="ella_evanson">Ella Evanson</persName><lb/>
-      <address>
-         <addrLine>502-12 Ave. North</addrLine>
-         <addrLine>Seattle, Wash.</addrLine>
-      </address>
-   </ab>
+         <div type="paratext" subtype="typescript_header" xml:id="front_matter">
+            <ab type="left_header">
+               <persName xml:id="ella_evanson">Ella Evanson</persName><lb/>
+               <address>
+                  <addrLine>502-12 Ave. North</addrLine>
+                  <addrLine>Seattle, Wash.</addrLine>
+               </address>
+            </ab>
 
-   <ab type="right_header">
-      <measure type="wordCount" quantity="1600">Approximately 1600 words</measure><lb/>
-      <seg type="submission_note">Usual Rates</seg><lb/>
-      <seg type="rights_note">First American Rights Only</seg>
-   </ab>
-</div>
+            <ab type="right_header">
+               <measure type="wordCount" quantity="1600">Approximately 1600 words</measure><lb/>
+               <seg type="submission_note">Usual Rates</seg><lb/>
+               <seg type="rights_note">First American Rights Only</seg>
+            </ab>
+         </div>
 
          <div type="story" xml:id="story_text">
             <head>MING CHIN AND THE BABY GIANT PANDA</head>
@@ -379,6 +379,24 @@
             <closer>
                <signed>END</signed>
             </closer>
+         </div>
+         <div type="paratext" xml:id="back_matter">
+            <p>
+               <persName ref="#ella_evanson">Ella Evanson</persName>
+               <space quantity="26" unit="chars"/>
+               <measure type="wordCount" quantity="2300">Approximately 2300 Words</measure><lb/>
+               <address>
+                  <addrLine>502-12 Ave. North</addrLine>
+               </address>
+               <space quantity="21" unit="chars"/>
+               <seg type="submission_note">Usual Rates</seg><lb/>
+               <address>
+                  <addrLine>Seattle, Wash.</addrLine>
+               </address>
+               <space quantity="24" unit="chars"/>
+               <seg type="rights_note">First American Rights Only</seg>
+            </p>
+         </div>
       </body>
 
       <back>
@@ -394,7 +412,7 @@
                   African American, and white families. <ref target="#evanson_archive"> Evanson
                      Archive.</ref>
                </item>
-               
+
                <item xml:id="note_eo9066">
                   <label>2.</label> Executive Order 9066, signed by President Franklin D. Roosevelt
                   on 19 February 1942, authorized the Secretary of War and designated military
@@ -404,7 +422,7 @@
                   120,000 individuals, the majority of whom were American citizens. <ref
                      target="#archives_eo9066"> National Archives.</ref>
                </item>
-               
+
                <item xml:id="note_panda">
                   <label>3.</label> The Baby Giant Panda Fund reflects the popular fascination with
                   giant pandas in the United States in the late 1930s and early 1940s, when live
