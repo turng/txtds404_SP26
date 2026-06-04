@@ -40,9 +40,9 @@
    </teiHeader>
    <text>
       <front>
-         <titlePage>
-            <titlePart>Editorial Intro</titlePart>
-         </titlePage>
+         <head>
+            <title>Editorial Intro</title>
+         </head>
          <div type="editorial_intro">
             <p>Stella Kramer’s 1979 Vol. 2 edition of STELAZINE is a nonlinear compilation of
                Seattle punk scene goings-on, conveyed through a variety of interviews (conducted by
