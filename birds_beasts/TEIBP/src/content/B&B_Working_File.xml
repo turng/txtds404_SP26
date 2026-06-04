@@ -326,23 +326,20 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <div type="bibliography">
             <listBibl>
                <bibl xml:id="source1">
-                  <title>Tei-c.org. “2 the TEI Header - the TEI Guidelines,” 2026.</title>
-                  <ref>https://tei-c.org/release/doc/tei-p5-doc/en/html/HD.html#HD57.</ref>
+                  <title>“McGill Library's Chapbook Collection.” McGill University Library</title>
+                  <ref>https://digital.library.mcgill.ca/chapbooks/nodes.php?p=010</ref>
                </bibl>
                <bibl xml:id="source2">
-                  <title>Tei-c.org. “3 Elements Available in All TEI Documents - the TEI
-                     Guidelines,” 2026.</title>
-                  <ref>https://tei-c.org/release/doc/tei-p5-doc/en/html/CO.html#CONA.</ref>
+                  <title>Lam, Siobhan. “Chapbooks.” The Victorian Web, Brown University, </title>
+                  <ref>Lam, Siobhan. “Chapbooks.” The Victorian Web, Brown University, .</ref>
                </bibl>
                <bibl xml:id="source3">
-                  <title>Teibyexample.org. “TEI by Example | Tutorials | Module 3: Prose,”
-                     2020.</title>
-                  <ref>https://teibyexample.org/exist/tutorials/TBED03v00.htm.</ref>
+                  <title>“Children and Chapbooks: A Middle Modern Encounter.” Special Collections Stories, Newcastle University Library,</title>
+                  <ref>https://speccollstories.ncl.ac.uk/children-and-chapbooks-a-middle-modern-encounter/index.html.</ref>
                </bibl>
                <bibl xml:id="source4">
-                  <title>Teibyexample.org."TEI by Example.org.“TEI by Example | Tutorials | Module
-                     4: Poetry,” 2020.</title>
-                  <ref>https://teibyexample.org/exist/tutorials/TBED04v00.htm.</ref>
+                  <title>“Ecclesiastes 12,” Netbible.org, 2026</title>
+                  <ref>https://netbible.org/bible/Ecclesiastes+12.</ref>
                </bibl>
             </listBibl>
          </div>
