@@ -30,12 +30,12 @@
             <bibl>
                <title>Stelazine vol. 2 no. 1</title>
                <author>Stella Kramer</author>
-               <pubPlace> Seattle, WA </pubPlace>
-               <date when="1979"> 1979 </date>
-               <publisher> Warrant Productions </publisher>
-               <biblScope unit="volume"> 2 </biblScope>
-               <biblScope unit="issue"> 1 </biblScope>
-               <idno type="callNumber"> ML3534.3.S74 </idno>
+               <pubPlace>Seattle, WA</pubPlace>
+               <date when="1979">1979</date>
+               <publisher>Warrant Productions</publisher>
+               <biblScope unit="volume">2</biblScope>
+               <biblScope unit="issue">1</biblScope>
+               <idno type="callNumber">ML3534.3.S74</idno>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -97,7 +97,8 @@
          <div type="cover">
             <head>STELAZINE</head>
             <figure>
-               <graphic url="https://drive.google.com/thumbnail?id=1L7x4OCzbOSqc2k0rDvvlIWzIglRru4m6&amp;sz=w1000"/>
+               <graphic
+                  url="https://drive.google.com/thumbnail?id=1L7x4OCzbOSqc2k0rDvvlIWzIglRru4m6&amp;sz=w1000"/>
                <figDesc>The cover of this issue of STELAZINE</figDesc>
                <p>50!</p>
                <p>Vol.2</p>
@@ -111,38 +112,40 @@
          <div type="page">
             <head>STALKED</head>
             <figure>
-               <graphic url="https://drive.google.com/thumbnail?id=1QBFvN6qaI6H4QO-5sX1Q9CAM9DEKvc20&amp;sz=w1000"/>
+               <graphic
+                  url="https://drive.google.com/thumbnail?id=1QBFvN6qaI6H4QO-5sX1Q9CAM9DEKvc20&amp;sz=w1000"/>
                <figDesc>STALKED title with human figures surrounding the letters</figDesc>
             </figure>
          </div>
          <div>
-            <p> If you're going to San Francsico... We are losing people to the south. On their way
+            <p>If you're going to San Francsico... We are losing people to the south. On their way
                are Annie, Tammy Smith, Jerri, and <name type="band" ref="#TheLittleMagnets">the
-                  Little Magnets</name> (Paul Hood, Dame Dimitri, Lee Lumsden). Farewell... </p>
-            <p> Is it true <name type="band" ref="#TimeTravelers">Time Travelers</name> is looking
+                  Little Magnets</name>(Paul Hood, Dame Dimitri, Lee Lumsden). Farewell... </p>
+            <p>Is it true <name type="band" ref="#TimeTravelers">Time Travelers</name>is looking
                to open a club/theater in <name type="location" ref="#PioneerSquare">Pioneer
                   Square</name>?? Cellophane Square will be producing a show <date>May 25th</date>
                at <name type="location" ref="#WashingtonHall">Washington Hall</name>...... Featuring
-                  <name type="band" ref="#TheCheaters">The Cheaters</name> and <name type="band"
+                  <name type="band" ref="#TheCheaters">The Cheaters</name>and <name type="band"
                   ref="#The Radios">The Radios</name>. </p>
-            <p> Suprise band gigging in Seattle lately: <name type="band" ref="#TheFishsticks">The
+            <p>Suprise band gigging in Seattle lately: <name type="band" ref="#TheFishsticks">The
                   Fishsticks</name>. Who says bubblegum rock is dead?? </p>
-            <p> Expect an extravaganza! <name type="band" ref="#TheDeadKennedys">The Dead
-                  Kennedy's</name> will be here <date>July 13 &amp; 14</date>. Brought to you by
+            <p>Expect an extravaganza! <name type="band" ref="#TheDeadKennedys">The Dead
+                  Kennedy's</name>will be here <date>July 13 &amp; 14</date>. Brought to you by
                Time Travelers </p>
-            <p> The first new wave band to come out from the wilds of <name type="location"
-                  ref="#Bellingham">Bellingham</name> is called <name type="band" ref="#TheAccident"
+            <p>The first new wave band to come out from the wilds of <name type="location"
+                  ref="#Bellingham">Bellingham</name>is called <name type="band" ref="#TheAccident"
                   >The Accident.</name>
             </p>
          </div>
          <div>
             <figure>
-               <graphic url="https://drive.google.com/thumbnail?id=1n6rKFhEoSZl05EBPd_t_ezdrg69GKeEF&amp;sz=w300"/>
+               <graphic
+                  url="https://drive.google.com/thumbnail?id=1n6rKFhEoSZl05EBPd_t_ezdrg69GKeEF&amp;sz=w300"/>
                <figDesc>image of foot prints between some parahraphs</figDesc>
             </figure>
          </div>
          <div>
-            <p> News from the <name type="band" ref="#Readymades">Readymades</name>..... They are
+            <p>News from the <name type="band" ref="#Readymades">Readymades</name>..... They are
                only two to three weeks away from a recording contract, says bassist Wayne Deitzel.
                The band has some gigs lined up, including opening for <name type="person"
                   ref="#TomRobinson">Tom Robinson</name>, and playing second bill to <name
@@ -150,125 +153,130 @@
                Sandy Pearlman, and may be signed by one of the following labels: Warner Bros.,
                Electra, Mercury, and get this: RSO. Watch out <name type="band" ref="#BeeGees">Bee
                   Gees</name>!! </p>
-            <p> -- -- -- -- </p>
-            <p> If you dont already know, <name type="band" ref="#TheMentors">The Mentors</name> are
-               dead. Rumor has it that Eldon is in LA to form a new band. Son of Mentor???? </p>
-            <p> -- -- -- -- </p>
+            <p>-- -- -- --</p>
+            <p>If you dont already know, <name type="band" ref="#TheMentors">The Mentors</name>are
+               dead. Rumor has it that Eldon is in LA to form a new band. Son of Mentor????</p>
+            <p>-- -- -- --</p>
          </div>
          <div>
             <p>STELAZINE</p>
             <p>THORAZINE</p>
-            <p> One of the "mind drugs" much perscribed. Adverse side effects are not uncommonly
+            <p>One of the "mind drugs" much perscribed. Adverse side effects are not uncommonly
                enco- untered with all phenothiasines, which should therefore be reserved for
                situations serious enough to warrant thier use (usually, frank prychosis). It is
-               among the 100 top drugs.. </p>
+               among the 100 top drugs..</p>
          </div>
          <div>
-            <p> Rock against Racism chapters are forming around the USA. Concerts are being planed.
-               If youre interested, contact them in Ny at: <address>
-                  <addrLine> PO Box 392, Canal St. Sta. NYC 10013 </addrLine>
-               </address> (212) 553-5028 <name type="band" ref="#TheCheaters">The Cheaters</name>
+            <p>Rock against Racism chapters are forming around the USA. Concerts are being planed.
+               If youre interested, contact them in Ny at:<address>
+                  <addrLine>PO Box 392, Canal St. Sta. NYC 10013</addrLine>
+               </address>(212) 553-5028 <name type="band" ref="#TheCheaters">The Cheaters</name>
                have a new drummer: James Gascoigne......... </p>
          </div>
          <div>
             <figure>
-               <graphic url="https://drive.google.com/thumbnail?id=1o108aAjtIJ3LHF96hqkrZGA_3S9EWI64&amp;sz=w300"/>
+               <graphic
+                  url="https://drive.google.com/thumbnail?id=1o108aAjtIJ3LHF96hqkrZGA_3S9EWI64&amp;sz=w300"/>
                <figDesc>image of foot prints between some paragraphs</figDesc>
             </figure>
          </div>
          <div>
-            <p> Vinyl out from <name type="person" ref="#IanFisher">Ian Fisher</name> soon. A-side
+            <p>Vinyl out from <name type="person" ref="#IanFisher">Ian Fisher</name>soon. A-side
                has an ex-Telepath back up, and B-side has an ex-Invader backup. Noy bad..... </p>
             <p>
-               <name type="band" ref="#TheModerley">The Moderley's</name> continue to gig around
+               <name type="band" ref="#TheModerley">The Moderley's</name>continue to gig around
                town, getting a great share of local newspaper publicity. So how come most people
                don't like them. Do Patrick and George known something the rest of us don't?? Maybe
                it's all in knowing the right people.... </p>
-            <p> Ex-Generator (and ex-e member) Mitchael Wonderful is the new Enemy bass player..
+            <p>Ex-Generator (and ex-e member) Mitchael Wonderful is the new Enemy bass player..
                George returns to rhythm. </p>
-            <p> Be on the lookout for a great new single for <name type="band" ref="#Ice9">Ice
+            <p>Be on the lookout for a great new single for <name type="band" ref="#Ice9">Ice
                   9</name>. Featured are: <name type="song" ref="#OutOutOut">"Out, Out, Out"</name>,
                   <name type="song" ref="#RevoltingMess">"Revolting Mess"</name>, and <name
                   type="song" ref="#27.3">"27.3"</name>. It's gonna be great!! </p>
-            <p> The next show: <date>May 19</date> 8PM at <name type="location"
-                  ref="#WashingtonHall">Washington Hall</name> (14th and Fir), featuring: <name
+            <p>The next show: <date>May 19</date>8PM at <name type="location"
+                  ref="#WashingtonHall">Washington Hall</name>(14th and Fir), featuring: <name
                   type="band" ref="#TheDils">The Dils</name>
-               <name type="band" ref="#DOA">DOA</name> and <name type="band" ref="#ChinasComidas"
+               <name type="band" ref="#DOA">DOA</name>and <name type="band" ref="#ChinasComidas"
                   >Chinas Comidas</name>. A Robert Benne- tt/Wes (second Time Round) Production. </p>
-            <p> Greg Scars has left the <name type="band" ref="#Avengers">Avengers</name> to form a
+            <p>Greg Scars has left the <name type="band" ref="#Avengers">Avengers</name>to form a
                new band. His replacement is Brad Kunt (ex-DOA). </p>
-            <p> Are Time Travelers bringing <name type="band" ref="#TheScreamers">the
-                  Screamers</name> to Seattle? Is Roger Husbands? Who will win? </p>
+            <p>Are Time Travelers bringing <name type="band" ref="#TheScreamers">the
+                  Screamers</name>to Seattle? Is Roger Husbands? Who will win? </p>
          </div>
          <div>
             <figure>
-               <graphic url="https://drive.google.com/thumbnail?id=1cUOJlmW0OfdR13s8cldMB9V7UAYnKXfz&amp;sz=w300"/>
+               <graphic
+                  url="https://drive.google.com/thumbnail?id=1cUOJlmW0OfdR13s8cldMB9V7UAYnKXfz&amp;sz=w300"/>
                <figDesc>image of foot prints between some paragraphs</figDesc>
             </figure>
          </div>
          <div>
-            <p> Gina and Gary (ex-Generator) were recently married in a Canadian extravaganza.. We
+            <p>Gina and Gary (ex-Generator) were recently married in a Canadian extravaganza.. We
                at STELLAZINE send them a mint copy of "Gimme Money"...... </p>
-            <p> Look for the new <name type="band" ref="#Offs">Offs</name> single on Walking Dead
-               Productions. <name type="song" ref="#JonnyTooBad">"Jonny Too Bad"</name> b/w
+            <p>Look for the new <name type="band" ref="#Offs">Offs</name>single on Walking Dead
+               Productions. <name type="song" ref="#JonnyTooBad">"Jonny Too Bad"</name>b/w
                "624803". Soon back from a stint in NY. </p>
-            <p> New Avengers single produced by ex-Pistol Steve Jones includes <name type="song"
+            <p>New Avengers single produced by ex-Pistol Steve Jones includes <name type="song"
                   ref="#White******">"White ******"</name>. Are they on their way to an English
                record company contract????? </p>
-            <p> And finally, Seattle will be back on the concert path in about a month. The circuit
+            <p>And finally, Seattle will be back on the concert path in about a month. The circuit
                will be Portland, Seattle and Vanc- ouver....We can't wait!!!! </p>
             <p>
-               <name type="band" ref="#TheX-Men">The X-Men</name> have disbanded. Gregor and Glen
+               <name type="band" ref="#TheX-Men">The X-Men</name>have disbanded. Gregor and Glen
                are writing music together. Dickle fever will engulf Seattle in a couple of months
                when they return from a European tour..... </p>
-            <p> Engineer Harry Cool has formed a record label for the area. First band to sign: Ice
+            <p>Engineer Harry Cool has formed a record label for the area. First band to sign: Ice
                9. Look for possible vinyl fom some Seattle bands...... The name? Vynyl Records
                ...... </p>
          </div>
          <div>
             <figure>
-               <graphic url="https://drive.google.com/thumbnail?id=1qOQjNsdDsjZVjDKt7xcXuX_ydSvzviwB&amp;sz=w300"/>
+               <graphic
+                  url="https://drive.google.com/thumbnail?id=1qOQjNsdDsjZVjDKt7xcXuX_ydSvzviwB&amp;sz=w300"/>
                <figDesc>image of foot prints between some parahraphs</figDesc>
             </figure>
          </div>
          <div>
-            <p> Ex-Clones Jeff and Sheldon are in SF to form a new band. </p>
-            <p> Radio news: Kim has not been kicked out. Allan will do vocals, and a new guitarist
+            <p>Ex-Clones Jeff and Sheldon are in SF to form a new band. </p>
+            <p>Radio news: Kim has not been kicked out. Allan will do vocals, and a new guitarist
                has been added. Look for a possible gig in May with the Cheaters, produced by
                Cellophane Square..... </p>
-            <p> Randy Pandora (ex-Generator) has a new band: <name type="band" ref="#TheDetectives"
+            <p>Randy Pandora (ex-Generator) has a new band: <name type="band" ref="#TheDetectives"
                   >The Detectives</name>
             </p>
-            <p> New on the concert promotion scene: Time Travelers and Cellophane Square. </p>
-            <p> The News: Rick Ricks <lb/>Kelly N. K. <lb/>Tommy Sero <lb/>Roz Darrell </p>
-            <p> Rock Against Sexism: <address>
+            <p>New on the concert promotion scene: Time Travelers and Cellophane Square. </p>
+            <p>The News: Rick Ricks <lb/>Kelly N. K. <lb/>Tommy Sero <lb/>Roz Darrell </p>
+            <p>Rock Against Sexism: <address>
                   <addrLine>e/o 121 Grandison Road</addrLine>
                   <addrLine>London S.W.11 England</addrLine>
                </address>
             </p>
-            <p> Two New bands to look for: <name type="band" ref="#TheInnocents">The
-                  Innocents</name> (with Jeff Larson) and, <name type="band" ref="#TheBlackouts">The
+            <p>Two New bands to look for: <name type="band" ref="#TheInnocents">The
+                  Innocents</name>(with Jeff Larson) and, <name type="band" ref="#TheBlackouts">The
                   Blackouts</name>: Bill Reiflin <lb/>Roland <lb/>Mike Davidson <lb/>Eric Werner </p>
             <p>-- -- -- --</p>
-            <p> Penetration will play <name type="location" ref="#TheWhiskey">the Whiskey</name> in
+            <p>Penetration will play <name type="location" ref="#TheWhiskey">the Whiskey</name>in
                LA <date>June 15-17</date>.... </p>
          </div>
          <div>
             <figure>
-               <graphic url="https://drive.google.com/thumbnail?id=12sRWmragW460kPUEfP8OqpqbKb4UG9SO&amp;sz=w300"/>
+               <graphic
+                  url="https://drive.google.com/thumbnail?id=12sRWmragW460kPUEfP8OqpqbKb4UG9SO&amp;sz=w300"/>
                <figDesc>image of John F. Kennedy</figDesc>
                <p>CUT ME OUT</p>
             </figure>
          </div>
          <div>
             <figure>
-               <graphic url="https://drive.google.com/thumbnail?id=1tnSFmGE78MiotPQbz9f4MJ2g86a4KUNb&amp;sz=w500"/>
+               <graphic
+                  url="https://drive.google.com/thumbnail?id=1tnSFmGE78MiotPQbz9f4MJ2g86a4KUNb&amp;sz=w500"/>
                <figDesc>image of an apartment building with many windows and on-lookers</figDesc>
             </figure>
          </div>
          <div>
             <p>SLAG OF THE MONTH;</p>
-            <p> This award goes to Wes of Second Time 'Round, ect. for not advertizing in
+            <p>This award goes to Wes of Second Time 'Round, ect. for not advertizing in
                STELLAZINE.And you want to start a new wave record label????? </p>
          </div>
          <div>
@@ -282,9 +290,9 @@
                <p>&amp; PointedSticks</p>
                <p>on QUINTESSENCE</p>
                <p>RECORDS</p>
-               <p> QUINTESSENCE RECORDS NEW &amp; USED </p>
-               <p> QUINTESSENCE RECORDS NEW &amp; USED </p>
-               <p> OPEN SUNDAYS 12-6 </p>
+               <p>QUINTESSENCE RECORDS NEW &amp; USED </p>
+               <p>QUINTESSENCE RECORDS NEW &amp; USED </p>
+               <p>OPEN SUNDAYS 12-6 </p>
                <p>
                   <address>
                      <addrLine>1869 WEST 4TH AVENUE</addrLine>
@@ -297,27 +305,28 @@
          <pb n="3"/>
          <div type="page">
             <figure>
-               <graphic url="https://drive.google.com/thumbnail?id=1kjbbbgaLM75S8WHHwrBQ8YDY4eP7S89t&amp;sz=w1000"/>
+               <graphic
+                  url="https://drive.google.com/thumbnail?id=1kjbbbgaLM75S8WHHwrBQ8YDY4eP7S89t&amp;sz=w1000"/>
                <figDesc>Collage of pictures of CLASH band members</figDesc>
                <head>CLASH</head>
                <p>Photos: Damon Titus</p>
             </figure>
 
             <div>
-               <p>It took three days of massive telephoning. First to <ref type="note"
-                            target="Epic">Epic Records</ref> in New York. Then to LA. Then to Vancouver. But I was
+               <p>It took three days of massive telephoning. First to <ref type="note" target="Epic"
+                     >Epic Records</ref>in New York. Then to LA. Then to Vancouver. But I was
                   determined to see them and talk to them.</p>
                <p>I finally connected with road manager Johnny Green in Vancouver, and after
-                  countless phone calls to their hotel, I found <ref type="note" target=
-                        "Caroline Coon">Caroline Coon</ref>. It wasn’t until the day of the show
+                  countless phone calls to their hotel, I found <ref type="note"
+                     target="Caroline Coon">Caroline Coon</ref>. It wasn’t until the day of the show
                   that things were arranged, but it was worth it. A lesson for all: Go directly to
                   the band.</p>
-               <p> I was allowed backstage after the show and waited around talking. Finally I was
+               <p>I was allowed backstage after the show and waited around talking. Finally I was
                   ushered into a small dressing room to talk to Paul.</p>
                <p>I entered, after stepping over <ref type="note" target="Clash">Joe, Mick, and
-                     Topper</ref> who were being interviewed by some asshole from the straight
+                     Topper</ref>who were being interviewed by some asshole from the straight
                   press.</p>
-               <p><name type="artist">Paul</name> was sitting on a leopard-covered couch in the
+               <p><name type="artist">Paul</name>was sitting on a leopard-covered couch in the
                   corner ,all in black. Wearing sunglasses. He intimidated me at first, as I sat on
                   the floor next to him.</p>
                <p>But as the interview went on I relaxed and so did he. Too bad we were cut off just
@@ -329,8 +338,8 @@
             <div>
                <p>S: What did you think of the show?</p>
                <p>PAUL: It’s alright. It’s okay. We weren’t too bad for a first one, ‘cause usually
-                  we’re a bit rusty. We never played <name type="location">Canada</name> or <name
-                     type="location">America</name> before, so it’s pretty new.</p>
+                  we’re a bit rusty. We never played <name type="location">Canada</name>or <name
+                     type="location">America</name>before, so it’s pretty new.</p>
                <p>S: How do you prepare for a show, because you play really hard. You seem to expend
                   all of your energy…</p>
                <p>PAUL: I dunno. Sometimes, it depends… what we’ve been doing the last couple of
@@ -365,7 +374,7 @@
                <p>S: Do you like it?</p>
                <p>PAUL: I don’t mind. I quite enjoy it sometimes. I think it’s alright. It sort of
                   makes you re-examine your beliefs on things. All sorts of things, you know.</p>
-               <p>S: <name type="person">Caroline</name> said you wanted opening bands to be
+               <p>S: <name type="person">Caroline</name>said you wanted opening bands to be
                   female...</p>
                <p>PAUL:Yeah</p>
                <p>S: Is that with all the US gigs?</p>
@@ -393,9 +402,10 @@
                <p>S: Did you organize the tour? Or how much was it organized by the record
                   company?</p>
                <p>PAUL: They sort of like… we decided where to play. Actually <name type="person"
-                     >Caroline</name> and an agency decided where to play. We can say we don’t want
+                     >Caroline</name>and an agency decided where to play. We can say we don’t want
                   to play there, or whatever, but we never say that anyway… It’s the record company
-                  that at the mo-ment puts up the money for us to tour; so have <ref type="note" target="Bo"><name type="artist">Bo Diddley</name></ref> on the tour.</p>
+                  that at the mo-ment puts up the money for us to tour; so have <ref type="note"
+                     target="Bo"><name type="artist">Bo Diddley</name></ref>on the tour.</p>
                <p>S: They determine how much the tickets cost?</p>
                <p>PAUL: To a certain extent..not too much. At the moment, because it’s the first
                   tour that we’ve done, I suppose. They-’re generally smaller places we’re playing,
@@ -453,17 +463,17 @@
                <p>PAUL: Yeah. We’d like to go everywhere… As much as possible. We never really
                   wanted to be stuck in London all the time. We all wanted to play everywhere.</p>
                <p>S: How much chance do you think there is for your music to get on the radio? In
-                     <name type="location">London</name> the charts are so much different than they
+                     <name type="location">London</name>the charts are so much different than they
                   are here. Here it’s real disappointing.</p>
                <p>PAUL: Someday it’s bound to. Probably when we give up they’ll start playing it
                   When we decide to do something else.</p>
                <p>S: What kind of music do you listen to?</p>
                <p>PAUL: Umm… sort of anything really. But generally I listen to old stuff like
-                  rockabilly and like <name type="artist">Bo Diddley</name> and <name type="artist"
+                  rockabilly and like <name type="artist">Bo Diddley</name>and <name type="artist"
                      >Little Richard</name>, and stuff like that. I like that a lot. And reggae, you
                   know.</p>
                <p>S: Did you find it hard to listen to the bass?</p>
-               <p> PAUL: First I did. First six months it was really difficult. Then after awhile I
+               <p>PAUL: First I did. First six months it was really difficult. Then after awhile I
                   played along with records and it got easier and easier.</p>
                <p>S: You just learned off of records? You didn’t take lessons?</p>
                <p>PAUL: No, not proper lessons.</p>
@@ -501,7 +511,8 @@
             <div type="page">
 
                <figure>
-                  <graphic url="https://drive.google.com/thumbnail?id=1SA8nPCDE_ZTbH0RMyDGIufCDBdBoAQaw&amp;sz=w500"/>
+                  <graphic
+                     url="https://drive.google.com/thumbnail?id=1SA8nPCDE_ZTbH0RMyDGIufCDBdBoAQaw&amp;sz=w500"/>
                   <figDesc>Another picture of Paul taken during the interview.</figDesc>
                </figure>
                <head>MORE PAUL</head>
@@ -557,30 +568,30 @@
                      were deadly weapons?</p>
                   <p>PAUL: I dunno.... The police....</p>
                   <p>S: Do you get hassled by the police alot</p>
-                  <p>PAUL: Generally in <name type="location">England</name> we do.</p>
+                  <p>PAUL: Generally in <name type="location">England</name>we do.</p>
                   <p>S: Do you get arrested alot?</p>
                   <p>PAUL: Sometimes.</p>
 
                   <p><hi rend="italic">(At this point road manager <name type="person">Johnny
-                           Green</name> broke up the interviews. We all grab the last bits of food
+                           Green</name>broke up the interviews. We all grab the last bits of food
                         in the dressing room and leave).</hi></p>
 
                </div>
                <div>
                   <head>in <name type="location">VANCOUVER</name></head>
                   <p>This had to be the biggest thing to happen in too long a time. <name
-                        type="band">The Clash</name> were playing near home, <name type="location"
-                        >Vancouver</name> to be exact. The first stop of their N. American tour. We
+                        type="band">The Clash</name>were playing near home, <name type="location"
+                        >Vancouver</name>to be exact. The first stop of their N. American tour. We
                      came by the carloads.</p>
-                  <p><name type="location">The Commodore</name> is a good place for a show. It's an
+                  <p><name type="location">The Commodore</name>is a good place for a show. It's an
                      old ballroom, with enough floor space for everyone to get involved. Even enough
                      room for those who chose to be on the outside of this event.</p>
                   <p>The atmosphere was charged, waiting to explode. <name type="band">The
-                        Dishrags</name> opened with a well-recieved set. They have the distinction
+                        Dishrags</name>opened with a well-recieved set. They have the distinction
                      of being one of the only three-piece and all-girl bands in these parts. They
                      delivered a strong, unpretentious, confident performance. What a refreshing
                      sight!</p>
-                  <p><name type="band">The Dishrags</name> are not a "melodic" band. But they are
+                  <p><name type="band">The Dishrags</name>are not a "melodic" band. But they are
                      powerful and a whole lot better than many others. A good choice for setting the
                      pace of the night. </p>
                   <p>After their impressive set they were off. I wished they had played more.
@@ -597,24 +608,24 @@
                      hand. But enough. The bomb was ticking....</p>
                   <p>Then came the band. The dance floor became a mass of bodies and arms, also
                      trying to get close, to get the ultimate rush off the band.</p>
-                  <p>They ran on stage; <name type="artist">Topper</name> in yellow, <name
-                        type="artist">Mick</name> and <name type="artist">Paul</name> in black and
-                     white, <name type="artist">Joe</name> in red. They looked almost
+                  <p>They ran on stage; <name type="artist">Topper</name>in yellow, <name
+                        type="artist">Mick</name>and <name type="artist">Paul</name>in black and
+                     white, <name type="artist">Joe</name>in red. They looked almost
                      well-dressed–no letters. Primary colors; blocks of color focusing eyes on the
                      unit. The floor began to bounce under the pressure, as the band ripped into
                      their first song. All the time I had been hoping to hear one particular song,
                      and as if to win me permanently over to their side (how did they know?), they
                      opened with "<name type="song">Complete Control</name>". It was almost too
                      much.</p>
-                  <p> My first impressions were of <name type="artist">Topper</name>: commanding
+                  <p>My first impressions were of <name type="artist">Topper</name>: commanding
                      such attention with his power drumming. He looked so skinny I expected <cb/>
                      his drumming to reflect that. A wonderful contradiction. He never let up,
                      pushing the beat relentlessly, Martial arts translated into an art you could
                      hear. Like carpet bombing, the earth shakes from the impact.</p>
-                  <p><name type="artist">Mick</name> taking stances on his side of the stage. Then
+                  <p><name type="artist">Mick</name>taking stances on his side of the stage. Then
                      running from one end to the other. He wouldn't stand still. The whole band
                      forced your attention even beyond the music with their actions....</p>
-                  <p> Assaultive. Confrontive. Sweeping up the audience with their music and
+                  <p>Assaultive. Confrontive. Sweeping up the audience with their music and
                      movements until you were almost on stage with them. There is no way to deny the
                      comparisons with an army.</p>
                   <p>Mick's guitar is like a weapon; spraying the audience with bullets. Like the
@@ -622,7 +633,7 @@
                      Of course he's serious, but you can't help being affected by his happiness in
                      playing. It is infectious. He smiles, dances with the beat, runs in place
                      keeping the beat.</p>
-                  <p><name type="artist">Paul</name> is a ferocious bass player. he drives it,
+                  <p><name type="artist">Paul</name>is a ferocious bass player. he drives it,
                      pushing it into your face. No relief. He stands on the edge of the stage--you
                      get the feeling he wants to jump off. Not content with the boundaries set
                      before him. He has a way of dancing with the music. Pumping his body and his
@@ -636,9 +647,9 @@
                      division. He fills in the holes of the attack. Tall and lean (skinny); a
                      riveting intenseness. Mesmerizing. Playing off Mick. The floor is bending under
                      the excitement.</p>
-                  <p>Watching <name type="band">the Clash</name> is like being subjected to a
+                  <p>Watching <name type="band">the Clash</name>is like being subjected to a
                      never-ending barrage of newsreels. The shouting, the indignation, the horror,
-                     the anger; <name type="artist">Joe</name> raves about it all. Contempt spitting
+                     the anger; <name type="artist">Joe</name>raves about it all. Contempt spitting
                      from his body like an outraged person viewing the world before him. Sometimes
                      his visions are sly, sometimes obscure-- always immediate. He leans forward,
                      curling his body around the mike stand like a cobra poised to strike. Sometimes
@@ -646,7 +657,7 @@
                   <p>His guitar is there--the constant buzz of electrical wires. Always there...
                      sometimes even the guitar is his enemy as he pushes it aside--trying to get
                      closer to what he sees. His voice battering your conscience.</p>
-                  <p><name type="band">The Clash</name> are a phenomenon. And, they played
+                  <p><name type="band">The Clash</name>are a phenomenon. And, they played
                      everything. From "<name type="song">Safe European Home</name>", and the rest of
                      the new album to "<name type="song">White Man</name>", "<name type="song">I
                         Fought The Law</name>", "<name type="song">Clash City Rockers</name>", and
@@ -666,7 +677,7 @@
                   <p>When it was over no one moved. We all knew it had to end. But I didn't feel a
                      lack. I felt as though I had eaten a 12 course dinner. The tastes, the sights,
                      the sensuousness remained.</p>
-                  <p><name type="band">The Clash</name> are a vision.</p>
+                  <p><name type="band">The Clash</name>are a vision.</p>
                </div>
 
 
@@ -766,7 +777,7 @@
                      should just take what they want from it from their own personal point of
                      view.</p>
                   <p>NEVA: What was it like during the Punk Ted war in the summer of ‘77?</p>
-                  <p> POLY: I used to work in a stall in the Beaufort Market, selling punk clothes
+                  <p>POLY: I used to work in a stall in the Beaufort Market, selling punk clothes
                      and that, and the Teds used to come down every Saturday and smash the windows.
                      It got really violent down there, due to the papers. There was no hating each
                      other till the papers wrote about it. As soon as they wrote about violence on
@@ -810,12 +821,13 @@
 
 
                <pb n="6"/>
-               
+
                <figure>
                   <graphic
-                     url="https://drive.google.com/thumbnail?id=1EYyPlKyogYMp1tQJfX_dFfjrEdas6jMz&amp;sz=w1000"/>
+                     url="https://drive.google.com/thumbnail?id=1EYyPlKyogYMp1tQJfX_dFfjrEdas6jMz&amp;sz=w1000"
+                  />
                </figure>
-               
+
                <div type="poem">
                   <lg>
                      <l>New York, New York,......n.y. A city tingling in the cold. This city</l>
@@ -828,10 +840,12 @@
                      <l>Frantic humor/split images. Mass produced faces we can laugh at. It</l>
                      <l>all comes back to me.........</l>
                   </lg>
-                  
+
                   <lg>
-                     <l>Late night blue television. Tuning in for a quick fuck on the motorcycle.</l>
-                     <l>We stay across from the <name type="location">Chelsea Hotel</name>, in a loft with a great view of</l>
+                     <l>Late night blue television. Tuning in for a quick fuck on the
+                        motorcycle.</l>
+                     <l>We stay across from the <name type="location">Chelsea Hotel</name>, in a
+                        loft with a great view of</l>
                      <l>watertowers. Fire escapes zig-zagging across the landscape.</l>
                      <l>I see the city through vertical lines. Cold metal slashing through</l>
                      <l>the cityscape. And people. Crazies in the all-night Have-a-Donut. Shop-</l>
@@ -840,7 +854,7 @@
                      <l>Plurality comes in flashcubes of consciousness. You couldn't hold your</l>
                      <l>breath if you tried.......</l>
                   </lg>
-                  
+
                   <lg>
                      <l>Whispers drill holes in the midnight air. People in doorways eager</l>
                      <l>to talk. New York is the only place in the world where you can fall in</l>
@@ -852,93 +866,91 @@
                      <l>This is what we saw.</l>
                   </lg>
                </div>
-               
+
                <div>
                   <div>
-                     <p> There are three established clubs in the city: <name type="location">CBGB's</name>,
-                        <name type="location">Max's</name>, and <name type="location">Hurrah</name>. All
-                        week music. Admission is $4 to $6 depending on the day. Count on seeing
-                        anyone. It's the crowd that can sway your feelings. CB's is overrun with
-                        tourists eager for a glimpse of "new wave". You can't get out of your seat
-                        so where's the fun? Max's is better, although the sound isn't as good.
-                        There's a coldness about it to me. Hurrah's is highly considered by people
-                        in the city. Getting better. Then there are the weekend clubs...
-                        <name type="location">Mudd Club</name>, <name type="location">Club 57</name>,
-                        <name type="location">Club Hollywood</name>...
-                        <name type="location">Studio 10</name> and sometimes
-                        <name type="location">Trax</name>. Studio 10 is a Yippie club in the West
+                     <p>There are three established clubs in the city: <name type="location"
+                           >CBGB's</name>, <name type="location">Max's</name>, and <name
+                           type="location">Hurrah</name>. All week music. Admission is $4 to $6
+                        depending on the day. Count on seeing anyone. It's the crowd that can sway
+                        your feelings. CB's is overrun with tourists eager for a glimpse of "new
+                        wave". You can't get out of your seat so where's the fun? Max's is better,
+                        although the sound isn't as good. There's a coldness about it to me.
+                        Hurrah's is highly considered by people in the city. Getting better. Then
+                        there are the weekend clubs... <name type="location">Mudd Club</name>, <name
+                           type="location">Club 57</name>, <name type="location">Club
+                           Hollywood</name>... <name type="location">Studio 10</name>and sometimes
+                           <name type="location">Trax</name>. Studio 10 is a Yippie club in the West
                         Village. Club 57 is gaining prominence--- strong shows, good atmosphere and
                         good fun. Admission is $4. One of the places to go to. Mudd Club is the most
                         highly praised. With acoustics rumored as being designed by the one and only
-                        <name type="artist">Eno</name>--- it is new and rising fast. Set in the
-                        <name type="location">Soho</name> area it provides weekend entertainment of
-                        the most novel kind. Constant choices. </p>
-                     
-                     <p> Clubs advertize in the newspapers: <name>Village Voice</name> and
-                        <name>Shoh Weekly</name>. Otherwise you see wall posters. Few bands print
-                        posters. New bands never do. We in <name type="location">Seattle</name> have
-                        relied on wall posters like a great wall of information. But we have not
-                        had media acceptance. The price you pay for being a provincial city...
-                        Poster artwork runs the gamut from imaginative to boring. Too few of the
-                        former, too much of the latter. Opinions are worn on lapels in this city.
-                        Store bought, profuse. Why make them when you can buy them? The starkest
+                           <name type="artist">Eno</name>--- it is new and rising fast. Set in the
+                           <name type="location">Soho</name>area it provides weekend entertainment
+                        of the most novel kind. Constant choices. </p>
+
+                     <p>Clubs advertize in the newspapers: <name>Village Voice</name>and
+                           <name>Shoh Weekly</name>. Otherwise you see wall posters. Few bands print
+                        posters. New bands never do. We in <name type="location">Seattle</name>have
+                        relied on wall posters like a great wall of information. But we have not had
+                        media acceptance. The price you pay for being a provincial city... Poster
+                        artwork runs the gamut from imaginative to boring. Too few of the former,
+                        too much of the latter. Opinions are worn on lapels in this city. Store
+                        bought, profuse. Why make them when you can buy them? The starkest
                         difference here is the acceptability of new wave. You can hang out in the
-                        <name type="location">East Village</name>:
-                        <name type="location">Manic Panic</name> (and talk to <name>Snooky</name>)..
-                        <name type="location">Trash &amp; Vaudeville</name>,
-                        <name type="location">Defiant Pose</name>... Or to the
-                        <name type="location">West Village</name> and the
-                        <name type="location">Bowery</name>.
-                        Next <name type="location">Empire</name> and
-                        <name type="location">Revenge</name>, bookstores.. Record stores—the best
-                        being <name type="location">Village Oldies</name>, where you can hear reggae
-                        on the radio, and any band you care to on the stereo. Even clothing if you're
-                        just in from the 'burbs.... Visit <name>Punk Mag</name> or the
-                        <name>Rocker</name>. Find </p>
-                     
+                           <name type="location">East Village</name>: <name type="location">Manic
+                           Panic</name>(and talk to <name>Snooky</name>).. <name type="location"
+                           >Trash &amp; Vaudeville</name>, <name type="location">Defiant
+                        Pose</name>... Or to the <name type="location">West Village</name>and the
+                           <name type="location">Bowery</name>. Next <name type="location"
+                           >Empire</name>and <name type="location">Revenge</name>, bookstores..
+                        Record stores—the best being <name type="location">Village Oldies</name>,
+                        where you can hear reggae on the radio, and any band you care to on the
+                        stereo. Even clothing if you're just in from the 'burbs.... Visit <name>Punk
+                           Mag</name>or the <name>Rocker</name>. Find </p>
+
                      <cb/>
-                     
-                     <p> book stores full of fanzines. It's all here. A decent selection of local
-                        fanzines (besides the big two). Either too eclectic, or too "in scene".
-                        The best are <name>"Beat It"</name> and <name>"No"</name>—the latter being
+
+                     <p>book stores full of fanzines. It's all here. A decent selection of local
+                        fanzines (besides the big two). Either too eclectic, or too "in scene". The
+                        best are <name>"Beat It"</name>and <name>"No"</name>—the latter being
                         crammed with the impact of eight million images, impact, writing and ? Find
                         it. Lesser interesting ones include: the in-joke <name>"Skull Damage"</name>
                         for aficionados exclusively; <name>"Smegma"</name>-- xerox and fun, and
-                        <name>"2+2= 3 or 4 or 5 or 6 or 7 or 8 or 9"</name> -done by
-                        <name>Susan Springfield</name> of the <name type="artist">Erasers</name>. As
-                        boring as her band and as trite. Everyone wears black leather. You're either
-                        punk or pop. Take it as you like. Lots of clothes for the clothes conscious.
-                        Lots of celebrities. Like most towns the people are split. A and B lists of
-                        bands depend on who you're talking to. Too many imitations: of
-                        <name type="artist">Patti</name>, of <name type="artist">the Heads</name>,
-                        of our boys from OHIO. Some are fun. The audiences are made up of
-                        old-timers, those who are or have been in bands. A few wide-eyed kids
-                        figuring they've stumbled onto something <hi rend="ul">BIG</hi>. Then
-                        there are the tourists. </p>
-                     
-                     <p> Lots of bands are working on releasing vinyl. It
-                        helps that CB's puts out albums (the next one should be on the racks soon,
-                        and is worth picking up-ED.) People from established bands will produce
-                        newer bands. It's impressive. There is a third generation gaining strength
-                        in the club scene. Bands who have watched the older ones form and are now
-                        attempting to avoid the same pitfalls. Knowledge is passed on. Visions
-                        continue to expand. Younger people on the way up..... Commercially
-                        <name type="location">New York</name> is a pop town. Witness the strength of
-                        <name type="artist">Blondie</name>, everyone's role model. But equally as
-                        strong is the knowledge of their decision and desire for money. The musicians
-                        continue to be accessible, and running into one can bring you into contact
-                        with another. New York, once the progenitor of radio stations, has for the
-                        most part fallen into the disco pool. <name>WNEW-AM</name> is now MOR.
-                        <name>WNEW-FM</name>, the first to give new wave a listen (because of well wo- </p>
-                     
-                     <p> CONTINUED ON PAGE 9 </p>
+                           <name>"2+2= 3 or 4 or 5 or 6 or 7 or 8 or 9"</name>-done by <name>Susan
+                           Springfield</name>of the <name type="artist">Erasers</name>. As boring
+                        as her band and as trite. Everyone wears black leather. You're either punk
+                        or pop. Take it as you like. Lots of clothes for the clothes conscious. Lots
+                        of celebrities. Like most towns the people are split. A and B lists of bands
+                        depend on who you're talking to. Too many imitations: of <name type="artist"
+                           >Patti</name>, of <name type="artist">the Heads</name>, of our boys from
+                        OHIO. Some are fun. The audiences are made up of old-timers, those who are
+                        or have been in bands. A few wide-eyed kids figuring they've stumbled onto
+                        something <hi rend="ul">BIG</hi>. Then there are the tourists. </p>
+
+                     <p>Lots of bands are working on releasing vinyl. It helps that CB's puts out
+                        albums (the next one should be on the racks soon, and is worth picking
+                        up-ED.) People from established bands will produce newer bands. It's
+                        impressive. There is a third generation gaining strength in the club scene.
+                        Bands who have watched the older ones form and are now attempting to avoid
+                        the same pitfalls. Knowledge is passed on. Visions continue to expand.
+                        Younger people on the way up..... Commercially <name type="location">New
+                           York</name>is a pop town. Witness the strength of <name type="artist"
+                           >Blondie</name>, everyone's role model. But equally as strong is the
+                        knowledge of their decision and desire for money. The musicians continue to
+                        be accessible, and running into one can bring you into contact with another.
+                        New York, once the progenitor of radio stations, has for the most part
+                        fallen into the disco pool. <name>WNEW-AM</name>is now MOR.
+                           <name>WNEW-FM</name>, the first to give new wave a listen (because of
+                        well wo- </p>
+
+                     <p>CONTINUED ON PAGE 9 </p>
                   </div>
                   <div>
-                     <p> page 6 </p>
+                     <p>page 6 </p>
                   </div>
                </div>
-               
-               
+
+
                <pb n="7"/>
                <div type="page">
                   <head>LAURA DAVI</head>
@@ -950,7 +962,7 @@
                   </figure>
                </div>
                <div>
-                  <p> I wanted to interview Laura after hearing Student Teachers at CBGB's, and
+                  <p>I wanted to interview Laura after hearing Student Teachers at CBGB's, and
                      being impressed with her drumming. Laura is a stand-out destined to make a name
                      for herself. The interview was conducted at an apartment in Manhattan which
                      Laura shares with Jimmy "The Housepainter Destri". We talked in the living
@@ -987,7 +999,7 @@
                   <p>S:Which one?</p>
                   <p>L:It's Friend's Seminary on E. 16th.. It's a private H.S. A joke, but we played
                      a concert just to get the feel of playing in front of people. Our friends <name
-                        type="band" ref="#TheBlessed">The Blessed</name> came to see us ...They
+                        type="band" ref="#TheBlessed">The Blessed</name>came to see us ...They
                      liked us, and were playing the next Sunday as Max's and said: "Why don't you
                      open for us?" So we went to Max's (we knew the booking agent), and said:"Why
                      don'cha let us do this?" She said fine. We didn't get billed or anything. It
@@ -1000,7 +1012,7 @@
                      the songs, &amp; we recorded in the middle of last July. Recorded our single,
                      which isn't out yet,but should be soon.</p>
                   <p>S:What songs?</p>
-                  <p>L:<name type="song" ref="#ChristmasWeather">"Christmas Weather"</name> and
+                  <p>L:<name type="song" ref="#ChristmasWeather">"Christmas Weather"</name>and
                         <name type="song" ref="#TheQuake">"The Quake"</name></p>
                   <p>S:"The Quake" seems to be a popular song.</p>
                   <p>L:Yeah, that's the one Bill and I write. The major songwriters are Bill &amp;
@@ -1010,7 +1022,7 @@
                      It is an incredible drum kit. A vintage Pearl.</p>
                   <p>S:It was miked well.</p>
                   <p>JD:Thank you.</p>
-                  <p>S:Yeah, my friend really liked the <cb/> sound of the tom-toms.</p>
+                  <p>S:Yeah, my friend really liked the <cb/>sound of the tom-toms.</p>
                   <p>JD:Thanks.</p>
                   <p>L:It's a beautiful set. Her boyfriend bought it for her.</p>
                   <p>S:We should all be so lucky.</p>
@@ -1042,11 +1054,11 @@
                      consious of that. I don't know. I get real nervous, 'cause I know that whenever
                      we do badly in a song I know that I've done badly. I just automatically assume
                      it's me all the way. If the whole song falls apart I know its been me. I can
-                     just feel it. But I don't go out there and say... <cb/> "I'm gonna direct this
+                     just feel it. But I don't go out there and say... <cb/>"I'm gonna direct this
                      song!" I guess it just happens.</p>
                   <p>S:It's spontaneous...What's going on with the record?</p>
                   <p>L:Well, good question. As far as the record's concered, it's been sold. To
-                        <name type="recordlable" ref="#RedStarRecords">Red Star Records</name> who
+                        <name type="recordlable" ref="#RedStarRecords">Red Star Records</name>who
                      have expressed extreme intrest in us, but haven't moved their asses. So they
                      bought our single.</p>
                   <p>S:New blood.</p>
@@ -1075,7 +1087,7 @@
                   <p>L:You know, school music.</p>
                   <p>S: Is it difficult being so young?</p>
                   <p>L:Yes. Yes and no. Sometimes it's fun lens are we're young and I guess a litte
-                     naive. We feel separated from <cb/> the musicians who are 24, 25---who've been
+                     naive. We feel separated from <cb/>the musicians who are 24, 25---who've been
                      playing a long time. The Erasers are all 27, 28--old age land (Laughter) We
                      still get the look ike we're little kids having fun, who are pretty
                      accomplished for our age. But there'r still seperations. (To Jimmy) Well..
@@ -1112,13 +1124,13 @@
                      things. I don't wanna get crazy and do ten million rolls like those rock and
                      roll drummers do. That's a waste. It's just boring.</p>
                   <p>S:Whose drumming do you like?</p>
-                  <p>L:Well, <name type="musician" ref="#ClemBurke">Clem Burke</name> is my idol. I
-                     also like <name type="musician" ref="#ChrisFrantz">Chris Frantz</name> (T.
+                  <p>L:Well, <name type="musician" ref="#ClemBurke">Clem Burke</name>is my idol. I
+                     also like <name type="musician" ref="#ChrisFrantz">Chris Frantz</name>(T.
                      Heads-Ed.). Right now I'm following his style which is very straightforward.
                      There are no female drummers that I know that I like.</p>
                   <p>S:What are some of your influences?</p>
                   <p>L:Jimmy. Thank god he's in the shower. He influences me a lot. I'm always
-                     around <name type="band" ref="#Blondies">Blondies</name> and their success. I
+                     around <name type="band" ref="#Blondies">Blondies</name>and their success. I
                      wa-</p>
                   <p>CONTINUED ON PAGE 16</p>
                </div>
@@ -1148,7 +1160,7 @@
 
                <pb n="9"/>
                <div type="page">
-                  <p> NEW YORK CONTINUES </p>
+                  <p>NEW YORK CONTINUES </p>
                   <p><name>Vince Scelsa</name>, will not commit itself to the future. WPLJ-FM has
                      sunk to ass-kissing the NY music industry. The surprises are WPIX and WLIB, two
                      stations with a radical difference. PIX carries weekly live recordings of CBGB
@@ -1162,7 +1174,7 @@
                   <p>Some stations have <name type="artist" ref="#Bee_Gees">Bee Gee boycotts</name>,
                      the flame of resistance in a dismal fog of high voices.</p>
 
-                  <p>Remember this: <name type="location" ref="#New_York">New York</name> is always
+                  <p>Remember this: <name type="location" ref="#New_York">New York</name>is always
                      there Every hour at all times with all you can imagine and then some.</p>
 
                   <p>On one hand chilling, on the other enlightening. A city full of possibilities.
@@ -1185,7 +1197,7 @@
                      local luminaries. They come to see the headliner….</p>
 
                   <p>But first <name type="artist" ref="#The_Dots">The Dots</name>. A four-piece
-                     young band. <name type="artist" ref="#Alison_East">Alison East</name> is one of
+                     young band. <name type="artist" ref="#Alison_East">Alison East</name>is one of
                      the best new guitarists I have seen.. She can rock! What a personality! Eyes
                      and mouth wide open; she dances and jerks her hands. Spikey hair... like the
                      caucasians in Japanese comics. She is frozen in mid-second as if always
@@ -1204,13 +1216,13 @@
                      fresh!</p>
 
                   <p>Now for the crowd pleasers…..<name type="artist" ref="#Miki_Zone_Zoo">Miki Zone
-                        Zoo</name> (formerly the Fast). They look like an LA Band. Well
+                        Zoo</name>(formerly the Fast). They look like an LA Band. Well
                      dressed...good moves...Flash....</p>
 
                   <p>A crisp sound with a look to match. Black and white. Stripes and solids. Taking
                      up the stage like a set sculpture. Even the negative spaces are filled.</p>
 
-                  <p><name type="artist" ref="#Miki_Zone_Zoo">MZZ</name> is a band which operates on
+                  <p><name type="artist" ref="#Miki_Zone_Zoo">MZZ</name>is a band which operates on
                      hyper kinetic energy. Everything is fast. Why wait when we’ll all be gone in a
                      minute? A unit, yet strong individuals pierce through.</p>
                   <p>The wildest of all is the infamous Miki Zone, guitarist extraordinaire... With
@@ -1227,7 +1239,7 @@
                      riveting performer. So slim and dark with clothes almost too big for him: a
                      baggy pin-striped suit with a spider on the lapel.</p>
 
-                  <p>The singer is wild; <name>Ricky Ricardo</name> with a dash of
+                  <p>The singer is wild; <name>Ricky Ricardo</name>with a dash of
                         <name>Valentino</name>. This band’s so obviously having fun!</p>
 
                   <p>The hottest number is <name type="song" ref="#The_kids_Just_Wanna_Dance">“The
@@ -1258,7 +1270,7 @@
                      stinks. We wade through the crowd to find seats near the wall. You can’t get
                      near the stage here. You gotta sit down. Is this real?</p>
 
-                  <p><name type="artist" ref="#Come_On">Come On</name> is a young, five-piece band.
+                  <p><name type="artist" ref="#Come_On">Come On</name>is a young, five-piece band.
                      All are wearing white dress shirts, black pants and white sneakers.
                      Succinct…They look like high school students for the most part, and probably
                      are. Smart &amp; clean.</p>
@@ -1312,45 +1324,45 @@
 
                <pb n="10"/>
                <div type="page">
-                  <p> NEW YEAR'S PARTY 1979 …New Year’s Eve in <name type="location">Seattle</name>
-                     saw one of the most all around <hi rend="ul">amusing</hi> parties in
+                  <p>NEW YEAR'S PARTY 1979 …New Year’s Eve in <name type="location">Seattle</name>
+                     saw one of the most all around <hi rend="ul">amusing</hi>parties in
                      years--local freaks packed the enemy’s practice studio to down Guyana punch +
-                     dance their hearts away to the <hi rend="ul">way out sounds</hi> of <name
+                     dance their hearts away to the <hi rend="ul">way out sounds</hi>of <name
                         type="artist">the Radio’s</name>, <name type="artist">The St. Bernard
                         Quartet</name>, <name type="artist">The Girls</name>, <name type="artist"
                         >The Enemy</name>, <name type="artist">The Fishsticks</name>, <name
                         type="artist">The Mystery Horns</name>, not to mention an outstanding
-                     display of charisma by <name type="artist">George “Johnny Ray” Gleason</name> +
+                     display of charisma by <name type="artist">George “Johnny Ray” Gleason</name>+
                      The Boppin’ Sounds of <name type="artist">Rick “Buddy Holly” Smith</name>…Lots
                      more bands but we can't remember ‘em all (<name type="artist">Cheaters</name>?
                         <name type="artist">Electric Tramps</name>?) ...Tons of fun…stupid hats,
                      champagne, noisemakers + <hi rend="ul">Everything</hi>! <hi rend="ul">Wow</hi>!
                      (A nite to remember fo’ sho’!!)</p>
 
-                  <p>! -> <hi rend="ul">Photos L to R from top:</hi></p>
+                  <p>! -><hi rend="ul">Photos L to R from top:</hi></p>
 
-                  <p><name>Rick Smith</name> + <name>Nina</name></p>
+                  <p><name>Rick Smith</name>+ <name>Nina</name></p>
 
                   <p><name type="artist">Mystery Horns Homer</name>, <name type="artist"
                         >Roland</name>, + <name type="artist">Edward Cardboard</name></p>
 
                   <p><name type="artist">Mass Hysteria</name></p>
 
-                  <p><name type="artist">Fishsticks</name> (World Premiere!)</p>
+                  <p><name type="artist">Fishsticks</name>(World Premiere!)</p>
 
                   <p><name>Tammy Smith</name></p>
 
                   <p><name type="artist">The Enemy</name>
                      <name>(Suzy + George)</name></p>
 
-                  <p><name type="artist">Gregor Gayden</name> (<name type="artist">St. Bernard
+                  <p><name type="artist">Gregor Gayden</name>(<name type="artist">St. Bernard
                         Qt.</name>)</p>
 
                   <p><name>George</name>… “If your Heartaches..!”</p>
 
-                  <p><name>Bob Kondraic</name> w/Cambea</p>
+                  <p><name>Bob Kondraic</name>w/Cambea</p>
 
-                  <p>More <name type="artist">Hysteria</name> (Yahoo! Yreka!)</p>
+                  <p>More <name type="artist">Hysteria</name>(Yahoo! Yreka!)</p>
 
                   <p><name>Damon (?) Titus</name></p>
 
@@ -1390,17 +1402,17 @@
                      <p>Photo Credit Roy Esmonde</p>
                   </figure>
                   <div>
-                     <p> A late word from Virgin Records is that Barry Andrews has left <name
-                           type="band" ref="#XTE">XTC</name> to persue a solo career. The band
+                     <p>A late word from Virgin Records is that Barry Andrews has left <name
+                           type="band" ref="#XTE">XTC</name>to persue a solo career. The band
                         remains together, and the split was said to be amicable. </p>
                   </div>
                   <div>
-                     <p> This interview was done in the dining room of the <name type="location"
+                     <p>This interview was done in the dining room of the <name type="location"
                            ref="GramercyParkHotel">Gramercy Park Hotel</name>. The resturant was not
                         happy that we were there, and proceeded to make it difficult for us. Barry
                         and I had to repeatedly tell the waiters what we wanted. It made for a bit
                         of an uncomfortable atmosphere. But we survived. </p>
-                     <p> Barry has an extremely dry sense of humor, which was well served admist the
+                     <p>Barry has an extremely dry sense of humor, which was well served admist the
                         frowning waiters. </p>
                   </div>
                   <div>
@@ -1471,9 +1483,9 @@
                      <p>S:You define yourself as a pop band</p>
                      <p>B:Yeah. I don't see us as anything more. I think it's quite a noble call.
                         Being a pop band. (Here I am introduced to Colin Moulding, bass
-                        player....Barry comments on <cb/> the waiters:"This place is really
+                        player....Barry comments on <cb/>the waiters:"This place is really
                         fascist...")</p>
-                     <p>S:But if all music was <name type="band" ref="Blondie">Blondie</name> and
+                     <p>S:But if all music was <name type="band" ref="Blondie">Blondie</name>and
                         the Ramones it would be boring. Your music balances that.</p>
                      <p>B:I don't think it should all be like that. On the other hand, to do that
                         unsuccessfully is a failure, isn't it. And to try and not do that and yet
@@ -1516,10 +1528,10 @@
                      <p>C:They dont really like us. I mean they do, But not coming in down here (the
                         resturant). They want you to keep in your room.</p>
                      <p>B:They alwasy stick us in obscure wings. They put us in a hotel in <name
-                           type="location" ref="Scarborough">Scarborough</name> once where they were
+                           type="location" ref="Scarborough">Scarborough</name>once where they were
                         still building it! It's a great hotel; all chandeliers, a golden staircase.
                         The clerk said: "Oh, you're in 148." We go up and up and up and you're in
-                        some wing, and the workmen are still in <cb/> there! Sawing and
+                        some wing, and the workmen are still in <cb/>there! Sawing and
                         hammering.... This is where we get all misty-eyed about our past.</p>
                      <p>S:How old are you?</p>
                      <p>C:23. He's 22. Terry's 23 and Andys 25.</p>
@@ -1595,7 +1607,7 @@
                         popular we've been.</p>
                      <p>B:Bob Geldorf (<name type="band" ref="#BoomtownRats">Boomtown Rats</name>)
                         ripped us off on a single:<name type="song" ref="#LikeClockwork">"Like
-                           Clockwork."</name> He admists he just popped it straight off of us.</p>
+                           Clockwork."</name>He admists he just popped it straight off of us.</p>
                      <p>S:You don't think immitation is the sincerest form of flattery?</p>
                      <p>B:Not if he get's all the royalties &amp; we don't. Their are lots of
                         copyists, but none with the same spirit. When we are on stage, There's no
@@ -1690,11 +1702,11 @@
                      to Europe, they only have to deal with Virgin, and when they’re in America they
                      only have to deal with Warners. It’s two separate entities, and it involves
                      making one album and getting advances.</p>
-                  <p> Being signed directly means being signed like an English band—-where your
+                  <p>Being signed directly means being signed like an English band—-where your
                      royalty rate isn’t chopped. If you sign to an American company that has a
                      liscence or subsidiary company overseas, the royalty rate is cut in half That
                      sort of fucks you up financially.</p>
-                  <p> But Devo pulled off the best deal of all times. Business-wise they pulled it
+                  <p>But Devo pulled off the best deal of all times. Business-wise they pulled it
                      off! They told Warners they’d sign here for world-wide distribution. They gave
                      Warners their word on that. Meanwhile they go to England to do a tour, Virgin
                      approaches them, and they sign to Virgin. Then they came back to America and
@@ -1781,61 +1793,61 @@
             <div>
                <head>Sanctioned </head>
                <p>by franko</p>
-               <p> In 1963 I was thirteen. My mom was a country-western singer and I was a farmboy.
-                  Also, <name type="artist">the Beatles</name> happened… KJR was Radio Free Europe
+               <p>In 1963 I was thirteen. My mom was a country-western singer and I was a farmboy.
+                  Also, <name type="artist">the Beatles</name>happened… KJR was Radio Free Europe
                   for the refugees out in <name type="location">Duvall</name>. To be honest, it took
                   another year or so for this particular farmkid to catch on to the fact that there
                   was a historic change happening. </p>
-               <p> When I was in third grade in <name type="location">Sedro</name>
+               <p>When I was in third grade in <name type="location">Sedro</name>
                   <name type="location">Wolley</name>, living next to the movie House where <name
-                     type="song">“Love Me Tender”</name> and <name type="song">“King Creole”</name>
-                  played, <name type="artist">Elvis</name> was my main muse. Dancing in front of
-                  mom's stereo to <name type="song">"Hound Dog"</name> and <name type="song">"Don't
+                     type="song">“Love Me Tender”</name>and <name type="song">“King Creole”</name>
+                  played, <name type="artist">Elvis</name>was my main muse. Dancing in front of
+                  mom's stereo to <name type="song">"Hound Dog"</name>and <name type="song">"Don't
                      Be Cruel"</name>.. groovin’ to <name type="artist">the Big Bopper</name>, <name
                      type="artist">Bobby</name>
-                  <name type="artist">Darin</name>, <name type="artist">Fats Domino</name> and <name
-                     type="artist">Buddy Holly</name> (the skinny kid with the glasses) on the
+                  <name type="artist">Darin</name>, <name type="artist">Fats Domino</name>and <name
+                     type="artist">Buddy Holly</name>(the skinny kid with the glasses) on the
                   radio, I had sanction. </p>
-               <p> Mom took me to hear her sing one Night because I learned the Presley Two-Step
+               <p>Mom took me to hear her sing one Night because I learned the Presley Two-Step
                   (one forward and one back). </p>
                <p>But <name type="artist">the Beatles</name>, she told me, were awful. Dad watched
-                     <name type="artist">the Stones</name> on <name>Ed Sullivan</name> with us, and
+                     <name type="artist">the Stones</name>on <name>Ed Sullivan</name>with us, and
                   said, “I can see why they’re called dirty. It’s not dirt, it’s Filth!” No
                   sanction. But all the time on my Packard-Bell portable, up in my little room, I
                   was groovin’! To the Folkies. I was enraptured and romanced by <name type="artist"
                      >Simon’s</name>
                   <name type="song">“I Am A Rock”</name>, and <name type="song">“Young Girls Are
-                     Coming To The Canyon”</name> with <name type="artist">the Mamas &amp;
+                     Coming To The Canyon”</name>with <name type="artist">the Mamas &amp;
                      Papas</name>
                   <name type="artist">Dylan</name>, yea. And somehow, when <name type="artist"
-                     >Dylan</name> picked up an electric guitar I wasn’t aware of any outrage. I was
+                     >Dylan</name>picked up an electric guitar I wasn’t aware of any outrage. I was
                   down in the barnyard, making those sounds with my mouth.</p>
-               <p>And I knew those <name type="artist">Beatles</name> couldn’t be as awful as mom
-                  said. <name type="song">“I Wanna Hold Your Hand”</name> was the Truth to this
+               <p>And I knew those <name type="artist">Beatles</name>couldn’t be as awful as mom
+                  said. <name type="song">“I Wanna Hold Your Hand”</name>was the Truth to this
                   throbbing pubescent mind.</p>
                <p>Unbeknownst to me, the youth, and quite a few of the grown-ups in <name
                      type="location">Seattle</name>, <name type="location">Bellevue</name>, <name
-                     type="location">Kirkland</name> were on fire —Rock N Roll was the wave of the
+                     type="location">Kirkland</name>were on fire —Rock N Roll was the wave of the
                   future again. And I met them on the traditional meeting ground for city and
                   country: The county fair.</p>
-               <p> I was in 4-H, of course, and I had a pet Jersey cow to lead around. <cb/> Every
-                  year we’d go to at least the <name type="location">Monroe</name> county fair and
-                  the <name type="location">King County</name> Fair in <name type="location"
-                     >Enumclaw</name>. Although <name type="location">Enumclaw</name> was the
+               <p>I was in 4-H, of course, and I had a pet Jersey cow to lead around. <cb/>Every
+                  year we’d go to at least the <name type="location">Monroe</name>county fair and
+                  the <name type="location">King County</name>Fair in <name type="location"
+                     >Enumclaw</name>. Although <name type="location">Enumclaw</name>was the
                   biggest fair, I believe all The hip action was in <name type="location"
                      >Monroe</name>. </p>
-               <p> There was, of course, the rodeo…. horse shows, cow shows, and pie shows Vacuum
+               <p>There was, of course, the rodeo…. horse shows, cow shows, and pie shows Vacuum
                   cleaners, window cleaners, floor cleaners, and organ grinders. But there was also
                   stock car races. And when there weren’t cars on the track the fail officials had
-                  found it lucrative to bring half-a-dozen <name type="location">Seattle</name> rock
+                  found it lucrative to bring half-a-dozen <name type="location">Seattle</name>rock
                   bands to play for free—----there at the racetrack. </p>
                <p>Little did they know the ultimate terror they would help bring upon <name
-                     type="location">Washington</name> parents everywhere, as their kids became Rock
+                     type="location">Washington</name>parents everywhere, as their kids became Rock
                   N Rollers, and forgot about doing the dishes and/or feeding the calves. (I noticed
                   they had this much rock n roll only that one year. After that they got all the old
                   country stars they could find).</p>
-               <p> I must have shoved cow watch onto every kid in the club, so me (I was the
-                  president) and <name>Rick DeVries</name> (he’s the vice-president), could go and
+               <p>I must have shoved cow watch onto every kid in the club, so me (I was the
+                  president) and <name>Rick DeVries</name>(he’s the vice-president), could go and
                   goggle at <name type="artist">Lucky and the Gamblers</name>, the <name
                      type="artist">Liverpool Five</name>, and numerous other tatty costumed bands.
                   Everybody looked like <name type="artist">Paul Revere and the Raiders…</name>
@@ -1845,14 +1857,14 @@
                   love with her overbite. </p>
                <p>And there was this scheme which now seems out of a dream. In a tent in some
                   accidental corner of the fairgrounds, kids from Greater <name type="location"
-                     >Seattle</name> burbs—I swear—were having honest-to-god <hi rend="ul"
+                     >Seattle</name>burbs—I swear—were having honest-to-god <hi rend="ul"
                      >sanctioned</hi>, amateur Battle of the bands. Thirteen year old, sixteen year
-                  old <name type="artist">Johnny Rays</name> and leather <name type="artist"
+                  old <name type="artist">Johnny Rays</name>and leather <name type="artist"
                      >Elvis’s</name>—- tight blue jeans and greasy curls, were climbing onto this
                   little plywood stage with their Fenders and Gibsons and singing <name type="song"
-                     >“House of the Rising Sun”</name> while their mothers were crawling around in
+                     >“House of the Rising Sun”</name>while their mothers were crawling around in
                   their nylons and <name>Jackie</name>
-                  <name>Kennedy</name> coats arranging and checking power cords. What!!??</p>
+                  <name>Kennedy</name>coats arranging and checking power cords. What!!??</p>
                <cb/>
 
                <figure>
@@ -1862,15 +1874,15 @@
                      musicians.</figDesc>
                </figure>
 
-               <p> No kidding. It was like a 4-H club for Rock N Roll. Really, I was out there. I
+               <p>No kidding. It was like a 4-H club for Rock N Roll. Really, I was out there. I
                   don’t know if they won the chance to be backup band for the Bands at PLU, or if
                   they got to cut a single, or if they just got a new set of strings. But the point
                   is, they were playing rock n roll, and their mothers were not only watching, but
                   brushing their greasy hair before they went on stage. Sanction! <cb/>
                </p>
-               <p> They weren’t as “good”, of course, as the “Professionals” out on the race track;
+               <p>They weren’t as “good”, of course, as the “Professionals” out on the race track;
                   nor did they get the money or attention that <name type="artist">Merilee
-                     Rush</name> (who would pick up her watch to see how much longer the set
+                     Rush</name>(who would pick up her watch to see how much longer the set
                   was—right in the middle of <name type="song">“Angel Of The Morning”</name>) got…
                   but they felt real-er. They were me, living my dream. They seemed to be not only
                   supported, but even pushed by their mothers to perform and live out that dream. </p>
@@ -1890,8 +1902,7 @@
 
             <pb n="16"/>
             <div type="page">
-               <div>
-               </div>
+               <div></div>
 
                <div>
                   <div>
@@ -1900,7 +1911,7 @@
                      <p>Laura Davis</p>
                   </div>
                   <div>
-                     <p> Wanna be up there too. I'm influenced by him because I wanna make him proud
+                     <p>Wanna be up there too. I'm influenced by him because I wanna make him proud
                         I wanna get there--where they are. I'm around them alot and the struggles
                         they go through----what they have had to go through to get where they are...
                         It influences me, and gives me more incentive to push harder. They did-- why
@@ -1979,8 +1990,8 @@
 
                <div>
 
-                  <p> UNLESS OTHERWISE NOTED, ALL WRITING DONE BY: </p>
-                  <p> STELLA STREET </p>
+                  <p>UNLESS OTHERWISE NOTED, ALL WRITING DONE BY: </p>
+                  <p>STELLA STREET </p>
 
                   <p>GRAPHICS &amp; ART:</p>
 
@@ -2037,10 +2048,10 @@
                   <graphic
                      url="https://drive.google.com/thumbnail?id=18dsirfRvbiSxgeNAwBwFqMEKGjvO3YEo&amp;sz=w500"/>
                   <figDesc/>
-                  <p> Precautions to avoid possible exposure to excessive microwave energy any one
+                  <p>Precautions to avoid possible exposure to excessive microwave energy any one
                      of these full-featured, touch- control microwave ovens for only $449 95 </p>
 
-                  <p> ...or how Americans sprec </p>
+                  <p>...or how Americans sprec </p>
 
                </figure>
 
@@ -2058,7 +2069,7 @@
                      url="https://drive.google.com/thumbnail?id=1eLejvdwF_SJU-4AlPAECZRjycUahADJb&amp;sz=w300"/>
                   <figDesc/>
                   <p>SCREAMERS </p>
-                  <p> SCREAMERS ASSULT: Box 330 1626 N. Wilcox Hollywood CA 50028 </p>
+                  <p>SCREAMERS ASSULT: Box 330 1626 N. Wilcox Hollywood CA 50028 </p>
                </figure>
 
 
@@ -2070,7 +2081,7 @@
                      <figDesc/>
                   </figure>
 
-                  <p> Julie Gorton {img} THE MUMPS 1978- JOIN! a membership in the Mumps Fan Club
+                  <p>Julie Gorton {img} THE MUMPS 1978- JOIN! a membership in the Mumps Fan Club
                      only costs $2. and you get a free button upon joining. SUCH A DEAL!!!!
                      name............................ address.........................
                      city............state....zip.... (send cash) MUMPS photo badge .75 Autographed
@@ -2168,7 +2179,7 @@
                      <p>1869 W. 4th Ave</p>
                      <p>Vancouver, Canaduh</p>
                      <p>V6J 1M4</p>
-                     <p> One of 2 records on this new label Music from the north. What can I say
+                     <p>One of 2 records on this new label Music from the north. What can I say
                         about DOA? Everybody seems to like them. I have a hard time getting past the
                         vocals. Joey Shithead cannot sing. He cannot even get by with what he does.
                         It's too bad, because the band is good and the music fast. But what the hell
@@ -2312,17 +2323,17 @@
                      <p>TWO CATS AND A TOASTER</p>
                      <p>HALL OF FAME AND STUFF</p>
                      <p>FUN FACTS TO KNOW AND TELL</p>
-                     <p>..Watch out for possible <name type="artist">FISHSTICKS</name> tour...Band
+                     <p>..Watch out for possible <name type="artist">FISHSTICKS</name>tour...Band
                         members <name type="artist">Eric ('tonal damage') Erickson</name>, <name
                            type="artist">Rob Morgan</name>, <name type="artist">Kevin
-                           Hamilton</name> and ex-famine-gland <name type="artist">Peter
-                           Barnes</name> have all quit their jobs + are currently practicing on the
+                           Hamilton</name>and ex-famine-gland <name type="artist">Peter
+                           Barnes</name>have all quit their jobs + are currently practicing on the
                         average of 9-12 hours a day. <name type="artist">Bootlegs Galore</name>,
                            <name type="artist">Mass Hysteria</name>, + <name type="artist">A
-                           Film</name> are waiting in the wings... <name type="artist"
-                           >Fishsticks</name> official lunchboxes will be available come fall! <name
-                           type="artist">Gary Phosphene and The Carpets</name> are currently
-                        rehearsing for a big comeback...Is <name>Chuck Gerra</name> still alive..?
+                           Film</name>are waiting in the wings... <name type="artist"
+                           >Fishsticks</name>official lunchboxes will be available come fall! <name
+                           type="artist">Gary Phosphene and The Carpets</name>are currently
+                        rehearsing for a big comeback...Is <name>Chuck Gerra</name>still alive..?
                         (P.S.. Hello?) Join the chaters fan club.</p>
                      <figure>
                         <graphic
@@ -2439,7 +2450,7 @@
                         specifically, are more conducive to a greater outgrowth of not only creative
                         impulses, but corporate benevolence.</p>
 
-                     <p>Throughout history (Gawd! This <hi rend="ul">is</hi> sounding heavy!),
+                     <p>Throughout history (Gawd! This <hi rend="ul">is</hi>sounding heavy!),
                         artists have survived no matter how barely, by receiving grants &amp;
                         benefits from the church, guild, royalty and other wealthy individuals. This
                         feeling is maintained even today. By observing record company signings and
@@ -2526,12 +2537,12 @@
                   <persName>Bee Gees</persName>
                   <note>Disco music group formed in 1958</note>
                </person>
-               
+
                <person xml:id="The_Dots">
                   <persName>The Dots</persName>
                   <note>"Alison East" refers to the guitarist of "The Dots"</note>
                </person>
-               
+
                <person xml:id="Miki_Zone_Zoo">
                   <persName>Miki Zone Zoo</persName>
                   <note>Formerly "The Fast", then "Man 2 Man" was an American glam/punk band in the
@@ -2568,7 +2579,8 @@
                </person>
                <person xml:id="Eno">
                   <persName>Eno</persName>
-                  <note>Brian Eno, British musician, producer, and artist, formerly of Roxy Music</note>
+                  <note>Brian Eno, British musician, producer, and artist, formerly of Roxy
+                     Music</note>
                </person>
                <person xml:id="Blondie">
                   <persName>Blondie</persName>
@@ -2580,7 +2592,8 @@
                </person>
                <person xml:id="The_Heads">
                   <persName>the Heads</persName>
-                  <note>Refers to Talking Heads; see <ref target="#Talking_Heads">Talking Heads</ref></note>
+                  <note>Refers to Talking Heads; see <ref target="#Talking_Heads">Talking
+                        Heads</ref></note>
                </person>
                <person xml:id="The_Erasers">
                   <persName>The Erasers</persName>
@@ -2588,15 +2601,17 @@
                </person>
                <person xml:id="Snooky">
                   <persName>Snooky</persName>
-                  <note>Refers to Snooky Bellomo, co-founder of Manic Panic in the East Village</note>
+                  <note>Refers to Snooky Bellomo, co-founder of Manic Panic in the East
+                     Village</note>
                </person>
                <person xml:id="Susan_Springfield">
                   <persName>Susan Springfield</persName>
-                  <note>Member of The Erasers and producer of the fanzine "2+2= 3 or 4 or 5 or 6 or 7 or 8 or 9"</note>
+                  <note>Member of The Erasers and producer of the fanzine "2+2= 3 or 4 or 5 or 6 or
+                     7 or 8 or 9"</note>
                </person>
             </listPerson>
-            
-            
+
+
             <listPlace>
                <place xml:id="New_York">
                   <placeName>New York</placeName>
@@ -2643,15 +2658,18 @@
                </place>
                <place xml:id="Chelsea_Hotel">
                   <placeName>Chelsea Hotel</placeName>
-                  <note>Historic hotel at 222 West 23rd Street, New York City, known for its artist residents</note>
+                  <note>Historic hotel at 222 West 23rd Street, New York City, known for its artist
+                     residents</note>
                </place>
                <place xml:id="CBGB">
                   <placeName>CBGB's</placeName>
-                  <note>Legendary punk and new wave music venue at 315 Bowery, New York City, open 1973–2006</note>
+                  <note>Legendary punk and new wave music venue at 315 Bowery, New York City, open
+                     1973–2006</note>
                </place>
                <place xml:id="Hurrah">
                   <placeName>Hurrah</placeName>
-                  <note>New wave nightclub in New York City, active in the late 1970s–early 1980s</note>
+                  <note>New wave nightclub in New York City, active in the late 1970s–early
+                     1980s</note>
                </place>
                <place xml:id="Mudd_Club">
                   <placeName>Mudd Club</placeName>
@@ -2659,7 +2677,8 @@
                </place>
                <place xml:id="Club_57">
                   <placeName>Club 57</placeName>
-                  <note>East Village performance space and nightclub at 57 St. Marks Place, New York City</note>
+                  <note>East Village performance space and nightclub at 57 St. Marks Place, New York
+                     City</note>
                </place>
                <place xml:id="Club_Hollywood">
                   <placeName>Club Hollywood</placeName>
@@ -2679,7 +2698,8 @@
                </place>
                <place xml:id="East_Village">
                   <placeName>East Village</placeName>
-                  <note>Neighborhood in Manhattan, New York City, center of punk and new wave culture</note>
+                  <note>Neighborhood in Manhattan, New York City, center of punk and new wave
+                     culture</note>
                </place>
                <place xml:id="West_Village">
                   <placeName>West Village</placeName>
@@ -2687,15 +2707,18 @@
                </place>
                <place xml:id="Bowery">
                   <placeName>Bowery</placeName>
-                  <note>Street and neighborhood in Lower Manhattan, New York City; home to CBGB's</note>
+                  <note>Street and neighborhood in Lower Manhattan, New York City; home to
+                     CBGB's</note>
                </place>
                <place xml:id="Empire">
                   <placeName>Empire</placeName>
-                  <note>Record or clothing store in the West Village/Bowery area of New York City</note>
+                  <note>Record or clothing store in the West Village/Bowery area of New York
+                     City</note>
                </place>
                <place xml:id="Revenge">
                   <placeName>Revenge</placeName>
-                  <note>Record or clothing store in the West Village/Bowery area of New York City</note>
+                  <note>Record or clothing store in the West Village/Bowery area of New York
+                     City</note>
                </place>
                <place xml:id="Village_Oldies">
                   <placeName>Village Oldies</placeName>
@@ -2703,21 +2726,23 @@
                </place>
                <place xml:id="Manic_Panic">
                   <placeName>Manic Panic</placeName>
-                  <note>Punk clothing and hair dye shop in the East Village, New York City, founded by Tish and Snooky Bellomo</note>
+                  <note>Punk clothing and hair dye shop in the East Village, New York City, founded
+                     by Tish and Snooky Bellomo</note>
                </place>
                <place xml:id="Trash_and_Vaudeville">
                   <placeName>Trash &amp; Vaudeville</placeName>
-                  <note>Punk and rock clothing shop on St. Marks Place in the East Village, New York City</note>
+                  <note>Punk and rock clothing shop on St. Marks Place in the East Village, New York
+                     City</note>
                </place>
                <place xml:id="Defiant_Pose">
                   <placeName>Defiant Pose</placeName>
                   <note>Punk clothing store in the East Village, New York City</note>
                </place>
             </listPlace>
-            
-            
-            
-            
+
+
+
+
             <list type="song">
                <item xml:id="Let_Me_Take_You_Out_To_Lunch">
                   <title>Let Me Take You Out To Lunch</title>
@@ -2727,7 +2752,7 @@
                   <title>The Kids Just Wanna Dance</title>
                   <note type="artist">Miki Zone Zoo</note>
                </item>
-               
+
             </list>
          </div>
 
@@ -2753,7 +2778,7 @@
             <note xml:id="n4">Bo Diddley was an American guitarist, singer and songwriter who is
                known to have been a large influence on The Clash. He toured with them on their 1979
                USA tour. <ref type="biblio" target="BoDiddley">See Source 5, 6</ref>
-               <ref type="biblio" target="Colorado Sound"> See Source 5, 6</ref>
+               <ref type="biblio" target="Colorado Sound">See Source 5, 6</ref>
             </note>
          </div>
 
