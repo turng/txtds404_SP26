@@ -97,7 +97,6 @@
   margin-left: 2em;
   margin-right: 4em;
   padding: 2.5em;
-  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
   background-color: #EBEBEB;
   color: #292929;
@@ -594,10 +593,11 @@ fileDesc > extent {
 }
 /* f */
 figure {
-  display: block;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    margin: 2rem auto;
 }
 /* g */
 g {
@@ -703,6 +703,8 @@ div > div > div > div > div > head {
 div > div > div > div > div > div head {
   font-size: 110%;
 }
+
+
 figure > head {
   display: block;
   margin: 1.5em auto 1.5em auto;
@@ -1657,7 +1659,8 @@ symbol {
 }
 /* t */
 TEI {
-  display: block;
+    display: block;
+    width: 100%;
 }
 table {
   border-collapse: separate;
@@ -1685,19 +1688,17 @@ background:white;
   border-bottom: 1px solid #999;
 }
 TEI > text {
-    display: flex;
-  flex-direction: column;
-  width: 100%;
-  max-width: 70em;
-  font-size: 14pt;
-  
+    display: block;
+    max-width: 1000px;
+    width: 90%;
+    margin: 0 auto;
+}
   /*
 border-radius: 15px;
 border: 1px solid black;
 background:white;
 */
-  line-height: 1.5;
-}
+
 textClass {
   display: none;
 }
@@ -1848,33 +1849,48 @@ zone {
 }
 /* styles for html shell and html elements in TEI (e.g.,<a> and <img>) */
 
+html > body {
+margin: 0;
+
+}
+
 html {
   margin: 0;
-  padding: 0;
-
-/*    margin: 0;
   padding: 0;
   margin-left: 2em;
   margin-right: 4em;
   padding: 2.5em;
   font-size: 14pt;
-  background-color: #EBEBEB;
+     font-family: "Courier New", Courier, monospace;
   color: #292929;
-  width: 33em; */
+  width: 33em; 
 }
 
-
-html > body {
-    display: flex;
-   font-family: "Courier New", Courier, monospace;
-  justify-content: center;
-  padding: 2em;
-  box-sizing: border-box;
+#cover {
+  font-size: 5rem;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
 }
 
+head{
+    font-size: 3rem;
+     text-align: center;
+     font-weight: bold;
+}
+
+title{
+       font-size: 3rem;
+     text-align: center;
+     font-weight: bold;
+}
 
 img {
-  border: 1px solid #AAA;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    box-sizing: border-box;
 }
 footer {
     display:none;

@@ -95,15 +95,11 @@
 
       <body>
          <div type="cover">
-            <head>STELAZINE</head>
+            <head xml:id="cover">STELAZINE</head>
             <figure>
                <graphic url="https://drive.google.com/thumbnail?id=1L7x4OCzbOSqc2k0rDvvlIWzIglRru4m6&amp;sz=w1000"/>
                <figDesc>The cover of this issue of STELAZINE</figDesc>
-               <p>50!</p>
-               <p>Vol.2</p>
-               <p>No.1</p>
-               <p>Results Inside</p>
-               <p>New York</p>
+               <figDesc>50!, Vol.2, No.1, Results Inside New York</figDesc>
             </figure>
          </div>
 
@@ -296,10 +292,11 @@
 
          <pb n="3"/>
          <div type="page">
+            <head>CLASH</head>
             <figure>
                <graphic url="https://drive.google.com/thumbnail?id=1kjbbbgaLM75S8WHHwrBQ8YDY4eP7S89t&amp;sz=w1000"/>
                <figDesc>Collage of pictures of CLASH band members</figDesc>
-               <head>CLASH</head>
+               
                <p>Photos: Damon Titus</p>
             </figure>
 
@@ -499,7 +496,6 @@
 
             <pb n="4"/>
             <div type="page">
-               <head>more PAUL</head>
                <figure>
                   <graphic url="https://drive.google.com/thumbnail?id=1SA8nPCDE_ZTbH0RMyDGIufCDBdBoAQaw&amp;sz=w500"/>
                   <figDesc>Another picture of Paul taken during the interview.</figDesc>
@@ -2516,7 +2512,9 @@
       </body>
 
       <back>
+         <head>Index</head>
          <div type="index">
+            <head>People Index</head>
             <listPerson type="artist">
                <person xml:id="Peter_Tosh">
                   <persName>Peter Tosh</persName>
@@ -2628,6 +2626,7 @@
             
             
             <listPlace>
+               <head>Place Index</head>
                <place xml:id="New_York">
                   <placeName>New York</placeName>
                </place>
@@ -2749,6 +2748,7 @@
             
             
             <list type="song">
+               <head>Song Index</head>
                <item xml:id="Let_Me_Take_You_Out_To_Lunch">
                   <title>Let Me Take You Out To Lunch</title>
                   <note type="artist">The Dots</note>
