@@ -301,7 +301,7 @@
             realized his naivete when he had landed in<name type="place" ref="#sanfrancisco">San
                Francisco</name>. But<lb/>he realized also that he could not ask too much in a
             strange land.<lb/>And it was this realization that liberated him from his peasant
-               pri-<pb n="8"/><seg>"Be American" 8</seg>son, his heritage, and eventually led him to
+               pri-<pb n="8"/><seg>"Be American" 8</seg><lb/>son, his heritage, and eventually led him to
             a kind of work to which<lb/>he dedicated his time and life until the end.</p>
          <p>I was in<name type="place" ref="#oregon">Oregon</name>when I received a newspaper from
                <name type="person" ref="#consorcio">Consorcio</name>, post-<lb/>marked<name
@@ -333,7 +333,7 @@
             eternal darkness<lb/>coming toward him, deep, deep in the night of perpetual sleep.
             Yes,<lb/>he would not shed a tear; but he must have been crying, seeing that<lb/>there
             was so much to do with so little time left. There was in his<pb n="9"/><seg>"Be
-               American" 9</seg>voice a kindness for me - unhappy, perhaps, that he could not impart
+               American" 9</seg><lb/>voice a kindness for me - unhappy, perhaps, that he could not impart
             <lb/>what he had learned from his wanderings on this earth<ref target="BA9-1">:</ref>
             unhappy, also,<lb/>because he knew that it would take all the people to unmake the
             un-<lb/>happiness which had caught up with us. And now, fifteen years after<lb/>his
@@ -434,7 +434,9 @@
 
    <text type="shortstory" n="2">
       <body>
-         <pb n="-1-"/>
+         <pb n="1"/>
+         <seg></seg>
+         
          <head><emph>The Lonesome Mermaid</emph></head>
 
          <p>Every once in a while<name type="person" ref="#mermaid"> the mermaid</name> emerged from
