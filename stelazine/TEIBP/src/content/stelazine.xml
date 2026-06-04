@@ -2594,7 +2594,7 @@
                   <note>smerican producer and co-founder/drummer of The Talking Heads</note>
                </person>
             </listPerson>
-            <listPlace>
+            <listPlace type="location">
                <place xml:id="New_York">
                   <placeName>New York</placeName>
                </place>
