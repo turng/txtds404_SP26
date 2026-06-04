@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Police de Paris Dévoilée</title>
+                <author>Pierre-Louis Manuel</author>
+                <editor>Brandon Hrnjak</editor>
+                <editor>Haylee Weisner</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    This student digital edition strives to connect modern students and researchers interested in the history of policing, the French Revolution, and how state power is organized and justified with an 18th-century, firsthand account of administrative power in Paris. The selections included in this excerpt provide an accessible entry-point for those unfamiliar with obsolete French (perhaps French language learners) who want to begin to engage primary documents without needing to read the entire work. Through robust indexing and the addition of contextual footnotes, this edition aims to clarify references, explain historical institutions, and highlight patterns in the text’s treatment of surveillance and public order.
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p> La Police de Paris Dévoilée offers a contemporary account of the practices, personnel, and institutions of the Paris police, written from the perspective of Pierre-Louis Manuel, who served as a municipal official during the early years of the French Revolution. Manuel was later arrested and guillotined for his revolutionary work. The text contains two volumes of critique about policing, prisons, and the importance of freedom of press. 
+                    <bibl>
+                        <title>La Police de Paris Dévoilée</title>
+                        <author>Pierre-Louis Manuel</author>
+                        <publisher>J.B. Garnery</publisher>
+                        <pubPlace>17 rue Serpente, Paris</pubPlace>
+                        <date>1791</date>
+                        <idno type="callNumber">HV8206.P3 M3 1791</idno>
+                        <idno type="OCLC">573635075</idno>
+                    </bibl>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <normalization>
+                    <p>In this publication, spelling was modernized for ease of contemporary readers. Each instance of modernized spelling will be tagged with the choice element, and the original and regularized spellings will be listed using "orig" and "reg".</p>
+                </normalization>
+                <punctuation>
+                    <p>Punctuation has not been regularized as it does not meaningfully impede textual comprehension. The editors have done their best to transcribe punctuation exactly as it appears in the text, which entails inconsistent patterns of spacing before/after punctuation marks.</p>
+                </punctuation>
+                <interpretation>
+                    <p>Sentence construction and other grammatical aspects were left as found in the original to best maintain the voice of the author and avoid divorcing the text from the temporal context in which it emerged.</p>
+                </interpretation>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>La Police de Paris Dévoilée is a rare and critical text from an era of immense censorship and oppression. In late-Ancien Régime Paris, flow of information pertaining to the government and its actions was highly constrained. Paris did not have a daily newspaper until 1777, over a century later than some other major Western European cities <ref target="#Darnton">(Darnton 2000)</ref>. The printed materials that did exist were heavily monitored by a secret police force through practices described in La Police de Paris Dévoilée. This text is especially compelling because it does not simply describe institutions from a distance; it engages questions of surveillance, authority, and the relationship between government and the public from the perspective of an insider in ways that still feel urgent.</p> 
+            <p>This edition is primarily interested in the textual content of the work rather than the formal features of this copy. In particular, this project focuses on encoding the book’s treatment of censorship, surveillance, citizens’ rights, and police accountability, while also considering how a French text from the late 1700s can be made more accessible to modern audiences. This edition aims to help readers engage the historical and political significance of the text without losing sight of its original context. It also strives to create a foundation for future editorial and translation work by identifying places where issues of readability, interpretation, and political meaning are especially important.</p>
+            <p>This project regularizes spelling while maintaining all uses of archaic grammar or typographical quirks in order to represent the source text as accurately as possible while still emphasizing accessibility to the modern reader. In this way the transcription becomes a reliable base text for further works concerning modernization or translation. It also reflects an attempt to balance accessibility with respect for the age, provenance and historical character of the text.</p> 
+            
+        </front>
+        <body>
+            <div type="V1"> 
+                <div type="AuxAmis">
+                    <pb n="5"/>
+                    <head>AUX AMIS DE LA CONSTIUTION</head>
+                    
+                    <opener>
+                        <salute><hi rend="smallcaps">MESSIEURS,</hi></salute>
+                    </opener> 
+                    
+                    <p>Je n'ai quitté Paris qu'après m'être assuré que de l'herbe <choice><reg>couvrait</reg><orig>couvroit</orig></choice> la <hi rend="italic">bastille</hi>.</p> 
+                    
+                    <p>Ma tâche <choice><reg>était</reg><orig>étoit</orig></choice> finie : car le peuple m'<choice><reg>avait</reg><orig>avoit</orig></choice> relevé de mon poste : et j'<choice><reg>emportais</reg><orig>emportois</orig></choice> son estime.</p>
+                    
+                    <p>Mais c'<choice><reg>était</reg><orig>étoit</orig></choice> pour mieux le servir que je m'<choice><reg>éloignais</reg><orig>éloignois</orig></choice> du théâtre de la <hi rend="italic">révolution</hi>. Il m'a semblé que c'<choice><reg>était</reg><orig>étoit</orig></choice> entrer dans ses vues comme dans ses besoins , que de lui révéler toutes les turpitudes de cette <hi rend="italic">police</hi> qui n'a jamais rien trouvé d'impossible , parce que pour elle il n'y eut jamais rien ni d'injuste ni de malhonnête. Quand il connoîtra les magistrats que lui <choice><reg>donnaient</reg><orig>donnoient</orig></choice> des rois , il sentira tout ce que vaut le droit qu'il n'<choice><reg>au<pb n="6"/>rait</reg><orig>auroit</orig></choice> jamais dû perdre , de les choisir lui-même.</p> 
+                    
+                    <p>Il m'a fallu du courage pour dénoncer les coupables : car ce sont presque tous des <hi rend="italic">très-hauts</hi> et <hi rend="italic">très-<choice><reg>puissants</reg><orig>puissans</orig></choice> seigneurs</hi>. Mais si, quand on veut se corriger , on se confesse , ils ne me sauront pas mauvais gré de les avoir montrés tels que je les ai surpris , avec leurs foiblesses , leurs vices et leurs crimes. Après tout , je ne les damne pas encore. Dieu lui-même, comme le <choice><reg>disait</reg><orig>disoit</orig></choice> madame de <hi rend="italic">Thiange</hi>, quand il s'agira de personnes de si <hi rend="italic">haute extraction</hi>, Dieu y regardera à deux fois.</p> 
+                    
+                    <p>Il résultera du moins de cette instruction publique une vérité consolante, que, des <hi rend="italic">trois ordres</hi>, celui qui a été le moins riche, a toujours été le plus sage, et par consé<pb n="7"/>quent le mieux disposé aux formes républicaines de la liberté.</p> 
+                    
+                    <p>S'il est un moyen d'arrêter la gangrenne d'une Nation, c'est d'abandonner tous les citoyens à la censure, jusqu'à ce que chacun se croye digne d'occuper une maison de verre.</p> 
+                    
+                    <p>La grande puissance sur les mœurs c'est <hi rend="italic">l'opinion</hi> : et avec la molle indulgence des procédés, elle ne se <choice><reg>formerait</reg><orig>formeroit</orig></choice> jamais. Une politesse hypocrite énerve tous les caractères. Par elle, on s'embrasse, quand on se hait ; on se flatte, quand on se méprise. Des leçons, des vérités ! voilà ce que nous nous devons tous : et qu'une franche médisance éloigne de nos foyers la lâche calomnie.</p> 
+                    
+                    <p>Lorsque les <hi rend="italic">Athéniens</hi>, qui prirent si long-temps le plaisir pour le bonheur, se furent enfin apperçu que <pb n="8"/>les femmes <choice><reg>avaient</reg><orig>avoient</orig></choice> tout-à-fait oublié que leur gloire <choice><reg>était</reg><orig>étoit</orig></choice> de donner des hommes au monde, ils créèrent des magistrats pour veiller sur elles : et leurs sentences, inscrites sur des tablettes, <choice><reg>étaient</reg><orig>étoient</orig></choice> suspendues à l'un des platanes de la promenade publique. Peu-à-peu la Grèce se régénéra : et les <hi rend="italic"><ref target="#n1">Vénus de Praxitelle</ref></hi> se cachèrent au moins devant la <hi rend="italic"><ref target="#n2">Minerve de Phidias</ref></hi>.</p> 
+                    
+                    <p>Comme ses lois, la <placeName><country>France</country></placeName> doit changer ses mœurs : et cette réforme dépend de la répartition qu'elle saura faire de l'estime et du mépris. Il ne faut plus qu'elle juge ses <choice><reg>enfants</reg><orig>enfans</orig></choice> sur ce qu'ils payent, mais sur ce qu'ils valent. Elle a des honneurs et des places à donner; c'est à la vertu , c'est au talent qu'ils sont dûs.</p> 
+                    
+                    <p>Mais disons-le souvent, disons-le <pb n="9"/>toujours : c'est sur-tout la liberté de la <hi rend="italic">presse</hi>, qui conservera au peuple tous les bienfaits de la <hi rend="italic">révolution</hi>. Des imprimeries sont plus utiles que des paroisses : et si la patrie avoit déjà des apôtres, comme en a eu la religion , les riches qui ne savent pas encore à quoi sert la fortune , s'<choice><reg>empresseraient</reg><orig>empresseroient</orig></choice> de fonder des imprimeries , comme jadis on <choice><reg>fondait</reg><orig>fondoit</orig></choice> des chapelles ; et collateurs de ces bénéfices, ils les <choice><reg>feraient</reg><orig>feroient</orig></choice> deservir par des missionaires de la philosophie qui <choice><reg>semeraient</reg><orig>semeroient</orig></choice> par-tout les principes de la <hi rend="italic">constitution</hi>.</p> 
+                    
+                    <p>Des journaux sont les phares d'un peuple libre.</p> 
+                    
+                    <p>Il <choice><reg>faudrait</reg><orig>faudroit</orig></choice> qu'il y eut dans chaque ville un homme de lettres qui, avec toute l'énergie que donne l'amour de l'ordre, doué de ce vrai mérite <pb n="10"/>qui est trop modeste pour espérer des honneurs , et trop fier pour en chercher, fut chargé par les législateurs eux-mêmes , de relever tous les préjugés de ces administrations naissantes , où l'art de commander n'est pas plus avancé que l'art d'obéir. Il <choice><reg>apprendrait</reg><orig>apprendroit</orig></choice> <hi rend="italic">au peuple</hi>, tout souverain qu'il est , à avoir pour ceux à qui il a remis et ses forces et ses droits, cette déférence que <ref target="n#3">Lacédémone</ref> <choice><reg>avait</reg><orig>avoit</orig></choice> pour ses <hi rend="italic"><ref target="#n4">Ephores</ref></hi> , que Rome <choice><reg>avait</reg><orig>avoit</orig></choice> pour ses tribuns : <hi rend="italic">aux municipalités</hi>, que leurs fonctions sont une espèce de sacerdoce où les moeurs ne sont pas moins indispensable que les <choice><reg>talents</reg><orig>talens</orig></choice> ; et qu'avec une <hi rend="italic">écharpe</hi> on ressemble à ces <hi rend="italic">archontes</hi> que les grecs <choice><reg>condamnaient</reg><orig>condamnoient</orig></choice> à mort, lorsque perdant leur raison dans l'ivresse des repas, ils <choice><reg>exposaient</reg><orig>exposoient</orig></choice> au mépris les marques <pb n="11"/>de leurs dignité ; aux <hi rend="italic">prêtres</hi> enfin, que la religion dans un état ne doit défendre que ce que défend la loi ; que les actions des hommes ne sont point bonnes , parce qu'elles plaisent à Dieu, mais qu'elles plaisent à Dieu parce qu'elles sont bonnes et que tout citoyen peut naître, vivre et mourir sans eux, qui n'ont de pouvoir, ni sur les opinions, ni sur les consciences.</p> 
+                    
+                    <closer>
+                        <salute><l>C'est dans ces <choice><reg>sentiments</reg><orig>sentimens</orig></choice> que je suis avec autant de respect que d'attachement ,</l>
+                            
+                            <l>Messieurs,</l> 
+                            
+                            <l>Votre très-dévoué frère,</l>
+                        </salute> 
+                        
+                        <signed>
+                            <hi rend="smallcaps">P. MANUEL</hi>
+                        </signed>
+                    </closer>
+                </div>
+            </div>
+        </body>
+        <back>
+            <div type="endnotes">
+                <note xml:id="n1" type="editorial" place="foot">
+                    By saying "Vénus de Praxitelles" (or Venus of Praxitelles) Manuel is referring to the marble sculpture "Aphrodite of Knidos," which was carved by Praxiteles around 350BCE. While Manuel uses the Roman name for the goddess, the Greek is more common in anglophone circles. Aphrodite of Knidos was the first known 3-dimensional female nude, depicting a completely nude Aphrodite, in preparation for a bath, perhaps. It was reknowned for its eroticism. The work eventually succumbed to a fire in 476.
+                    <ptr target="#Havelock"/>
+                </note>
+                <note xml:id="n2" type="editorial" place="foot">
+                    When Manuel says "Minerve de Phidias" (Minerva of Phidias), he is referencing the statue "Athena Parthenos", a gold and ivory portrait over ten meters tall which once stood in the center of the Parthenon. Again, Manuel uses the Roman name for the goddess. Athena Parthenos was carved between 447 and 438 BCE by Phidias, a reknowned sculptor, who later created the statue of Zeus at Olympia. In the work, Athena stands elegantly dressed and suited in her armor. Historians know neither when the statue disappeared from the Parthenon nor why.
+                    <ptr target="#Gribbin"/>
+                </note>
+                <note xml:id="n3" type="editorial" place="foot">
+                    Lacedaemon. The official name of Sparta. 
+                    <ptr target="#Oxford"/>
+                </note>
+                <note xml:id="n4" type="editorial" place="foot">
+                    The Ephors was a committee of five democratically elected Spartan men who exercised executive power over the state. Each individual Ephor was selected for a term of one year, which one could only serve once during their lifetime. Ephors had particular power over the king, including the ability to put the king to death should they find he has transgressed, and checking monarchal power was understood as one of their major duties.
+                    <ptr target="#Kulesza"/>
+                </note>
+            </div>   
+            <div type="bibliography">
+                <bibl xml:id="Darnton">
+                    <author>Robert Darnton</author>
+                    <title>An Early Information Society: News and the Media in Eighteenth-Century Paris</title>
+                    <date>2000</date>
+                    <publisher>Oxford University Press</publisher>
+                    <pubPlace>Oxford, UK</pubPlace>
+                </bibl>
+                <bibl xml:id="Havelock">
+                    <author>Christine Mitchell Havelock</author>
+                    <title>The Aphrodite of Knidos and her Successors : a Historical Review of the Female Nude in Greek Art</title>
+                    <date>1995</date>
+                    <publisher>Univeristy of Michigan Press</publisher>
+                    <pubPlace>Ann Arbor, MI</pubPlace>
+                </bibl>
+                <bibl xml:id="Gribbin">
+                    <author>Gribbin</author>
+                    <title>Athens to Australia: The Athena Parthenos</title>
+                    <date>2019</date>
+                    <publisher>Agora</publisher>
+                </bibl>
+                <bibl xml:id="Oxford">
+                    <editor>Simon Hornblower</editor>
+                    <editor>Antony Spawforth</editor>
+                    <editor>Esther Eidinow</editor>
+                    <title>The Oxford Classical Dictionary</title>
+                    <date>2012</date>
+                    <publisher>Oxford University Press</publisher>
+                    <pubPlace>Oxford, UK</pubPlace>
+                </bibl>
+                <bibl xml:id="Kulesza">
+                    <author>Ryszard Kulsza</author>
+                    <title>Sparta: History, State, and Society</title>
+                    <date>2022</date>
+                    <publisher>Peter Lang Press</publisher>
+                </bibl>
+            </div>
+        </back>
+    </text>
+    <text>
+        <body>
+            <div type="V1">
+                <div type="LaLibrairie">
+                    <pb n="30"/>
+                    <p>Alors la librairie eût deux rois. La ligne de démarcation entre leurs empires est le chef-d’œuvre des deux souverains. Après plusieurs conférences , les articles <choice><reg>suivants</reg><orig>suivans</orig></choice> furent arrêtés.</p>
+                    
+                    <p><hi rend="italic">Pour le lieutenant de Police.</hi></p>
+                    
+                    <list>
+                        <item n="1">Permettre l’entrée des livres aux barrières.</item>
+                        <item n="2">Les faire rendre à la <choice><reg>douane</reg><orig>douanne</orig></choice>.</item>
+                        <item n="3">Les saisies ou suspensions de livres par les commis des fermes , tant aux barrières de Paris que dans la province.</item>
+                        <item n="4">Les saisies des livres prohibés faites dans les chambres syndicales , par les <ref target="#n5">inspecteurs de la librairie</ref> ou officiers , ainsi que par les commis des fermes dans leurs tournées.
+                            La visite qui se fait tous les ans à la chambre syndicale , pour décider du sort des livres qui y sont confisqués ou suspendus.</item>
+                        <item n="5">Recevoir le serment des nouveaux officiers de la librairie , et celui des nouveaux libraires.</item>
+                        <item n="7">Tenir la main à l’exécution du réglement.</item>
+                        <pb n="31"/>
+                        <item n="8">Permettre l’impression d’un ouvrage jusqu’à concurrence de deux feuilles.</item>
+                        <item n="9">Défendre ou arrêter la vente de toute <choice><reg>espèce</reg><orig>espece</orig></choice> d’ouvrages suivant les circonstances.</item>
+                        <item n="10">Toutes perquisitions ou saisies de l’ordre du roi , ou emprisonnement.</item>
+                        <item n="11">Censure des <choice><reg>pièce</reg><orig>pieces</orig></choice> de théâtre.</item>
+                        <item n="12">On doit fournir au magistrat une copie des permissions tacites. Il <choice><reg>faudrait</reg><orig>faudroit</orig></choice> aussi lui donner copie de tous les <choice><reg>jugements</reg><orig>jugemens</orig></choice>.</item>
+                    </list>
+                    
+                    <p>A quelques subtiles observations près,tout accordé.</p>
+                    
+                    <p><hi rend="italic">Pour le directeur-général de la librairie</hi></p>
+                    
+                    <p><hi rend="italic">Détail de la librairie gracieuse.</hi></p>
+                    
+                    <list>
+                        <item n="1">Proposer la nomination d’un nouveau censeur.</item>
+                        <item n="2">Nommer le censeur d’un ouvrage.</item>
+                        <item n="3">Recevoir son jugement.</item>
+                        <item n="4">En rendre compte à <ref target="#n6">M. le garde des sceaux</ref>.</item>
+                        <item n="5">Lui adresser la feuille des <choice><reg>jugements</reg><orig>jugemens</orig></choice>, ou des permissions tacites.</item>
+                        <item n="6">Proposer la nomination des inspecteurs de la librairie , tant à Paris qu’en province.</item>
+                        <pb n="32"/>
+                        <item n="7">Signer les ordres pour rendre les livres à la chambre syndicale.</item>
+                        <item n="8">Permettre ou suspendre la distribution d’un ouvrage approuvé et permis.</item>
+                        <item n="9">Punir un libraire qui aura mis en vente avant la permission.</item>
+                        <item n="10">Recevoir les plaintes des auteurs contre les libraires, et en rendre compte à M. le garde des sceaux.</item>
+                        <item n="11">Rendre compte à M. le garde des sceaux des demandes de privilèges , des refus d’enregistrement desdits privilèges, à la chambre syndicale.</item>
+                        <item n="12">Des plaintes de <choice><reg>contrefaçons</reg><orig>contrefactions</orig></choice>, d’analyses, d’extraits, de plagiats.</item>
+                    </list>
+                    
+                    <p>Le tout accordé, en observant toutefois que le magistrat de la librairie doit avoir le droit de faire exécuter une interdiction prononcée par un arrêt du conseil; mais dans le cas de police civile, il convient de consulter le magistrat de police.</p>
+                    
+                    <p>On observe encore sur l’article 12, que quand les <choice><reg>plaignants</reg><orig>plaignans</orig></choice> se pourvoient en justice réglée, cela regarde <ref target="#n7">M. le lieutenant-général de police</ref> en première instance, par appel au conseil ou le bureau des affaires contentieuses.</p>
+                    
+                    <p>Une fois à leur place, ces deux magistrats se <pb n="33"/> <choice><reg>disputaient</reg><orig>disputoient</orig></choice> la gloire d’entretenir la cour de leurs services. L’un <choice><reg>écrivait</reg><orig>écrivoit</orig></choice> au roi : ”Une tolérance trop décidée a enhardi et les auteurs et les libraires. J’ai trouvé établi le <choice><reg>système</reg><orig>systême</orig></choice> que la librairie étant une branche de commerce, on ne <choice><reg>pouvait</reg><orig>pouvoit</orig></choice> lui donner trop d’étendue et de liberté. A la faveur de ce principe, on ferme les yeux sur l’impression, la publication et la distribution de tous les ouvrages prohibés. Le prétexte de ne point faire passer l’argent chez l’étranger , autorise la plus coupable licence, comme si la religion ne <choice><reg>devait</reg><orig>devoit</orig></choice> pas commander à la politique. Ce qui peut rassurer votre majesté, c’est que les littérateurs sont fortement persuadés qu’au milieu des grands objets dont votre majesté est occupée, elle a daigné descendre aux détails de la librairie, et donner les ordres les plus précis pour la défense de tout livre que je croirai dangereux”. L’autre <choice><reg>écrivait</reg><orig>écrivoit</orig></choice>: ”Sire, votre majesté n’ignore pas qu’il y a dans Paris une imprimerie qui n’est pas entièrement soumise à mon inspection. Celle de <ref target="#n8">Simon</ref>, est en quelque sorte dépendante du parlement; elle ne <choice><reg>devait</reg><orig>devoit</orig></choice> être employée qu’à imprimer ses arrêts. Cependant l’intérêt et la complaisance de l’imprimeur lui<pb n="34"/> font quelquefois oublier son devoir; et c’est par cette voie que les ouvrages de parti se sont répandus souvent dans le public... Un abus d’un autre genre que je crois devoir vous dénoncer, c’est l’établissement qu’on a toléré depuis 40 ans des marchands de livres dans les maisons royales, aux spectacles, dans le château même de Versailles, et dans tous les lieux privilégiés”.</p>
+                    
+                    <p>Tous les deux se <choice><reg>faisaient</reg><orig>faisoient</orig></choice> un grand mérite d’avoir fait saisir à la foire de <ref target="#n9">Beaucaire</ref>, 40 ballots de livres défendus, destinés pour la France et introduits par Avignon; d’avoir fait arrêter à Lyon, à Bayonne des libraires en contravention.</p>
+                    
+                    <p>La postérité me pardonnera-t-elle de n’avoir pas déposé au temple de mémoire, les noms de ces magistrats qui sans la gazette ecclésiastique qui leur <choice><reg>échappait</reg><orig>échappoit</orig></choice> toujours, <choice><reg>auraient</reg><orig>auroient</orig></choice> eu, comme Dieu, la réputation d’être <choice><reg>présents</reg><orig>présens</orig></choice> par-tout?</p>
+                </div>
+            </div>
+        </body>
+        <back>
+            <div type="endnotes">
+                <note xml:id="n5" type="editorial" place="foot">
+                    Inspecteurs de la librairie refers to a class of inspectors created by royal decree in 1777. Inspectors were obligated to perform rigorous quarterly inspections of every printing shop. The inspectors played a key role in controlling the book trade by reporting their findings directly to the central government, which resulted in the ordered closure of many printing shops.
+                    <ptr target="#Burrows"/>
+                </note>
+                <note xml:id="n6" type="editorial" place="foot">
+                    The garde de sceaux was a distinct royal position held prior to the revolution, whose duties have since been subsumed by the Minister of Justice. The garde des sceaux used the sceau, or official French seal, to validate and authenticate letters patent including documents like pardons.
+                    <ptr target="#FrGov"/>
+                </note>
+                
+                <note xml:id="n7" type="editorial" place="foot">
+                    The lieutenant-général de police was a position established in 1667 that worked closely with the king. Towards the second half of the 18th century, the role was understood as protecting the interests of the rich and opressing vulnerable populations.
+                    <ptr target="#Stoll"/>
+                </note>
+                <note xml:id="n8" type="editorial" place="foot">
+                    It is the editors' best guess that this refers to Paul-Guillaume Simon, the printer of the Parisian parliament from 1741-1782. Reputable biographical information on Simon is scarce. 
+                    <ptr target="#BnF" />
+                    <ptr target="#Boussemart"/>
+                </note>
+                <note xml:id="n9" type="editorial" place="foot">
+                    La Foire de Beaucaire was a large annual market that drew significant international trade within and outside of Europe as a result of its location on the Rhône and its proximity to the Mediterrannean. The market would go on to disappear by 1870 after a lengthy period of decline beginning roughly around the revolution. 
+                    Vie et mort d'un grand marché international. La foire de Beaucaire (XVIIIe-XIXe siècles) [article]
+                    sem-link Pierre Léon
+                    <ptr target="#Léon"/>
+                </note>
+            </div>
+            <div type="bibliography">
+                <bibl xml:id="Burrows">
+                    <author>Simon Burrows</author>
+                    <title>Charmet and the Book Police: Clandestinity, Illegality and Popular Reading in Late Ancien Régime France</title>
+                    <date>2015</date>
+                    <publisher>French History and Civilization</publisher>
+                </bibl>
+                <bibl xml:id="FrGov">
+                    <title>Les Sceaux des Origines à Nos Jours</title>
+                    <publisher>Ministère de la Justice de France</publisher>
+                    <ptr target="https://www.justice.gouv.fr/sceaux-origines-nos-jours#h2-lusage-du-sceau-jusqua-la-revolution-francaise"/>
+                </bibl>
+                <bibl xml:id="Stoll">
+                    <author>Mathieu Stoll</author>
+                    <title>Création de la Charge de Lieutenant de Police de Paris</title>
+                    <date>2024</date>
+                    <publisher>FranceArchives</publisher>
+                    <ptr target="https://francearchives.gouv.fr/fr/commemo/recueil-2017/26287398"/>
+                </bibl>
+                <bibl xml:id="BnF">
+                    <title>Pierre-Guillaume Simon (1722-1787)</title>
+                    <publisher>Bibliothèque Nationale de France</publisher>
+                    <ptr target="https://data.bnf.fr/en/ark:/12148/cb12250739s#"/>
+                </bibl>
+                <bibl xml:id="Boussemart">
+                    <author>Mathias Boussemart</author>
+                    <title>De petits Bois de Justice</title>
+                    <date>2025</date>
+                    <publisher>Justices Manifestes</publisher>
+                </bibl>
+                <bibl xml:id="Léon">
+                    <author>Pierre Léon</author>
+                    <title>Vie et Mort d'un Grand Marché International. La Foire de Beaucaire (XVIIIe-XIXe Siècles)</title>
+                    <date>1953</date>
+                    <publisher>Revue de Géographie de Lyon</publisher>
+                </bibl>
+            </div>
+        </back>
+    </text>
+    <text>
+        <body xml:lang="FR">
+            <div type="volume" xml:id="V2">
+                <div type="section" xml:id="MaisonsDeForce">
+                    
+                    <pb n="23"/>
+                    <p rend="header">DE LA POLICE SUR LES MAISONS DE FORCE.</p>
+                    
+                    <p>QUAND un Roi s’imagine que vingt <choice><reg>millions</reg><orig>milions</orig></choice> d’hommes sont faits pour lui seul, et qu’il veut être lui seul plus fort qu’eux tous; quand il a des ministres, dont le plus doux a expédié, sur l’affaire de la bulle <ref target="#n10">Unigenitus</ref>, plus de 54 000 lettres de cachet, il faut qu’il ait des prisons partout où il a à craindre qu’un <ref target="#n11">Blasktone</ref> réveille le peuple pour lui dire que <hi rend="italic">la conservation</hi> de la <hi rend="italic">liberté particulière est si importante</hi> , que s’il <choice><reg>était</reg><orig>étoit</orig></choice> laissé <hi rend="italic">à la volonté des magistrats, et même du magistrat suprême, d’emprisonner arbitrairement ceux que lui ou ses officiers jugent devoir l’être, tous les droits, toutes les immunités <choice><reg>seraient</reg><orig>seroient</orig></choice> bientôt anéanties.</hi></p>
+                    
+                    <p>La France <choice><reg>était</reg><orig>étoit</orig></choice> hérissée de ces maisons de force, où le despotisme qui ne paraissait doux que parce qu’il <choice><reg>était</reg><orig>étoit</orig></choice> corrompu, et qui <choice><reg>eut</reg><orig>eût</orig></choice> été moins dur s’il <choice><reg>eut</reg><orig>eût</orig></choice> été plus méchant, avait la lâcheté de renfermer des victimes qu’il n’<choice><reg>eut</reg><orig>eût</orig></choice> pas eu le courage de tuer.<pb n="24"/>Chaque province <choice><reg>était</reg><orig>étoit</orig></choice> son geôlier. La Bretagne lui <choice><reg>gardait</reg><orig>gardoit</orig></choice> le <ref target="#n12"><hi rend="italic">Château du Taureau</hi></ref>, l’Anjou, celui de <ref target="#n13"><hi rend="italic">Saumur</hi></ref>, la Guyenne,le <ref target="#n14"><hi rend="italic">Château-Trompette</hi></ref>, le Lyonnais, celui de <ref target="#n15"><hi rend="italic">Pierre-Encise</hi></ref>, le Languedoc, le fort de <ref target="#n16"><hi rend="italic">Brehon</hi></ref>, la Normandie, le <ref target="#n17">M<hi rend="italic">ont-Saint-Michel</hi></ref>, la Picardie, le <ref target="#n18"><hi rend="italic">Château de Ham</hi></ref>, la Provence, les îles <ref target="#n19"><hi rend="italic">Sainte-</hi>M<hi rend="italic">arguerite</hi></ref>. Ce n’est pas tout. Comme la capitale qui a <ref target="#n20"><hi rend="italic">Saint-Lazare</hi></ref>, <ref target="#n21"><hi rend="italic">Bicêtre</hi></ref> et <ref target="#n22"><hi rend="italic">Charenton</hi></ref>, chaque ville offrait ses <choice><reg>couvents</reg><orig>couvens</orig></choice>, où des moines, qui ne <choice><reg>priaient</reg><orig>prioient</orig></choice> que Dieu, <choice><reg>gardaient</reg><orig>gardoient</orig></choice> des hommes qui ne <choice><reg>priaient</reg><orig>prioient</orig></choice> souvent que le Roi. C’<choice><reg>étaient</reg><orig>étoient</orig></choice> à <hi rend="italic">Angers</hi>, à <hi rend="italic">Nancy</hi>, à <hi rend="italic">Rouen</hi>, les <hi rend="italic">Écoles chrétiennes</hi>; à M<hi rend="italic">ont-Jean</hi>, à <hi rend="italic">Beauvais</hi>, à <hi rend="italic">Tanlay</hi>, à <hi rend="italic">Châtillon-sur-Seine</hi>, à <hi rend="italic">Amboise</hi>, les <hi rend="italic">Cordeliers</hi>; à <hi rend="italic">Saint - Venant</hi>, à <hi rend="italic">Armentières</hi>, à <hi rend="italic">Lille</hi>, les <hi rend="italic">Bons-fils</hi>; à <hi rend="italic">Senlis</hi>, à <hi rend="italic">Château-Thierry</hi>, à <hi rend="italic">Romans</hi>, à <hi rend="italic">Cadillac</hi>, <hi rend="italic">à Pontorson</hi>, à <hi rend="italic">Poitiers</hi>, les <hi rend="italic">Frères de la Charité</hi>; à <hi rend="italic">Vailly</hi>, les <ref target="#n23"><hi rend="italic">Picpus</hi></ref>; &amp;c. Ce n’est pas tout encore. Que faire des femmes, quand n’étant plus assez jolies pour avoir toujours raison, leurs défauts passent pour des vices, et leurs <choice><reg>faiblesses</reg><orig>foiblesses</orig></choice> pour des crimes? Il faut les cacher ou les perdre. Mais la <ref target="#n24">Salpêtrière</ref>, <ref target="#n25">Sainte-Pélagie</ref>, les <ref target="#n26">Magdalonnettes</ref>, ni le couvent de <ref target="#n27">Valdonne</ref>, ne les cont<pb n="25"/><choice><reg>iendraient</reg><orig>iendroient</orig></choice> pas toutes. <hi rend="italic">Le <ref target="#n28">Refuge</ref></hi> à <hi rend="italic">Dijon</hi>, les <hi rend="italic"><ref target="#n29">Annonciades</ref> à Clermont-</hi>M<hi rend="italic">argone</hi>, la M<hi rend="italic">adeleine</hi> à la <hi rend="italic">Flèche</hi> , <hi rend="italic">Notre-Dame-de-Charité</hi> à <hi rend="italic">Guingamp</hi> , <hi rend="italic">celle de la Riche</hi> à <hi rend="italic">Tours</hi> , les <hi rend="italic">Ursulines</hi> à <hi rend="italic">Chinon</hi>, les <hi rend="italic">Hospitalières</hi> à <hi rend="italic">Comond</hi>, s’<choice><reg>ouvraient</reg><orig>ouvroient</orig></choice> complaisamment à des prisonnières d’État qui souvent <choice><reg>étaient</reg><orig>étoient</orig></choice> des Messalines que des Vestales <choice><reg>avaient</reg><orig>avoient</orig></choice> ordre de surveiller et de servir.</p>
+                </div>
+            </div>
+        </body>
+        
+        <back>
+            
+            <div type="endnotes">           
+                
+                <note xml:id="n10" xml:lang="en">
+                    The bull Unigenitus, issued in 1713, condemned propositions associated with
+                    Jansenism and became a major source of religious and political conflict in
+                    eighteenth-century France. Manuel invokes it to show how disputes over belief
+                    could lead to administrative repression and imprisonment within a broader
+                    system of control.
+                    <ref type="biblio" target="#Darnton"/>
+                </note>
+                
+                <note xml:id="n11" xml:lang="en">
+                    “Blackstone” refers to William Blackstone, author of the Commentaries on the
+                    Laws of England, which strongly emphasized protection against arbitrary
+                    imprisonment. Manuel uses Blackstone as a foil to criticize a French system
+                    of confinement that often bypassed open judicial process.
+                    <ref type="biblio" target="#Darnton"/>
+                </note>
+                
+                <note xml:id="n12" xml:lang="en">
+                    The Château du Taureau, in the bay of Morlaix, was one of several fortresses
+                    used to detain prisoners under royal authority. Manuel includes it in order
+                    to emphasize the broad geography of state confinement.
+                </note>
+                
+                <note xml:id="n13" xml:lang="en">
+                    The château of Saumur, on the Loire, served at various times as a place of
+                    detention. For Manuel, sites like this show that administrative imprisonment
+                    extended well beyond Paris itself.
+                </note>
+                
+                <note xml:id="n14" xml:lang="en">
+                    The Château-Trompette in Bordeaux was a royal citadel also used as a prison.
+                    Manuel presents it as part of a kingdom-wide network of places where the
+                    monarchy could confine people by administrative authority.
+                </note>
+                
+                <note xml:id="n15" xml:lang="en">
+                    Pierre-Encise, near Lyon, functioned as a state prison as well as a
+                    fortress. The succession of such place names encourages readers to imagine a
+                    map of France covered with sites of arbitrary confinement.
+                </note>
+                
+                <note xml:id="n16" xml:lang="en">
+                    The fort of Bréhon in Languedoc formed part of this dispersed network of
+                    strongholds. Manuel’s emphasis is less on each site individually than on the
+                    cumulative effect of so many prisons across the kingdom.
+                </note>
+                
+                <note xml:id="n17" xml:lang="en">
+                    Mont-Saint-Michel, famous as a religious site, was also used as a prison for
+                    religious and political detainees. Its inclusion shows how places of devotion
+                    could also become instruments of confinement.
+                </note>
+                
+                <note xml:id="n18" xml:lang="en">
+                    The château of Ham in Picardy was another fortress used as a place of state
+                    detention. Such prisons became powerful symbols of arbitrary authority in the
+                    political culture of the late Ancien Régime.
+                </note>
+                
+                <note xml:id="n19" xml:lang="en">
+                    The Îles Sainte-Marguerite, off the Mediterranean coast, contained a
+                    fortified prison that held both well-known and obscure detainees. Manuel uses
+                    it to show that royal imprisonment extended even to island sites.
+                </note>
+                
+                <note xml:id="n20" xml:lang="en">
+                    Saint-Lazare in Paris combined charitable, corrective, and carceral
+                    functions. Manuel includes it in a broader continuum of institutions where
+                    care, discipline, and punishment overlapped.
+                </note>
+                
+                <note xml:id="n21" xml:lang="en">
+                    Bicêtre was at once a hospital, poorhouse, and prison. Its mixed functions
+                    illustrate how social assistance and coercive confinement were often closely
+                    linked in the old regime.
+                </note>
+                
+                <note xml:id="n22" xml:lang="en">
+                    Charenton refers here to the asylum and detention site where people judged
+                    insane or socially disruptive could be confined by administrative decision.
+                    Manuel suggests that claims of madness could become a convenient excuse for
+                    removing inconvenient people from public life.
+                </note>
+                
+                <note xml:id="n23" xml:lang="en">
+                    The Picpus and similar religious congregations could receive women whom their
+                    families or authorities wished to hide, discipline, or control. Manuel
+                    treats such houses as extensions of the wider system of confinement.
+                </note>
+                
+                <note xml:id="n24" xml:lang="en">
+                    The Salpêtrière in Paris combined hospital, workhouse, and correctional
+                    functions, and many women were confined there through lettres de cachet or
+                    family denunciation. Manuel uses it as a symbol of moral and administrative
+                    coercion.
+                </note>
+                
+                <note xml:id="n25" xml:lang="en">
+                    Sainte-Pélagie functioned as a women’s prison and later became known as a
+                    site of political detention. In Manuel’s account, it represents the
+                    intersection of gender, morality, and state power.
+                </note>
+                
+                <note xml:id="n26" xml:lang="en">
+                    The Magdalonnettes, or Filles de la Madeleine, housed women accused of moral
+                    disorder. Manuel groups them with other institutions to show how allegations
+                    of vice could justify punitive isolation.
+                </note>
+                
+                <note xml:id="n27" xml:lang="en">
+                    The convent of Valdonne, like other houses in Manuel’s list, could receive
+                    women placed there by their families or by administrative order. He presents
+                    this practice as imprisonment disguised as moral reform.
+                </note>
+                
+                <note xml:id="n28" xml:lang="en">
+                    The Refuge in Dijon was one of several provincial institutions where women
+                    could be enclosed in the name of protection or correction. Manuel describes
+                    such places as religious pits in which people disappeared for years.
+                </note>
+                
+                <note xml:id="n29" xml:lang="en">
+                    The Annonciades and the other female communities listed by Manuel formed part
+                    of a wider network of institutions used to confine women across the kingdom.
+                    Together they reveal the cooperation of family authority, religious life, and
+                    royal power in enforcing a hidden parallel justice.
+                </note>
+            </div>
+        </back>
+        
+    </text>
+</TEI>
+

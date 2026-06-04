@@ -42,7 +42,7 @@
             <p>Location and archival information: <bibl>
                   <title level="m">My Awe #8: The Winter Desperation Issue</title>
                   <date when="1987">1987</date>
-                  <orgName>University of Washington Libraries Special Collections</orgName>
+                  <name type="org">University of Washington Libraries Special Collections</name>
                   <note type="collection"> Seattle Arts Scene Zines, Chapbooks, and Ephemera </note>
                   <idno type="callNumber">acc6357-001 Box 1</idno>
                   <idno type="location">T0250c</idno>
@@ -170,19 +170,19 @@
                      <corr>preferrably</corr> one that is a low-rent pay-per-hour. If anyone knows
                   of a place they could practice, in the northend <name type="place" ref="#seattle"
                      >Seattle</name>
-                  <del rend="scribble"><gap reason="illegible"/></del> or just <name type="place"
+                  <del rend="format(scribble)"><gap reason="illegible"/></del> or just <name type="place"
                      ref="#seattle">Seattle</name> area, please contact me, <name type="person"
                      ref="#verna">Verna</name>, at <num type="phone"><ref target="#n1"
                         >[censored]</ref></num>. Also, <name type="band" ref="#false_liberty">False
                      Liberty</name>
-                  <del rend="scribble"><gap reason="illegible"/></del> is open to doing gigs around
+                  <del rend="format(scribble)"><gap reason="illegible"/></del> is open to doing gigs around
                   the state. Please contact <hi rend="format(bold)"><name type="person" ref="#greg"
                         >Greg</name> at <num type="phone"><ref target="#n1"
                      >[censored]</ref></num></hi> or <name type="person" ref="#mg">MG</name> at the
-                  number above <del rend="scribble"><gap reason="illegible"/></del> if you're doing
-                  a show or know someone who is <del rend="scribble"><gap reason="illegible"
+                  number above <del rend="format(scribble)"><gap reason="illegible"/></del> if you're doing
+                  a show or know someone who is <del rend="format(scribble)"><gap reason="illegible"
                      /></del><add place="above">and</add> need(s) an inexpensive but excellant<sic/>
-                  opening band. <hi rend="bold"><name type="band" ref="#false_liberty">False
+                  opening band. <hi rend="format(bold)"><name type="band" ref="#false_liberty">False
                         Liberty</name></hi> will also be touring this summer. If you would like them
                   to play in your town, call me at <hi rend="format(bold)"><num type="phone"><ref
                            target="#n1">[censored]</ref></num></hi> and we'll talk, OK.? Cool.</hi>
@@ -214,12 +214,12 @@
          </div>
 
          <div type="prose" subtype="diary">
-            <head><hi rend="font(allcaps)"><orgName ref="#dennys">Denny's</orgName> Was Closed, A
-                  Saga in <placeName ref="#portland">Portland</placeName></hi></head>
-            <head>by <persName ref="#verna">Verna D.</persName></head>
+            <head><hi rend="font(allcaps)"><name type="org" ref="#dennys">Denny's</name> Was Closed, A
+                  Saga in <name type="place" ref="#portland">Portland</name></hi></head>
+            <head>by <name type="person" ref="#verna">Verna D.</name></head>
             <ab><hi rend="font(allCaps)"><hi rend="font(handwritten)">There was this young woman who
                      thought she could, you know, take on, not the world, but a thing/something in
-                     her gut <hi rend="underlined">drove</hi> her to do it/what was it? No one
+                     her gut <hi rend="format(underlined)">drove</hi> her to do it/what was it? No one
                      knows<pb/> for sure just what it was/Most of the time she felt lonely and much
                      like an outsider, never fitting in, though she tried, not to get in, but just
                      make peace for once <pb/> be accepted as she was/Of course this never
@@ -236,7 +236,7 @@
                WH</hi></hi></ab>
 
             <p>This is a true and actual (if not always factual) account of my experiences during
-               the weekend of the <orgName ref="#seconds">7 SECONDS</orgName> shows,one of which I
+               the weekend of the <name type="org" ref="#seconds">7 SECONDS</name> shows,one of which I
                co-promoted. Some of this information is taken directly from my journal entries at
                that time. Other parts are embellishedjournal pieces, or taken from memory and filled
                in as I go now.</p>
@@ -245,7 +245,7 @@
                thoughts at that time, which began <date>Oct 18th, 1986</date>, and ended <date>Oct.
                   19th</date> (or 20th,actually.). So here goes nothing:</p>
             <ab type="subheading"><date>SATURDAY, OCT. 18th</date>, PART ONE — CARRIDE TO
-                  <placeName>OLYMPIA</placeName>,FROM <placeName>PORTLAND</placeName>.</ab>
+                  <name type="place">OLYMPIA</name>,FROM <name type="place">PORTLAND</name>.</ab>
             <p>Coffee. The initial buzz is good.My eyes are out and shining . Lucid. No towel,no
                shower — no dice. I feel like a scummy heap o' NO USE.NO use for me today. Hangin'
                around like a noose around someone's neck. I hate relying on people.I would rather
@@ -259,27 +259,27 @@
                self-righteous. This is an honest(defensive) feeling but dangerous...</p>
             <p>Bad sleep lately.</p>
             <p>I want to stare at the sun until I learn to see. Something like that. If I stare at
-               the sun on <name type="person">Hank's</name> back,will it have <del rend="scribble"
-                     ><gap reason="illegible"/></del> the same effect?(I been readin' <persName
-                  ref="#rollins">Rollins'</persName>
+               the sun on <name type="person">Hank's</name> back,will it have <del rend="format(scribble)"
+                     ><gap reason="illegible"/></del> the same effect?(I been readin' <name type="person"
+                  ref="#rollins">Rollins'</name>
                <bibl ref="#hallucinations"><hi rend="format(underlined)">Hallucinations of
                      Grandeur</hi></bibl>, on the way down here Friday, and it stuck in my
                haid)<sic/>...</p>
             <p>I'm bummin'. I don't know why. Not really as "up" for the show as I would like to be.
                At this point , I will settle for a few recognizable faces.</p>
-            <p><hi rend="indent">(Stopped at a <placeName ref="#chehalis">Chehalis,WA</placeName>
+            <p><hi rend="align(center)">(Stopped at a <name type="place" ref="#chehalis">Chehalis,WA</name>
                   gas station/askin' directons to a skate park/I joke about the small hicktown
-                  whiteness of the place/"take a left at the crossburnin'"/<del rend="scribble"><gap
+                  whiteness of the place/"take a left at the crossburnin'"/<del rend="format(scribble)"><gap
                         reason="illegible"/></del> this has me goin' even after we leave the
                   place...)</hi></p>
-            <p>I'm so witty.Pass the chloroform.O.K. Carrying only one tape with me — <orgName
-                  ref="#flipper">Flipper</orgName>
+            <p>I'm so witty.Pass the chloroform.O.K. Carrying only one tape with me — <name type="org"
+                  ref="#flipper">Flipper</name>
                <bibl ref="#chunks">Blown' Chunks</bibl> . Pass the <ref target="#n6">ludes</ref>.No
                seriously.I'm swelling up, gettin' too big for my britches.Cracks,cracks and more
                cracks. Mouth full of shit.Head full of shit. Riding in this car.With this girl and
                this guy. How do I know I can trust 'em. How do I know they won't drop me off in
-                  <placeName ref="#chehalis">Chehalis</placeName>? And book. Or bail.Book, that's a
-               word <del rend="scribble"><gap reason="illegible"/></del> used when I was in jr. high
+                  <name type="place" ref="#chehalis">Chehalis</name>? And book. Or bail.Book, that's a
+               word <del rend="format(scribble)"><gap reason="illegible"/></del> used when I was in jr. high
                school, meaning leave a place. There are so many words for leaving . So many ends to
                a mean (a way).One mean can have a thousand ends.More than I can think about. I
                wouldn't write this if I weren't on the road...(on heavy drugs, haha)... when I close
@@ -301,52 +301,52 @@
             </lg>
          </div>
          <div type="prose" subtype="diary">
-            <p>(<orgName ref="#flipper">Flipper</orgName> intones on the car's tape player)
+            <p>(<name type="org" ref="#flipper">Flipper</name> intones on the car's tape player)
                   <quote>"WE ARE BREEDING"</quote></p>
-            <p>Darkness coming on as tape advances to my favorite <orgName ref="#flipper"
-                  >Flipper</orgName> songs. <bibl ref="#arms">"In Your Arms"</bibl>,followed by
+            <p>Darkness coming on as tape advances to my favorite <name type="org" ref="#flipper"
+                  >Flipper</name> songs. <bibl ref="#arms">"In Your Arms"</bibl>,followed by
                   <bibl ref="#cheap">"Life is Cheap."</bibl></p>
             <p>Night has left me hollow.</p>
-            <ab type="subheading">PART TWO — SHOW IN <placeName ref="#olympia"
-               >OLYMPIA</placeName></ab>
+            <ab type="subheading">PART TWO — SHOW IN <name type="place" ref="#olympia"
+               >OLYMPIA</name></ab>
             <p>(Finally here. all right . Startin' to warm up a bit and get a little excited. So I
                go to the door ,or where they take your money,and I go, "I think I'm on the guest
                lis". I'm not,but they let me in anyway,because I tell them I'm promoting the
-                  <placeName ref="#portland">Portland</placeName> show. I guess that was o.k. to
-               do...I don't know. I missed most of <orgName ref="#dangermouse">Danger
-                  Mouse</orgName> visiting with the <orgName ref="#yobs">Yobs</orgName>. I barely
+                  <name type="place" ref="#portland">Portland</name> show. I guess that was o.k. to
+               do...I don't know. I missed most of <name type="org" ref="#dangermouse">Danger
+                  Mouse</name> visiting with the <name type="org" ref="#yobs">Yobs</name>. I barely
                recognize anybody, and make lots of stupid cracks ,generally being a jerk. Out of
-               sheer nervousness I think.Yeah. What I saw of <orgName ref="#dangermouse">Danger
-                  Mouse</orgName> I really ,really liked. For one thing, <ref target="#kurt"
+               sheer nervousness I think.Yeah. What I saw of <name type="org" ref="#dangermouse">Danger
+                  Mouse</name> I really ,really liked. For one thing, <ref target="#kurt"
                   >Kurt</ref> is an awesome performer, and him and the whole band were fun to watch.
                I was pretty distracted, which is understandable because of lack of sleep ...Back to
                the journal.)</p>
-            <p><orgName ref="#the_melvins">Melvins</orgName> real hot tonight.Smokin' long songs
+            <p><name type="org" ref="#the_melvins">Melvins</name> real hot tonight.Smokin' long songs
                sendin' shivers in me.Woa. By the stage writing. No headbangin'. Neck sore from last
-               nightss <orgName ref="#saccharine">Saccharine Trust</orgName> show. Feelin' just a
+               nightss <name type="org" ref="#saccharine">Saccharine Trust</name> show. Feelin' just a
                little bit sick. Don't know why. Just a little.</p>
             <ab type="subheading">EARLY MORNING <date>OCT. 19th.</date></ab>
             <p>So full of shit last night I thought I would scream. I thought someone would get wise
                and beat the crap out of me.</p>
-            <p><orgName ref="#unseen">Unseen Force</orgName> were good. <orgName ref="#yobs"
-                  >Yobs</orgName> were happening.<orgName ref="#seconds">7 Seconds</orgName> were
+            <p><name type="org" ref="#unseen">Unseen Force</name> were good. <name type="org" ref="#yobs"
+                  >Yobs</name> were happening.<name type="org" ref="#seconds">7 Seconds</name> were
                hot. Sets were too short. A guy dove off the stage and busted his head maybe. He's
                like , <said>"Fuck you! I don't want to go to the hospital!"</said> (His choice was
                either go with the medics or with the cop. Now which would you choose?)</p>
-            <p>Did <persName ref="#stan">Stan</persName> ( promoter of the show in <placeName
-                  ref="#olympia">Olympia</placeName>) do okay? I wonder.</p>
+            <p>Did <name type="person" ref="#stan">Stan</name> ( promoter of the show in <name type="place"
+                  ref="#olympia">Olympia</name>) do okay? I wonder.</p>
             <ab type="subheading">8:40 a.m. Sunday.Sleep okay.Not good yet.When will it be? I
                wonder. I told the bands their soundchecks were at 2 and 3,etc. Fuck is the sound
-                  <del rend="scribble"><gap reason="illegible"/></del>even gonna be there?That would
+                  <del rend="format(scribble)"><gap reason="illegible"/></del>even gonna be there?That would
                be kind of stupid if it weren't.</ab>
-            <p>This place, this place is a castle. <persName ref="#jeannie">Jeannie</persName> and
-                  <persName ref="#steven">Steven's</persName> place is rather the cool spot. Nice.
+            <p>This place, this place is a castle. <name type="person" ref="#jeannie">Jeannie</name> and
+                  <name type="person" ref="#steven">Steven's</name> place is rather the cool spot. Nice.
                Plushy almost.Roomy enough to hold all three bands. No,not really. Want to get to
-               talk more with <persName ref="#kevin">Kevin</persName>, but why?</p>
-            <p>The best stuff is what I leave out of the journal. Crap. Invited <persName
-                  ref="#jennifer">Jennifer</persName> and <persName ref="#kris">Kris</persName> to
-               the show. <persName ref="#kris">Kris</persName> won't make it and <persName
-                  ref="#jennifer">Jennifer</persName> will forget. I feel crummy for lying to her. I
+               talk more with <name type="person" ref="#kevin">Kevin</name>, but why?</p>
+            <p>The best stuff is what I leave out of the journal. Crap. Invited <name type="person"
+                  ref="#jennifer">Jennifer</name> and <name type="person" ref="#kris">Kris</name> to
+               the show. <name type="person" ref="#kris">Kris</name> won't make it and <name type="person"
+                  ref="#jennifer">Jennifer</name> will forget. I feel crummy for lying to her. I
                lied so much last nightf. I'm just a liar. Panik was there. Good.<pb/></p>
             <p>I look in the mirror and I hate what I see. I hate what I see ,and can almost like
                what I hate. I look sick,stupid,and lame.I feel strong ,absorbant<sic/>,reliable,
@@ -359,10 +359,10 @@
             <p>The confidence of last night did not carry over to today,the stupidity did. Shouldn't
                I be doing cocaine or something.? I do not feel like a gonzo promoter at all, and
                this is a very scary,definitely destructive feeling. Steven is busy doing things,
-                  and<del rend="scribble"><gap reason="illegible"/></del> I'm just sort of sitting
+                  and<del rend="format(scribble)"><gap reason="illegible"/></del> I'm just sort of sitting
                here in this huge place, cleaning up a leftover mess because I don't know what else
                to do.</p>
-            <p>The <orgName ref="#rebel_skates">Rebel Skates</orgName> crew is already here,set up
+            <p>The <name type="org" ref="#rebel_skates">Rebel Skates</name> crew is already here,set up
                for the skate competition. I was worried it was gonna rain,but it's actually a pretty
                nice day out. There seems to b e a lot of kids for the competition, I wonder if they
                will all come for the show.</p>
@@ -370,52 +370,52 @@
                hardly a gastronomical delight. Oh well, I need my energy, and it looks like there
                won't be any coke (or even Pepsi.) So, anyway, this place is pretty cool, think I'lkl
                l hide out in the band room for a while.</p>
-            <p>Shit! They announced <del rend="scribble"><gap reason="illegible"/></del> the
+            <p>Shit! They announced <del rend="format(scribble)"><gap reason="illegible"/></del> the
                contest,telling the skaters they can get in for free with the $4 entry fee to the
                contest! Fuck, it's s'posed to be the other way around,I thought I made that clear,
                but oh well.Well, this is just dandy. Where is the money from the show going to come
-               from? Fuck it all to hell.I really don't feel in control now,but <persName
-                  ref="#steven">Steven</persName> (co-promoter) seems to have everything pretty much
+               from? Fuck it all to hell.I really don't feel in control now,but <name type="person"
+                  ref="#steven">Steven</name> (co-promoter) seems to have everything pretty much
                taken care of.</p>
-            <p>Well, it kinda sucks that I can't go in the <orgName ref="#monqui">Monqui</orgName>
-               office ,and that they (<orgName ref="#monqui">Monqui</orgName>) won't listen to me
-               and will listen to <persName ref="#steven">Steven</persName>,but they don't really
+            <p>Well, it kinda sucks that I can't go in the <name type="org" ref="#monqui">Monqui</name>
+               office ,and that they (<name type="org" ref="#monqui">Monqui</name>) won't listen to me
+               and will listen to <name type="person" ref="#steven">Steven</name>,but they don't really
                know me, and he works for 'em. So, I paid them (it still sucks). The guy that was
                supposed to clean never showed up so I just did what I could. It wasn't that
                gruesome. Things seem to be going wrong left and right. Everyone's late pretty much.
-               At least the sound is here. Maybe they aren't late. <orgName ref="#yobs">The
-                  Yobs</orgName> showed up early and <orgName ref="#seconds">7 Seconds</orgName>
-               were pretty much on time, just my <placeName ref="#seattle">Seattle</placeName>
+               At least the sound is here. Maybe they aren't late. <name type="org" ref="#yobs">The
+                  Yobs</name> showed up early and <name type="org" ref="#seconds">7 Seconds</name>
+               were pretty much on time, just my <name type="place" ref="#seattle">Seattle</name>
                friends were late. Oh well,it's okay.</p>
-            <p><orgName ref="#seconds">7 Seconds</orgName> sounded great in the soundcheck. That
+            <p><name type="org" ref="#seconds">7 Seconds</name> sounded great in the soundcheck. That
                woman doin' the sound is great. The sound here is awesome. Loud enough, vocals clear,
                just great! It's gonna be a good show, if everyone shows up .</p>
-            <p>Well , all the bands are here,but where are the <orgName ref="#fallen_angels">Fallen
-                  Angels</orgName>. They were supposed to be here an hour ago. Maybe they got a late
+            <p>Well , all the bands are here,but where are the <name type="org" ref="#fallen_angels">Fallen
+                  Angels</name>. They were supposed to be here an hour ago. Maybe they got a late
                start.Shit, the doors are supposed to open now. I feel like a complete jerk. My
                security didn't even show up. What the fuck,the show must go on without them. It's
-               good that some <orgName ref="#monqui">Monqui</orgName> people,or <persName
-                  ref="#steven">Steve's</persName> friends,are here (thanks <persName ref="#bruno"
-                  >Bruno</persName>, thanks <persName ref="#bill">>Bill</persName> and others!) or I
+               good that some <name type="org" ref="#monqui">Monqui</name> people,or <name type="person"
+                  ref="#steven">Steve's</name> friends,are here (thanks <name type="person" ref="#bruno"
+                  >Bruno</name>, thanks <name type="person" ref="#bill">>Bill</name> and others!) or I
                would be dead.I'm not even worried about the skate thing anymore,too busy worrying
-               about the <orgName ref="#fallen_angels">Fallen Angels</orgName> not being here. I'm a
+               about the <name type="org" ref="#fallen_angels">Fallen Angels</name> not being here. I'm a
                wreck. Safe in this ticket booth I guess. There seems to be a lot of kids waitin' to
-               get in. That's cool! I'm sellin' lots of<del rend="scribble"><gap reason="illegible"
+               get in. That's cool! I'm sellin' lots of<del rend="format(scribble)"><gap reason="illegible"
                   /></del> tickets which is good, and it seems like most of the skaters are
-               <pb/>comin' in too. Great! Ah relief,the <orgName ref="#fallen_angels">Fallen
-                  Angels</orgName> got here finally. I am not mad at them, just exasperated in a
+               <pb/>comin' in too. Great! Ah relief,the <name type="org" ref="#fallen_angels">Fallen
+                  Angels</name> got here finally. I am not mad at them, just exasperated in a
                way...</p>
-            <p>Well, I"m missing all the bands sittin' out here in this booth. <persName
-                  ref="#bruce2">Bruce</persName> is here to keep me company and that is great. He is
+            <p>Well, I"m missing all the bands sittin' out here in this booth. <name type="person"
+                  ref="#bruce2">Bruce</name> is here to keep me company and that is great. He is
                the only stabilising force around me right now , and I can't say how much of a great
                comfort that is to me. He even bought me an ice tea! What a pal!</p>
             <p>Looks like at this preliminary count that I'm about three hundred or more in the
                hole. The prospect is grim. The show's almost over and it doesn't look like there's
-               going to be many more people showin' up. <orgName ref="#seconds">7 Seconds</orgName>
+               going to be many more people showin' up. <name type="org" ref="#seconds">7 Seconds</name>
                is going to be on soon.Some folks comin' in are mad that it's still five dollars.
                It's not my fault they are late. They don't know I'm in the hole and need every cent
                I can get to pay everyone off...</p>
-            <p>I ran out into the room twice during <orgName ref="#seconds">7 Seconds</orgName>'
+            <p>I ran out into the room twice during <name type="org" ref="#seconds">7 Seconds</name>'
                set. Once for "<bibl ref="#one_day">Just One Day!</bibl>" and once for "<bibl
                   ref="#scream">Somebody Help Me Scream</bibl>". That was really fun,k<sic/>
                intense, awesome, just lettin' loose and dancing and shouting along to those songs.
@@ -423,7 +423,7 @@
                day. It was magic,just beautiful.</p>
             <p>By the end of the eveningg<sic/> I felt really, well, insecure. I felt that I had
                done all the wrong things, that the whole problem centered on what I personally
-               fucked up. I felt bad that I couldn't pay the <orgName ref="#yobs">Yobs</orgName>
+               fucked up. I felt bad that I couldn't pay the <name type="org" ref="#yobs">Yobs</name>
                what I had promised them, but they were pretty good natured about it. It was fun to
                hang out with the bands and just listen and feel almost like we were friends, or
                something silly like that. There are many things I wanted to ask and say, but held
@@ -431,29 +431,29 @@
                Sometimes I wish I could just express, without fear, what I am thinking, what I am
                feeling, at the exact moment I am thinking it. Perhaps I would have been better off a
                drunken groupie, I don't know.</p>
-            <ab type="subheading">PART FOUR — <orgName ref="#dennys">DENNY'S</orgName> WAS
+            <ab type="subheading">PART FOUR — <name type="org" ref="#dennys">DENNY'S</name> WAS
                CLOSED...</ab>
-            <p><orgName ref="#dennys">Dennyss</orgName> was closed ! What?! Yes , that's right,
+            <p><name type="org" ref="#dennys">Dennyss</name><sic/> was closed ! What?! Yes , that's right,
                three carloads of people(four carloads?) Like, eighteen fuckin' possible customers
                and the damn place is closed! I am feeling so strange ,so , just like I'm in a dream
                or a bad new wave movie.We all want to go congregate somewhere , so , oh, let's just
-               go on the highway and head south. I'm hoping we don't end up in <placeName
-                  ref="#salem">Salem</placeName>.</p>
-            <p>We all come to rest at <orgName ref="#bobs">Bob's Big Boy</orgName>,in <placeName
-                  ref="#wilsonville">Wilsonville,OR</placeName>.Not a big town. The poor waitress.
+               go on the highway and head south. I'm hoping we don't end up in <name type="place"
+                  ref="#salem">Salem</name>.</p>
+            <p>We all come to rest at <name type="org" ref="#bobs">Bob's Big Boy</name>,in <name type="place"
+                  ref="#wilsonville">Wilsonville,OR</name>.Not a big town. The poor waitress.
                All of a sudden ,here's thes e people, not g<sic/> quite what they expected I'll bet.
                These scraggley, hardcore,not-so-hardcore, not-so-scraggly, pretty boisterous, group
                of folks. Oh, okay. She handled it pretty well and the scarier people were served by
-               the manager! These kids were mighty hungry. Obligatory <orgName ref="#yobs"
-                  >Yobs</orgName>/<orgName ref="#seconds">7Seconds</orgName> food fight,stolen
-               silverware(okay,so I was feeling desperate!). Lucky for the <orgName ref="#bobs"
-                  >Bob's Big Boy</orgName> crew we didn't stay very long.</p>
-            <p>Obligatory <orgName ref="#yobs">Yobs</orgName> sendoff/goodbye after the <orgName
-                  ref="#bobs">Bob's</orgName> destruction and thievery. Hugs and kissies and off we
+               the manager! These kids were mighty hungry. Obligatory <name type="org" ref="#yobs"
+                  >Yobs</name>/<name type="org" ref="#seconds">7Seconds</name> food fight,stolen
+               silverware(okay,so I was feeling desperate!). Lucky for the <name type="org" ref="#bobs"
+                  >Bob's Big Boy</name> crew we didn't stay very long.</p>
+            <p>Obligatory <name type="org" ref="#yobs">Yobs</name> sendoff/goodbye after the <name type="org"
+                  ref="#bobs">Bob's</name> destruction and thievery. Hugs and kissies and off we
                all go into the wild night... (And my prose falls apart). WE get in our respective
-               vehicles and mosey on down the highway, <orgName ref="#yobs">Yobs</orgName> on their
-               way home, and the rest of back to <persName ref='#steven"'>Steve</persName> and
-                  <persName ref="#jeannie">Jeanniess<sic/></persName> for rest and chatter.then ,
+               vehicles and mosey on down the highway, <name type="org" ref="#yobs">Yobs</name> on their
+               way home, and the rest of back to <name type="person" ref='#steven"'>Steve</name> and
+                  <name type="person" ref="#jeannie">Jeanniess<sic/></name> for rest and chatter.then ,
                sleep.</p>
             <p>(end of memory-writing,back to journal)<pb/></p>
             <ab type="subheading"><hi rend="font(handwritten)"><date>10/19/86</date></hi></ab>
@@ -461,28 +461,28 @@
                in.I don't like people much right now.Butre then I'm sure they like me even less.
                It's here that my writing falls apart.I'm hittin' the burnin' stuff(vodka) and feel
                like I don't know who I am really.I never have.Don't know if I ever will.Should I
-               leave.(over at <persName ref="#jeannie">Jeannie</persName> and <persName
-                  ref="#steven">Steven's</persName> house/feeling uncomfortable)I kinda want to. The
+               leave.(over at <name type="person" ref="#jeannie">Jeannie</name> and <name type="person"
+                  ref="#steven">Steven's</name> house/feeling uncomfortable)I kinda want to. The
                reading tomorrow should be real good,leaving me emptier than ever. I sort of
                understand,but I don't know. Who do I have to talkk to?No one really knows what's
                going on inside my head.No one wants to. I know I don't. Lucidity is a lie. I'm
                susceptible.Hurtin' Haha. O.k., now wait a minute there.Hold on a second.Feeling
                divorced.Alienated.</p>
             <ab type="subheading">10:58 A.M. <date>10/20/86</date></ab>
-            <p>Early morning smog walk to <orgName ref="#qp">Quality Pies</orgName> was good. The
+            <p>Early morning smog walk to <name type="org" ref="#qp">Quality Pies</name> was good. The
                smog is rich.I like it because it allows me to hide.I especially dug it <del
-                  rend="scribble"><gap reason="illegible"/></del> last night. So (around 5 a.m.) I'm
-               in the <orgName ref="#qp">Q.P.</orgName> and order a baked potato.I attempt to
+                  rend="format(scribble)"><gap reason="illegible"/></del> last night. So (around 5 a.m.) I'm
+               in the <name type="org" ref="#qp">Q.P.</name> and order a baked potato.I attempt to
                anyway, but my voice is gone, so the order is a faint whisper, right. So, I'm writing
-               theis letter to <persName ref="#kevin">Kevin</persName>,which became dotted with
+               theis letter to <name type="person" ref="#kevin">Kevin</name>,which became dotted with
                butter,thinking suicidal as I write,no,but he doesn't need to hear my ramblings at a
                late nite/all nite diner,foggy from lack of sleep... Augghhh! Had to bail from this
                house. Nothing to lose.</p>
-            <ab type="subheading"><placeName ref="#couch_park">COUCH PARK</placeName></ab>
+            <ab type="subheading"><name type="place" ref="#couch_park">COUCH PARK</name></ab>
             <p>I'm ugly today.Good.Will keep the assholes away.(?) When will I come to an
                understanding. When will they come to an understanding of me?Never.</p>
-            <p>Beautiful day out.Children yelling their guts out at <placeName ref="#couch_park"
-                  >Couch Park.</placeName>The fall leaves remind me of what is right with the world
+            <p>Beautiful day out.Children yelling their guts out at <name type="place" ref="#couch_park"
+                  >Couch Park.</name>The fall leaves remind me of what is right with the world
                . The smell of their decay fills the air. That smell specific to Autumn. A smell I'm
                very fond of.</p>
          </div>
@@ -628,7 +628,7 @@
                   text. It depicts a person facing and pointing towards the right. The image is
                   grainy which makes its hard to definitively tell who it is.</figDesc>
                <p><unclear reason="illegible"/>
-                  <hi rend="align(center) font(Times New Roman)">will come down on civil-liberties
+                  <hi rend="align(center) font(Times_New_Roman)">will come down on civil-liberties
                      and civil-rights</hi></p>
             </figure>
             <p>Yet, the test results show that your the one that has to go. Your drug of choice is
@@ -676,7 +676,7 @@
                   text. The image depicts a man at about a 45 degree angle towards the right with
                   his hands overlapping in front of his abdomin. There is a white line through the
                   image.</figDesc>
-               <p><unclear reason="illegible">Free sprs</unclear><hi rend="font(Times New Roman)"
+               <p><unclear reason="illegible">Free sprs</unclear><hi rend="font(Times_New_Roman)"
                      >Scalia has <unclear reason="faded">co</unclear>nsistenly expressed narrow
                         <unclear reason="faded">vie</unclear>w of the <unclear reason="faded"
                         >F</unclear>irst A<unclear reason="faded">men</unclear>dment.</hi></p>
@@ -706,9 +706,9 @@
                   He wears rectagular glasses, a sweater vest over a dress shirt and tie, and a
                   smirk on his face. The image is entirely in black and white. The image bleeds into
                   the paragraph causing the first letter of each line to be faded.</figDesc>
-               <p><hi rend="align(center) font(Times New Roman)"><unclear reason="smudged"
+               <p><hi rend="align(center) font(Times_New_Roman)"><unclear reason="smudged"
                         >J</unclear>ustice <unclear reason="smudged">R</unclear>ehnquist</hi></p>
-               <p><hi rend="align(left) font(Times New Roman)"><unclear reason="faded">T</unclear>he
+               <p><hi rend="align(left) font(Times_New_Roman)"><unclear reason="faded">T</unclear>he
                      powerful anchor of <unclear reason="faded">t</unclear>he court's right
                      wing</hi></p>
             </figure>
@@ -750,7 +750,7 @@
                   the top of his bald head.</figDesc>
                <p><hi rend="align(left) font(arial) format(bold)">William Rehnquist</hi></p>
                <p><hi rend="align(left) font(arial) format(bold)"> Age: 81</hi></p>
-               <p><hi rend="align(left) fon(Times New Roman)">Hospitalized in 1981 to be weaned from
+               <p><hi rend="align(left) fon(Times_New_Roman)">Hospitalized in 1981 to be weaned from
                      a drug <corr>prescribed</corr></hi></p>
             </figure>
 
@@ -822,11 +822,11 @@
                   and face of Pat Robertson at a 45 degree angle. At the neck, there is a block of
                   text that says "Pat Roberson" and below that, "An up and coming
                   orwellion"</figDesc>
-               <p><hi rend="align(left) font(Times New Roman)">Pat Robertson</hi></p>
+               <p><hi rend="align(left) font(Times_New_Roman)">Pat Robertson</hi></p>
                <p><hi rend="align(left) font(handwritten)">An up and coming orwellion</hi></p>
             </figure>
 
-            <p><hi rend="align(center) font(allCaps) format(45 degree angle)">Reagan's Law</hi></p>
+            <p><hi rend="align(center) font(allCaps) format(45_degree_angle)">Reagan's Law</hi></p>
 
             <figure>
                <figDesc>The image lies at the bottom right corner of the page. It depicts Ronald
@@ -887,100 +887,100 @@
          <div type="editorial">
             <listPerson>
                <person xml:id="verna">
-                  <persName>
+                  <name type="person">
                      <surname>Doherty</surname>
                      <forename>Verna</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="randy">
-                  <persName>
+                  <name type="person">
                      <surname>Strickfaden</surname>
                      <forename>Randy</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="bruce">
-                  <persName>
+                  <name type="person">
                      <surname>Storm</surname>
                      <forename>Bruce</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="greg">
-                  <persName>
+                  <name type="person">
                      <forename>Greg</forename>
                      <note><p>The Greg mentioned here, is most likely the same Greg Anderson who is
                            a member of False Liberty</p></note>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="mg">
-                  <persName>
+                  <name type="person">
                      <forename>MG</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="rollins">
-                  <persName>
+                  <name type="person">
                      <forename>Henry</forename>
                      <surname>Rollins</surname>
                      <note>Henry Rollins is a singer, spoken-word artist, writer, and creator who
                         performed with the rock band Black Flag during the 1980s. He is known as one
                         of the most recognizable artists of the punk era (<ref target="#britannica"
                            >Encyclopedia Britannica).</ref></note>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="hank">
-                  <persName>
+                  <name type="person">
                      <forename>Hank</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="stan">
-                  <persName>
+                  <name type="person">
                      <forename>Stan</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="jeannie">
-                  <persName>
+                  <name type="person">
                      <forename>Jeannie</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="steven">
-                  <persName>
+                  <name type="person">
                      <forename>Steven</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="kevin">
-                  <persName>
+                  <name type="person">
                      <forename>Kevin</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="kris">
-                  <persName>
+                  <name type="person">
                      <forename>Kris</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="jennifer">
-                  <persName>
+                  <name type="person">
                      <forename>Jennifer</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="bruno">
-                  <persName>
+                  <name type="person">
                      <forename>Bruno</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="bill">
-                  <persName>
+                  <name type="person">
                      <forename>Bill></forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="bruce2">
-                  <persName>
+                  <name type="person">
                      <forename>Bruce</forename>
-                  </persName>
+                  </name>
                </person>
                <person xml:id="kurt">
-                  <persName>
+                  <name type="person">
                      <forename>Kurt</forename>
                      <surname>Flansburg</surname>
-                  </persName>
+                  </name>
                   <note>The vocalist of Dangermouse.</note>
                </person>
             </listPerson>
@@ -1015,42 +1015,42 @@
 
             <listOrg>
                <org xml:id="false_liberty" type="band">
-                  <orgName>False Liberty</orgName>
+                  <name type="org">False Liberty</name>
                   <desc>Seattle-based hardcore punk band active in the mid-1980s. According to
                      concert records, the band included member Greg Anderson, and released demo and
                      EP recordings in 1986. <ref target="#concertarchives">Concert Archives</ref>
                   </desc>
                </org>
                <org xml:id="the_melvins">
-                  <orgName>The Melvins</orgName>
+                  <name type="org">The Melvins</name>
                   <desc>Rock band formed in 1983 in Montesano, Washington, associated with early
                      grunge and sludge metal (<ref target="#wikipedia">Wikipedia</ref>).</desc>
                </org>
                <org xml:id="skin_yard">
-                  <orgName>Skin Yard</orgName>
+                  <name type="org">Skin Yard</name>
                   <desc>Seattle rock band formed in 1985 and associated with the early grunge scene.
                      Founded by Daniel House and Jack Endino, the band was part of the Seattle
                      underground music movement (<ref target="#sy">Official site)</ref>.</desc>
                </org>
                <org xml:id="fallout">
-                  <orgName>Fallout Records</orgName>
+                  <name type="org">Fallout Records</name>
                   <desc>Independent Seattle record store founded in 1984 that supported underground
                      music, zines, and skateboards before closing in 2003 (<ref target="#for"
                         >Official site</ref>).</desc>
                </org>
                <org xml:id="girl_trouble">
-                  <orgName>Girl Trouble</orgName>
+                  <name type="org">Girl Trouble</name>
                   <desc>Rock band known for its DIY attitude and humorous, low-tech approach to
                      music and media (<ref target="#wigout">Official site</ref>).</desc>
                </org>
                <org xml:id="wig_out">
-                  <orgName>Wig Out!</orgName>
+                  <name type="org">Wig Out!</name>
                   <desc>Zine created by Girl Trouble in 1984 to get more coverage on themselves,
                      featuring humor, cultural commentary, and recurring lifestyle columns (<ref
                         target="#wigout">Official site</ref>).</desc>
                </org>
                <org xml:id="horseheads">
-                  <orgName>Tex &amp; the Horseheads</orgName>
+                  <name type="org">Tex &amp; the Horseheads</name>
                   <desc> Los Angeles punk rock band formed in 1980, associated with early cowpunk
                      and deathrock-influenced punk scenes. Known for blending country, punk, and
                      blues styles, the band originally disbanded in 1986 and reunited in 2007 (<ref
@@ -1058,11 +1058,11 @@
                   </desc>
                </org>
                <org xml:id="seconds">
-                  <orgName>7 Seconds</orgName>
+                  <name type="org">7 Seconds</name>
                   <desc>Nevada hardcore punk band (<ref target="#wikipedia">Wikipedia</ref>).</desc>
                </org>
                <org xml:id="flipper">
-                  <orgName>Flipper</orgName>
+                  <name type="org">Flipper</name>
                   <desc>Flipper is a band formed in 1979 which endured several on-again off-again
                      breakups over the next few decades, and which specializes in “haunting drone
                      rock” and “philosophizes about boredom” as part of punk’s general expression of
@@ -1070,14 +1070,14 @@
                      >Goldberg</ref>).</desc>
                </org>
                <org xml:id="yobs">
-                  <orgName>The Yobs</orgName>
+                  <name type="org">The Yobs</name>
                   <desc>"The Yobs" is likely the reversed name for the band "The Boys," an English
                      punk rock band formed in 1976. Every Christmas, the band reversed their name to
                      read "The Yobs" and released an album under that name (<ref target="#wikipedia"
                         >Wikipedia</ref>).</desc>
                </org>
                <org xml:id="dangermouse">
-                  <orgName>Dangermouse</orgName>
+                  <name type="org">Dangermouse</name>
                   <desc>An Olympia punk band. <ref target="#omh">Olympia Music History
                      website</ref></desc>
                </org>
@@ -1085,35 +1085,35 @@
                   <desc>A restaurant chain known in part for breakfast food served all day.</desc>
                </org>
                <org xml:id="saccharine">
-                  <orgName>Saccharine Trust</orgName>
+                  <name type="org">Saccharine Trust</name>
                   <desc>A California punk rock band. <ref target="#wikipedia">Wikipedia</ref></desc>
                </org>
                <org xml:id="unseen">
-                  <orgName>Unseen Force</orgName>
+                  <name type="org">Unseen Force</name>
                   <desc>A hardcore punk band from Virginia which only released one album in 1986
                         (<ref target="#rettman">Rettman).</ref></desc>
                </org>
                <org xml:id="rebel_skates">
-                  <orgName>Rebel Skates</orgName>
+                  <name type="org">Rebel Skates</name>
                   <desc>A Portland skate shop that started in 1985 (<ref target="#rebelskates"
                         >Company website</ref>).</desc>
                </org>
                <org xml:id="fallen_angels">
-                  <orgName>The Fallen Angels</orgName>
+                  <name type="org">The Fallen Angels</name>
                   <desc>A psychedelic rock band formed in 1966, popular in the American underground
                         (<ref target="#Wikipedia">Wikipedia</ref>).</desc>
                </org>
                <org xml:id="monqui">
-                  <orgName>Monqui Presents</orgName>
+                  <name type="org">Monqui Presents</name>
                   <desc>A Portland-based concert promotion company (<ref target="#monquisite"
                         >Company website</ref>).</desc>
                </org>
                <org xml:id="bobs">
-                  <orgName>Bob's Big Boy</orgName>
+                  <name type="org">Bob's Big Boy</name>
                   <desc>A burger restaurant chain (<ref target="#bbb">Company website</ref>).</desc>
                </org>
                <org xml:id="qp">
-                  <orgName>Quality Pie</orgName>
+                  <name type="org">Quality Pie</name>
                   <desc>“This landmark Northwest 23rd Avenue coffee shop was open 24 hours a day,
                      making it a haven for 1980s punk rockers and club kids, who would flock here
                      after bars closed for pre-dawn scrambled eggs. Before Oregon’s indoor smoking
@@ -1185,9 +1185,9 @@
                      <imprint>
                         <publisher>Supreme Court Historical Society</publisher>
                         <pubPlace>Washington, D.C.</pubPlace>
-                        <note>https://supremecourthistory.org/chief-justices/william-rehnquist-1986-2005/</note>
                      </imprint>
                   </monogr>
+                  <ptr target="https://supremecourthistory.org/chief-justices/william-rehnquist-1986-2005"/>
                </biblStruct>
                <biblStruct type="newspaper" xml:id="japenga">
                   <analytic>
@@ -1204,7 +1204,7 @@
                         <date when="1993-11-14">November 14, 1993</date>
                      </imprint>
                   </monogr>
-                  <note>https://orbiscascade-washington.primo.exlibrisgroup.com/permalink/01ALLIANCE_UW/1asafqm/cdi_proquest_newspapers_282079835</note>
+                  <ptr target="https://orbiscascade-washington.primo.exlibrisgroup.com/permalink/01ALLIANCE_UW/1asafqm/cdi_proquest_newspapers_282079835"/>
                </biblStruct>
                <biblStruct type="ebook" xml:id="lipke">
                   <analytic>
@@ -1220,7 +1220,7 @@
                         <pubPlace>Clemson, South Carolina</pubPlace>
                      </imprint>
                   </monogr>
-                  <note>https://opentextbooks.clemson.edu/hlth4000holcombtugman/chapter/the-failure-of-reagan-era-drug-policy-and-d-a-r-e/</note>
+                  <ptr target="https://opentextbooks.clemson.edu/hlth4000holcombtugman/chapter/the-failure-of-reagan-era-drug-policy-and-d-a-r-e/"/>
                </biblStruct>
                <biblStruct type="ebook" xml:id="misiroglu">
                   <monogr>
@@ -1255,7 +1255,7 @@
                      <biblScope unit="issue">10</biblScope>
                      <biblScope unit="page">i-xxiii</biblScope>
                   </monogr>
-                  <note>https://www.jstor.org/stable/29765812?seq=24</note>
+                  <ptr target="https://www.jstor.org/stable/29765812?seq=24"/>
                </biblStruct>
 
                <biblStruct type="article" xml:id="goldberg">
@@ -1271,7 +1271,7 @@
                      </imprint>
                      <biblScope unit="issue">452</biblScope>
                   </monogr>
-                  <note>https://www.rollingstone.com/music/music-news/black-flag-husker-du-and-the-replacements-lead-punks-new-wave-117690/</note>
+                  <ptr target="https://www.rollingstone.com/music/music-news/black-flag-husker-du-and-the-replacements-lead-punks-new-wave-117690/"/>
                </biblStruct>
                <biblStruct type="webpage" xml:id="umbrella">
                   <analytic>
@@ -1284,7 +1284,7 @@
                         <date>2022</date>
                      </imprint>
                   </monogr>
-                  <note>https://www.umbrellaprojectoregon.com/quality-pie</note>
+                  <ptr target="https://www.umbrellaprojectoregon.com/quality-pie"/>
                </biblStruct>
 
                <biblStruct type="article" xml:id="britannica">
@@ -1302,7 +1302,7 @@
                         <date>April 18, 2026</date>
                      </imprint>
                   </monogr>
-                  <note>https://www.britannica.com/biography/Henry-Rollins</note>
+                  <ptr target="https://www.britannica.com/biography/Henry-Rollins"/>
                </biblStruct>
 
                <biblStruct type="article" xml:id="wikipedia">
@@ -1320,12 +1320,12 @@
                         <publisher>Wikipedia</publisher>
                      </imprint>
                   </monogr>
-                  <note>https://en.wikipedia.org/wiki/7_Seconds_(band)</note>
-                  <note>https://en.wikipedia.org/wiki/The_Fallen_Angels_(band)</note>
-                  <note>https://en.wikipedia.org/wiki/The_Boys_(English_band)</note>
-                  <note>https://en.wikipedia.org/wiki/Tex_%26_the_Horseheads</note>
-                  <note>https://en.wikipedia.org/wiki/Melvins</note>
-                  <note>https://en.wikipedia.org/wiki/Saccharine_Trust</note>
+                  <ptr target="https://en.wikipedia.org/wiki/7_Seconds_(band)"/>
+                  <ptr target="https://en.wikipedia.org/wiki/The_Fallen_Angels_(band)"/>
+                  <ptr target="https://en.wikipedia.org/wiki/The_Boys_(English_band)"/>
+                  <ptr target="https://en.wikipedia.org/wiki/Tex_%26_the_Horseheads"/>
+                  <ptr target="https://en.wikipedia.org/wiki/Melvins"/>
+                  <ptr target="https://en.wikipedia.org/wiki/Saccharine_Trust"/>
                </biblStruct>
 
                <biblStruct type="webpage" xml:id="concertarchives">
@@ -1338,7 +1338,7 @@
                         <publisher>Concert Archives</publisher>
                      </imprint>
                   </monogr>
-                  <note>https://www.concertarchives.org/bands/false-liberty</note>
+                  <ptr target="https://www.concertarchives.org/bands/false-liberty"/>
                </biblStruct>
 
                <biblStruct type="webpage" xml:id="sy">
@@ -1351,7 +1351,7 @@
                         <publisher>Skin Yard</publisher>
                      </imprint>
                   </monogr>
-                  <note>https://www.skin-yard.com/skinfo.htm</note>
+                  <ptr target="https://www.skin-yard.com/skinfo.htm"/>
                </biblStruct>
 
                <biblStruct type="webpage" xml:id="omh">
@@ -1364,7 +1364,7 @@
                         <publisher>OMHP</publisher>
                      </imprint>
                   </monogr>
-                  <note>https://www.olympiamusichistory.org/bands/dangermouse</note>
+                  <ptr target="https://www.olympiamusichistory.org/bands/dangermouse"/>
                </biblStruct>
 
                <biblStruct type="webpage" xml:id="wigout">
@@ -1377,7 +1377,7 @@
                         <publisher>Girl Trouble</publisher>
                      </imprint>
                   </monogr>
-                  <note>https://wig-out.com/</note>
+                  <ptr target="https://wig-out.com/"/>
                </biblStruct>
 
                <biblStruct type="webpage" xml:id="for">
@@ -1390,7 +1390,7 @@
                         <publisher>Fallout Records</publisher>
                      </imprint>
                   </monogr>
-                  <note>https://falloutrecords.com/about.html</note>
+                  <ptr target="https://falloutrecords.com/about.html"/>
                </biblStruct>
 
                <biblStruct type="webpage" xml:id="rettman">
@@ -1407,7 +1407,7 @@
                         <date>June 10, 2022</date>
                      </imprint>
                   </monogr>
-                  <note>https://daily.bandcamp.com/hidden-gems/unseen-force-in-search-of-the-truth-review</note>
+                  <ptr target="https://daily.bandcamp.com/hidden-gems/unseen-force-in-search-of-the-truth-review"/>
                </biblStruct>
 
                <biblStruct type="webpage" xml:id="rebelskates">
@@ -1420,7 +1420,7 @@
                         <publisher>Rebel Skates</publisher>
                      </imprint>
                   </monogr>
-                  <note>https://www.rebelskates.com/heritage</note>
+                  <ptr target="https://www.rebelskates.com/heritage"/>
                </biblStruct>
 
                <biblStruct type="webpage" xml:id="monquisite">
@@ -1433,7 +1433,7 @@
                         <publisher>Monqui Presents</publisher>
                      </imprint>
                   </monogr>
-                  <note>https://monqui.com/</note>
+                  <ptr target="https://monqui.com/"/>
                </biblStruct>
 
                <biblStruct type="webpage" xml:id="bbb">
@@ -1446,7 +1446,7 @@
                         <publisher>Big Boy</publisher>
                      </imprint>
                   </monogr>
-                  <note>https://www.bigboy.com/bobs</note>
+                  <ptr target="https://www.bigboy.com/bobs"/>
                </biblStruct>
             </listBibl>
          </div>

@@ -596,7 +596,7 @@ fileDesc > extent {
 }
 /* f */
 figure {
-  display: block;
+  display: inline flow-root;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -657,7 +657,7 @@ graph {
   /* Empty for now */
 }
 graphic {
-  display: inline;
+  display: inline flow-root;
   width: 200px;
   height: auto;
 }
@@ -703,23 +703,20 @@ div > div > div > div > div > head {
 div > div > div > div > div > div head {
   font-size: 100%;
 }
-figure > head {
-  display: block;
-  margin: 1.5em auto 1.5em auto;
+figure {
+  display: inline flow-root;
+  margin: auto;
   padding: .5em 1.5em 1.5em 1.5em;
-  border: 1px solid black;
-  border-radius: 15px;
-  width: 325px;
+  border: none;
+  width: 200px;
+  height: auto;
   position: relative;
-  border: 1px solid #AAA;
-  background: #FAFAFA;
+  border: none;
+  background: none;
   /* reset text-indent for note with <l> ancestors. */
   text-indent: 0;
   font-size: 85%;
   text-align: justify;
-  -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
-  -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
-  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   width: 85%;
   font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
   font-size: 14pt;
@@ -1842,9 +1839,16 @@ html {
   font-size: 14pt;
   background-color: #f4eee0;
 }
-img {
-  border: 1px solid #AAA;
-  width: 100%;
+front > img {
+  border: none;
+  width: 60%;
+  height: auto;
+}
+body > img {
+  border: none;
+  width: 30%;
+  height: auto;
+  float: left;
 }
 footer {
   display: none;
@@ -1962,3 +1966,4 @@ body > div > head > hi > rend > caps {
 back > div {
   display: block
 }
+

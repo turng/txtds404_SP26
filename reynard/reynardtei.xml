@@ -35,6 +35,26 @@
             </p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <charDecl>
+            <glyph xml:id="flower">
+               <desc>This glyph is a small, red flower ornament.</desc>
+               <graphic url="ImagesForReynard/Flower.png"/>
+            </glyph>
+         </charDecl>
+         <charDecl>
+            <glyph xml:id="round">
+               <desc>This glyph is a small, black leaf with rounded edges.</desc>
+               <graphic url="ImagesForReynard/SmoothLeaf.png"/>
+            </glyph>
+         </charDecl>
+         <charDecl>
+            <glyph xml:id="spiky">
+               <desc>This glyph is a small, black leaf with spiky edges.</desc>
+               <graphic url="ImagesForReynard/SpikyLeaf.png"/>
+            </glyph>
+         </charDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <front>
@@ -44,13 +64,15 @@
             existed in other European countries since the <date>10th century</date>. <ref
                target="morris">It is a historic text that has gone through many different
                transmissions, finally being edited by <persName>William Morris</persName> in
-                  <date>1892</date>, who also printed the edition and designed the ornamentation
-               that decorates it </ref>. The text communicates parables to the audience in a
-            humorous and instructive tone. <ref target="brit">The stories center around the fox
-               character of <persName>Reynard</persName>, who lives in a society of other talking
-               animals. He is an antihero, often tricking or committing crimes against his fellow
-               animals. The animal community resembles a court in a satirical representation of
-               human courts</ref>.</p>
+               <date>1892</date>, who also printed the edition and designed the ornamentation
+               that decorates it </ref>. <persname>Morris</persname> went into great detail to 
+            make this edition as creative as possible as a part of the Art and Crafts movement
+            to push back against industrial revolution and the mass produciton of text. The 
+            text communicates parables to the audience in ahumorous and instructive tone. 
+            <ref target="brit">The stories center around the foxcharacter of <persName>Reynard
+            </persName>,who lives in a society of other talkinganimals. He is an antihero, 
+               often trickingor committing crimes against his fellowanimals. The animal 
+               community resembles a court in a satirical representation ofhuman courts</ref>.</p>
          <p>One of our overarching goals with this project is to highlight a unique book in the
                <placeName>University of Washington</placeName>’s Special Collections that represents
             one version of <persName>Reynard the Fox</persName>, a character who appears throughout
@@ -76,7 +98,7 @@
             </docTitle>
             <figure>
                <figDesc>Illuminated title page reading "The History of Reynard the Foxe."</figDesc>
-               <graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/TitlePage.png">
+               <graphic url="ImagesForReynard/TitlePage.png">
                </graphic>
             </figure>
          </titlePage>
@@ -85,8 +107,8 @@
          <div type="chapter">
             <pb n="1"/>
             <head><hi rend="rt">Hyer begynneth the hystorye of <persName>Reynard the
-                     Foxe</persName><g ref="flower"/><g ref="flower"/><g ref="flower"/></hi></head>
-            <p><figure><figDesc>Illuminated capital "I."</figDesc><graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Capital1.png"></graphic></figure><hi rend="caps">n</hi> thys hystorye ben wreton the parables, goode lerynge, and
+                     Foxe</persName><g ref="#flower"/><g ref="#flower"/><g ref="#flower"/></hi></head>
+            <p><figure><figDesc>Illuminated capital "I."</figDesc><graphic url="ImagesForReynard/Capital1.png"></graphic></figure><hi rend="caps">n</hi> thys hystorye ben wreton the parables, goode lerynge, and
                <ref target="#c1n1">dyuerse</ref>poyntes to be merkyed, by whiche poyntes men maye lerne to come to the
                subtylle knoweleche of suche thynges as dayly ben vsed and had in the counseyllys of
                lordes and prelates, gostely and worldly, and also emonge marchantes &amp; other
@@ -94,7 +116,7 @@
                fer as they in redynge or heeryng of it shall mowe vnderstand and fele the forsaid
                subtil deceytes that dayly ben vsed in the worlde, not to thentente that men shold
                vse them, but that euery man sholde eschewe and kepe hym from the subtyl false
-               shrewys, that they be not deceyuyd<g ref="spiky"/>Thenne who that will haue the very
+               shrewys, that they be not deceyuyd<g ref="#spiky"/>Thenne who that will haue the very
                vnderstandyng of thys matter, he muste ofte and many tymes rede in thys booke, and
                ernestly and diligently marke well that he redeth, for it is sette subtylly, lyke as
                ye shal see in redyng of it; and not ones to rede it; for a man shall not wyth ones
@@ -106,8 +128,8 @@
             <pb n="2"/>
             <div type="chapter">
                <head><hi rend="rt">Howe the <persName>Lyon</persName>, kynge of alle bestis, sent
-                     out hys <ref target="#c2n2">mandementis</ref> that alle beestis sholde come to his feest and court, <ref target="c2n3">capitulo primo</ref><g ref="flower"/><g ref="flower"/></hi></head>
-               <p><figure><figDesc>Illuminated capital "I."</figDesc><graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Capital2.png"></graphic></figure><hi rend="caps">t</hi> was about the time of <date>Penthecoste</date> or
+                     out hys <ref target="#c2n2">mandementis</ref> that alle beestis sholde come to his feest and court, <ref target="#c2n3">capitulo primo</ref><g ref="#flower"/><g ref="#flower"/></hi></head>
+               <p><figure><figDesc>Illuminated capital "I."</figDesc><graphic url="ImagesForReynard/Capital2.png"></graphic></figure><hi rend="caps">t</hi> was about the time of <date>Penthecoste</date> or
                      <date>Whytsontyde</date>, that the wodes comynly be lusty and gladsom, and the
                   trees clad with leuys and blossoms, and the grounde with herbes &amp; flowris
                   swete smellyng, &amp; also the fowles &amp; byrdes syngen melodyously in theyr
@@ -118,16 +140,16 @@
                   thyder, in such wyse that alle the beestis grete &amp; smale cam to the courte,
                   sauf <persName>Reynard the Fox</persName>, for he knewe himself fawty &amp; gylty
                   in many thinges ayenst many beestis that thyder sholde comen, that he durste not
-                  auenture to goo thyder <g ref="spiky"/> Whan the kynge of alle beestis has
+                  auenture to goo thyder <g ref="#spiky"/> Whan the kynge of alle beestis has
                   assemblid all his court, ther was none of them alle but that he had complayned
                   sore on <persName><ref target="#c2n1">Reynart</ref> the Foxe</persName>.</p>
             </div>
             <div type="chapter">
                <head><hi rend="rt">The firste complaynt made <persName>Isegrym the Wulf</persName>
                      on <persName>Reynart</persName>, capitulo
-                  ij<g ref="flower"/><g ref="flower"/></hi></head>
-               <p><persName><figure><figDesc>Illuminated capital "I."</figDesc><graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Capital3.png"></graphic></figure><hi rend="caps">segrym</hi> the Wulf</persName> wyth his lynage and
-                  frendes cam and stode to fore the kynge, &amp; sayde <g ref="spiky"/><q>Hye and
+                  ij<g ref="#flower"/><g ref="#flower"/></hi></head>
+               <p><persName><figure><figDesc>Illuminated capital "I."</figDesc><graphic url="ImagesForReynard/Capital3.png"></graphic></figure><hi rend="caps">segrym</hi> the Wulf</persName> wyth his lynage and
+                  frendes cam and stode to fore the kynge, &amp; sayde <g ref="#spiky"/><q>Hye and
                      myghty prynce, my lord the hynge, I beseche yow that thurgh your grete mygtht,
                      ryght, &amp; mercy, that ye wyl haue pyte on the grete trespas &amp; the
                      vnreasonable mys<pb n="3"/>dedes that <persName>Reynart the Foxe</persName>
@@ -146,23 +168,23 @@
             </div>
             <div type="chapter">
                <head><hi rend="rt">The complaynt of <persName>Courtoys the Hounde</persName>,
-                     capitulo iij <g ref="flower"/><g ref="flower"/></hi></head>
-               <p><figure><figDesc>Illuminated capital "W."</figDesc><graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Capital4.png"></graphic></figure><hi rend="caps">han</hi> these wordes were spoken so stoode there a lytyl hounde,
+                     capitulo iij <g ref="#flower"/><g ref="#flower"/></hi></head>
+               <p><figure><figDesc>Illuminated capital "W."</figDesc><graphic url="ImagesForReynard/Capital4.png"></graphic></figure><hi rend="caps">han</hi> these wordes were spoken so stoode there a lytyl hounde,
                   and was named <persName>Courtoys</persName>, an dcomplayned to the kynge, how that
                   in the colde wynter in the harde froste he had ben sore for-wynterd, in suche wyse
                   as he had kepte nomore mete than a <ref target="#c4n1">pud-dyng</ref>, wych puddyng <persName>Reygnard the
-                     Foxe</persName> had taken away from hym <g ref="spiky"/> Tho spak
+                     Foxe</persName> had taken away from hym <g ref="#spiky"/> Tho spak
                      <persName>Thybert the Catte</persName>.</p>
                <pb n="4"/>
-               <p><figure><figDesc>Illuminated capital "W."</figDesc><graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Capital5.png"></graphic></figure><hi rend="caps">yth</hi> this so cam <persName>Tybert the Catte</persName> wyth an
-                  irous moed, and sprange in emonge them, and sayde <g ref="round"/><q> My lord
+               <p><figure><figDesc>Illuminated capital "W."</figDesc><graphic url="ImagesForReynard/Capital5.png"></graphic></figure><hi rend="caps">yth</hi> this so cam <persName>Tybert the Catte</persName> wyth an
+                  irous moed, and sprange in emonge them, and sayde <g ref="#round"/><q> My lord
                      the kyng, I here hier that <persName>Reynart</persName> is sore complayned on,
                      and hier is none but that he hath ynowh to doo to clere hym selfe: that
                         <persName>Courtoys</persName> hier complayneth of, that is passyd mony yeres
                      goon; how be it that I com-playn not, that pudyng was myne, for I hadde wonne
                      it by nyghte in a mylle. The myllar laye and slepe: yf
                         <persName>Courtoys</persName> had ony parte hierin, that cam by me to</q>
-                  <g ref="round"/> Thenne spak <persName>Panther</persName>: <q>Thynke ye,
+                  <g ref="#round"/> Thenne spak <persName>Panther</persName>: <q>Thynke ye,
                         <persName>Tybert</persName>, that it were good that
                         <persName>Reynard</persName> sholde not be complayned on? He is a very
                      murderer, a rouer, and a theef; he loueth noman so wel, not our lord the kynge
@@ -181,7 +203,7 @@
                      lord the kynge, yf ye suffre this vnpunysshyd, and lete hym go quyte that hath
                      thus broken your peas, and wyl do no right after the sentence &amp; juge- <pb
                         n="5"/>ment of your men, your chyldren many yeris herafter shal be
-                     myspreysed and blamed therfore </q><g ref="spiky"/><q>
+                     myspreysed and blamed therfore </q><g ref="#spiky"/><q>
                      <persName>Sykerly Panther</persName></q>said>, sayd
                      <persName>Isegrym</persName>, <q>ye saye trouthe! Hit were good that right
                      and justyse were don for them that wolde fayne lyue in peas.</q></p>
@@ -189,9 +211,9 @@
             <div type="chapter">
                <head><hi rend="rt">How <persName>Grymbart the Dasse</persName>, the foxes susters
                      sone, spack for <persName>Reynart</persName> and answerd to fore the kynge,
-                     capitulo iiij <g ref="flower"/><g ref="flower"/></hi></head>
-               <p><figure><figDesc>Illuminated capital "T."</figDesc><graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Capital6.png"></graphic></figure><hi rend="caps">ho</hi> spack <persName>Grymbart the Dasse</persName>, &amp; was
-                     <persName>Reynarts</persName> suster sone, wyth an angrye moed <g ref="spiky"/><q>
+                     capitulo iiij <g ref="#flower"/><g ref="#flower"/></hi></head>
+               <p><figure><figDesc>Illuminated capital "T."</figDesc><graphic url="ImagesForReynard/Capital6.png"></graphic></figure><hi rend="caps">ho</hi> spack <persName>Grymbart the Dasse</persName>, &amp; was
+                     <persName>Reynarts</persName> suster sone, wyth an angrye moed <g ref="#spiky"/><q>
                      <persName>Sir Isegrym</persName>, that is euyl sayd! It is a comyn prouerb. An
                      enemies mouth saith seeld wel. What leye ye and wyte ye myn eme
                         <persName>Reynart</persName>? I wold that ye wolde aventure that who of yow
@@ -213,7 +235,7 @@
                      maner thynges hath <persName>Reynart</persName> many tymes suffred thurgh
                         <persName><ref target="#c5n2">Ysegrym</ref></persName>.</q>
                </p>
-               <p><q><figure><figDesc>Illuminated capital "O."</figDesc><graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Capital7.png"></graphic></figure><hi rend="caps">ye</hi> lordes, thynke ye that this is good; yet is ther
+               <p><q><figure><figDesc>Illuminated capital "O."</figDesc><graphic url="ImagesForReynard/Capital7.png"></graphic></figure><hi rend="caps">ye</hi> lordes, thynke ye that this is good; yet is ther
                      more! He complayneth how that <persName>Reynart</persName> myn eme hath moche
                      tres-paced to hym by cause of his wyf. Myn eme hath leyn by her, but that is
                      wel seuen yer to fore er he wedded her; and yf Reynart for loue and curosye
@@ -226,7 +248,7 @@
                      were not beten ne smyten and reprised of their truantrye, they shold neuer
                      lerne.</q>
                </p>
-               <p><q><figure><figDesc>Illuminated capital "N."</figDesc><graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Capital8.png"></graphic></figure><hi rend="caps">ow</hi> complayneth <persName>Courtoys</persName> that he
+               <p><q><figure><figDesc>Illuminated capital "N."</figDesc><graphic url="ImagesForReynard/Capital8.png"></graphic></figure><hi rend="caps">ow</hi> complayneth <persName>Courtoys</persName> that he
                      with payne had goten a puddyng in the wynter at suche tyme as the coste is euyl
                      to fynde. Therof hym had he better to have holde his pees, for he had stolen
                      it; male quesisti et male perdisti, hit is ryght that it be evil loste that is
@@ -248,7 +270,7 @@
                      almesse and taketh nothyng but ushce as men gyue hym for charyte, and doth
                      grete penance for his synnes, and he is woxen moche pale and lene of prayeng
                      and wakyng for he wolde be fayn wyth God.</q>
-                  <g ref="spiky"/> Thus as <persName>Grymbert</persName> his eme stode and preched
+                  <g ref="#spiky"/> Thus as <persName>Grymbert</persName> his eme stode and preched
                   thise wordes, so sawe they comen doun the hylle to hem <persName>Chauntecler the
                      Cock</persName>, and brought on a biere a deed henne of whom
                      <persName>Reynart</persName> had byten the heed of, and that muste be shewed to
@@ -257,9 +279,9 @@
             <div type="chapter">
                <pb n="8"/>
                <head><hi rend="rt">How the <persName>Cocke</persName> complayned on
-                        <persName>Reynart</persName>, capitulov <g ref="flower"/>
+                        <persName>Reynart</persName>, capitulov <g ref="#flower"/>
                   </hi></head>
-               <p><persName><figure><figDesc>Illuminated capital "C."</figDesc><graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Capital9.png"></graphic></figure><hi rend="caps">hauntecler</hi></persName> came forth &amp; smote
+               <p><persName><figure><figDesc>Illuminated capital "C."</figDesc><graphic url="ImagesForReynard/Capital9.png"></graphic></figure><hi rend="caps">hauntecler</hi></persName> came forth &amp; smote
                   pyteously his handes and his fetheris, and on eche side of the byer wenten tweyne
                   sorouful hennes; that one was called <persName>Cantart</persName>, and that other
                   goode henne <persName>Crayant</persName>, they were two the fairest hennes that
@@ -270,7 +292,7 @@
                   Two yonge hennes bare the byere, whiche kakled so heuyly and wepte so lowde for
                   the deth of <persName>Coppen</persName> their moder that it was ferre herde. Thus
                   cam they to gydre to fore the kynge, &amp; <persName>Chantecleer</persName> tho
-                  seyde <g ref="spiky"/>
+                  seyde <g ref="#spiky"/>
                   <q>Merciful Lord, my lord the kyng, plese it yow to here our complaynte and
                      abhorren the grete scathe that reynart hath don to me &amp; my children that
                      hiere stonden. It was so that in the begynnyng of <date>Appryl</date> whan the
@@ -286,20 +308,20 @@
                      the dogges haue be sette on hym &amp; haue hunted hym away. And ones they leep
                      on hym vpon the banke, and that cost hym somwhat for his thefte. I saw that his
                      skyn smoked; nevertheless he wente his waye, God amende it.</q></p>
-               <p><q><figure><figDesc>Illuminated capital "T."</figDesc><graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Capital10.png"></graphic></figure><hi rend="caps">hus</hi> were we quyte of <persName>Reynart</persName> a
+               <p><q><figure><figDesc>Illuminated capital "T."</figDesc><graphic url="ImagesForReynard/Capital10.png"></graphic></figure><hi rend="caps">hus</hi> were we quyte of <persName>Reynart</persName> a
                      longe whyle. Atte laste cam he in lynkes of an heremyte, &amp; brought to me a
                      lettre for to rede, sealed wythe the kynges seal, in whiche stode wreton that
                      the kynge had made pees oueral in his royame, &amp; that alle maner bestis and
                      fowlles shold doo none harme ner scathe to ony other. Yet sayd he to me more
                      that he was a cloysterer or closyd recluse be-comen, and that he wolde receyue
                      grete penance for his synnes. He shewd me his slauyne &amp; pylche, and an
-                     heren sherte ther vnder, &amp; thenne sayd he <g ref="spiky"
+                     heren sherte ther vnder, &amp; thenne sayd he <g ref="#spiky"
                            /><q><persName>Syr Chaunteclere</persName>, after thys tyme be no more
                         aferd of me, ne take no hede, for I now will ete no more flessh; I am
                         forthon so olde that I wolde fayn remembre my sowle. I wil now go forth, for
                         I haue yete to saye my sexte, none, and myn euensonge; to God I by-take
                         yow</q>
-                     <g ref="round"/>Tho wente <persName>Reynart</persName> thens, sayeng his Credo,
+                     <g ref="#round"/>Tho wente <persName>Reynart</persName> thens, sayeng his Credo,
                      and leyde hym vnder an hawthorn. Thenne was I glad and mery, and also toke none
                      hede, and wente to my chyldren and clucked hem to gyder, and wente wythout the
                      wal for to walke, wherof is moche harme comen to vs; for
@@ -316,8 +338,8 @@
             </div>
             <div type="chapter">
                <head><hi rend="rt">How the kyng spack touchyng this conplaynt, capitulo vj</hi><g
-                     ref="flower"/><g ref="flower"/></head>
-               <p><figure><figDesc>Illuminated capital "T."</figDesc><graphic url="https://github.com/turng/txtds404_SP26/blob/main/reynard/ImagesForReynard/Capital11.png"></graphic></figure><hi rend="caps">hen</hi> spacke the kynge <g ref="round"/><q><persName>Syre
+                     ref="#flower"/><g ref="#flower"/></head>
+               <p><figure><figDesc>Illuminated capital "T."</figDesc><graphic url="ImagesForReynard/Capital11.png"></graphic></figure><hi rend="caps">hen</hi> spacke the kynge <g ref="#round"/><q><persName>Syre
                         Dasse</persName>, here ye thys wel of the re-cluse your eme; he hath fasted
                      &amp; prayde that if I liue a yere he shal abye it. Now herke
                         <persName>Chaunteclere</persName>, youre playnte is ynoughe; youre doughter
@@ -326,28 +348,28 @@
                      wor-shypfully on erthe, and thenne we wille speke wyth thyse lordes, &amp; take
                      counsyl how we may do ryght and justyse of thys grete murdre and brynge thys
                      fals theef to the lawe</q>
-                  <g ref="spiky"/>Tho begonne thy Placebo Domino, wyth the verses that to longen,
+                  <g ref="#spiky"/>Tho begonne thy Placebo Domino, wyth the verses that to longen,
                   whiche yf I shold say were me to longe. Whan this vigilye was don &amp; the
                   commendacion, she was leyde in the pytte, and there vpon was leyde a marble stone
                   polyshed as clere as ony glas, and theron was hewen in grete lettres in this wyse
-                     <g ref="smooth"/><persName>Coppe</persName>, <persName>Chanteklers</persName>
+                     <g ref="#smooth"/><persName>Coppe</persName>, <persName>Chanteklers</persName>
                      dough-<pb n="11"/>ter, whome <persName>Reynart the Foxe</persName> hath byten,
                   lyeth hier vnder buryed: complayne ye her, for she is shame-fully comen to her
-                  dethe! <g ref="spiky"/>After thys the kynge sente for hys lordes and wisest of his
+                  dethe! <g ref="#spiky"/>After thys the kynge sente for hys lordes and wisest of his
                   counseyl, for to take aduyse how this grete murdre and respaas shold be punysshyd
                   on <persName>Reynart the Foxe</persName>. Ther was concluded and apoynted for the
                   beste, that <persName>Raynart</persName> shold be sent fore, &amp; that he lefte
                   not for ony cause, but he cam in to the kinges court for to here watshold be sayd
                   to hym, &amp; that <persName>Bruyn the Bere</persName> shold doo the message. The
-                  kynge thought that alle this was good, and saide to Brune the Bere <g ref="smooth"
+                  kynge thought that alle this was good, and saide to Brune the Bere <g ref="#smooth"
                         /><q><persName>Syr Brune</persName>, I wyl that ye doo this message but
                      see wel to for your self, for <persName>Reynart</persName> is a shrewe, and
                      felle, and knoweth so many wyles that he shallye and flatre, and shal thynke
                      how he may begyle, deceyue, &amp; brynge yow to some mock-erye</q><g
-                     ref="spiky"/>Tho sayde <persName>Brune</persName>: <q>What, good lord, late
+                     ref="#spiky"/>Tho sayde <persName>Brune</persName>: <q>What, good lord, late
                      it allone. Deceyueth me the <persName>Foxe</persName>? so haue I ylle lerned my
                      casus. I trowe he shall come to late to mocque me</q>
-                  <g ref="spiky"/></p>
+                  <g ref="#spiky"/></p>
                <p>Thus departed <persName>Brune</persName> meryly fro thens, but it is to drede that
                   he cam not so meryly agayn.</p>
             </div>
@@ -359,11 +381,11 @@
             <note type="editorial" xml:id="c1n1">The consonant "v" and the vowel "u" were interchangeable in written English through the Middle Ages. This began with the all-uppercase Latin script and is seen here in "dyuerse" (diverse).</note>
             <note type="editorial" xml:id="c2n1">The titular "Reynard" is often spelled "Reynart" throughout the text.</note>
             <note type="editorial" xml:id="c2n2">"Mandementis" is the plural of mandament meaning command</note>
-            <note type="editorial" xml:id="c2n3"><ref target="latin">capitulo primo," Latin for "chapter one"</ref></note>
-            <note type="editorial" xml:id="c3n1"><ref target="wit">"To wete" is an archaic form of "to wit," meaning "that is to say".</ref></note>
+            <note type="editorial" xml:id="c2n3"><ref target="#latin">capitulo primo," Latin for "chapter one"</ref></note>
+            <note type="editorial" xml:id="c3n1"><ref target="#wit">"To wete" is an archaic form of "to wit," meaning "that is to say".</ref></note>
             <note type="editorial" xml:id="c4n1">A “meat pudding” was a traditional British food, and might in this case refer to either black or white pudding as both contained some meat or meat casing.</note>
             <note type="editorial" xml:id="c4n2">"pees and saufgarde" means peace and safeguard which refers to the peace and safety of not just the king but the kingdom as well.</note>
-            <note type="editorial" xml:id="c5n1"><ref target="eme">"eme," Middle English for "uncle"</ref></note>
+            <note type="editorial" xml:id="c5n1"><ref target="#eme">"eme," Middle English for "uncle"</ref></note>
             <note type="editorial" xml:id="c5n2">The spelling "Ysegrym" is being used in place of "Isegrym" here with the "Y" interchangeable with the vowel "I".</note>
          </div>
          <div type="bibliography">

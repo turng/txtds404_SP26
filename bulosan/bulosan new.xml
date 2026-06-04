@@ -2,14 +2,13 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Be American and The Lonesome Mermaid</title>
             <author>Carlos Bulosan</author>
-            <editor>Naomi Roper</editor><editor>Ioana Cheldiu</editor><editor>Alice Leppert</editor><editor>Alice Wagar</editor><editor>Blythe Windle</editor><editor>Poe
+            <editor>Naomi Roper,</editor> <editor>Ioana Cheldiu,</editor> <editor>Alice Leppert,</editor> <editor>Alice Wagar,</editor> <editor>Blythe Windle,</editor> <editor>Poe
                Claudio</editor>
          </titleStmt>
          <publicationStmt>
@@ -18,7 +17,7 @@
                these short stories available digitally as well as more readable.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Transcribed from papers kept by Bulsan that are now held in UW Special Collections.
+            <p>Transcribed from papers kept by Bulosan that are now held in UW Special Collections.
                The files used were originally typed on a typewriter and feature handmade corrections
                by the author.</p>
             <p>'Be American' and 'The Lonesome Mermaid' are short stories by Filipino-American
@@ -47,9 +46,9 @@
    <text type="shortstory" n="1">
       <body>
          <pb n="1"/>
-         <head><emph>"BE AMERICAN"<lb/>By Carlos Bulosan</emph></head>
-
-         <p>It was not<name type="#consorcio">Consorcio’s</name>fault. My cousin was an illiterate
+         <head><emph> "BE AMERICAN" <lb/> By Carlos Bulosan </emph></head>
+         <ab>"Be American" 1"</ab>
+         <p>It was not <name type="#consorcio"> Consorcio’s </name>fault. My cousin was an illiterate
             peasant from the vast plains of<name type="place" ref="#luzon">Luzon</name>. When he
             came off the boat in<name type="place" ref="#sanfrancisco">San Francisco</name>, he
             could neither read nor write English or Ilocano, our dialect. I met him when he arrived,
@@ -68,10 +67,10 @@
                   <reg>Good ideas</reg>
                </choice>, eh, cousin?”</said></p>
          <p>
-            <said direct="true">“It is,” I said.“But the first thing for you to do is look for a
+            <said direct="true">“It is,” I said. “But the first thing for you to do is look for a
                job.”</said></p>
          <p>
-            <said direct="true">“Sure, cousin. You have <choice>
+            <said direct="true"> “Sure, cousin. You have <choice>
                   <orig>joob</orig>
                   <reg>job</reg>
                </choice> for me?”</said></p>
@@ -85,7 +84,7 @@
             of us, and be an American, which was his own idea in the first place. He had never slept
             in a bed with a mattress before, so he had to suf- </p>
          <pb n="2"/>
-         <p><seg>"Be American" 2</seg></p>
+         <ab>"Be American" 2</ab>
          <p>fer from severe cold before he realized that he had to sleep inside of the bed,
             under the blankets, but not on top of the spread, which was what we had done during his
             first two weeks in <name type="place" ref="#america">America</name>. And of course he
@@ -135,14 +134,14 @@
                told him. </said>
          </p>
          <pb n="3"/>
-         <p><seg>"Be American" 3</seg></p>
+         <ab>"Be American" 3</ab>
          <p><said direct="true">“Sure, cousin. How long I wait?”</said></p>
          <p><said direct="true">“Five years.”</said></p>
          <p><said direct="true">“<u>Five years?</u>” There was genuine surprise in his dark peasant
                face. “Too long. I do not wait. I make faster - one year.”</said></p>
          <p><said direct="true">“It is the law,” I assured him.</said></p>
          <p><said direct="true">“No good law. One year enough for <name type="#consorcio"
-                  >Consorcio.</name>He make good American citizen.”</said></p>
+                  > Consorcio. </name>He make good American citizen.”</said></p>
          <p><said direct="true">“There is nothing you can do about it.”</said></p>
          <p><said direct="true">“I change law.”</said></p>
          <p><said direct="true">“Go ahead.”</said></p>
@@ -165,7 +164,7 @@
          <p><said direct="true">“Where?”</said></p>
          <p><said direct="true">“Come, cousin. I show you.”</said></p>
          <p>It was a small shop, a three-men affair. <name type="#consorcio"
-            >Consorcio</name>was the handy-boy in the place, scrubbing the floor, washing the pots
+            >Consorcio </name> was the handy-boy in the place, scrubbing the floor, washing the pots
             and pans; and he was also the messenger. The owner was the baker, while his wife was the
             saleswoman. My cousin lived at the back of the building, near the washrooms. He had a
             cot in the corner of a dark room. But the books were gone.</p>
@@ -173,7 +172,7 @@
          <p>He looked sad. Then he said, <said direct="true">“I sold, cousin.”</said></p>
          <p><said direct="true">“Why?”</said></p>
          <pb n="4"/>
-         <p><seg>"Be American" 4</seg></p>
+         <ab>"Be American" 4</ab>
          <p><said direct="true">"I cannot read. I cannot understand. Words too big and too
                long."</said></p>
          <p><said direct="true">"You should begin with simple grammar books."</said></p>
@@ -184,79 +183,75 @@
          <p><said direct="true">"Is a place like that?"</said></p>
          <p><said direct="true">"Yes."</said></p>
          <p><said direct="true">"No use, cousin. No money."</said></p>
-         <p><said direct="true">"The school is free," I told him. "It is for foreign born
-               people.<lb/>For adults, so they could study American history."</said></p>
-         <p><said direct="true">"Free?<corr>I go now.</corr>"</said></p>
+         <p><said direct="true">"The school is free," I told him. "It is for foreign born people. <lb/> For adults, so they could study American history."</said></p>
+         <p><said direct="true">"Free? I go now."</said></p>
          <p><said direct="true">"The school opens only at night."</said></p>
-         <p><said direct="true">"I<corr>work night.</corr>"</said></p>
-         <p><said direct="true">"Well, work in the daytime. Look for another job. You still
-               want<lb/>to be an American, don't you?"</said></p>
+         <p><said direct="true">"I work night."</said></p>
+         <p><said direct="true">"Well, work in the daytime. Look for another job. You still want <lb/> to be an American, don't you?"</said></p>
          <p><said direct="true">"Sure. But I like boss-man. What to do?"</said></p>
          <p><said direct="true">"Tell him the truth."</said></p>
          <p><said direct="true">"You help me?"</said></p>
-         <p>I did. We went to the boss-man. I explained the matter as
-               <corr>truth-<lb/>fully</corr>as I could and he understood Consorcio's problems.
-            <lb/>But he asked me to find someone to take the place of my cousin's place, which
-            I<lb/>did too, so we shook hands around and departed in the best of humor<lb/>I
-               helped<name type="name" ref="#consorcio">Consorcio</name>register at the night
-            school, <corr>looked</corr> for another<lb/>job for him <corr>as janitor</corr>in an
-            apartment building. Then I left him,<lb/>wishing him the best of luck. <lb/>I worked in
-               <name type="place" ref="#alaska">Alaska</name>the next two years. When I returned to
-            the mainland, I made it my duty to pass through<name type="place" ref="sanfrancisco">San
-               Francisco</name>. But my</p>
+         <p>I did. We went to the boss-man. I explained the matter as <corr>truth-<lb/>fully</corr>
+            as I could and he understood Consorcio's problems. <lb/> But he asked me to find someone
+            to take the place of my cousin's place, which I <lb/> did too, so we shook hands around and
+            departed in the best of humor <lb/> I helped <name type="name" ref="#consorcio"> Consorcio </name>
+            register at the night school, <corr>looked</corr> for another<lb/>job for him as janitor in an
+            apartment building. Then I left him,<lb/>wishing him the best of luck. <lb/> I worked in
+            <name type="place" ref="#alaska">Alaska </name> the next two years. When I returned to
+            the mainland, I made it my duty to pass through<name type="place" ref="sanfrancisco"> San Francisco </name>. But my</p>
          <pb n="5"/>
-         <p><seg>"Be American" 5</seg></p>
+         <ab>"Be American" 5</ab>
          <p>cousin had left his janitor job and the night school. I could not<lb/>find his new
             address, and it seemed that no one knew him well enough<lb/>in the Filipino
             community.</p>
-         <p>I did not think much of his disappearance because we are a wander-<lb/>ing people que to
-            the nature of our lowly occupations, which take us<lb/>from place to place, following
-            the seasons. When I received a box of<lb/>grapes from a friend, I knew he was working
-            in<lb/>the grape fields in either <name type="place" ref="fresno">Fresno</name>or<name
-               type="place" ref="delano">Delano</name>, depending on the freight mark. When
-               I<corr>re-<lb/>ceived</corr>a box of <corr>asparggus</corr>, I knew he was working
-               in<name type="place" ref="stockton">Stockton</name>. But<lb/>when it was a crate of
-            lettuce, he was working in<name type="place" ref="santamaria">Santa
-               Maria</name>or<lb/><name type="place" ref="salinas">Salinas</name>, depending on the
+         <p>I did not think much of his disappearance because we are a <corr>wander-<lb/>ing</corr> people que to
+            the nature of our lowly occupations, which take us <lb/> from place to place, following
+            the seasons. When I received a box of <lb/> grapes from a friend, I knew he was working
+            in<lb/>the grape fields in either <name type="place" ref="fresno"> Fresno </name> or <name
+               type="place" ref="delano"> Delano</name>, depending on the freight mark. When
+               I <corr> re-<lb/>ceived</corr> a box of <corr>asparggus</corr>, I knew he was working
+               in <name type="place" ref="stockton"> Stockton </name>. But <lb/> when it was a crate of
+            lettuce, he was working in <name type="place" ref="santamaria"> Santa
+               Maria </name> or <lb/><name type="place" ref="salinas"> Salinas</name>, depending on the
             freight mark again. And in the summertime<lb/> when I received a large barrel of salmon,
             I knew he was working in<lb/>the salmon canneries in<name type="place" ref="#alaska"
                >Alaska</name>. There were no letters, no post cards<lb/>- nothing. But these
-            surprising boxes, crates and barrels that arrived<lb/>periodically were the best letters
-            in the world. What they contained <lb/>were lovingly distributed among my city friends.
-            Similarly, when I<lb/>was in one of my own wanderings, which were done in cities and
-            large<lb/>towns, I sent my friend or friends unsealed envelopes bursting with<lb/>the
+            surprising boxes, crates and barrels that arrived <lb/> periodically were the best letters
+            in the world. What they contained <lb/> were lovingly distributed among my city friends.
+            Similarly, when I <lb/> was in one of my own wanderings, which were done in cities and
+            large<lb/>towns, I sent my friend or friends unsealed envelopes bursting with <lb/> the
             colored pictures of actresses and other beautiful women.
-            I<corr>ad-<lb/>dressed</corr>these gifts to poolrooms and restaurants in towns where
-            my<lb/>friends had lived or worked for a season, because they were bound to<lb/>go to
-            any of these havens of the homeless wanderer. However, when<lb/>another curious wanderer
-            opened the envelopes and pilfered the<corr>pic-<lb/>tures</corr>, it was not a crime.
-            The enjoyment which was originally<corr>in-<lb/>tended</corr> for my friends was his and
-            his friends. That is the law of the<lb/>nomad: finders keepers.</p>
-         <p>But<name type="name" ref="#consorcio">Consorcio</name>had not yet learned the
-            unwritten law of the nomad. <lb/>I did not expect him to send me boxes, crates, and
-            barrels from far-<lb/>away<name type="place" ref="#alaska">Alaska</name>. So I did not
+            I <corr>ad-<lb/>dressed </corr> these gifts to poolrooms and restaurants in towns where
+            my <lb/> friends had lived or worked for a season, because they were bound to <lb/> go to
+            any of these havens of the homeless wanderer. However, when <lb/> another curious wanderer
+            opened the envelopes and pilfered the <corr>pic-<lb/>tures</corr>, it was not a crime.
+            The enjoyment which was originally <corr>in-<lb/>tended</corr> for my friends was his and
+            his friends. That is the law of the <lb/>nomad: finders keepers.</p>
+         <p>But <name type="name" ref="#consorcio"> Consorcio </name>had not yet learned the
+            unwritten law of the nomad. <lb/> I did not expect him to send me boxes, crates, and
+            barrels from far-<lb/>away <name type="place" ref="#alaska"> Alaska</name>. So I did not
             know where I could locate him.</p>
          <pb n="6"/>
-         <p><seg>"Be American" 6</seg></p>
-         <p>I wandered in and out of<name type="place" ref="losangeles">Los Angeles</name>the next
+         <ab>"Be American" 6</ab>
+         <p>I wandered in and out of <name type="place" ref="losangeles">Los Angeles </name>the next
             two years. <lb/>At the beginning of the third year, when I was talking to the sleeping
-            birds<lb/>in Pershing Square, I felt a light hand on my shoulders. I was not<lb/>usually
-            curious about hands, but it was well after midnight and the<lb/>cops were wandering in
-            and out of the place. So I turned around -<lb/>and<corr>jound</corr>
+            birds<lb/>in Pershing Square, I felt a light hand on my shoulders. I was not<lb/> usually 
+            curious about hands, but it was well after midnight and the<lb/> cops were wandering in
+            and out of the place. So I turned around -<lb/> and <corr>jound</corr>
             <name type="name" ref="#consorcio">Consorcio.</name></p>
-         <p>I found a new<name type="name" ref="#consorcio">Consorcio</name>. He had aged and the
-            peasant naivete<lb/>was gone from his face. In his eyes was now a hidden fear. His
-            hands<lb/>danced and flew when he was talking,<lb/>and even when he was not talking, as
-            though he were slapping the wind with both hands or clapping with<lb/>one hand. Have you
+         <p>I found a new <name type="name" ref="#consorcio">Consorcio</name>. He had aged and the
+            peasant naivete<lb/> was gone from his face. In his eyes was now a hidden fear. His
+            hands<lb/> danced and flew when he was talking,<lb/> and even when he was not talking, as
+            though he were slapping the wind with both hands or clapping with<lb/> one hand. Have you
             ever heard the noise of one hand clapping?</p>
-         <p>That was<name type="name" ref="#consorcio">Consorcio</name>, after five years in
-            America. He was either<lb/>slapping the wind with both hands or clapping with one hand.
-            So I<lb/>guided him out of the dark park to a lighted place, where we had cof-<lb/>fee
+         <p>That was <name type="name" ref="#consorcio">Consorcio</name>, after five years in
+            America. He was either<lb/> slapping the wind with both hands or clapping with one hand.
+            So I<lb/> guided him out of the dark park to a lighted place, where we had <corr>cof-<lb/>fee</corr>
             until the city awoke to give us another day of hope. Of course,<lb/> I sat in silence
-            for a long time because it was the year of deep si-<lb/>lence. And<name type="name"
-               ref="#consorcio">Consorcio</name>sat for a long time too, because by now he
-            had<lb/>learned to hide in the deep silence that was flung like a mourning<lb/>cloak
-            across the face of the land. When we talked our sentences were<lb/>short and punctuated
+            for a long time because it was the year of deep <corr>si-<lb/>lence</corr>. And<name type="name"
+               ref="#consorcio"> Consorcio</name> sat for a long time too, because by now he
+            had<lb/> learned to hide in the deep silence that was flung like a mourning<lb/> cloak
+            across the face of the land. When we talked our sentences were<lb/> short and punctuated
             by long silences. So we conversed somewhat like this:</p>
          <p><said direct="true">"Been wandering everywhere."</said></p>
          <p><said direct="true">"No job."</said></p>
@@ -266,7 +261,7 @@
          <p><said direct="true">"No finished school?"</said></p>
          <p>Silence.</p>
          <pb n="7"/>
-         <p><seg>"Be American" 7</seg></p>
+         <ab>"Be American" 7</ab>
          <p><said direct="true">"Not American citizen yet?"</said></p>
          <p><said direct="true">"You should have told me<ref target="BA7-1">?</ref>"</said></p>
          <p><said direct="true">"Told you what?"</said></p>
@@ -280,75 +275,84 @@
          <p><said direct="true">"How long?"</said></p>
          <p><said direct="true">"I have forgotten."</said></p>
          <p><said direct="true">"Better times will come."</said></p>
-         <p><said direct="true">"You have a wonderful dream, cousin,"</said>he told me and left. He
-               left<lb/><name type="place" ref="#losangeles">Los Angeles</name>for a long time.
-            Then, two years later, I received a crate<lb/>of oranges from him. The freight mark
-               was<name type="place" ref="#sanjose">San Jose</name>. Now I knew he was<lb/>working
-            and had learned the unwritten law of the wanderers on this<lb/>troubled earth. So as I
-            ate the oranges, I recalled his last state-<lb/>ment:<hi style="underline">You have a
+         <p><said direct="true">"You have a wonderful dream, cousin," </said>he told me and left. He
+               left <lb/><name type="place" ref="#losangeles">Los Angeles</name> for a long time.
+            Then, two years later, I received a crate<lb/> of oranges from him. The freight mark
+               was <name type="place" ref="#sanjose">San Jose</name>. Now I knew he was <lb/>working
+            and had learned the unwritten law of the wanderers on this <lb/>troubled earth. So as I
+            ate the oranges, I recalled his last <corr>state-<lb/>ment:</corr><hi style="underline"> You have a
                wonderful dream, cousin</hi>…</p>
-         <p>I had a wonderful dream. But I dreamed it for both of us, for<lb/>many of us who
-            wandered in silence.<ref target="BA7-2">Then</ref>the boxes and crates became more
-            frequent. Then a barrel of<lb/>salmon came from<name type="place" ref="#alaska"
-               >Alaska</name>. And<ref target="BA7-3">,</ref>finally, the letters came. My
-               cousin<lb/><name type="person" ref="#consorcio">Consorcio</name>, the one-time
-            illiterate peasant from the vast plains of<lb/><name type="place" ref="#luzon"
-               >Luzon</name>, had indeed become an American without knowing it.<ref target="BA7-4"><choice>
+         <p>I had a wonderful dream. But I dreamed it for both of us, for<lb/> many of us who
+            wandered in silence. <ref target="BA7-2">Then </ref>the boxes and crates became more
+            frequent. Then a barrel of<lb/> salmon came from <name type="place" ref="#alaska"
+               >Alaska</name>. And<ref target="BA7-3">,</ref> finally, the letters came. My
+               cousin <lb/><name type="person" ref="#consorcio">Consorcio</name>, the one-time
+            illiterate peasant from the vast plains of <lb/><name type="place" ref="#luzon"
+               >Luzon</name>, had indeed become an American without knowing it. <ref target="BA7-4"><choice>
                   <sic>He</sic>
                   <corr>His</corr>
-               </choice></ref>letters<lb/>were full of wondering and pondering about many things in
-               <name type="place" ref="#america">America</name>.<lb/><ref target="BA7-5">Now</ref>he
-            realized his naivete when he had landed in<name type="place" ref="#sanfrancisco">San
-               Francisco</name>. But<lb/>he realized also that he could not ask too much in a
-            strange land.<lb/>And it was this realization that liberated him from his peasant
-               pri-<pb n="8"/><seg>"Be American" 8</seg><lb/>son, his heritage, and eventually led him to
-            a kind of work to which<lb/>he dedicated his time and life until the end.</p>
-         <p>I was in<name type="place" ref="#oregon">Oregon</name>when I received a newspaper from
+               </choice></ref> letters<lb/>were full of wondering and pondering about many things in
+               <name type="place" ref="#america">America</name>.<lb/><ref target="BA7-5"> Now</ref> he
+            realized his naivete when he had landed in <name type="place" ref="#sanfrancisco">San
+               Francisco</name>. But<lb/> he realized also that he could not ask too much in a
+            strange land.<lb/> And it was this realization that liberated him from his peasant
+               pri-
+            
+            <pb n="8"/>
+            <seg>"Be American" 8</seg>
+            
+            <lb/>son, his heritage, and eventually led him to
+            a kind of work to which<lb/> he dedicated his time and life until the end.</p>
+         <p>I was in <name type="place" ref="#oregon"> Oregon</name> when I received a newspaper from
                <name type="person" ref="#consorcio">Consorcio</name>, post-<lb/>marked<name
-               type="place" ref="#pismobeach">Pismo Beach</name>. It was the first issue of his
-            publication for<lb/>agricultural workers in<name type="place" ref="#california"
-               >California</name>. It was in English. From then on,<lb/>I received all issues of his
-            publication. <ref target="BA8-1">All of the five years that</ref><lb/>it existed<ref
+               type="place" ref="#pismobeach"> Pismo Beach</name>. It was the first issue of his
+            publication for<lb/> agricultural workers in<name type="place" ref="#california"
+               > California</name>. It was in English. From then on,<lb/> I received all issues of his
+            publication. <ref target="BA8-1">All of the five years that </ref><lb/>it existed<ref
                target="BA8-2"><choice>
                   <sic>depending</sic>
                   <corr>defending</corr>
-               </choice></ref>the workers and upholding the rights and liberties<lb/>of all
+               </choice></ref>the workers and upholding the rights and liberties <lb/>of all
             Americans, native or foreign born, so that, as he began to un-<lb/>derstand the nature
-            of American society, he became more belligerent in<lb/>his editorials and had to go to
-            jail a few times for his ideas about<lb/>freedom and peace.</p>
-         <p>Yes, indeed<name type="person" ref="#consorcio">Corsorcio</name>: you have become an
+            of American society, he became more belligerent in <lb/>his editorials and had to go to
+            jail a few times for his ideas about <lb/>freedom and peace.</p>
+         <p>Yes, indeed <name type="person" ref="#consorcio">Corsorcio</name>: you have become an
             American, a real Ameri-<lb/>can. And this land that we have known too well is not yet
-            denuded by<lb/>the rapacity of men. Rolling like a beautiful woman with an
+            denuded by<lb/> the rapacity of men. Rolling like a beautiful woman with an
             overflow-<lb/>ing abundance of fecundity and murmurous with her eternal
-            mystery,<lb/>there she lies before us like a great mother. To her we always
-            return<lb/>from our prodigal wanderings and searchings for an anchorage in the<lb/>sea
-            of life; from her we always draw our sustenance and noble thoughts,<lb/>to add to her
+            mystery,<lb/> there she lies before us like a great mother. To her we always
+            return <lb/>from our prodigal wanderings and searchings for an anchorage in the <lb/>sea
+            of life; from her we always draw our sustenance and noble thoughts,<lb/> to add to her
             glorious history.</p>
-         <p>But the war came. And the war ended<name type="person" ref="#consorcio"
-            >Consorcio</name>’s newspaper work<lb/>and his crusade for a better<name type="place"
-               ref="#america">America</name>. And it ended his life also.<lb/>When he was brought
-            back from overseas, he knew he would not last long.<lb/>But he talked the way he had
-            written his editorials, measured sentences<lb/>that range like music, great poetry, and
-            soft, soft. He would not shed<lb/>a tear; but his heart must have been crying, seeing
-            eternal darkness<lb/>coming toward him, deep, deep in the night of perpetual sleep.
-            Yes,<lb/>he would not shed a tear; but he must have been crying, seeing that<lb/>there
-            was so much to do with so little time left. There was in his<pb n="9"/><seg>"Be
-               American" 9</seg><lb/>voice a kindness for me - unhappy, perhaps, that he could not impart
-            <lb/>what he had learned from his wanderings on this earth<ref target="BA9-1">:</ref>
-            unhappy, also,<lb/>because he knew that it would take all the people to unmake the
-            un-<lb/>happiness which had caught up with us. And now, fifteen years after<lb/>his
-            arrival in<name type="place" ref="#sanfrancisco">San Francisco</name>, he was dying.</p>
+         <p>But the war came. And the war ended <name type="person" ref="#consorcio"
+            >Consorcio</name>’s newspaper work <lb/>and his crusade for a better <name type="place"
+               ref="#america">America</name>. And it ended his life also. <lb/>When he was brought
+            back from overseas, he knew he would not last long.<lb/> But he talked the way he had
+            written his editorials, measured sentences <lb/>that range like music, great poetry, and
+            soft, soft. He would not shed <lb/>a tear; but his heart must have been crying, seeing
+            eternal darkness <lb/>coming toward him, deep, deep in the night of perpetual sleep.
+            Yes, <lb/>he would not shed a tear; but he must have been crying, seeing that <lb/>there
+            was so much to do with so little time left. There was in his
+            
+            <pb n="9"/>
+            <abbr><seg>"Be
+               American" 9</seg></abbr>
+            <lb/>voice a kindness for me - unhappy, perhaps, that he could not impart
+            <lb/> what he had learned from his wanderings on this earth <ref target="BA9-1">:</ref>
+            unhappy, also, <lb/>because he knew that it would take all the people to unmake the
+            un-<lb/> happiness which had caught up with us. And now, fifteen years after <lb/>his
+            arrival in <name type="place" ref="#sanfrancisco">San Francisco</name>, he was dying.</p>
          <p>And he died. But at least he received his most <unclear reason="smudged"
-               >cherished</unclear> dream:<lb/>American citizenship. He did realize later that he
-            had become an<lb/>American before he received his papers, when he began to think and
-            <lb/>write lovingly about <ref target="BA9-2">our</ref>
+               > cherished</unclear> dream:<lb/> American citizenship. He did realize later that he
+            had become an <lb/>American before he received his papers, when he began to think and
+            <lb/> write lovingly about <ref target="BA9-2">our</ref>
             <name type="place" ref="#america">America</name>. He gave up many things, and finally
-            <lb/>his own life, to realize his dream.</p>
-         <p>But <name type="person" ref="#consorcio">Consorcio</name>is not truly dead. He lives in
-            my undying<lb/>love for the American earth. And soon, when I see the last winter
-            <lb/>coming to the last leaf, I will be warm with the thought that another<lb/>wanderer
-            shall inherit the wonderful dream which my cousin and I had<lb/>dreamed and<ref
-               target="BA9-3">realized</ref>in<name type="place" ref="#america">America</name>.</p>
+            <lb/> his own life, to realize his dream.</p>
+         <p>But <name type="person" ref="#consorcio"> Consorcio</name> is not truly dead. He lives in
+            my undying<lb/> love for the American earth. And soon, when I see the last winter
+            <lb/>coming to the last leaf, I will be warm with the thought that another <lb/>wanderer
+            shall inherit the wonderful dream which my cousin and I had <lb/>dreamed and <ref
+               target="BA9-3">realized </ref> in<name type="place" ref="#america"> America</name>.</p>
          <p><ref target="BA9-4">(End)</ref></p>
       </body>
 
@@ -435,235 +439,239 @@
    <text type="shortstory" n="2">
       <body>
          <pb n="1"/>
-         
-         
          <head><emph>The Lonesome Mermaid</emph></head>
+         <ab>-1-</ab>
 
-         <p>Every once in a while<name type="person" ref="#mermaid"> the mermaid</name> emerged from
+         <p>Every once in a while<name type="person" ref="#mermaid">the mermaid</name>emerged from
             the depths of the river<lb/>when the moon was full and claimed her victims. She would
             appear among us<lb/>in the person of a beautiful young woman, then suddenly disappear
             with her<lb/>new young man. We often wondered why she always took with her the
             most<lb/>promising man in our town. We burned candles and chanted prayers when
             we<lb/>knew that the time had come when she would appear again.</p>
          <p>But nobody actually saw her until a strange man came to live in our town.<lb/>Before his
-            appearance we only noticed a strange and beautiful woman in our<lb/> religious
+            appearance we only noticed a strange and beautiful woman in our<lb/>religious
             processions, then the next day a promising young man with some beau-<lb/>ty would
             disappear forever. But the strange man who came to live in our town<lb/>finally gave us
             the reality of the mermaid’s existence and her traffic with<lb/>promising young men.</p>
          <p>At first the men did not pay any particular attention to<name type="person"
-               ref="#stranger"> the stranger</name>,<lb/>because he was always sitting under a
+               ref="#stranger">the stranger</name>,<lb/>because he was always sitting under a
             mangotree in the yard. He was always<lb/>playing a homemade guitar. But the women looked
             out of their windows and<lb/>sighed with sympathy, because they thought the man was
             merely waiting for<lb/>the hour of death. As the years went by, however, the townspeople
             began to<lb/>forget him.</p>
          <p>Then on evening toward the end of November, when we were harvesting<lb/>the highland
             rice in the south and or our field, the people began talking<lb/>ominously about<name
-               type="person" ref="#mermaid"> the mermaid</name>. Then<name type="person" ref="#uncle">
-             my uncle</name> came running with the starling<lb/>news that she would soon appear to
+               type="person" ref="#mermaid">the mermaid</name>. Then<name type="person" ref="#uncle"
+               >my uncle</name>came running with the starling<lb/>news that she would soon appear to
             claim her next victim.</p>
-         <p><said direct="true">“And this time, brother,” </said>he vehemently to my<name
-               type="person" ref="#father"> father</name>, <said direct="true"> “her victim is the
+         <p><said direct="true">“And this time, brother,”</said>he vehemently to my<name
+               type="person" ref="#father">father</name>,<said direct="true">“her victim is the
                stranger!”</said></p>
-         <p><said direct="true"> “How do you know?”</said> <name type="person" ref="#father">
-                Father </name>asked.</p>
+         <p><said direct="true">“How do you know?”</said><name type="person" ref="#father"
+               >Father</name>asked.</p>
 
-         <pb n="-2-"/>
+         <pb n="2"/>
+         <ab>-2-</ab>
 
-         <p><said direct="true">“The stranger himself said so,”</said> he said.<said direct="true">
-                 “That is why the whole town<lb/>is talking now.”</said></p>
-         <p><said direct="true">“Brother,”</said><name type="person" ref="#father"> father</name>said
-            quietly, as though he were humoring him,<said direct="true"> “you<lb/>have been living a
-                  <damage type="smudge"> shady</damage> life too long. You hear fantastic things, but
+         <p><said direct="true">“The stranger himself said so,”</said>he said.<said direct="true">
+               “That is why the whole town<lb/>is talking now.”</said></p>
+         <p><said direct="true">“Brother,”</said><name type="person" ref="#father">father</name>said
+            quietly, as though he were humoring him,<said direct="true">“you<lb/>have been living a
+                  <damage type="smudge">shady</damage>life too long. You hear fantastic things, but
                per-<lb/>hapes it is because you have a guilty conscience.”</said></p>
          <p><said direct="true">“Let’s run over to his house if you don’t believe
-               me,”</said> said<name type="person" ref="uncle"> my uncle</name>.<lb/><said
-               direct="true"> “A big crowd is there watching him. And <name type="person"
-                  ref="#mayor"> the mayor</name> is asking him some strange<lb/>
+               me,”</said>said<name type="person" ref="uncle">my uncle</name>.<lb/><said
+               direct="true">“A big crowd is there watching him. And <name type="person"
+                  ref="#mayor">the mayor</name>is asking him some strange<lb/>
             questions.”</said></p>
          <p><said direct="true">“I’ve never seen a crazy man,”</said><name type="person"
-               ref="#father"> Father</name>contemplated seriously. Then he<lb/>said to me.<said
-               direct="true"> “Let’s go, son.”</said></p>
-         <p>We rushed to<name type="person" ref="#stranger"> the stranger’s</name> house. He was
+               ref="#father">Father</name>contemplated seriously. Then he<lb/>said to me.<said
+               direct="true">“Let’s go, son.”</said></p>
+         <p>We rushed to<name type="person" ref="#stranger">the stranger’s</name>house. He was
             sitting under the mango tree<lb/>as usual, playing his homemade guitar. Then he got up
             and bowed courteous-<lb/>ly to us.</p>
          <p><said direct="true">“What can I do for you, neighbors and friends?”</said>he asked.</p>
-         <p><name type="person" ref="#mayor">The mayor</name> extricated himself from the crowd and
-            approached the man.<lb/><said direct="true"> “We have heard rumors about you and<name
-                  type="person" ref="#mermaid"> the mermaid</name> that lives in the depths<lb/>of the
-               river,”</said> he said. But when<name type="person" ref="#stanger"> the
-            stranger</name> did not answer,<name type="person" ref="#mayor"> the mayor</name><lb/>said
-               <damage type="smudge"> angerly</damage>.<said direct="true"> “Will you deny them to
+         <p><name type="person" ref="#mayor">The mayor</name>extricated himself from the crowd and
+            approached the man.<lb/><said direct="true">“We have heard rumors about you and<name
+                  type="person" ref="#mermaid">the mermaid</name>that lives in the depths<lb/>of the
+               river,”</said>he said. But when<name type="person" ref="#stanger">the
+            stranger</name>did not answer,<name type="person" ref="#mayor">the mayor</name><lb/>said
+               <damage type="smudge">angerly</damage>.<said direct="true">“Will you deny them to
                these people?”</said></p>
-         <p><said direct="true">“Why should I do that?”</said> he said.<said direct="true">“<name
-                  type="person" ref="#mermaid"> The mermaid</name> is in love with me, so<lb/>she is
+         <p><said direct="true">“Why should I do that?”</said>he said.<said direct="true">“<name
+                  type="person" ref="#mermaid">The mermaid</name>is in love with me, so<lb/>she is
                coming to take me!”</said><lb/></p>
          <p>The old men stood in silence, their heads bowed low. The women dropped<lb/>on their
             knees and prayed.</p>
-         <p><name type="person" ref="#mayor">The mayor</name> became very angry.<said direct="true"
-               > “How can you be very careless with words?”</said><lb/>he said.<said direct="true"
-               > “But I will forget everything if you’ll now den<damage type="smudge"/>ay what you
+         <p><name type="person" ref="#mayor">The mayor</name>became very angry.<said direct="true"
+               >“How can you be very careless with words?”</said><lb/>he said.<said direct="true"
+               >“But I will forget everything if you’ll now den<damage type="smudge"/>ay what you
                have<lb/> just said in<damage type="smudge"/><choice>
                   <sic>.</sic>
                   <corr/>
                </choice> so irreverent a manner. You are a Christian, ain’t you?”</said></p>
          <p><said direct="true">“She is in love with me, that is all,”</said>said<name type="person"
-               ref="#stanger"> the stranger</name>.<said direct="true"> “Now tell me<lb/>this: is love
+               ref="#stanger">the stranger</name>.<said direct="true">“Now tell me<lb/>this: is love
                the sole property of the human race?”</said></p>
-         <p><said direct="true">“I don’t know what you are talking about,”</said> said<name
-               type="person" ref="#mayor"> the mayor</name>. Then he said
+         <p><said direct="true">“I don’t know what you are talking about,”</said>said<name
+               type="person" ref="#mayor">the mayor</name>. Then he said
            
-			 <pb n="-3-"/> 
-			 to the people,<said direct="true"> “This man is a heretic! Let’s hang
+			 <pb n="3"/>
+          <seg>-3-</seg>
+			 to the people,<said direct="true">“This man is a heretic! Let’s hang
                him!”</said></p>
-         <p>Slowly<name type="person" ref="#stranger"> the stranger</name> sat down and picked up his
+         <p>Slowly<name type="person" ref="#stranger">the stranger</name>sat down and picked up his
             guitar. Delicately he<lb/>plucked at the strings, swaying from side to side. Then he
             stopped<lb/>and looked at us.</p>
-         <p><said direct="true">“<name type="person" ref="#mermaid">The mermaid</name> will appear
-               tomorrow night,”</said> he said distinctly, and his<lb/>voice echoed in the still
-               night.<said direct="true"> “She will come for me. But you will not<lb/>see her because
+         <p><said direct="true">“<name type="person" ref="#mermaid">The mermaid</name>will appear
+               tomorrow night,”</said>he said distinctly, and his<lb/>voice echoed in the still
+               night.<said direct="true">“She will come for me. But you will not<lb/>see her because
                your hearts are impure. She shows herself only to the pure<lb/>of heart.”</said></p>
-         <p><said direct="true">“What are you saying?”</said> demanded<name type="person"
-               ref="#mayor"> the mayor</name>.<said direct="true"> “I wouldn’t have been elec-<lb/>ted
+         <p><said direct="true">“What are you saying?”</said>demanded<name type="person"
+               ref="#mayor">the mayor</name>.<said direct="true">“I wouldn’t have been elec-<lb/>ted
                if what you are implying is true.”</said></p>
          <p><said direct="true">“And another election is approaching,”</said>said<name type="person"
-               ref="#stranger"> the stranger</name>.</p>
-         <p><said direct="true">“What, What?”</said> shouted<name type="person" ref="#mayor"> the
+               ref="#stranger">the stranger</name>.</p>
+         <p><said direct="true">“What, What?”</said>shouted<name type="person" ref="#mayor">the
                mayor</name>.</p>
-         <p><said direct="true">“But not only that,”</said> explained<name type="person"
-               ref="#stranger"> the stranger</name>.<said direct="true"> “You will not see her
+         <p><said direct="true">“But not only that,”</said>explained<name type="person"
+               ref="#stranger">the stranger</name>.<said direct="true">“You will not see her
                be-<lb/>cause your souls are corrupted. She shows herself only to the clean of
                soul.”</said></p>
-         <p>Then <name type="person" ref="#mayor"> the mayor</name> grabbed a piece of rope from a
-               peasant.<name type="person" ref="#father"> Father</name> intervened.</p>
-         <p><said direct="true">“Wait,”</said><name type="person" ref="#father"> Father</name>said,
-            taking the rope from<name type="person" ref="#mayor"> the mayor</name>.<said
-               direct="true"> “Why can’t we wait<lb/>until tomorrow night? We must give the
+         <p>Then <name type="person" ref="#mayor">the mayor</name>grabbed a piece of rope from a
+               peasant.<name type="person" ref="#father">Father</name>intervened.</p>
+         <p><said direct="true">“Wait,”</said><name type="person" ref="#father">Father</name>said,
+            taking the rope from<name type="person" ref="#mayor">the mayor</name>.<said
+               direct="true">“Why can’t we wait<lb/>until tomorrow night? We must give the
                   man<damage type="smudge"/><choice>
                   <sic>o</sic>
                   <corr>a</corr>
-               </choice> chance to prove his contention.<lb/>That is our way in these parts. Isn’t
-               that so,<name type="person" ref="#mayor"> Mayor</name>?”</said></p>
-         <p><said direct="true">“All right,”</said>said<name type="person" ref="#mayor"> the
-               mayor</name> to the people.<said direct="true"> “We will give him another day.<lb/>Go
+               </choice> chance to prove his contention.<lb/> That is our way in these parts. Isn’t
+               that so,<name type="person" ref="#mayor">Mayor</name>?”</said></p>
+         <p><said direct="true">“All right,”</said>said<name type="person" ref="#mayor">the
+               mayor</name>to the people.<said direct="true">“We will give him another day.<lb/>Go
                home and sleep.”</said></p>
-         <p>There was a full moon the<damage type="smudge"> following</damage> night. The whole town
+         <p>There was a full moon the<damage type="smudge">following</damage>night. The whole town
             was whisper-<lb/>ing and afraid. And the little boys and girls were locked in their
             houses.</p>
          <p>Out in the presidencia yard the men were preparing a stout rope when a<lb/>runner came
-            with the news that<name type="person" ref="#stranger"> the stranger</name> had just left
+            with the news that<name type="person" ref="#stranger">the stranger</name>had just left
             his house.</p>
-         <p><said direct="true">“Was he trying to, escape?”</said> asked the<choice>
+         <p><said direct="true">“Was he trying to, escape?”</said>asked the<choice>
                <sic>myaor</sic>
                <corr><name type="person" ref="#mayor">mayor</name></corr>
             </choice>.</p>
-         <p><said direct="true">“He didn’t like he was in a hurry,”</said> said<name type="person"
-               ref="#runner"> the runner</name>.<said direct="true"> “He was carrying<lb/>a fishing
+         <p><said direct="true">“He didn’t like he was in a hurry,”</said>said<name type="person"
+               ref="#runner">the runner</name>.<said direct="true">“He was carrying<lb/>a fishing
                net and a lantern.”</said></p>
          <p><said direct="true">“Did you see in what direction was he going?”</said><name
-               type="person" ref="#father"> Father</name>asked.</p>
-         <p><said direct="true">“He was walking toward the river,”</said> said <name type="person"
-               ref="#runner"> the runner</name>.</p>
+               type="person" ref="#father">Father</name>asked.</p>
+         <p><said direct="true">“He was walking toward the river,”</said>said <name type="person"
+               ref="#runner">the runner</name>.</p>
 
-         <pb n="-4-"/>
+         <pb n="4"/>
+         <ab>-4-</ab>
          <p>There was a deep silence for a minute. The men looked at each other for <lb/>a sign
             of action. Then t<damage>h</damage>e mayor ran across the yard and jumped on his horse.
             <lb/>And the other men followed him, riding at full speed through the silence of the
             <lb/>night.</p>
 
-         <p>Then I ran to my<name type="person" ref="uncle"> uncle’s</name> house and woke him
+         <p>Then I ran to my<name type="person" ref="uncle">uncle’s</name>house and woke him
             up. Then together we ran to <lb/>the river, where the sound of agitated men pierced the
             dark night.</p>
 
-         <p><said direct="true"> “I have never seen a mermaid,<name type="person"
-                  ref="main_protagonist"> nephew</name>," </said>shouted my uncle.<said direct="true"
-               > “I’m glad you <lb/>woke me up. This is the night of all nights. I want you to
+         <p><said direct="true">“I have never seen a mermaid,<name type="person"
+                  ref="main_protagonist">nephew</name>,”</said>shouted my uncle.<said direct="true"
+               >“I’m glad you <lb/>woke me up. This is the night of all nights. I want you to
                remember it as <lb/>long as you live, because you might never see another mermaid
                again.”</said></p>
          <p><said direct="true">“Maybe there are some mermaid running loose in the
-               world,”</said> I said.<said direct="true"> “I <lb/>understand you could see them
+               world,”</said>I said.<said direct="true">“I <lb/>understand you could see them
                walking in broad daylight in the big cities.”</said></p>
          <p><said direct="true">“Those are mermaids of the land,<name type="person"
-                  ref="main_protagonist"> nephew</name>,” </said>he said.<said direct="true"> “There
+                  ref="main_protagonist">nephew</name>,”</said>he said.<said direct="true">“There
                are many of <lb/>them. But the one we are going to see is a mermaid of the water, and
-               it is <lb/>not very often that we see them.” </said></p>
-         <p><said direct="true">“Maybe so,”</said> I said.<said direct="true"> “I would like to
+               it is <lb/>not very often that we see them.”</said></p>
+         <p><said direct="true">“Maybe so,”</said>I said.<said direct="true">“I would like to
                see a mermaid, of the land or of <lb/>the water.”</said></p>
-         <p><said direct="true">“I would, too,”</said>he said.<said direct="true"> “So let’s run
-               like hell,<name type="person" ref="main_protagonist"> nephew</name>!”</said></p>
-         <p>We ran like hell. We found the<name type="person" ref="mayor"> mayor</name>and the
+         <p><said direct="true">“I would, too,”</said>he said.<said direct="true">“So let’s run
+               like hell,<name type="person" ref="main_protagonist">nephew</name>!”</said></p>
+         <p>We ran like hell. We found the<name type="person" ref="mayor">mayor</name>and the
             other men crouching behind <lb/>the tall reeds in the dry bottom of the river. The <name
-               type="person" ref="the_man"> stranger</name> was sitting <damage>at</damage>
+               type="person" ref="the_man">stranger</name>was sitting<damage>at</damage>
             <lb/>the edge of the water on the opposite side of the river. The <choice>
                <sic>msmall</sic>
                <corr>small</corr>
-            </choice>lantern<lb/> was flickering beside him.</p>
+            </choice>lantern<lb/>was flickering beside him.</p>
          <p>But we could see him. The moon was full and bright. And the air was<lb/>very
             still. Suddenly, he blew out the lantern and thick clouds appeared<lb/>from somewhere
-            and covered the moon. And the darkness that had <damage>descended</damage>
+            and covered the moon. And the darkness that had<damage>descended</damage>
             <lb/>upon the world was so thick we had to join hands in order not to get lost.<lb/>And
             the river suddenly rose up violently, then ebbed away with a deadening
-               <lb/>roar. <damage>W</damage>hen the moon came out the stranger was gone.<choice>
+               <lb/>roar.<damage>W</damage>hen the moon came out the stranger was gone.<choice>
                <sic>THere</sic>
                <corr>there</corr>
-            </choice> was only the<lb/>soft noise of the receding river and the vanishing
+            </choice>was only the<lb/>soft noise of the receding river and the vanishing
             phosphorescence of the<lb/>bright water. And an unidentified man conjectured about the
             stranger’s</p>
 
-         <pb n="-5-"/>
+         <pb n="5"/>
+         <ab>-5-</ab>
 
          <lb/>
          <p>disappearance.</p>
-         <p><said direct="true">“Maybe he jumped in the river and couldn’t swim,”</said> said
+         <p><said direct="true">“Maybe he jumped in the river and couldn’t swim,”</said>said
             the <name type="person" ref="mayor">mayor</name>.</p>
          <p><said direct="true">“Maybe he ran to the bushes on the other side of the
-               river,”</said><name type="person" ref="father"> Father</name>said.</p>
-         <p><said direct="true">“Maybe he killed himself,”</said> said my<name type="person"
-               ref="uncle"> uncle</name>.</p>
-         <p><said direct="true">“Lets look for his body,”</said> suggested the<name
-               type="person" ref="mayor"> mayor</name>.</p>
+               river,”</said><name type="person" ref="father">Father</name>said.</p>
+         <p><said direct="true">“Maybe he killed himself,”</said>said my<name type="person"
+               ref="uncle">uncle</name>.</p>
+         <p><said direct="true">“Lets look for his body,”</said>suggested the<name
+               type="person" ref="mayor">mayor</name>.</p>
          <p><said direct="true">“There is no hurry,” said the runner.</said><said direct="true"
-               > “He is probably dead now.”</said></p>
-         <p><said direct="true">“We will look for his body tomorrow,”</said> said the<name
-               type="person" ref="mayor"> mayor</name>.<said direct="true"> “Poor man.”</said></p>
+               >“He is probably dead now.”</said></p>
+         <p><said direct="true">“We will look for his body tomorrow,”</said>said the<name
+               type="person" ref="mayor">mayor</name>.<said direct="true">“Poor man.”</said></p>
          <p>No man was satisfied. But the crowd dispersed.</p>
          <p>But in the morning, the body could not be found. The<name type="person" ref="mayor"
-               > mayor</name>sent several <lb/>divers to the bottom of the river, and they came up
+               >mayor</name>sent several <lb/>divers to the bottom of the river, and they came up
             with a few bright peb- <lb/>bles and edible weeds and water plants. Then there were
             heated arguments <lb/>about the<name type="person" ref="the man"
-            > stranger’s</name> disappearance. Some claimed that he had played a trick<lb/>on us, but
+            >stranger’s</name>disappearance. Some claimed that he had played a trick<lb/>on us, but
             the others thought that he was hiding somewhere in the rice fields <lb/>across the
             river. But we went home and forgot all about him.</p>
          <p>Then many years passed. A war broke out somewhere and took most of the <lb/>young
             men away. And after the<damage>famine</damage>devastated our town. Then a <lb/>terrible
             plague came and destroyed almost everything alive. But a new ge- <lb/>neration grew up
             and laughed when they were told about the<name type="person" ref="the_man"
-               > stranger</name> and <lb/>the mysterious mermaid.</p>
+               >stranger</name>and <lb/>the mysterious mermaid.</p>
          <p>I was already a man when the<name type="person" ref="the man"
-            > stranger</name> appeared again. I was <damage>wa</damage> lking on <lb/>our street when I
+            >stranger</name>appeared again. I was<damage>wa</damage>lking on <lb/>our street when I
             met him by accident. And I could not belie<damage>v</damage>e my own eyes. <lb/>He was
             still a man of the same uncertain age, as though I were now the older <lb/>person.</p>
-         <p><said direct="true"> “Are you the<name type="person" ref="the_man"
-               >stranger</name> who was supposed to have disappeared with the mer- <lb/>maid years
-               ago?”</said> I asked.</p>
+         <p><said direct="true">“Are you the<name type="person" ref="the_man"
+               >stranger</name>who was supposed to have disappeared with the mer- <lb/>maid years
+               ago?”</said>I asked.</p>
          <p><said direct="true">“Yes,<name type="person" ref="main_protagonist"
-               > son</name>,”</said> he said.<said direct="true">“But I don’t remember seeing you
+               >son</name>,”</said>he said.<said direct="true">“But I don’t remember seeing you
                around when I was <lb/>here.”</said></p>
-         <p><said direct="true">“It was a long time ago,”</said> I said.<said direct="true">“I
+         <p><said direct="true">“It was a long time ago,”</said>I said.<said direct="true">“I
                was only a little boy when you went <lb/>away.”</said></p>
 
-         <pb n="-6-"/>
+         <pb n="6"/>
+         <ab>-6-</ab>
 
          <p><said direct="true">“Have I been gone that long,<name type="person"
-                  ref="main_protagonist"> son</name>?”</said>he asked.<said direct="true"> “We have no
+                  ref="main_protagonist">son</name>?”</said>he asked.<said direct="true">“We have no
                time under the <lb/>river."</said></p>
-         <p><said direct="true">“Did you really go away with the mermaid?”</said> I asked.</p>
-         <p><said direct="true">“Yes,”</said> he confessed.<said direct="true"> “I love her, and
+         <p><said direct="true">“Did you really go away with the mermaid?”</said>I asked.</p>
+         <p><said direct="true">“Yes,”</said>he confessed.<said direct="true">“I love her, and
                she loves me.”</said></p>
-         <p><said direct="true">“You are a lucky man,”</said> I said.<said direct="true"> “I wish
+         <p><said direct="true">“You are a lucky man,”</said>I said.<said direct="true">“I wish
                I were you. "I’m tired of living <lb/>in grass houses and working all day in the hot
                sun. And look how I am get- <lb/>ting old, while you are still the same age as when
                you left, if not younger.”</said></p>
-         <p><said direct="true">“That is human life,”</said> he said.<said direct="true"> “We are
+         <p><said direct="true">“That is human life,”</said>he said.<said direct="true">“We are
                born to do something, but the <lb/>arrangement of things in the world compels us to
                do what we are not fit for. <lb/>Some men are fortunate, others are not. Some become
                great leaders of men, <lb/>others become great lovers. But there are many degrees of
@@ -672,13 +680,13 @@
                who seeks it and gives <lb/>it to another man as a token of living greatly and dying
                the same. I don’t <lb/>really know where you fit in the confused scheme of things,
                but I guess you <lb/>will find it in your time.”</said></p>
-         <p><said direct="true">“I am terribly afraid of the future,”</said> I said.</p>
+         <p><said direct="true">“I am terribly afraid of the future,”</said>I said.</p>
          <p><said direct="true">“Life is a great adventure,”</said>he said wisely.<said
-               direct="true"> “Choose your own weapons <lb/>and your own hunting ground. I guess your
+               direct="true">“Choose your own weapons <lb/>and your own hunting ground. I guess your
                luck will come somewhere on the <lb/>way.”</said></p>
-         <p><said direct="true">“I’ll keep on hoping<damage>,</damage>”</said> I said.<said
-               direct="true"> “And thank you for giving me courage.”</said></p>
-         <p><said direct="true">“Don’t despair, son,”</said> he said.<said direct="true"> “It is
+         <p><said direct="true">“I’ll keep on hoping<damage>,</damage>”</said>I said.<said
+               direct="true">“And thank you for giving me courage.”</said></p>
+         <p><said direct="true">“Don’t despair, son,”</said>he said.<said direct="true">“It is
                not our doing that we are born <lb/>on this troubled earth. But it is not also our
                undoing that we must suffer <lb/>under these stars. Look now: it is not our
                individual lives that count in <lb/>the world. It is what goodness and beauty we
@@ -690,63 +698,65 @@
 
 
          <p/>
-         <pb n="-7-"/>
+         <pb n="7"/>
+         <ab>-7-</ab>
          <p><said direct="true">"I’ll remember everything,"</said>I said.</p>
-         <p><said direct="true">“It is a timeless life,”</said> he said dreamingly.<said
-               direct="true"> “But I got lonesome for my<lb/>guitar. I’ve asked the<name
-                  type="person" ref="#Mermaid"> queen</name>, that is the<name type="person"
-                  ref="#Mermaid"> mermaid</name>, to get it back. I’m on<lb/>my way to my house
+         <p><said direct="true">“It is a timeless life,”</said>he said dreamingly.<said
+               direct="true">“But I got lonesome for my<lb/>guitar. I’ve asked the<name
+                  type="person" ref="#Mermaid">queen</name>, that is the<name type="person"
+                  ref="#Mermaid">mermaid</name>, to get it back. I’m on<lb/>my way to my house
                now.”</said></p>
-         <p><said direct="true">“Your house is not there any more.”</said> I said.<said direct="true"
-               > “It disappeared years ago.”</said></p>
-         <p><said direct="true">“Did some man steal it?”</said> he asked.</p>
+         <p><said direct="true">“Your house is not there any more.”</said>I said.<said direct="true"
+               >“It disappeared years ago.”</said></p>
+         <p><said direct="true">“Did some man steal it?”</said>he asked.</p>
          <p><said direct="true">“It just rotted away with the years,”</said> I said.<said
-               direct="true"> “You have been gone a long<lb/>time. A war came and killed most of the
+               direct="true">“You have been gone a long<lb/>time. A war came and killed most of the
                young <choice>
                   <sic>menbbefore</sic>
                   <corr>men before</corr>
-               </choice> my generation. Then a plague and a famine came after, killing the rest
+               </choice>my generation. Then a plague and a famine came after, killing the rest
                including my own generation. What you will see here are remnants of a one vigorous
                race. I don’t know what will happen to us in another generation.”</said><lb/></p>
-         <p><said direct="true">“My heart beats for you,”</said> he said sadly.<said direct="true"
-               >“But I’ve got to go now. The<lb/><name type="person" ref="#Mermaid"> queen</name>
+         <p><said direct="true">“My heart beats for you,”</said>he said sadly.<said direct="true"
+               >“But I’ve got to go now. The<lb/><name type="person" ref="#Mermaid">queen</name>
                will be disappointed when she hears that my guitar is gone.”</said></p>
-         <p><said direct="true">“I’ve a guitar,”</said> I said.<said direct="true"> “I want to give it
+         <p><said direct="true">“I’ve a guitar,”</said>I said.<said direct="true">“I want to give it
                to you. I want you to be<lb/>happy with the <name type="person" ref="#Mermaid"
-                  > queen</name>in that timeless place.”</said></p>
+                  >queen</name>in that timeless place.”</said></p>
          <p><said direct="true">“Thank you,<name type="person" ref="main_protagonist"
-               > son</name>,”</said> he said.<said direct="true"> “You are very understanding and kind.
+               >son</name>,”</said>he said.<said direct="true">“You are very understanding and kind.
                I’ve<lb/>sacrificed my life for this town, but that is nothing. If I didn’t go
                with<lb/>the queen, she would have taken many of the young men in this
             town.”</said></p>
-         <p><said direct="true">“But why would she do that?”</said> I asked.</p>
-         <p><said direct="true">“They wouldn't understand her,”</said> he said,</p>
-         <p><said direct="true">“I would have understood her,”</said> I said.</p>
-         <p><said direct="true">“I’m glad we understand each other,”</said> he said.<said
-               direct="true"> “I might want to live on<lb/>the earth again, and you could take my
+         <p><said direct="true">“But why would she do that?”</said>I asked.</p>
+         <p><said direct="true">“They wouldn't understand her,”</said>he said,</p>
+         <p><said direct="true">“I would have understood her,”</said>I said.</p>
+         <p><said direct="true">“I’m glad we understand each other,”</said>he said.<said
+               direct="true">“I might want to live on<lb/>the earth again, and you could take my
                place.”</said></p>
          <p>I remained silent.</p>
-         <p><said direct="true">“They wouldn’t have understood her,”</said> he said again.<said
-               direct="true"> “They are too human.”</said></p>
-         <p><said direct="true">"Thank you for your sacrifice,”</said> I said.<said direct="true"
-               > “Please give my best regards to<lb/>the <name type="person" ref="#Mermaid"
-                  > queen</name>.”</said></p>
+         <p><said direct="true">“They wouldn’t have understood her,”</said>he said again.<said
+               direct="true">“They are too human.”</said></p>
+         <p><said direct="true">"Thank you for your sacrifice,”</said>I said.<said direct="true"
+               >“Please give my best regards to<lb/>the <name type="person" ref="#Mermaid"
+                  >queen</name>.”</said></p>
          <p><said direct="true">“Now, remember that mermaid are really kind and
-               understanding,”</said> he said.<lb/><said direct="true"> “They are cruel sometimes
+               understanding,”</said>he said.<lb/><said direct="true">“They are cruel sometimes
                because men don’t understand them. Men of the earth</said></p>
-         <pb n="-8-"/>
+         <pb n="8"/>
+         <ab>-8-</ab>
          <p><said direct="true">are always thinking of happiness in terms of happiness on the earth,
                Mer-<lb/>maids get lonesome, too.”</said></p>
-         <p><said direct="true">“I’ll always remember,”</said> I said.</p>
+         <p><said direct="true">“I’ll always remember,”</said>I said.</p>
          <p><said direct="true">“Well, goodbye,” he said.</said></p>
          <p>I watched him <choice>
                <sic>walked</sic>
                <corr>walk</corr>
-            </choice> straight into the water. And the day became sud-<lb/>denly dark and murmurous.
+            </choice>straight into the water. And the day became sud-<lb/>denly dark and murmurous.
             I heard the turbulent lashing and roaring of<lb/>the water in the momentary darkness.
-            And when the sun came out<name type="person" ref="#the_man"> the man was </name><lb/>gone,
+            And when the sun came out<name type="person" ref="#the_man">the man was</name><lb/>gone,
             forever.</p>
-         <p>And the<name type="person" ref="#Mermaid"> mermaid</name> never came out of the secret
+         <p>And the<name type="person" ref="#Mermaid">mermaid</name>never came out of the secret
             depths again. Sometimes<lb/>the townspeople could hear the faraway sound of a guitar
             rising from the<lb/>river when the moon was full in the summer sky.</p>
       
