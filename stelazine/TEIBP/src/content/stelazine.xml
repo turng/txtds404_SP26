@@ -499,7 +499,7 @@
 
             <pb n="4"/>
             <div type="page">
-
+               <head>more PAUL</head>
                <figure>
                   <graphic url="https://drive.google.com/thumbnail?id=1SA8nPCDE_ZTbH0RMyDGIufCDBdBoAQaw&amp;sz=w500"/>
                   <figDesc>Another picture of Paul taken during the interview.</figDesc>
@@ -507,9 +507,6 @@
                <head>MORE PAUL</head>
                <div>
 
-                  <figure>
-                     <graphic url="X"/>
-                  </figure>
 
                   <p>PAUL: Yeah, I think the strange thing was, ‘cause like when we first started,
                      no record company or anybody like that would come near us. But we weren’t going
@@ -564,6 +561,11 @@
                   <p><hi rend="italic">(At this point road manager <name type="person">Johnny
                            Green</name> broke up the interviews. We all grab the last bits of food
                         in the dressing room and leave).</hi></p>
+                  
+                  <figure>
+                     <graphic url="https://drive.google.com/thumbnail?id=1FfJcC3o2hsAMH3dyjj8XhIqPuxJHBYIt&amp;sz=w500"/>
+                     <figDesc>Pictures of all the other band members.</figDesc>
+                  </figure>
 
                </div>
                <div>
@@ -874,8 +876,8 @@
                         <name type="location">Soho</name> area it provides weekend entertainment of
                         the most novel kind. Constant choices. </p>
                      
-                     <p> Clubs advertize in the newspapers: <name>Village Voice</name> and
-                        <name>Shoh Weekly</name>. Otherwise you see wall posters. Few bands print
+                     <p> Clubs advertize in the newspapers: Village Voice and
+                        Shoh Weekly. Otherwise you see wall posters. Few bands print
                         posters. New bands never do. We in <name type="location">Seattle</name> have
                         relied on wall posters like a great wall of information. But we have not
                         had media acceptance. The price you pay for being a provincial city...
@@ -884,7 +886,7 @@
                         Store bought, profuse. Why make them when you can buy them? The starkest
                         difference here is the acceptability of new wave. You can hang out in the
                         <name type="location">East Village</name>:
-                        <name type="location">Manic Panic</name> (and talk to <name>Snooky</name>)..
+                        <name type="location">Manic Panic</name> (and talk to Snooky)..
                         <name type="location">Trash &amp; Vaudeville</name>,
                         <name type="location">Defiant Pose</name>... Or to the
                         <name type="location">West Village</name> and the
@@ -893,8 +895,8 @@
                         <name type="location">Revenge</name>, bookstores.. Record stores—the best
                         being <name type="location">Village Oldies</name>, where you can hear reggae
                         on the radio, and any band you care to on the stereo. Even clothing if you're
-                        just in from the 'burbs.... Visit <name>Punk Mag</name> or the
-                        <name>Rocker</name>. Find </p>
+                        just in from the 'burbs.... Visit Punk Mag or the
+                        Rocker. Find </p>
                      
                      <cb/>
                      
@@ -928,8 +930,8 @@
                         strong is the knowledge of their decision and desire for money. The musicians
                         continue to be accessible, and running into one can bring you into contact
                         with another. New York, once the progenitor of radio stations, has for the
-                        most part fallen into the disco pool. <name>WNEW-AM</name> is now MOR.
-                        <name>WNEW-FM</name>, the first to give new wave a listen (because of well wo- </p>
+                        most part fallen into the disco pool. WNEW-AM is now MOR.
+                        WNEW-FM, the first to give new wave a listen (because of well wo- </p>
                      
                      <p> CONTINUED ON PAGE 9 </p>
                   </div>
@@ -1149,21 +1151,21 @@
                <pb n="9"/>
                <div type="page">
                   <p> NEW YORK CONTINUES </p>
-                  <p><name>Vince Scelsa</name>, will not commit itself to the future. WPLJ-FM has
+                  <p><name>Vince Scelsa)</name>, will not commit itself to the future. WPLJ-FM has
                      sunk to ass-kissing the NY music industry. The surprises are WPIX and WLIB, two
                      stations with a radical difference. PIX carries weekly live recordings of CBGB
                      happenings. Good D.J. 's add to that.</p>
 
                   <p>But the best station to listen to has to be WLIB, filling the airwaves with
                      Caribbean music. Reggae and beyond. A place to learn about music that too often
-                     ignored elsewhere. Forget <name type="artist" ref="#Peter_Tosh">Peter
-                        Tosh</name>. This is it!</p>
+                     ignored elsewhere. Forget <name type="artist">Peter Tosh</name>. This is
+                     it!</p>
 
-                  <p>Some stations have <name type="artist" ref="#Bee_Gees">Bee Gee boycotts</name>,
-                     the flame of resistance in a dismal fog of high voices.</p>
+                  <p>Some stations have <name type="artist">Bee Gee boycotts</name>, the flame of
+                     resistance in a dismal fog of high voices.</p>
 
-                  <p>Remember this: <name type="location" ref="#New_York">New York</name> is always
-                     there Every hour at all times with all you can imagine and then some.</p>
+                  <p>Remember this: <name type="location">New York</name> is always there Every hour
+                     at all times with all you can imagine and then some.</p>
 
                   <p>On one hand chilling, on the other enlightening. A city full of possibilities.
                      A city of which I never tire. If you haven't: Go There. Stumble in the corners
@@ -1181,61 +1183,60 @@
 
                   <p>MIKI ZONE ZOO/the dots COME ON</p>
 
-                  <p>Tonight it’s <name type="location" ref="#Max">Max's</name>. A chance to see
-                     local luminaries. They come to see the headliner….</p>
+                  <p>Tonight it’s <name type="location">Max's</name>. A chance to see local
+                     luminaries. They come to see the headliner….</p>
 
-                  <p>But first <name type="artist" ref="#The_Dots">The Dots</name>. A four-piece
-                     young band. <name type="artist" ref="#Alison_East">Alison East</name> is one of
-                     the best new guitarists I have seen.. She can rock! What a personality! Eyes
-                     and mouth wide open; she dances and jerks her hands. Spikey hair... like the
-                     caucasians in Japanese comics. She is frozen in mid-second as if always
-                     surprised.</p>
+                  <p>But first <name type="artist">The Dots</name>. A four-piece young band. <name
+                        type="artist">Alison East</name> is one of the best new guitarists I have
+                     seen.. She can rock! What a personality! Eyes and mouth wide open; she dances
+                     and jerks her hands Spikey hair... like the caucasians in Japanese comics. She
+                     is frozen in mid-second as if always surprised.</p>
 
-                  <p>A great racing guitar sound. Sharp and clean. Good bass.</p>
+                  <p>A great racing guitar sound. Sharp and clean. Good bass</p>
 
                   <p>The band's a bit too rock and roll I wish they were more original. Their songs
-                     are delivered well, with crispness. Lots of hooks. <name type="song"
-                        ref="#Let_Me_Take_You_Out_To_Lunch">"Let Me Take You Out To Lunch”</name>
-                     stands out. But, they have too many love songs. Nothing new–the male
-                     influence?</p>
+                     are delivered well, with crispness. Lots of hooks. <name type="song">"Let Me
+                        Take You Out To Lunch”</name> stands out. But, they have too many love
+                     songs. Nothing new–the male influence?</p>
 
                   <p>The singer is not dangerous looking more like deranged. A mad scientist?? He
-                     looks and moves furtively. Too much heavy metal music involved…But Alison is so
-                     fresh!</p>
+                     looks and moves furtively. Too much heavy metal music involved…But <name
+                        type="artist">Alison</name> is so fresh!</p>
 
-                  <p>Now for the crowd pleasers…..<name type="artist" ref="#Miki_Zone_Zoo">Miki Zone
-                        Zoo</name> (formerly the Fast). They look like an LA Band. Well
-                     dressed...good moves...Flash....</p>
+                  <p>Now for the crowd pleasers…..<name type="artist">Miki Zone Zoo</name> (formerly
+                        <name type="artist">the Fast</name>). They look like an LA Band. Well
+                     dressed.. good moves…Flash….</p>
 
                   <p>A crisp sound with a look to match. Black and white. Stripes and solids. Taking
                      up the stage like a set sculpture. Even the negative spaces are filled.</p>
 
-                  <p><name type="artist" ref="#Miki_Zone_Zoo">MZZ</name> is a band which operates on
-                     hyper kinetic energy. Everything is fast. Why wait when we’ll all be gone in a
-                     minute? A unit, yet strong individuals pierce through.</p>
-                  <p>The wildest of all is the infamous Miki Zone, guitarist extraordinaire... With
-                     the drummer bashing away at rhythm, the bass player peering out from under long
-                     dark bangs, and the singer hopping around like he’s barefoot on</p>
+                  <p><name type="artist">MZZ</name> is a band which operates on hyper kinetic
+                     energy. Everything is fast. Why wait when we’ll all be gone in a minute? A
+                     unit, yet strong individuals pierce through.</p>
+                  <p>The wildest of all is the infamous <name type="artist">Miki Zone</name>,
+                     guitarist extraordinaire.. With the drummer bashing away at rhythm, the bass
+                     player peering out from under long dark bangs, and the singer hopping around
+                     like he’s barefoot on</p>
 
                   <cb/>
 
-                  <p>coals, Miki creates the ultimate movement and grips his side of the stage with
-                     a wall of force.</p>
+                  <p>coals, <name type="artist">Miki</name> creates the ultimate movement and grips
+                     his side of the stage with a wall of force.</p>
 
-                  <p>A wild player and a visual delight. Miki grimaces, pouts, pounds his head,
-                     jumps, hops, spins and camps–all the while playing inspirational guitar. A
-                     riveting performer. So slim and dark with clothes almost too big for him: a
-                     baggy pin-striped suit with a spider on the lapel.</p>
+                  <p>A wild player and a visual delight. <name type="artist">Miki grimaces</name>,
+                     pouts, pounds his head, jumps, hops, spins and camps–all the while playing
+                     inspirational guitar. A riveting performer. So slim and dark with clothes
+                     almost too big for him: a baggy pin-striped suit with a spider on the
+                     lapel.</p>
 
-                  <p>The singer is wild; <name>Ricky Ricardo</name> with a dash of
-                        <name>Valentino</name>. This band’s so obviously having fun!</p>
+                  <p>The singer is wild; <name>Ricky Ricardo</name> with a dash of Valentino. This
+                     band’s so obviously having fun!</p>
 
-                  <p>The hottest number is <name type="song" ref="#The_kids_Just_Wanna_Dance">“The
-                        Kids Just Wanna Dance”</name>, better than any shit disco number to get you
-                     on your feet. I mean it isn’t just a great song, it’s a tour-de-force for Miki.
-                     He takes off his guitar in the middle, hops nonchalantly onto the speaker
-                     cabinet, and starts sticking pencils! Yes pencils, into his ears, nose, and
-                     mouth.</p>
+                  <p>The hottest number is <name type="song">“The Kids Just Wanna Dance”</name>,
+                     better than any shit disco number to get you on your feet. I mean it isn’t just
+                     a great song, it’s a tour-de-force for <name type="artist">Miki</name>. He
+                     takes off his guitar in the middle, hops nonchalantly onto the speaker cabinet,
+                     and starts sticking pencils! Yes pencils, into his ears, nose, and mouth.</p>
 
                   <p>He takes the pencils one by one and begins to scribble on the guitar strings,
                      as if he’s taking notes. But he is not just screwing around, he really plays!
@@ -1258,10 +1259,10 @@
                      stinks. We wade through the crowd to find seats near the wall. You can’t get
                      near the stage here. You gotta sit down. Is this real?</p>
 
-                  <p><name type="artist" ref="#Come_On">Come On</name> is a young, five-piece band.
-                     All are wearing white dress shirts, black pants and white sneakers.
-                     Succinct…They look like high school students for the most part, and probably
-                     are. Smart &amp; clean.</p>
+                  <p><name type="artist">Come On</name> is a young, five-piece band. All are wearing
+                     white dress shirts, black pants and white sneakers. Succinct…They look like
+                     high school students for the most part, and probably are. Smart &amp;
+                     clean.</p>
 
                   <p>Their music is a bit reggae, a bit rock, a bit conceptual; experimenting with
                      changes in rhythm and timing. </p>
@@ -1271,9 +1272,8 @@
 
                   <p>Their guitarist is forgettable. A good rhythm guitar. She reflects the deadpan
                      look of the band. Strong drummer. Their music is <name type="artist"
-                        ref="#Devo">Devo-ish</name>, <name type="artist" ref="#Talking_Heads"
-                        >Talking Heads-influenced</name>. Yet originality and humor shine
-                     through.</p>
+                        >Devo-ish</name>, <name type="artist">Talking Heads-influenced</name>. Yet
+                     originality and humor shine through.</p>
 
                   <p>The singer is having artistic spasms.. His face turns red; he sings all the
                      words he can with one breath. You sweat it out with him. His hands in fists,
@@ -2548,6 +2548,36 @@
                <person xml:id="Talking_Heads">
                   <persName>Talking Heads</persName>
                   <note>American rock band from New York City, formed in 1975</note>
+               </person>
+               <person xml:id="The_Radios">
+                  <persName>The Radios</persName>
+               </person>
+               <person xml:id="The_St._Bernard_Quartet">
+                  <persName>The St. Bernard Quartet</persName>
+               </person>
+               <person xml:id="The_Girls">
+                  <persName>The Girls</persName>
+               </person>
+               <person xml:id="The_Enemy">
+                  <persName>The Enemy</persName>
+               </person>
+               <person xml:id="The_Fishsticks">
+                  <persName>The Fishsticks</persName>
+               </person>
+               <person xml:id="The_Mystery_Horns">
+                  <persName>The Mystery Horns</persName>
+               </person>
+               <person xml:id="George_Johnny_Ray_Gleason">
+                  <persName>George “Johnny Ray” Gleason</persName>
+               </person>
+               <person xml:id="Rick_Buddy_Holly_Smith">
+                  <persName>Rick “Buddy Holly” Smith</persName>
+               </person>
+               <person xml:id="Cheaters">
+                  <persName>Cheaters</persName>
+               </person>
+               <person xml:id="Electric_Tramps">
+                  <persName>Electric Tramps</persName>
                </person>
                <person xml:id="TomRobinson">
                   <persName>Tom Robinson</persName>
