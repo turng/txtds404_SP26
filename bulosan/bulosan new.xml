@@ -440,7 +440,7 @@
       <body>
          <pb n="1"/>
          <head><emph>The Lonesome Mermaid</emph></head>
-         <ab>"-1-"</ab>
+         <ab>-1-</ab>
 
          <p>Every once in a while<name type="person" ref="#mermaid">the mermaid</name>emerged from
             the depths of the river<lb/>when the moon was full and claimed her victims. She would
@@ -471,7 +471,7 @@
                >Father</name>asked.</p>
 
          <pb n="2"/>
-         <ab>"-2-"</ab>
+         <ab>-2-</ab>
 
          <p><said direct="true">“The stranger himself said so,”</said>he said.<said direct="true">
                “That is why the whole town<lb/>is talking now.”</said></p>
@@ -517,7 +517,7 @@
                type="person" ref="#mayor">the mayor</name>. Then he said
            
 			 <pb n="3"/>
-          <seg>"-3-"</seg>
+          <seg>-3-</seg>
 			 to the people,<said direct="true">“This man is a heretic! Let’s hang
                him!”</said></p>
          <p>Slowly<name type="person" ref="#stranger">the stranger</name>sat down and picked up his
@@ -570,7 +570,7 @@
                ref="#runner">the runner</name>.</p>
 
          <pb n="4"/>
-         <ab>"-4-"</ab>
+         <ab>-4-</ab>
          <p>There was a deep silence for a minute. The men looked at each other for <lb/>a sign
             of action. Then t<damage>h</damage>e mayor ran across the yard and jumped on his horse.
             <lb/>And the other men followed him, riding at full speed through the silence of the
@@ -616,7 +616,7 @@
             stranger’s</p>
 
          <pb n="5"/>
-         <ab>"-5-"</ab>
+         <ab>-5-</ab>
 
          <lb/>
          <p>disappearance.</p>
@@ -659,7 +659,7 @@
                was only a little boy when you went <lb/>away.”</said></p>
 
          <pb n="6"/>
-         <ab>"-6-"</ab>
+         <ab>-6-</ab>
 
          <p><said direct="true">“Have I been gone that long,<name type="person"
                   ref="main_protagonist">son</name>?”</said>he asked.<said direct="true">“We have no
@@ -699,7 +699,7 @@
 
          <p/>
          <pb n="7"/>
-         <ab>"-7-"</ab>
+         <ab>-7-</ab>
          <p><said direct="true">"I’ll remember everything,"</said>I said.</p>
          <p><said direct="true">“It is a timeless life,”</said>he said dreamingly.<said
                direct="true">“But I got lonesome for my<lb/>guitar. I’ve asked the<name
@@ -744,7 +744,7 @@
                understanding,”</said>he said.<lb/><said direct="true">“They are cruel sometimes
                because men don’t understand them. Men of the earth</said></p>
          <pb n="8"/>
-         <ab>"-8-"</ab>
+         <ab>-8-</ab>
          <p><said direct="true">are always thinking of happiness in terms of happiness on the earth,
                Mer-<lb/>maids get lonesome, too.”</said></p>
          <p><said direct="true">“I’ll always remember,”</said>I said.</p>
