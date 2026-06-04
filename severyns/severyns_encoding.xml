@@ -104,7 +104,7 @@
          </div>
         <div type="preface">
            <head><date when= "1926-10-25">Oct. 25, 1926</date></head>
-           <head rend="caps">PREFACE</head>   
+           <head rend="caps">Preface</head>   
            <p>This is the true story of the chief of police of <name type="place" ref="#Seattle">Seattle</name>under an administration charged with having been in league with the underworld. I am not writing either an apology, an explanation or a vindication. I do not intend that the facts I shall set forth shall hold up any particular persons to admiration or scorn.</p>
            <p>When I went into office as chief of police of <name type="place" ref="#Seattle">Seattle</name>four years ago I expected that at the end of my term of office I would leave behind a record of public service. I expected this record of public service to become a heritage of my children. I did not expect a grateful public to erect any statues to me. But neither did I expect that the time would ever come when any men would ask: <said>"How much do you suppose <name type="person" ref="#William">Bill Severyns</name>cleared up at headquarters?"</said></p>
            <p>After four years in the police station, I am looking for a job. I need it if I am going to support my family in the comfortable American manner to which they became accustomed before I became chief of police.</p>
@@ -167,7 +167,7 @@
 		  
 		  <div xml:id="WS02" type="chapter">
                 <head><date when="1926-10-30">October 30, 1926</date></head>
-               <head>Amazing Secrets of Oriental Underworld Related by Severyns</head>
+               <head rend="caps">Amazing Secrets of Oriental Underworld Related by Severyns</head>
               <p>Few citizens realize how large a part Chinatown plays in civic affairs—or how seldom its citizens call in the white police for aid in settling its internal disputes.</p>
               <p>Seattle, with its huge Chinese colony, came to realize years ago that the Chinese provided an important and interesting police problem and, I think, the various items where East and West meet and overlap have been met rather well.</p>
               <p>The majority of citizens unthinkingly catalogue the Chinese as a race apart. Nothing could be more untrue, except from the geographical and physical standpoint.</p>
