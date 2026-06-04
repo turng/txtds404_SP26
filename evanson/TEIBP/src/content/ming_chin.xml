@@ -377,24 +377,6 @@
             <closer>
                <signed>END</signed>
             </closer>
-         </div>
-         <div type="paratext" xml:id="back_matter">
-            <p>
-               <persName ref="#ella_evanson">Ella Evanson</persName>
-               <space quantity="26" unit="chars"/>
-               <measure type="wordCount" quantity="2300">Approximately 2300 Words</measure><lb/>
-               <address>
-                  <addrLine>502-12 Ave. North</addrLine>
-               </address>
-               <space quantity="21" unit="chars"/>
-               <seg type="submission_note">Usual Rates</seg><lb/>
-               <address>
-                  <addrLine>Seattle, Wash.</addrLine>
-               </address>
-               <space quantity="24" unit="chars"/>
-               <seg type="rights_note">First American Rights Only</seg>
-            </p>
-         </div>
       </body>
 
       <back>
