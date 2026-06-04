@@ -451,28 +451,3 @@ div[type="notes"] h3,
   font-size: 0.88em !important;
   line-height: 1.7 !important;
 }
-/* =========================
-   Notes: remove bullets, keep note numbers
-   ========================= */
-
-div[type="notes"] list,
-div[type="notes"] ul,
-.notes ul {
-  list-style-type: none !important;
-  padding-left: 0 !important;
-  margin-left: 0 !important;
-}
-
-div[type="notes"] item,
-div[type="notes"] li {
-  list-style-type: none !important;
-  display: block !important;
-  margin-bottom: 1em !important;
-  padding-left: 0 !important;
-  text-indent: 0 !important;
-}
-
-div[type="notes"] label {
-  font-weight: 700 !important;
-  margin-right: 0.4em !important;
-}
