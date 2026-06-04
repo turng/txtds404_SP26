@@ -2739,7 +2739,40 @@
                   <title>The Kids Just Wanna Dance</title>
                   <note type="artist">Miki Zone Zoo</note>
                </item>
-
+               <item xml:id="OutOutOut">
+                  <title>Out Out Out</title>
+                  <note type="artist">Ice 9</note>
+               </item>    
+               <item xml:id="RevoltingMess">
+                  <title>Revolting Mess</title>
+                  <note type="artist">Ice 9</note>
+               </item>   
+               <item xml:id="27.3">
+                  <title>27.3</title>
+                  <note type="artist">Ice 9</note>
+               </item>    
+               <item xml:id="JonnyTooBad">
+                  <title>Jonny Too Bad</title>
+                  <note type="artist">Offs</note>
+               </item>    
+               <item xml:id="White******">
+                  <title>White ******</title>
+                  <note type="artist">Avengers</note>
+               </item>    
+               <item xml:id="ChristmasWeather">
+                  <title>Christmas Weather</title>
+                  <note type="artist">Lara Davi</note>
+               </item>    
+               <item xml:id="TheQuake">
+                  <title>The Quake</title>
+                  <note type="artist">Lara Davi</note>
+               </item>    
+               <item xml:id="BillBailey">
+                  <title>Billy Bailey</title>
+               </item>    
+               <item xml:id="LikeClockwork">
+                  <title>Like Clockwork</title>
+               </item>
             </list>
          </div>
 
