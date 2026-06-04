@@ -393,7 +393,7 @@ category {
   /* Empty Rule Set */
 }
 cb {
-  display: block;
+  display: none;
   margin-top: 1em;
   margin-bottom: 1em;
 }
@@ -1161,7 +1161,7 @@ pause {
   /* Empty Rule Set*/
 }
 pb {
-  display: block;
+  display: none;
   width: 100%;
   text-align: right;
   color: gray;
@@ -1988,6 +1988,12 @@ div.facsImage img:first-child {
   font-family: Arvo, sans-serif;
   font-weight: normal;
 }
+
+hi[rend="ul"] {
+    display: inline;
+    text-decoration: underline;
+}
+
 
 #main{
     display:flex;
