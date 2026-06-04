@@ -361,7 +361,7 @@
       <back>
          <div type="charindex">
             <listPerson>
-               <person xml:id="Consorsio">
+               <person xml:id="consorsio">
                   <persName>Consorsio</persName>
                   <note><p>Cousin of the narrator.</p></note>
                </person>
