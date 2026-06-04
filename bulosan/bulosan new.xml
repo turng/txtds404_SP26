@@ -47,7 +47,7 @@
       <body>
          <pb n="1"/>
          <head><emph> "BE AMERICAN" <lb/> By Carlos Bulosan </emph></head>
-         <ab><seg>"Be American" 1</seg></ab>
+         <ab>"Be American" 1"</ab>
          <p>It was not <name type="#consorcio"> Consorcio’s </name>fault. My cousin was an illiterate
             peasant from the vast plains of<name type="place" ref="#luzon">Luzon</name>. When he
             came off the boat in<name type="place" ref="#sanfrancisco">San Francisco</name>, he
@@ -84,7 +84,7 @@
             of us, and be an American, which was his own idea in the first place. He had never slept
             in a bed with a mattress before, so he had to suf- </p>
          <pb n="2"/>
-         <ab><seg>"Be American" 2</seg></ab>
+         <ab>"Be American" 2</ab>
          <p>fer from severe cold before he realized that he had to sleep inside of the bed,
             under the blankets, but not on top of the spread, which was what we had done during his
             first two weeks in <name type="place" ref="#america">America</name>. And of course he
@@ -134,7 +134,7 @@
                told him. </said>
          </p>
          <pb n="3"/>
-         <ab><seg>"Be American" 3</seg></ab>
+         <ab>"Be American" 3</ab>
          <p><said direct="true">“Sure, cousin. How long I wait?”</said></p>
          <p><said direct="true">“Five years.”</said></p>
          <p><said direct="true">“<u>Five years?</u>” There was genuine surprise in his dark peasant
@@ -172,7 +172,7 @@
          <p>He looked sad. Then he said, <said direct="true">“I sold, cousin.”</said></p>
          <p><said direct="true">“Why?”</said></p>
          <pb n="4"/>
-         <ab><seg>"Be American" 4</seg></ab>
+         <ab>"Be American" 4</ab>
          <p><said direct="true">"I cannot read. I cannot understand. Words too big and too
                long."</said></p>
          <p><said direct="true">"You should begin with simple grammar books."</said></p>
@@ -200,7 +200,7 @@
             <name type="place" ref="#alaska">Alaska </name> the next two years. When I returned to
             the mainland, I made it my duty to pass through<name type="place" ref="sanfrancisco"> San Francisco </name>. But my</p>
          <pb n="5"/>
-         <ab><seg>"Be American" 5</seg></ab>
+         <ab>"Be American" 5</ab>
          <p>cousin had left his janitor job and the night school. I could not<lb/>find his new
             address, and it seemed that no one knew him well enough<lb/>in the Filipino
             community.</p>
@@ -232,7 +232,7 @@
             barrels from far-<lb/>away <name type="place" ref="#alaska"> Alaska</name>. So I did not
             know where I could locate him.</p>
          <pb n="6"/>
-         <ab><seg>"Be American" 6</seg></ab>
+         <ab>"Be American" 6</ab>
          <p>I wandered in and out of <name type="place" ref="losangeles">Los Angeles </name>the next
             two years. <lb/>At the beginning of the third year, when I was talking to the sleeping
             birds<lb/>in Pershing Square, I felt a light hand on my shoulders. I was not<lb/> usually 
@@ -261,7 +261,7 @@
          <p><said direct="true">"No finished school?"</said></p>
          <p>Silence.</p>
          <pb n="7"/>
-         <ab><seg>"Be American" 7</seg></ab>
+         <ab>"Be American" 7</ab>
          <p><said direct="true">"Not American citizen yet?"</said></p>
          <p><said direct="true">"You should have told me<ref target="BA7-1">?</ref>"</said></p>
          <p><said direct="true">"Told you what?"</said></p>
@@ -296,7 +296,12 @@
             realized his naivete when he had landed in <name type="place" ref="#sanfrancisco">San
                Francisco</name>. But<lb/>he realized also that he could not ask too much in a
             strange land.<lb/>And it was this realization that liberated him from his peasant
-               pri-<pb n="8"/><abbr><seg>"Be American" 8</seg></abbr>son, his heritage, and eventually led him to
+               pri-
+            
+            <pb n="8"/>
+            <seg>"Be American" 8</seg>
+            
+            <lb/>son, his heritage, and eventually led him to
             a kind of work to which<lb/> he dedicated his time and life until the end.</p>
          <p>I was in <name type="place" ref="#oregon"> Oregon</name> when I received a newspaper from
                <name type="person" ref="#consorcio">Consorcio</name>, post-<lb/>marked<name
@@ -327,8 +332,12 @@
             soft, soft. He would not shed <lb/>a tear; but his heart must have been crying, seeing
             eternal darkness <lb/>coming toward him, deep, deep in the night of perpetual sleep.
             Yes, <lb/>he would not shed a tear; but he must have been crying, seeing that <lb/>there
-            was so much to do with so little time left. There was in his<pb n="9"/><abbr><seg>"Be
-               American" 9</seg></abbr>voice a kindness for me - unhappy, perhaps, that he could not impart
+            was so much to do with so little time left. There was in his
+            
+            <pb n="9"/>
+            <abbr><seg>"Be
+               American" 9</seg></abbr>
+            <lb/>voice a kindness for me - unhappy, perhaps, that he could not impart
             <lb/> what he had learned from his wanderings on this earth <ref target="BA9-1">:</ref>
             unhappy, also, <lb/>because he knew that it would take all the people to unmake the
             un-<lb/> happiness which had caught up with us. And now, fifteen years after <lb/>his
@@ -429,8 +438,9 @@
 
    <text type="shortstory" n="2">
       <body>
-         <pb n="-1-"/>
+         <pb n="1"/>
          <head><emph>The Lonesome Mermaid</emph></head>
+         <ab>"-1-"</ab>
 
          <p>Every once in a while<name type="person" ref="#mermaid">the mermaid</name>emerged from
             the depths of the river<lb/>when the moon was full and claimed her victims. She would
@@ -460,7 +470,8 @@
          <p><said direct="true">“How do you know?”</said><name type="person" ref="#father"
                >Father</name>asked.</p>
 
-         <pb n="-2-"/>
+         <pb n="2"/>
+         <ab>"-2-"</ab>
 
          <p><said direct="true">“The stranger himself said so,”</said>he said.<said direct="true">
                “That is why the whole town<lb/>is talking now.”</said></p>
@@ -505,7 +516,8 @@
          <p><said direct="true">“I don’t know what you are talking about,”</said>said<name
                type="person" ref="#mayor">the mayor</name>. Then he said
            
-			 <pb n="-3-"/> 
+			 <pb n="3"/>
+          <seg>"-3-"</seg>
 			 to the people,<said direct="true">“This man is a heretic! Let’s hang
                him!”</said></p>
          <p>Slowly<name type="person" ref="#stranger">the stranger</name>sat down and picked up his
@@ -557,7 +569,8 @@
          <p><said direct="true">“He was walking toward the river,”</said>said <name type="person"
                ref="#runner">the runner</name>.</p>
 
-         <pb n="-4-"/>
+         <pb n="4"/>
+         <ab>"-4-"</ab>
          <p>There was a deep silence for a minute. The men looked at each other for <lb/>a sign
             of action. Then t<damage>h</damage>e mayor ran across the yard and jumped on his horse.
             <lb/>And the other men followed him, riding at full speed through the silence of the
@@ -602,7 +615,8 @@
             phosphorescence of the<lb/>bright water. And an unidentified man conjectured about the
             stranger’s</p>
 
-         <pb n="-5-"/>
+         <pb n="5"/>
+         <ab>"-5-"</ab>
 
          <lb/>
          <p>disappearance.</p>
@@ -644,7 +658,8 @@
          <p><said direct="true">“It was a long time ago,”</said>I said.<said direct="true">“I
                was only a little boy when you went <lb/>away.”</said></p>
 
-         <pb n="-6-"/>
+         <pb n="6"/>
+         <ab>"-6-"</ab>
 
          <p><said direct="true">“Have I been gone that long,<name type="person"
                   ref="main_protagonist">son</name>?”</said>he asked.<said direct="true">“We have no
@@ -683,7 +698,8 @@
 
 
          <p/>
-         <pb n="-7-"/>
+         <pb n="7"/>
+         <ab>"-7-"</ab>
          <p><said direct="true">"I’ll remember everything,"</said>I said.</p>
          <p><said direct="true">“It is a timeless life,”</said>he said dreamingly.<said
                direct="true">“But I got lonesome for my<lb/>guitar. I’ve asked the<name
@@ -727,7 +743,8 @@
          <p><said direct="true">“Now, remember that mermaid are really kind and
                understanding,”</said>he said.<lb/><said direct="true">“They are cruel sometimes
                because men don’t understand them. Men of the earth</said></p>
-         <pb n="-8-"/>
+         <pb n="8"/>
+         <ab>"-8-"</ab>
          <p><said direct="true">are always thinking of happiness in terms of happiness on the earth,
                Mer-<lb/>maids get lonesome, too.”</said></p>
          <p><said direct="true">“I’ll always remember,”</said>I said.</p>
