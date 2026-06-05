@@ -95,7 +95,7 @@
          <noteGrp>
             <note type="footnote" xml:id="fn-1-1">
                <p>
-                  Blackbird pie was an 'entremet' dish where live birds were sealed within a piecrust, to be released when the crust was cut as a spectacle for diners <ref target="#kumar">Kumar</ref>. 
+                  Blackbird pie was an <lang xml:lang="fr">entremet</lang> dish where live birds were sealed within a piecrust, to be released when the crust was cut as a spectacle for diners <ref target="#kumar">Kumar</ref>. 
                </p>
             </note>
             <note type="footnote" xml:id="fn-1-2">
@@ -125,7 +125,7 @@
          </lg>
          <note type="footnote" xml:id="fn-2-1">
             <p>
-               <ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#COCK-A-DOODLE-DO">A version of this poem</ref> found in <title>The Big Book of Nursery Rhymes</title> (2012) omits the word 'crows' on the inital line. This version also adds a second stanza.
+               <ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#COCK-A-DOODLE-DO">A version of this poem</ref> found in <ref target="#big-book"><title>The Big Book of Nursery Rhymes</title> (2012)</ref> omits the word 'crows' on the inital line. This version also adds a second stanza.
             </p>
          </note>
          <pb n="3"/>
@@ -207,7 +207,7 @@
             </lg>
          </lg>
          <note type="footnote" xml:id="fn-6-1">
-            <p><title>The Big Book of Nursery Rhymes</title> contains an identical poem entitled <title><ref target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#TWO_LITTLE_DOGS">Two Little Dogs</ref></title></p>
+            <p><ref target="#big-book"><title>The Big Book of Nursery Rhymes</title></ref> contains an identical poem entitled <title><ref target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#TWO_LITTLE_DOGS">Two Little Dogs</ref></title>.</p>
          </note>
          <pb n="6"/>
          <figure>
@@ -236,7 +236,7 @@
          </lg>
          <note type="footnote" xml:id="fn-8-1">
             <p>
-               The <title>Big Book of Nursery Rhymes</title> (2012) contains a version of this poem entitled <title><ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#BETTY_WINKLES_PIG">Betty Winkle's Pig</ref></title>, which makes a few key changes. Firstly and most obviously the titular character's name has been changed from Billy to Betty, and appears to have been reimagined as a little girl who's pet pig has died. This version also abandons the stanzaic structure found in the one from our chapbook. Instead it uses indentation to separate sections, indenting the fifth, seventh, ninth, tenth, and eleventh lines a single time, while indenting the sixth and eighth lines twice. The rhymes remain unchanged. Additionally the framing device present in our verion's first line is omitted entirely in the <title>Big Book of Nursery Rhymes</title> version.
+               The <ref target="#big-book"><title>Big Book of Nursery Rhymes</title> (2012)</ref> contains a version of this poem entitled <title><ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#BETTY_WINKLES_PIG">Betty Winkle's Pig</ref></title>, which makes a few key changes. Firstly and most obviously the titular character's name has been changed from Billy to Betty, and appears to have been reimagined as a little girl who's pet pig has died. This version also abandons the stanzaic structure found in the one from our chapbook. Instead it uses indentation to separate sections, indenting the fifth, seventh, ninth, tenth, and eleventh lines a single time, while indenting the sixth and eighth lines twice. The rhymes remain unchanged. Additionally the framing device present in our verion's first line is omitted entirely in the <ref target="#big-book"><title>Big Book of Nursery Rhymes</title></ref> version.
             </p>
          </note>
          <pb n="7"/>
@@ -356,7 +356,7 @@
          </lg>
          <note type="footnote" xml:id="fn-12-1">
             <p>
-               This poem appears to be a localized version of <ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#TO_MARKET">a nearly identical poem</ref> included in <title>The Big Book of Nursery Rhymes</title>, which makes no mention of Banbury, instead repeating the first line at the beginning of the second stanza. Since this text was printd in Banbury we can surmize that this change was made to lend the poem some local identity.
+               This poem appears to be a localized version of <ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#TO_MARKET">a nearly identical poem</ref> included in <ref target="#big-book"><title>The Big Book of Nursery Rhymes</title></ref>, which makes no mention of Banbury, instead repeating the first line at the beginning of the second stanza. Since this text was printed in Banbury we can surmize that this change was made to lend the poem some local identity.
             </p>
          </note>
          <pb n="12"/>
@@ -386,7 +386,7 @@
             </lg>
          </lg>
          <note type="footnote" xml:id="fn-13-1">
-            <p><title>The Big Book of Nursery Rhymes</title> includes <ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#THE_LITTLE_MAN_WITH_A_GUN">a somewhat similar poem</ref>, but with substantial variance in structure and content. This version has the gunman shoot Johnny Sprig, where the <title>Big Book</title> edition's man targets a duck, then a drake. It seperates the lines into three stanzas and also repeats the final word of each evenly numbered line three times.</p>
+            <p><ref target="#big-book"><title>The Big Book of Nursery Rhymes</title></ref> includes <ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#THE_LITTLE_MAN_WITH_A_GUN">a somewhat similar poem</ref>, but with substantial variance in structure and content. This version has the gunman shoot Johnny Sprig, where the <ref target="#big-book"><title>Big Book</title></ref> edition's man targets a duck and later a drake. It separates the lines into three stanzas and also repeats the final word of each evenly numbered line three times.</p>
          </note>
          <pb n="13"/>
          <lg type="poem" n="15">
@@ -420,7 +420,7 @@
          </lg>
          <note type="footnote" xml:id="fn-15-1">
             <p>
-               This poem differs from a nearly identical version in <title>The Big Book of Nursery Rhymes</title> only in lineation, this version opting to split into twice as many lines as <ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#ROBIN_AND_RICHARD">the other</ref>.
+               This poem differs from a nearly identical version in <ref target="#big-book"><title>The Big Book of Nursery Rhymes</title></ref> only in lineation, this version having been split into twice as many lines as <ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#ROBIN_AND_RICHARD">the other</ref>.
             </p>
          </note>
          <pb n="14"/>
@@ -479,7 +479,7 @@
          </lg>
          <note type="footnote" xml:id="fn-19-1">
             <p>
-               There is <ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#I_HAD_A_LITTLE_PONY">a similar poem</ref> in <title>The Big Book of Nursery Rhymes</title> which includes the first 'I' as a drop-cap within an image, and uses slightly different language to this one. That version does not use the contracted forms found in this one.
+               There is <ref type="link" target="https://www.gutenberg.org/files/38562/38562-h/38562-h.htm#I_HAD_A_LITTLE_PONY">a similar poem</ref> in <ref target="#big-book"><title>The Big Book of Nursery Rhymes</title></ref> which includes the first 'I' as a drop-cap within an image, and uses slightly different language to this one. That version does not use the contracted forms found in this one.
             </p>
          </note>
          <pb n="16"/>
