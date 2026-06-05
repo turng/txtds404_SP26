@@ -842,3 +842,74 @@ div[type="endnotes"] note {
     padding: 1.7em 1.4em !important;
   }
 }
+
+/* =========================================================
+   Final paratext fix
+   Keep the typescript header inside the TEI page
+   ========================================================= */
+
+div[type="paratext"] {
+  width: 92% !important;
+  max-width: 760px !important;
+  margin: 2.5em auto 3.5em auto !important;
+  padding: 1.8em 2.2em !important;
+  box-sizing: border-box !important;
+
+  background: #f7f4ec !important;
+  border-left: 4px solid #b99b63 !important;
+  box-shadow: none !important;
+
+  font-size: 1em !important;
+  line-height: 1.55 !important;
+  overflow: hidden !important;
+}
+
+/* Use grid instead of flex so gap will not push columns outside */
+ab[type="typescript_header"] {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) !important;
+  column-gap: 2.5em !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Let grid control the widths */
+ab[type="left_header"],
+ab[type="right_header"] {
+  display: block !important;
+  width: auto !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Keep both columns readable */
+ab[type="right_header"] {
+  text-align: left !important;
+}
+
+/* Typescript font only inside the paratext block */
+div[type="paratext"],
+div[type="paratext"] * {
+  font-family: "Courier New", Courier, monospace !important;
+  color: #222 !important;
+}
+
+/* Mobile: stack the two columns */
+@media screen and (max-width: 900px) {
+  div[type="paratext"] {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 1.4em 1.2em !important;
+  }
+
+  ab[type="typescript_header"] {
+    display: block !important;
+  }
+
+  ab[type="left_header"],
+  ab[type="right_header"] {
+    width: 100% !important;
+    margin-bottom: 1em !important;
+  }
+}
