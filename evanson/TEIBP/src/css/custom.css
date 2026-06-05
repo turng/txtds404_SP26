@@ -775,8 +775,8 @@ body > div:first-of-type,
 .tei,
 article,
 main {
-  width: 84vw !important;
-  max-width: 1120px !important;
+  width: 72vw !important;
+  max-width: 980px !important;
   margin-left: auto !important;
   margin-right: auto !important;
   margin-top: 3em !important;
