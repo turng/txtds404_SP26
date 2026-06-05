@@ -743,3 +743,102 @@ div#teibpToolbox,
     margin-bottom: 1em !important;
   }
 }
+
+/* =========================================================
+   Final centering fix from custom.css
+   Make TEI itself the centered page
+   ========================================================= */
+
+/* Reset TEI Boilerplate's narrow html rule */
+html {
+  width: 100% !important;
+  max-width: none !important;
+  min-width: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: #f4f1ea !important;
+  box-sizing: border-box !important;
+}
+
+/* Full browser background */
+html > body,
+body {
+  width: 100% !important;
+  max-width: none !important;
+  min-width: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: #f4f1ea !important;
+  box-sizing: border-box !important;
+}
+
+/* The TEI document becomes the centered paper */
+TEI {
+  display: block !important;
+  width: min(78vw, 1050px) !important;
+  max-width: 1050px !important;
+  min-width: 0 !important;
+  margin: 3em auto !important;
+  padding: 3em 4em !important;
+  background: #fffdf8 !important;
+  color: #222 !important;
+  box-sizing: border-box !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08) !important;
+}
+
+/* Keep the content readable */
+TEI p,
+TEI note,
+TEI bibl {
+  text-align: left !important;
+  word-spacing: normal !important;
+  letter-spacing: normal !important;
+}
+
+/* Hide TEI Boilerplate toolbox */
+#teibpToolbox,
+div#teibpToolbox,
+.toolbox {
+  display: none !important;
+}
+
+/* Remove note boxes */
+TEI note,
+TEI .note,
+TEI .noteContent,
+TEI .annotation,
+TEI .popup,
+TEI .tooltip,
+TEI aside.note,
+TEI span.note,
+TEI div.note {
+  display: block !important;
+  position: static !important;
+  float: none !important;
+  clear: both !important;
+  width: auto !important;
+  max-width: none !important;
+  margin: 0 0 1.1em 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  text-align: left !important;
+}
+
+/* Keep historical notes as normal hanging notes */
+div[type="endnotes"] note {
+  padding-left: 1.8em !important;
+  text-indent: -1.8em !important;
+}
+
+/* Mobile layout */
+@media screen and (max-width: 900px) {
+  TEI {
+    width: calc(100vw - 36px) !important;
+    max-width: none !important;
+    margin: 1.5em auto !important;
+    padding: 1.7em 1.4em !important;
+  }
+}
