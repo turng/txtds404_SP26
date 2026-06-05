@@ -377,3 +377,83 @@ bibl pubPlace::after,
 .bibl .pubPlace::after {
   content: ", " !important;
 }
+
+/* =========================
+   Front matter two-column typescript header
+   ========================= */
+
+ab[type="typescript_header"] {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr !important;
+  column-gap: 4em !important;
+  font-family: "Courier New", Courier, monospace !important;
+  line-height: 1.8 !important;
+  margin: 0 !important;
+}
+
+ab[type="typescript_header"] ab[type="left_header"],
+ab[type="typescript_header"] ab[type="right_header"] {
+  display: block !important;
+}
+
+ab[type="typescript_header"] address {
+  font-style: normal !important;
+  display: block !important;
+}
+
+ab[type="typescript_header"] addrLine {
+  display: block !important;
+}
+
+ab[type="typescript_header"] lb::after {
+  content: "\A" !important;
+  white-space: pre !important;
+}
+
+/* =========================
+   Separate Notes from main text
+   ========================= */
+
+div[type="notes"],
+.notes {
+  margin-top: 4em !important;
+  padding-top: 2em !important;
+  border-top: 2px solid #d6cdbc !important;
+}
+
+/* Make Notes heading look like a section heading */
+div[type="notes"] > head,
+div[type="notes"] h2,
+div[type="notes"] h3,
+.notes h2,
+.notes h3 {
+  display: block !important;
+  font-family: "Helvetica Neue", Arial, sans-serif !important;
+  font-size: 1.45em !important;
+  line-height: 1.25 !important;
+  font-weight: 700 !important;
+  margin-top: 0 !important;
+  margin-bottom: 1.2em !important;
+  color: #2f2a24 !important;
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
+/* =========================
+   Front matter paratext smaller text
+   ========================= */
+
+#front_matter {
+  font-size: 0.88em !important;
+}
+
+#front_matter .typescript_header,
+#front_matter ab[type="typescript_header"] {
+  font-size: 0.88em !important;
+  line-height: 1.7 !important;
+}
+
+div#teibpToolbox,
+#teibpToolbox,
+.toolbox {
+  display: none !important;
+}
