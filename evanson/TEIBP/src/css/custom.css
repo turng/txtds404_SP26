@@ -1,4 +1,4 @@
-/* Custom CSS for the Ming Chin TEI Boilerplate edition /
+/* Custom CSS for the Ming Chin TEI Boilerplate edition */
 
 / =========================
    General page style
@@ -390,8 +390,6 @@ bibl pubPlace::after,
 
 html,
 body {
-  width: 85% !important;
-  max-width: none !important;
   margin: 0 !important;
   padding: 0 !important;
   background: #f4f1ea !important;
@@ -744,53 +742,3 @@ div#teibpToolbox,
   }
 }
 
-/* =========================================================
-   Final centering patch
-   Make left and right margins equal
-   ========================================================= */
-
-/* Center the actual TEI Boilerplate page container */
-html body > div:first-of-type,
-html body #main,
-html body #content,
-html body #teibpContent,
-html body #teibpContainer,
-html body .tei,
-html body article,
-html body main {
-  display: block !important;
-  width: min(84vw, 1100px) !important;
-  max-width: 1100px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  margin-top: 3em !important;
-  margin-bottom: 3em !important;
-  padding-left: 4em !important;
-  padding-right: 4em !important;
-  box-sizing: border-box !important;
-}
-
-/* Make sure inner sections do not escape left */
-html body front,
-html body body,
-html body back,
-html body div[type="editorial_intro"],
-html body div[type="paratext"],
-html body div[type="story"],
-html body div[type="indexes"],
-html body div[type="endnotes"],
-html body div[type="bibliography"] {
-  display: block !important;
-  width: 100% !important;
-  max-width: 100% !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-  box-sizing: border-box !important;
-}
-
-/* Keep reading text left-aligned */
-html body p,
-html body note,
-html body bibl {
-  text-align: left !important;
-}
