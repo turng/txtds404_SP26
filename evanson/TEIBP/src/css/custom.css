@@ -263,23 +263,6 @@ div[type="editorial_intro"] {
   border-bottom: 2px solid #d6cdbc !important;
 }
 
-/* Style the typescript front/back matter as a separate paratext block */
-div[type="paratext"] {
-  max-width: 620px !important;
-  margin: 2.5em 0 3em 0 !important;
-  padding: 1.2em 1.5em !important;
-  background: #f7f4ec !important;
-  border-left: 4px solid #b99b63 !important;
-  font-size: 0.92em !important;
-  line-height: 1.45 !important;
-}
-
-/* Keep paratext compact */
-div[type="paratext"] p,
-div[type="paratext"] ab {
-  margin: 0 !important;
-  line-height: 1.45 !important;
-}
 
 /* Separate main story from paratext */
 div[type="story"] {
@@ -489,50 +472,6 @@ respStmt {
   margin-bottom: 2em !important;
   color: #444 !important;
 }
-
-
-/* ---------- D. Paratext in typewriter style ---------- */
-
-div[type="paratext"],
-div[type="paratext"] p,
-div[type="paratext"] ab,
-div[type="paratext"] persName,
-div[type="paratext"] addrLine,
-div[type="paratext"] measure,
-div[type="paratext"] seg {
-  font-family: "Courier New", Courier, monospace !important;
-  color: #222 !important;
-}
-
-div[type="paratext"] {
-  max-width: none !important;
-  width: 100% !important;
-  margin: 2.5em 0 3.5em 0 !important;
-  padding: 0 !important;
-  background: transparent !important;
-  border-left: none !important;
-  font-size: 1.15em !important;
-  line-height: 1.55 !important;
-}
-
-ab[type="typescript_header"] {
-  display: flex !important;
-  justify-content: space-between !important;
-  align-items: flex-start !important;
-  gap: 4em !important;
-  width: 100% !important;
-}
-
-ab[type="left_header"],
-ab[type="right_header"] {
-  display: block !important;
-  width: 48% !important;
-}
-
-ab[type="right_header"] {
-  text-align: left !important;
-}
-
 
 /* ---------- E. Story text in typewriter style ---------- */
 
@@ -844,55 +783,69 @@ div[type="endnotes"] note {
 }
 
 /* =========================================================
-   Final paratext fix
-   Keep the typescript header inside the TEI page
+   Paratext block: centered, contained, two-column header
    ========================================================= */
 
 div[type="paratext"] {
-  width: 92% !important;
-  max-width: 760px !important;
+  display: block !important;
+  width: 88% !important;
+  max-width: 700px !important;
   margin: 2.5em auto 3.5em auto !important;
-  padding: 1.8em 2.2em !important;
+  padding: 1.6em 2em !important;
   box-sizing: border-box !important;
 
   background: #f7f4ec !important;
   border-left: 4px solid #b99b63 !important;
   box-shadow: none !important;
 
+  font-family: "Courier New", Courier, monospace !important;
   font-size: 1em !important;
   line-height: 1.55 !important;
+  color: #222 !important;
+
   overflow: hidden !important;
 }
 
-/* Use grid instead of flex so gap will not push columns outside */
-ab[type="typescript_header"] {
-  display: grid !important;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) !important;
-  column-gap: 2.5em !important;
-  width: 100% !important;
-  max-width: 100% !important;
+div[type="paratext"] * {
+  font-family: "Courier New", Courier, monospace !important;
   box-sizing: border-box !important;
 }
 
-/* Let grid control the widths */
+ab[type="typescript_header"] {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) !important;
+  column-gap: 2em !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+}
+
 ab[type="left_header"],
 ab[type="right_header"] {
   display: block !important;
   width: auto !important;
   max-width: 100% !important;
+  min-width: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
   box-sizing: border-box !important;
 }
 
-/* Keep both columns readable */
 ab[type="right_header"] {
   text-align: left !important;
 }
 
-/* Typescript font only inside the paratext block */
-div[type="paratext"],
-div[type="paratext"] * {
-  font-family: "Courier New", Courier, monospace !important;
-  color: #222 !important;
+div[type="paratext"] ab,
+div[type="paratext"] address,
+div[type="paratext"] addrLine,
+div[type="paratext"] persName,
+div[type="paratext"] measure,
+div[type="paratext"] seg {
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1.55 !important;
 }
 
 /* Mobile: stack the two columns */
