@@ -93,10 +93,18 @@
         </revisionDesc>
     </teiHeader>
   <text>
+      <front>
+          <div type="editorial_intro">
+              <head>Editorial Introduction</head>
+              <p>This digital edition presents selected excerpts from <title>Confessions of a Chief of Police</title>, a serialized narrative written by former Seattle Chief of Police William B. Severyns and published in the <title>Seattle Union Record</title> between October and December 1926. Written during the Prohibition era and amid debates concerning corruption, vice regulation, and municipal reform, the articles combine autobiography, political defense, and public commentary. Severyns reflects on his years as chief of police while addressing allegations concerning graft, police misconduct, gambling, vice districts, and political interference in Seattle policing. The serialization also reveals the importance of newspapers in shaping public perceptions of crime, morality, and civic order in early twentieth-century American cities.</p>
+              <p>This edition focuses on preserving the documentary and historical features of the original newspaper publication while making the text accessible for digital analysis and modern readers. Particular attention has been given to recurring themes such as police corruption, vice “cleanups,” Prohibition, police publicity, and the relationship between political reform and law enforcement. The selected excerpts additionally reveal contemporary racialized discourse concerning Seattle’s Chinatown and illustrate how immigrant communities were represented within urban political debates. Contemporary newspaper reports and municipal correspondence related to Bertha Henry Landes and William B. Severyns provide further historical context for understanding the political controversies surrounding police administration in Seattle during the 1920s.</p>
+              <p>The transcription follows a diplomatic editorial approach. Original spelling, punctuation, capitalization, spacing, and formatting have been preserved wherever possible in order to retain the historical and material qualities of the source text. Apparent typographical irregularities, broken words, and period-specific language have not been silently corrected and have been marked with proper encoding elements. Editorial intervention has been intentionally limited to support accurate TEI encoding while maintaining fidelity to the original newspaper publication. Annotations have been added to explain historical references, political figures, policing terminology, and contextual issues related to Prohibition-era Seattle.</p>   
+          </div>
+      </front>
       <body>
          <div type="introduction">
             <head>Seattle Union Record, <date when="1926-10-29">Oct. 29, 1926</date> page 2</head>
-            <p>Because <name type="person" ref="#William">William B. Severyns</name>is a candidate for sheriff, friends of his oponents have been charging that the amazine "True Confessions of a Chief of Police," written by him, is "mere political propaganda."</p>
+             <p>Because <name type="person" ref="#William">William B. Severyns</name>is a candidate for sheriff, friends of his oponents have been charging that the amazine <q>True Confessions of a Chief of Police</q>, written by him, is <q>mere political propaganda</q>.</p>
             <p>This is absolutely untrue. The <name type="person" ref="#William">Severyns</name> articles were written early this year, while he was still chief of police. They aroused nation-wide interest and syndicates bid eagerly for the work. The Union Record simply has Seattle rights.</p>
             <p>The editors of the Union Record honestly believe that <name type="person" ref="#William">Severyns</name> is a high-class citizen and would like to see him elected sheriff. But the Union Record has made no active campaign for <name type="person" ref="#William">Severyns</name> for sheriff and will make none. Only in this way can it be certain that those who see "political motives" in the publication of the story will be shut up.</p>
             <p>Futher, all matter in any way involving men who are now candidates for office, or which might in any way be interpreted as helpful to the candidacy of <name type="person" ref="#William">Bill Severyns</name> will be held up until after the next Tuesday, the day of election.</p>
@@ -104,22 +112,22 @@
          </div>
         <div type="preface">
            <head><date when= "1926-10-25">Oct. 25, 1926</date></head>
-           <head rend="caps">PREFACE</head>   
+           <head rend="caps">Preface</head>   
            <p>This is the true story of the chief of police of <name type="place" ref="#Seattle">Seattle</name>under an administration charged with having been in league with the underworld. I am not writing either an apology, an explanation or a vindication. I do not intend that the facts I shall set forth shall hold up any particular persons to admiration or scorn.</p>
            <p>When I went into office as chief of police of <name type="place" ref="#Seattle">Seattle</name>four years ago I expected that at the end of my term of office I would leave behind a record of public service. I expected this record of public service to become a heritage of my children. I did not expect a grateful public to erect any statues to me. But neither did I expect that the time would ever come when any men would ask: <said>"How much do you suppose <name type="person" ref="#William">Bill Severyns</name>cleared up at headquarters?"</said></p>
            <p>After four years in the police station, I am looking for a job. I need it if I am going to support my family in the comfortable American manner to which they became accustomed before I became chief of police.</p>
            <p>I worked my way through college and became a lawyer. After four years at police headquarters it may not be easy for me to reestablish myself at the bar. Not that I fear that I shall be unable to make a living now, as I did before I became chief of police, but I now realize why it is that so many men refuse to accept any public office. The price they must pay, both in the respect of their fellows and in the sacrifice of their own careers, is too great.</p>
            <p>And there you have the reason why I am undertaking to write this book. I believe that people do not understand the police problem as they should. The police function is one of the most important functions of the state. Yet it is, to most people, a thing apart, a branch government which multitudes either fear or hold in contempt.</p>
            <p>It is my purpose now to relate the history of my experience in office. The temptations of policemen, from the chief down, I will reveal.</p>
-           <p>I will speak about the graft problem in <name type="place" ref="#Seattle">Seattle</name>as I have known it. There is a graft problem. But I will speak of the other police problems which must be talked about and understood if we are ever to get anywhere in the police administration.</p><pb/>
+           <p>I will speak about the graft problem in <name type="place" ref="#Seattle">Seattle</name>as I have known it. There is a graft problem. But I will speak of the other police problems which must be talked about and understood if we are ever to get anywhere in the police administration.</p><pb n="2"/>
            <fw type="date" place="top_left">Oct. 25, 1926</fw>
            <fw type="page_number" place="right">2.</fw>
            <p>I do not intend to write a technical text for policemen. When I tell about the way money was offered me, of the pressure that was brought to bear upon me to influence my policies, I do not do it to bring discredit upon any person, only as a means of illustrating a particular problem of police administration.</p>
-           <p>I hope that this narrative will be accepted as a sincere and earnest constribution to the people of Seattle in their efforts toward better and cleaner government.</p>
+            <p>I hope that this narrative will be accepted as a sincere and earnest constribution to the people of <name type="place" ref="#Seattle">Seattle</name> in their efforts toward better and cleaner government.</p>
         </div>
          <div xml:id="WS01" type="chapter">
             <head><date when="1926-10-29">October 29. 1926.</date> </head>
-            <head rend="caps">Fortune is offered Severyns By Cop To Head Morals Squad.</head>             
+            <head rend="caps">Fortune is offered <name type="person" ref="#William">Severyns</name> By Cop To Head Morals Squad.</head>             
             <p>I was offered <measure type="currency">$60,000</measure> by a policeman for the post of head of the morals squad.</p> 
                <p>The offer was not made directly.</p>
                <p>Such offers are not made unless those who make them have taken proper safeguards in case they should be re-fused.</p>
@@ -127,9 +135,9 @@
                <p>I had been beset by people wanting to be special in-vestigator for the chief. The special investigator works directly out of the chief's office and is responsible to him alone. Friends of the various candidates had been to see the mayor. I was afraid that I would be forced into the position of having to employ a professional stool pigeon as my investigator. There are many things a chief cannot know or find out for himself. The public ex-pects the chief of police to be at his desk with a smile and a glad hand and a helping hand all day and all night, and at the same time walk side by side with every patrol-man on the force as the keeper of his conscience.</p>
             <p>I knew this couldn't be done, and I didn't want a stool pigeon as my special investigator. So I acted quick-ly, employing <name type="person" ref="#Robert">Robert Kernan</name>, a neighbor of mine, whose children has played with mine and whom I had come to know.</p> 
                
-            <label rend="caps">Huge Bribe Was Communicated to Chief Severyns Through Bob Kernan.</label>
+             <label rend="caps">Huge Bribe Was Communicated to Chief <name type="person" ref="#William">Severyns</name> Through <name type="person" ref="#Robert">Bob Kernan</name>.</label>
                
-            <p>It was through <name type="person" ref="#Robert">Kernan</name> that the <measure type="currency">$60,000</measure> offer came to me. Apparently some policeman had the mistaken impression that <name type="person" ref="#Robert">Kernan</name> was my brother-in-law. <name type="person" ref="#Robert">Kernan</name> reported to me that he had been approached and that he had been told to tell his brother-in-law, the chief, that there was <measure type="currency">$60,000</measure> in it if the chief would see to it that this man had the position of head of the morals squad.</p><pb/>
+            <p>It was through <name type="person" ref="#Robert">Kernan</name> that the <measure type="currency">$60,000</measure> offer came to me. Apparently some policeman had the mistaken impression that <name type="person" ref="#Robert">Kernan</name> was my brother-in-law. <name type="person" ref="#Robert">Kernan</name> reported to me that he had been approached and that he had been told to tell his brother-in-law, the chief, that there was <measure type="currency">$60,000</measure> in it if the chief would see to it that this man had the position of head of the morals squad.</p><pb n="2"/>
                
                <fw type="page_number" place="top_center">-2-</fw>
                
@@ -137,15 +145,15 @@
                
             <label rend="caps">General Order For Vice Cleanup is Always Source of Profit to Crooks And Lawyers.</label>
                
-            <p>Always a general order for a vice cleanup is a source of profit for those who want to be crooked. Such an order is used as the basis for a general "Knockover" of the cri-minal world. Certain types of lawyers are jubilant when it is made. There may be several hundred arrests as a result. In each case <measure type="currency">$100</measure> bail is posted. Then the prisoner fails to put in an appearance, appearing by counsel instead. The usual fine is <measure type="currency">$10</measure>. The difference is returned to the attor-ney in each case and he pockets the <measure type="currency">$90</measure>as his fee.</p>
+             <p>Always a general order for a vice cleanup is a source of profit for those who want to be crooked. Such an order is used as the basis for a general <q>Knockover</q> of the <choice><orig>cri-minal</orig><reg>criminal</reg></choice> world. Certain types of lawyers are jubilant when it is made. There may be several hundred arrests as a result. In each case <measure type="currency">$100</measure> bail is posted. Then the prisoner fails to put in an appearance, appearing by counsel instead. The usual fine is <measure type="currency">$10</measure>. The difference is returned to the attor-ney in each case and he pockets the <measure type="currency">$90</measure>as his fee.</p>
                <p>Don't think either, that a vice crusade perforce results in improved condisions. It may take the graft from the cop for a time, but it gives it to others/ Take the case of Mary --- :</p>
                
             <label rend="caps"><name type="person" ref="#Mary">'Mary'</name>Charges That Cops 'Knocked Her Over' And 'Cleaned' Her After Vice Cleanup Arrest</label>
                
             <p><name type="person" ref="#Mary">Mary</name>was arrested in a cleanup growing out of a general order. She has been arrested before, times innumerable, but she always returns to the joint she runs on upper Main st.</p> 
-            <p>When she was arrested this time the cops <said>"shook her down."</said> Then, she claims, some of the higherups at headquarters <said>"knocked her over."</said> Then came the lawyers.</p> 
-            <p><name type="person" ref="#Mary">Mary</name>is back on upper Main St. She claims she was "cleaned" before she was "sprung." "Sprung" is underworld for being turned loose.<name type="person" ref="#Mary">Mary</name>--- has no legitimate <choice><sic>profesaion</sic><corr>profession</corr></choice>,nothing to turn to even to earn the necessities of life except her old, old trade.</p> 
-               <p>Following a vice cleanup, the aftermath is a poverty - stricken vice element determined to get the wherewithal by the one and only method in which it is proficient. The answer to this social problem does not lie in sudden passionate outbursts of community righteousness, baying at crime, sudden arrests and equally sudden releases.</p><pb/>
+            <p>When she was arrested this time the cops <said>shook her down.</said> Then, she claims, some of the higherups at headquarters <said>knocked her over.</said> Then came the lawyers.</p> 
+             <p><name type="person" ref="#Mary">Mary</name>is back on upper Main St. She claims she was <q>cleaned</q> before she was <q>sprung</q>. <q>Sprung</q> is underworld for being turned loose.<name type="person" ref="#Mary">Mary</name>--- has no legitimate <choice><sic>profesaion</sic><corr>profession</corr></choice>,nothing to turn to even to earn the necessities of life except her old, old trade.</p> 
+               <p>Following a vice cleanup, the aftermath is a poverty - stricken vice element determined to get the wherewithal by the one and only method in which it is proficient. The answer to this social problem does not lie in sudden passionate outbursts of community righteousness, baying at crime, sudden arrests and equally sudden releases.</p><pb n="3"/>
             <fw type="page_number" place="top_center">-3-</fw>
                
                <p>It lies rather in day by day upbuilding of wholesome social conditions, conductive to the breeding of self-respect.</p> 
@@ -167,37 +175,38 @@
 		  
 		  <div xml:id="WS02" type="chapter">
                 <head><date when="1926-10-30">October 30, 1926</date></head>
-               <head>Amazing Secrets of Oriental Underworld Related by Severyns</head>
-              <p>Few citizens realize how large a part Chinatown plays in civic affairs—or how seldom its citizens call in the white police for aid in settling its internal disputes.</p>
-              <p>Seattle, with its huge Chinese colony, came to realize years ago that the Chinese provided an important and interesting police problem and, I think, the various items where East and West meet and overlap have been met rather well.</p>
+		      <head rend="caps">Amazing Secrets of Oriental Underworld Related by <name type="person" ref="#William">Severyns</name></head>
+		      <p>Few citizens realize how large a part <name type="place" ref="#Chintatown">Chinatown</name> plays in civic affairs—or how seldom its citizens call in the white police for aid in settling its internal disputes.</p>
+		      <p><name type="place" ref="#Seattle">Seattle</name>, with its huge Chinese colony, came to realize years ago that the Chinese provided an important and interesting police problem and, I think, the various items where East and West meet and overlap have been met rather well.</p>
               <p>The majority of citizens unthinkingly catalogue the Chinese as a race apart. Nothing could be more untrue, except from the geographical and physical standpoint.</p>
               <p>Chinese have a finger in many community affairs, more than the outsider can imagine.</p>
-              <p>For illustration: Chinatown plays a larger part in Seattle's political affairs than any other single group in the city. I feel safe in saying that Chinatown has provided funds—and lavishly—for campaigns for every important political office in both city and county.</p>
+		      <p>For illustration: <name type="place" ref="#Chintatown">Chinatown</name> plays a larger part in <name type="place" ref="#Seattle">Seattle's</name> political affairs than any other single group in the city. I feel safe in saying that <name type="place" ref="#Chintatown">Chinatown</name> has provided funds—and lavishly—for campaigns for every important political office in both city and county.</p>
               <label rend="caps">They Pay, And Pay</label>
               <p>Money, given unquestioningly by Chinese, has been spent in mayoralty campaigns, and in the drives of sheriffs, judges, prosecuting attorneys and city councilmen.</p>
-              <p>The leaders of the Chinese colony have been "knocked over" times innumerable by candidates for every office within the gift of the people of King county. Later in these articles specific cases will form a necessary part of the narrative.</p>
+		      <p>The leaders of the Chinese colony have been <q>knocked over</q> times innumerable by candidates for every office within the gift of the people of <name type="place" ref="#King_County">King county</name>. Later in these articles specific cases will form a necessary part of the narrative.</p>
               <p>And the beautiful part of it, from the standpoint of the politicians, is that they never squeal when hard pinched, though they are imposed upon constantly.</p>
               <p>Actually they seem to expect it—and are lonely if neglected too long!</p>
-              <p>Every large coast city, and many of those in the interior, has a Chinese problem because each has a Chinatown.</p>
-              <p>In our coast cities Chinatown is a tourist attraction and the business men like to have them about.</p>
+		      <p>Every large coast city, and many of those in the interior, has a Chinese problem because each has a <name type="place" ref="#Chintatown">Chinatown</name>.</p>
+		      <p>In our coast cities <name type="place" ref="#Chintatown">Chinatown</name> is a tourist attraction and the business men like to have them about.</p>
               <label rend="caps">Gambling Their Vice</label>
               <p>Realizing their value to the community, they stage various little attractive shows, such as a joss-house, a supposedly secret gambling house, remarkable little displays of jade and other valuables in out-of-the-way stores—in fact, everything to add the right Oriental touch for visitors.</p>
-              <p>Contrary to the general belief, the Chinese in Seattle are among the most peaceable of the alien residents, but they love to gamble—and they WILL gamble despite every police regulation.</p>
+              <p>Contrary to the general belief, the Chinese in <name type="place" ref="#Seattle">Seattle</name> are among the most peaceable of the alien residents, but they love to gamble—and they WILL gamble despite every police regulation.</p>
               <p>I believe you could provide a police guard of two officers for every Chinaman and that before they have been under guard two minutes there would be a wager which policeman would sneeze first.</p>
               <p>A Chinaman will gamble on anything which bears the element of chance, particularly which way a fly will depart from a given spot!</p>
               <p>In order to satisfy this passion for gambling, Chinese always have paid graft for the privilege—and they expect always to pay graft.</p>
-              <p>In China the officials sell their favors to the highest bidder, and the Chinese in America seem to have found that officials are the same the world over.</p>
+              <p>In <name type="place" ref="#China">China</name> the officials sell their favors to the highest bidder, and the Chinese in <name type="place" ref="#America">America</name> seem to have found that officials are the same the world over.</p>
               <p>The only difference is that here the bidding is carried on behind closed doors and man to man.</p>
-              <p>Nearly every Chinese laundry is the agency for some lottery syndicate. Lottery tickets sell from 10 cents to a dollar apiece. Hundreds, perhaps thousands, of whites buy these tickets each week.</p>
-              <p>Seattle's Chinatown, like that of any other city, is filled with gambling resorts. The Chinese are successful operators of such places and quickly ruin the business of white or Negro gamblers within the district.</p>
-              <p>Whites know that Chinese games are conducted squarely and quickly pass to the Chinatown houses when they are "rooked" in the other places.</p>
+              <p>Nearly every Chinese laundry is the agency for some lottery syndicate. Lottery tickets sell from <measure type="currency">10 cents</measure> to <measure type="currency">a dollar</measure> apiece. Hundreds, perhaps thousands, of whites buy these tickets each week.</p>
+		      <p><name type="place" ref="#Seattle">Seattle's</name> <name type="place" ref="#Chintatown">Chinatown</name>, like that of any other city, is filled with gambling resorts. The Chinese are successful operators of such places and quickly ruin the business of white or Negro gamblers within the district.</p>
+		      <p>Whites know that Chinese games are conducted squarely and quickly pass to the <name type="place" ref="#Chinatown">Chinatown</name> houses when they are <q>rooked</q> in the other places.</p>
               <p>Loggers and Alaskan miners are good patrons of the Chinese gamblers.</p>
-              <p>They know they will get a run for their money and that if they go "broke" the game will advance them enough money to return to their place of employment. Show me a white game where this is done.</p>
+		      <p>They know they will get a run for their money and that if they go <q>broke</q> the game will advance them enough money to return to their place of employment. Show me a white game where this is done.</p>
               <label rend="caps">A Stitch In Time</label>
               <p>But the canny Chinese do not pretend to stand or fall on the protection they pay for.</p>
               <p>Anything but that.</p>
-			  <pb/>
-			  <fw type="date" place="top_left">Oct. 30, 1926</fw>
+			  <pb n="2"/>
+		      <fw type="page_number" place="top_right">2.</fw>
+			  <fw type="date" place="top_right">Oct. 30, 1926</fw>
 			  <p>They construct secret passages under the ground or between the walls of buildings, sometimes creating a serious fire hazard.</p>
               <p>They are splendid engineers, and are especially crafty in building hidden rooms, installing signalling systems, and in making unbreakable doors and electrically guarded entrances and exits.</p>
               <p>They live very largely within their own social group and have a rule never to appeal to the police for protection from violence emanating from their own kind.</p>
@@ -206,50 +215,50 @@
               <p>If a man feels he is being assailed unjustly, he forgets the white police and calmly hires his own thugs to protect him and to punish his enemies.</p>
               <p>Murders are never reported to the police if the Chinese can avoid it.</p>
               <p>From their standpoint there is no reason for local revenge; the murdered man's friends will attend to that little matter, expeditiously and well.</p>
-              <p>Sometimes this situation leads to a tong war which flames from end to end of Chinatown.</p>
+		      <p>Sometimes this situation leads to a tong war which flames from end to end of <name type="place" ref="#Chinatown">Chinatown</name>.</p>
               <label rend="caps">Peace Only Demand</label>
               <p>Actually the Chinese is willing to pay the police to let him alone.</p>
               <p>He desires peace above all things—except in the matter of the Japanese.</p>
               <p>Between the two races exists a supreme hatred born of distrust and double-crossing.</p>
               <p>Chinese never are stool pigeons, but Japanese often go to the police with tales concerning Chinese or even men of their own race.</p>
               <p>Many Japanese were booked for drunkenness during my term in office, but I do not remember a single Chinese drunk charge.</p>
-              <p>The Chinaman's code is <said>"Leave me alone and I will not bother you. Let me pay your political costs and in return give me friendship and protection in my gambling. The rest of my affairs I will administer myself."</said></p>
+              <p>The Chinaman's code is <said>Leave me alone and I will not bother you. Let me pay your political costs and in return give me friendship and protection in my gambling. The rest of my affairs I will administer myself.</said></p>
               <fw>*****</fw>
         </div>
           <div xml:id="WS03" type="chapter">
               <head><date when="1926-11-01"></date>November 1 1926</head>
-              <head rend="caps">Bannick, Severyns stage 'cleanup' to
+              <head rend="caps"><name type="person" ref="#Claude">Bannick</name>, <name type="person" ref="#William">Severyns</name> stage <q>cleanup</q> to
                   silence criticism</head>
               
               <p>Everybody knows, of course, that you can't always believe everything that is printed in the newspapers. This is not necessarily the fault of papers. Policeman learned long ago to what extent the newspapers can be <q>handled.</q> There are <q>old heads</q> in every police department who could make an excellent living as press agents, if they weren't engaged in police work.</p>
-              <p>I don't mean to say that newspapers are <q>bought.</q> Years ago when police graft was organized along lines far diffrent than those which prevail today, some police reporters used to get a regular <q>divvy</q> from the membeers of the headquarters force. But I don't think there is a police reporter today who would be guilty of such a thing. Nowadays other and more scientific means are used to fool the papers and through them the public. The competition for news among the papers is keener than ever. All that is neccesary today to get something across with the papers is an understanding of what constitutes <q>news</q>. Once you know this, the rest is comparitively easy. <q>News</q> can then be manufactured and the papers will eagerly "eat it up."</p>
+              <p>I don't mean to say that newspapers are <q>bought.</q> Years ago when police graft was organized along lines far diffrent than those which prevail today, some police reporters used to get a regular <q>divvy</q> from the membeers of the headquarters force. But I don't think there is a police reporter today who would be guilty of such a thing. Nowadays other and more scientific means are used to fool the papers and through them the public. The competition for news among the papers is keener than ever. All that is neccesary today to get something across with the papers is an understanding of what constitutes <q>news</q>. Once you know this, the rest is comparitively easy. <q>News</q> can then be manufactured and the papers will eagerly <q>eat it up</q>.</p>
               
               <label rend="caps">Police <q>manufacture</q> news to get favorable
                   publicity in newspapers; reporters not bought</label>
               
               <p>The manufactured <q>news</q> needn't necessarily be untrue. Nearly always it is absolutely true. But the fact remains that it might not have happened unless the newspapers were eagerly waiting to publish it. Most newspapers -- it must be said in all fairness -- are so eager for news that they will publish it, no matter whom it helps or hurts. The news that helps the department is the news that is eagerly brought to the attention of the reporters for the various papers. Unfavorable news is usually dug up by the reporters themselves except when it is brought to their attention by someone in the department who wants discredit reflected upon someone else.</p>
               <p>When I first went into the department I knew none of these things. But I got my schooling fast.</p>
-              <p>I got my first lesson in how to handle the newspapers soon after I became chief. It was my first knowledge of one of the</p><pb/>
+              <p>I got my first lesson in how to handle the newspapers soon after I became chief. It was my first knowledge of one of the</p><pb n="2"/>
               <fw type="page_number" place="top_center">-2-</fw>
               <p>usual practices of chiefs of police when things began to <q>get warm.</q></p>
               <p>One day, <name type="person" ref="#Han">Hans Damm</name>, who was then inspector of police, came into my office and told me he had a hot tip that a campaign was to be launched in the newspapers against the <q>wide-open</q> town.</p>
-              <p> <said>"Is the town more wide-open than it was a month ago, before I came on the job?"</said> I asked.</p>
+              <p> <said>Is the town more wide-open than it was a month ago, before I came on the job?</said> I asked.</p>
               
-              <label rend="caps">Hans Damm gave Severyns his first lesson in
+              <label rend="caps"><name type="person" ref="#Han">Hans Damm</name> gave <name type="person" ref="#William">Severyns</name> his first lesson in
                   police publicity:<q>Get out a general order</q>
               </label>
               
-              <p><said>"Well, no, not exactly that,"</said> replied <name type="person" ref="#Han">Damm</name>, <said>"but it's up to you to do something before she busts in the papers. When you see hell going to bust loose, you ought to act to protect yourself. Get the favorable publicity first, before the others use the papers to take a crack at you. You can't just sit still. Do something, man, do something!"</said></p>
-              <p><said>"What ought I to do?"</said> I asked.</p>
-              <p><said>"Get out a good stiff order on a vice cleanup,"</said> he said. <said>" The boys may not take it seriously, but anyway, the newspaper reporters will, and you will get the headlines first."</said></p>
-              <p><said>"Has it been the policy of former chiefs when things are breaking tough to hide behind a general order?'</said> I inquired.</p>
-              <p><said>"Yes,"</said> He replied. <said>"That's been the policy in all the years I've been here."</said></p>
+              <p><said>Well, no, not exactly that,</said> replied <name type="person" ref="#Han">Damm</name>, <said>but it's up to you to do something before she busts in the papers. When you see hell going to bust loose, you ought to act to protect yourself. Get the favorable publicity first, before the others use the papers to take a crack at you. You can't just sit still. Do something, man, do something!</said></p>
+              <p><said>What ought I to do?</said> I asked.</p>
+              <p><said>Get out a good stiff order on a vice cleanup,</said> he said. <said>The boys may not take it seriously, but anyway, the newspaper reporters will, and you will get the headlines first.</said></p>
+              <p><said>Has it been the policy of former chiefs when things are breaking tough to hide behind a general order?</said> I inquired.</p>
+              <p><said>Yes,</said> He replied. <said>That's been the policy in all the years I've been here.</said></p>
               <p>I didn't know just what to get out. In my perplexity I read through the general orders of previous chiefs and found that they, too, had apparently been expected to mumble the same formula about a general cleanup within 60 days of taking office. I hesitated about using the same language the others had used before me, but, really, there was nothing else that could be said.</p>
               
-              <label rend="caps">Bannick found Severyns' order OKEH, issued it over
+              <label rend="caps"><name type="person" ref="#Claude">Bannick</name> found <name type="person" ref="#William">Severyns</name>' order okeh, issued it over
                   again under his own name when chief</label>
               
-              <p>So I undertook to compose my first general vice cleanup order. I am not a literary man, but I remember that I took a little pride in the fact that I had been able to change the words of previous orders a little. There was the demand for immediate arrests of known vice resor keepers and the implied threat that something terrible would happen to cops who failed to act on the orders at once.</p><pb/>
+              <p>So I undertook to compose my first general vice cleanup order. I am not a literary man, but I remember that I took a little pride in the fact that I had been able to change the words of previous orders a little. There was the demand for immediate arrests of known vice resor keepers and the implied threat that something terrible would happen to cops who failed to act on the orders at once.</p><pb n="3"/>
               
               <fw type="page_number" place="top_center">-3-</fw>
               
@@ -263,48 +272,48 @@
                   before patrol wagon arrives for prisoner</label>
               
               <p>We have disscussed <q>rolling</q> of drunks as a form of police graft. I have told you how I have found it impossible to get to the bottom of this practice of robbing drunken and unconscious prisoners. The cop on the beat, if he happens to be crooked, resents the fact that he does not <q>cut-in</q> on the loot obtained at headquarters by <q>rolling.</q> So, sometimes, he tries to <q>get his</q> before the patrol wagon arrives. The hard boiled cop, after he has telephones for the patrol wagon might strike a deal with the prisoner and turn him loose for a consideration. Imagine the feelings of the man in the patrol wagon when they arrive to find the cop who called them out without a prisoner. He is open to suspicion at once. The hard boiled crooked cop, when he finds himself in a situation of this kind, runs to the nearest resort, grabs the most drunken man he can find, and is equipped with a prisoner when the patrol arrives. Mind you, this is not a common practice, but it has happaned.</p>
-              <p>Think of the position of a rookie who has made an arrest,</p><pb/>
+              <p>Think of the position of a rookie who has made an arrest,</p><pb n="4"/>
               
               <fw type="page_number" place="top_center">-4-</fw>
               
               <p>phoned for the wagon and, because of his inexperience, has permitted his prisoner to escape!
                   There is a story of a rookie who was sent out to work for the first time. He was assigned to a grizzled old Irish sergeant.</p>
-              <p><said>"Young feller,"</said> said the sergeant in his kindly brogue, <said>"you're a policeman now. I want to give you yer first lesson, and it's the only lesson you'll need. Remember this rule:</said></p>
-              <p>"Eat and drink</p>
+              <p><said>Young feller,</said> said the sergeant in his kindly brogue, <said>you're a policeman now. I want to give you yer first lesson, and it's the only lesson you'll need. Remember this rule:</said></p>
+              <p>Eat and drink</p>
               <p>and pay nothing.</p>
               <p>Get what you can</p>
-              <p>And say nothing."</p>
+              <p>And say nothing.</p>
               <fw>*****</fw>
           </div>
           <div type="conclusion">
               <head><date when="1926-12-14">December 14, 1926,</date></head>
-              <head>Mrs Lnaders doesn't know what it's all about,
+              <head>Mrs <name type="person" ref="#Bertha">Landes</name> doesn't know what it's all about,
                   say her foes</head>
               
               <p>Although there is, I am sure, as much drinking, gambling, grafting, viciousness and general lawlessness in <name type="place" ref="#Seattle">Seattle</name> today as there was a year ago, the word no longer goes out to the world that <name type="place" ref="#Seattle">Seattle</name> has a wide-open town.</p>
               <p>Paradoxically, <name type="place" ref="#Seattle">Seattle</name> today is different, yet no different from the <name type="place" ref="#Seattle">Seattle</name> which <name type="person" ref="#Edwin">Dr. E.J. Brown</name> presided as mayor and whose chief of police I was.</p>
               <p>This paradox is not characteristic only of <name type="place" ref="#Seattle">Seattle</name>. It is characteristic of American cities. The difference between the <name type="place" ref="#Seattle">Seattle</name> of today and the <q>wide-open</q> <name type="place" ref="#Seattle">Seattle</name> is very largely the difference in the state of mind of the citizens of <name type="place" ref="#Seattle">Seattle</name>. But there is an additional difference, which grows out of a situation peculiar to <name type="place" ref="#Seattle">Seattle</name>. This peculiar difference is the difference in the personalities of the present mayor and the previous mayor.</p> 
-              <p>The critics of Mrs. <name type="person" ref="#Bertha">Landes</name>, our lady mayor, say that <said>"she doesn't know what it's all about."</said> I am no judge of this. But I must admiringly declare that if Mrs. <name type="person" ref="Bertha">Landes</name> <q>"doesn't know what it's all about"</q> she certainly doesn't know enough to refrain from talking so much that people can find out everything she does know.</p>
+              <p>The critics of Mrs. <name type="person" ref="#Bertha">Landes</name>, our lady mayor, say that <said>"she doesn't know what it's all about."</said> I am no judge of this. But I must admiringly declare that if Mrs. <name type="person" ref="Bertha">Landes</name> <q>doesn't know what it's all about</q> she certainly doesn't know enough to refrain from talking so much that people can find out everything she does know.</p>
               
-              <label rend="caps">Mrs Landes Rare Political Sagacity in keeping still; avoids
-                  doc Brown's mistake; makes silent Cal seem garrulous</label>
+              <label rend="caps">Mrs <name type="person" ref="#Bertha">Landes</name> Rare Political Sagacity in keeping still; avoids
+                  doc <name type="person" ref="#Edwin">Brown's</name> mistake; makes silent <name type="person" ref="#Calvin">Cal</name> seem garrulous</label>
               
               <p>It is a great political asset to know when to keep still. The present administration never makes the mistake of talking too much. In fact, <name type="person" ref="#Bertha">Mrs. Landes</name> gives the lie to those critics of the fair sex who declare that women cant keep from talking. Compared with Mrs. <name type="person" ref="#Bertha">Landes</name>, <q>Silent</q> <name type="person" ref="#Calvin">Cal Coolidge</name> is a circus spieler. She utters no learned data, as did her predecessor. Mrs. <name type="person" ref="#Bertha">Landes</name> seems to have as a fixed rule of politics the admonition: Do not feed or annoy the animals. Mayor <name type="person" ref="#Edwin">Brown's</name> idea was: Rile 'em up. </p>
               <p>Mayor <name type="person" ref="#Edwin">Brown</name> used to answer his critics publicly long before they opened their mouths to criticize him. In order to do this , he had to first criticize himself and then to answer the criticism. Mayor Mrs. <name type="person" ref="#Bertha">Landes</name> is quite different. She doesn't even answer her critics. She calmly ignores them.</p>
               <p>For instance:</p> 
               <p>The one outstanding thing that brought Mrs. <name type="person" ref="#Bertha">Landes</name> prominence, even national prominence, was her dismissal of the present writer when he was chief of police.</p> 
-              <p><said>"Fire a hundred policeman or I will fire you,"</said> Mrs. <name type="person" ref="#Bertha">Landes</name> commanded me, taking advantage of the absence of the mayor.</p><pb/>
+              <p><said>Fire a hundred policeman or I will fire you,</said> Mrs. <name type="person" ref="#Bertha">Landes</name> commanded me, taking advantage of the absence of the mayor.</p><pb n="2"/>
               
               <fw type="page_number" place="top_center">-2-</fw>
               
               <label rend="caps">Lady mayor, invited to fire 100 cops as she once commanded
-                  Severyns to do, simply keeps quiet; cops are still on force</label>
+                  <name type="person" ref="#William">Severyns</name> to do, simply keeps quiet; cops are still on force</label>
               
               <p>I didn't fire the policemen and Mrs. <name type="person" ref="#Bertha">Landes</name> fired me. In the course of these articles I have publicly invited Mrs. <name type="person" ref="#Bertha">Landes</name> to fire those hundred policemen. Did Mrs. <name type="person" ref="#Bertha">Landes</name> do so? Not she. She simply didn't pay any attention to the invitation. It was all right to want a hundred policemen fired while someone else was mayor, but when one becomes mayor one's self one does not discuss such things.</p>
               <p>And still they say that women have no place in politics! If Mayor <name type="person" ref="#Edwin">Brown</name> were as shrewd a politician as his successor he would still be mayor today. Had such an invitation been addressed to Mayor <name type="person" ref="#Edwin">Brown</name> he would have uttered half a dozen statements denouncing the whole thing as <q>a scheme to ruin the good name of our fair city.</q> At the same time he would have taken occasion to say a few kind words for policemen, the chief of police, the mayor, and would probably wound up with the statement that he had in mind a great scheme which would double the population of the city in ten years, but that this scheme would surely fall through if the vile plotters against the fair name of the city were not silenced.</p>
               <p>When a murder occurred under the previous administration the mayor would rush into print. He would personally see to it that the murderer was caught in a few hours. One would think that he has inside knowledge of the crime. As a matter of fact, these actions of the mayor were the result of a burning desire to make good in the eyes of the people. When a serious crime was committed, he seems to feel that it was his personal business to see to it that the criminal was apprehended. His enemies were quick to take advantage of this trait of the mayor. They sent so far as to charge that his administration was the cause of all the crimes that occurred and one murder was directly laid at his door. A man, in fit of jealous rage, killed a man he found with his sweetheart. The jury, in finding the murderer guilty, decleared that the crime was the result of drinking of whisky by the slayer who would not have been able to obtain it if the mayor hadn't permitted whisky to be sold!</p> 
               <p>Two girls and two young boys were found in a room in a nearby city. They had been drinking and had been asphyxiated when the flame was extinguished in a gas burner. The mayor of <name type="place" ref="#Seattle">Seattle</name> was one of those blamed for the death. Such was the state of public mind.</p> 
-              <p>The present mayor does not publicly concern herself with murders. She is largely connected in the public mind with the quiet, pleasant, ladylike phases of public affairs. People go about their business, whether that business be banking or bootlegging, in comparative peace.</p><pb/>
+              <p>The present mayor does not publicly concern herself with murders. She is largely connected in the public mind with the quiet, pleasant, ladylike phases of public affairs. People go about their business, whether that business be banking or bootlegging, in comparative peace.</p><pb n="3"/>
               
               <fw type="page_number" place="top_center">-3-</fw>
               
@@ -321,6 +330,19 @@
           </div>
       </body>
      <back>
+         <div type="annotations">
+             <head>Annotations</head>
+             <note xml:id="note1">The <title>Seattle Union Record</title> was a labor newspaper associated with organized labor movements in Seattle during the early twentieth century. The newspaper frequently published political commentary, labor news, and investigative reporting related to municipal governance and public corruption<ref target="#bibl1"/>
+             </note>
+             <note xml:id="note2">The phrase “wide-open town” referred to cities perceived as tolerating vice activities such as gambling, prostitution, bootlegging, and political corruption. During the Prohibition era, reform campaigns frequently used the term to criticize police departments and municipal administrations accused of allowing illegal activity to continue openly.<ptr target="#bibl5"/>
+             </note>
+             <note xml:id="note3">Bertha Henry Landes served as acting mayor of Seattle before becoming the city’s first female mayor in 1926. Landes became nationally known for advocating municipal reform and anti-corruption campaigns, particularly concerning illegal liquor activity and police corruption during Prohibition. Her dismissal of William B. Severyns became a highly publicized political controversy in Seattle.<ptr target="#bibl6"/>
+             </note>
+             <note xml:id="note4">Severyns’ discussion of Chinatown reflects racialized attitudes common in early twentieth-century American urban discourse. The articles portray Chinese communities simultaneously as politically influential, socially separate, and associated with gambling networks. Such representations reveal broader anxieties concerning immigration, race, urban governance, and vice regulation during the period.<ptr target="#bibl7"/>
+             </note>
+             <note xml:id="note5">The term “graft” was commonly used during the early twentieth century to describe political corruption, bribery, or illicit financial gain connected to public office and municipal administration. Concerns regarding graft and police corruption were central to reform politics during the Prohibition era.<ptr target="#bibl3"/>
+             </note>
+         </div>
         <div type="editorial">
            <listPerson>
               <person xml:id="William" role="Chief of Police">
@@ -383,7 +405,47 @@
                  </placeName>
               </place>
            </listPlace>
+            <listPlace>
+                <place xml:id="Chinatown">
+                    <placeName>
+                        <district>Chinatown</district>
+                    </placeName>
+                </place>
+            </listPlace>
+            <listPlace>
+                <place xml:id="King_County">
+                    <placeName>
+                        <region>King County</region>
+                    </placeName>
+                </place>
+            </listPlace>
+            <listPlace>
+                <place xml:id="China">
+                    <placeName>
+                        <country>China</country>
+                    </placeName>
+                </place>
+            </listPlace>
+            <listPlace>
+                <place xml:id="America">
+                    <placeName>
+                        <country>America</country>
+                    </placeName>
+                </place>
+            </listPlace>
         </div>
+         <div type="bibliography">
+             <head>Bibliography</head>
+             <listBibl>
+                 <bibl xml:id="bibl1">Seattle Union Record.<title>Confessions of a Chief of Police</title>.Seattle, WA, October–December 1926.</bibl>
+                 <bibl xml:id="bibl2">Berner, Richard C.<title>Seattle 1921–1940: From Boom to Bust</title>.Seattle: University of Washington Press, 1992.</bibl>
+                 <bibl xml:id="bibl3">Fogelson, Robert M.<title>Big-City Police</title>.Cambridge, MA: Harvard University Press, 1977.</bibl>
+                 <bibl xml:id="bibl4">Monkkonen, Eric H.<title>Police in Urban America, 1860–1920</title>.Cambridge: Cambridge University Press, 1981.</bibl>
+                 <bibl xml:id="bibl5">Seattle Municipal Archives.<title>Prohibition in Seattle</title>.Seattle City Archives. Accessed May 18, 2026.</bibl>
+                 <bibl xml:id="bibl6">Associated Press. “Severyns Back on Job Again as Seattle Chief.” Newspaper clipping, July 1, 1926.</bibl>
+                 <bibl xml:id="bibl7">Landes, Bertha Henry. Letter to William B. Severyns, June 25, 1924. Executive Office, City of Seattle. Manuscript Collection, University of Washington Library.</bibl>
+             </listBibl>
+         </div> 
      </back>
   </text>
 </TEI>

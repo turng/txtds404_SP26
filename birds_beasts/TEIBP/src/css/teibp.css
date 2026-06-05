@@ -1548,7 +1548,12 @@ space:before {
   font-weight: bold;
   content: "";
 }
+
 TEI span {
+  /* jawalsh: why were we hiding this? */
+  /* .hide; */
+}
+
   /* jawalsh: why were we hiding this? */
   /* .hide; */
 }
@@ -1846,7 +1851,7 @@ html {
   font-size: 14pt;
   background-color: #FFFFFF;
   color: #292929;
-  width: 33em;
+  width: fit-content;
 }
 img {
   border: 1px solid #FFFFFF;
@@ -1946,4 +1951,29 @@ div.facsImage img:first-child {
 .head-font {
   font-family: Arvo, sans-serif;
   font-weight: normal;
+}
+
+lg:first-of-type {
+  overflow: hidden;
+}
+
+lg:first-of-type l {
+  text-align: center;
+  text-indent: 0;
+}
+
+.dropcap {
+  color: #000000;
+  float: left;
+  font-family: Georgia;
+  font-size: 3.5rem;
+  line-height: 0.85;
+  margin: 0;
+  padding: 0 5px 0 0;
+}
+
+.dropcap_line {
+  text-align: left !important;
+  margin: auto !important;
+  width: 375px;
 }

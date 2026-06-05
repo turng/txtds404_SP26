@@ -656,7 +656,7 @@ gramGrp {
 graph {
   /* Empty for now */
 }
-graphic > url {
+graphic {
   display: inline flow-root;
   width: 200px;
   height: auto;
@@ -708,11 +708,11 @@ figure {
   margin: auto;
   padding: .5em 1.5em 1.5em 1.5em;
   border: none;
-  width: 325px;
+  width: 200px;
   height: auto;
   position: relative;
   border: none;
-  background: #FAFAFA;
+  background: none;
   /* reset text-indent for note with <l> ancestors. */
   text-indent: 0;
   font-size: 85%;
@@ -1839,9 +1839,16 @@ html {
   font-size: 14pt;
   background-color: #f4eee0;
 }
-img {
-  border: 1px solid #AAA;
-  width: 100%;
+front > img {
+  border: none;
+  width: 60%;
+  height: auto;
+}
+body > img {
+  border: none;
+  width: 30%;
+  height: auto;
+  float: left;
 }
 footer {
   display: none;

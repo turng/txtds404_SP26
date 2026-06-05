@@ -561,5 +561,19 @@
          </xsl:copy>
        </xsl:template>
 
+	<xsl:template match="tei:*[@rend='dc']">
+        <span class="dropcap"><xsl:apply-templates/></span>
+    </xsl:template>
+
+  <xsl:template match="tei:l[tei:hi[1][@rend='dc']]">
+  <l class="dropcap_line"><xsl:apply-templates/></l>
+</xsl:template>
+  
+  <xsl:template match="tei:l[preceding-sibling::tei:l[1][tei:hi[@rend='dc']]]">
+    <l class="dropcap_line"><xsl:apply-templates/></l>
+  </xsl:template>
+       
+       
+       
        
      </xsl:stylesheet>

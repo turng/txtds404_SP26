@@ -57,6 +57,20 @@
             references; revised the notes section to align with numbered references in the
             introduction and body; and adjusted the edition structure for clearer TEI
             publication.</change>
+         <change when="2026-06-02" who="Shawn">Executed a comprehensive structural overhaul of the
+            TEI markup to adhere to advanced digital scholarly standards. Disentangled the
+            prosopography and gazetteer from the general endnotes by creating dedicated listPerson,
+            listPlace, and listOrg indexes in the back matter. Reassigned xml:id attributes from
+            inline textual elements to their respective index definitions, converting inline
+            references to ref attributes for cleaner semantic encoding. Streamlined the historical
+            and conceptual endnotes into a distinct section, re-enumerating the references to ensure
+            a robust and standard-compliant XML architecture.</change>
+         <change when="2026-06-04" who="Zhifan">Proofread the editorial introduction for clarity and
+            grammar; revised the front paratext section by dividing the typescript header into left
+            and right header blocks to better reflect the layout of the original document; deleted
+            the falsely inserted back matter because it does not belong to this text; and revised
+            two endnote annotations to better connect them to the bibliography on wartime Seattle
+            schooling and Japanese American incarceration.</change>
       </revisionDesc>
    </teiHeader>
 
@@ -67,14 +81,13 @@
             <p>This digital edition presents Ella C. Evanson’s “Ming Chin and the Baby Giant Panda,”
                a typescript narrative preserved in the Ella Evanson Scrapbooks held by University of
                Washington Libraries Special Collections. Produced in Seattle in the early 1940s, the
-               text emerges from the wartime classroom culture of <placeName
-                  xml:id="loc_washington_school">Washington School</placeName><ref
-                  target="#note_wash_school">[1]</ref>, where Evanson taught students from diverse
-               racial backgrounds. The story centers on a Chinese student, Ming Chin, and his
-               classmates’ efforts to raise funds for a baby giant panda. At the same time, its
-               references to China, Japan, war, and classroom conflict place the story within the
-               broader context of World War II and the racial tensions that shaped Asian American
-               life on the West Coast.</p>
+               text emerged from the wartime classroom culture of <placeName
+                  ref="#loc_washington_school">George Washington School</placeName>, where Evanson
+               taught students from diverse racial backgrounds. The story centers on a Chinese
+               student, Ming Chin, and his classmates’ efforts to raise funds for a baby giant
+               panda. At the same time, its references to China, Japan, war, and classroom conflict
+               place the story within the broader context of World War II and the racial tensions
+               that shaped Asian American life on the West Coast.</p>
 
             <p>Our edition treats “Ming Chin and the Baby Giant Panda” not only as a children’s
                story, but also as a social and archival artifact. The narrative preserves traces of
@@ -82,11 +95,11 @@
                entered the everyday world of students. As Yoon K. Pak argues in <title level="m"
                   >Wherever I Go, I Will Always Be a Loyal American</title>, Seattle’s Japanese
                American schoolchildren experienced a painful contradiction between democratic
-               citizenship education and the racial exclusion authorized by <seg
-                  xml:id="hist_eo9066">Executive Order 9066</seg><ref target="#note_eo9066"
-                  >[2]</ref>. Although Evanson’s story focuses on a Chinese student, its classroom
-               setting and its reference to anti-Japanese language make it important for
-               understanding the racialized atmosphere of Seattle schools during the war.</p>
+               citizenship education and the racial exclusion authorized by <seg>Executive Order
+                  9066</seg><ref target="#note_eo9066">[1]</ref>. Although this story focuses on a
+               Chinese student, its classroom setting and its reference to anti-Japanese language
+               make it important for understanding the racialized atmosphere of Seattle schools
+               during the war.</p>
 
             <p>Our editorial approach is primarily diplomatic. We preserve original spelling,
                punctuation, capitalization, grammar, and historically charged language rather than
@@ -101,63 +114,64 @@
 
       <body>
          <div type="paratext" xml:id="front_matter">
-            <p>
-               <persName xml:id="ella_evanson">Ella Evanson</persName><lb/>
-               <address>
-                  <addrLine>502-12 Ave. North</addrLine>
-                  <addrLine>Seattle, Wash.</addrLine>
-               </address>
-               <lb/>
-               <measure type="wordCount" quantity="1600">Approximately 1600 words</measure><lb/>
-               <seg type="submission_note">Usual Rates</seg><lb/>
-               <seg type="rights_note">First American Rights Only</seg>
-            </p>
+            <ab type="typescript_header">
+               <ab type="left_header">
+                  <persName xml:id="ella_evanson">Ella Evanson</persName><lb/>
+                  <address>
+                     <addrLine>502-12 Ave. North</addrLine>
+                     <addrLine>Seattle, Wash.</addrLine>
+                  </address>
+               </ab>
+               <ab type="right_header">
+                  <measure type="wordCount" quantity="1600">Approximately 1600 words</measure><lb/>
+                  <seg type="submission_note">Usual Rates</seg><lb/>
+                  <seg type="rights_note">First American Rights Only</seg>
+               </ab>
+            </ab>
          </div>
 
          <div type="story" xml:id="story_text">
             <head>MING CHIN AND THE BABY GIANT PANDA</head>
 
-            <p><persName xml:id="char_james_smith">James Smith</persName> strutted up to the front
-               of the schoolroom and said, "<persName ref="#char_brown">Miss Brown</persName>, may I
+            <p><persName ref="#char_james_smith">James Smith</persName> strutted up to the front of
+               the schoolroom and said, "<persName ref="#char_brown">Miss Brown</persName>, may I
                make an announcement?"</p>
 
             <p>"Yes, certainly, James."</p>
 
-            <p>"As treasurer of the <seg xml:id="term_panda_fund">Baby Giant Panda Fund</seg><ref
-                  target="#note_panda">[3]</ref>, I wish to report that the last penny is in and now
-               we can pay for our baby giant panda."</p>
+            <p>"As treasurer of the <seg>Baby Giant Panda Fund</seg><ref target="#note_panda"
+                  >[2]</ref>, I wish to report that the last penny is in and now we can pay for our
+               baby giant panda."</p>
 
             <p>The noisy applause that followed was offset by the report of <persName
-                  xml:id="char_brown">Miss Brown</persName><ref target="#note_brown">[4]</ref>, "I
-               am sorry to tell you that on account of the war the panda cannot yet be brought over
-               from <placeName xml:id="loc_china">China</placeName>."</p>
+                  ref="#char_brown">Miss Brown</persName>, "I am sorry to tell you that on account
+               of the war the panda cannot yet be brought over from <placeName ref="#loc_china"
+                  >China</placeName>."</p>
 
             <p><persName ref="#char_brown">Miss Brown</persName>'s announcement was met by stunned
-               silence, then <persName xml:id="char_sylvia">Sylvia</persName> voiced her resentment,
-               "And after we worked so hard to raise the money! It's a <seg xml:id="term_gyp"
-                  >gyp</seg><ref target="#note_gyp">[5]</ref>!"</p>
+               silence, then <persName ref="#char_sylvia">Sylvia</persName> voiced her resentment,
+               "And after we worked so hard to raise the money! It's a <seg>gyp</seg><ref
+                  target="#note_gyp">[3]</ref>!"</p>
 
-            <p><persName xml:id="char_toji">Toji</persName><ref target="#note_toji_archetype"
-                  >[6]</ref>, appropriately said, "<seg xml:id="slur_japs">Those Japs</seg><ref
-                  target="#note_japs_slur">[7]</ref> have no business in China."</p>
+            <p><persName ref="#char_toji">Toji</persName>, appropriately said, "<seg>Those
+                  Japs</seg><ref target="#note_japs_slur">[4]</ref> have no business in China."</p>
 
-            <p>All the children were sad but <persName xml:id="char_ming_chin">Ming Chin</persName>
+            <p>All the children were sad but <persName ref="#char_ming_chin">Ming Chin</persName>
                seemed saddest.</p>
 
             <p>"I wonder why Ming is so sad," said <persName ref="#char_james_smith"
                   >James</persName> as he watched the tall boy hurrying down the street to
-                  <placeName xml:id="loc_yesler_school">Yesler School</placeName><ref
-                  target="#note_yesler">[8]</ref> a few days later. Each morning <persName
-                  ref="#char_ming_chin">Ming Chin</persName> arrived breathless barely beating the
-               tardy bell deadline.</p>
+                  <placeName ref="#loc_yesler_school">Yesler School</placeName> a few days later.
+               Each morning <persName ref="#char_ming_chin">Ming Chin</persName> arrived breathless
+               barely beating the tardy bell deadline.</p>
 
             <p>"Bet I'd be plenty happy if I could do such good work," said the black-faced
-                  <persName xml:id="char_abe">Abe</persName><ref target="#note_abe">[9]</ref>.</p>
+                  <persName ref="#char_abe">Abe</persName>.</p>
 
             <p>"He makes me feel like a chiseler," <persName ref="#char_james_smith"
                   >James</persName> continued, "studying every minute. He works in his brother's
-               laundry on <placeName xml:id="loc_pike_street">Pike Street</placeName>, too. His
-               father is in China."</p>
+               laundry on <placeName ref="#loc_pike_street">Pike Street</placeName>, too. His father
+               is in China."</p>
 
             <p>"Isn't that enough to make him sad? Work in school every minute and work after
                school?" <persName ref="#char_abe">Abe</persName>'s sympathy was evident.</p>
@@ -176,7 +190,7 @@
                missed a word.</p>
 
             <p>"Two year were pass since I leave China. My father was professor of zoology in school
-               in <placeName xml:id="loc_hong_kong">Hong Kong</placeName>."</p>
+               in <placeName ref="#loc_hong_kong">Hong Kong</placeName>."</p>
 
             <p>"I get it," said <persName ref="#char_james_smith">James</persName>. "That's why
                you're always Studying."</p>
@@ -185,17 +199,16 @@
                you came?"</p>
 
             <p>"My father stay because my grandfather very sick. My grandfather die last year.
-                  <placeName ref="#loc_hong_kong">Hong Kong</placeName> is lost.<ref
-                  target="#note_hong_kong">[10]</ref> If my father not die, money all gone. War take
-               all money. No money for ticket to America."</p>
+                  <placeName ref="#loc_hong_kong">Hong Kong</placeName> is lost. If my father not
+               die, money all gone. War take all money. No money for ticket to America."</p>
 
             <p>"Anyway, how can your father come here? I thought the <placeName
-                  xml:id="loc_united_states">United States</placeName> wouldn't let any more Chinese
-                  enter."<ref target="#note_chinese_exclusion">[11]</ref>
+                  ref="#loc_united_states">United States</placeName> wouldn't let any more Chinese
+                  enter."<ref target="#note_chinese_exclusion">[5]</ref>
                <persName ref="#char_james_smith">James</persName> was remembering his history.</p>
 
             <p>"He is student and he will go to school here. Chinese students can stay in United
-                  States."<ref target="#note_chinese_students">[12]</ref> Then his face revealed the
+                  States."<ref target="#note_chinese_students">[6]</ref> Then his face revealed the
                mystery of his sadness and his audience saw it instantly. "No money for ticket." But
                he added with determination. "My brother and I work hard to get money for
                ticket."</p>
@@ -217,7 +230,7 @@
                America."</p>
 
             <p>"Well, consoled <persName ref="#char_abe">Abe</persName>, "at least he is safer than
-               in Hong Kong. Who knows, he may be on his way to <placeName xml:id="loc_seattle"
+               in Hong Kong. Who knows, he may be on his way to <placeName ref="#loc_seattle"
                   >Seattle</placeName> by this time!"</p>
 
             <p>Day after day the speculation continued, and each day <persName ref="#char_ming_chin"
@@ -226,15 +239,15 @@
 
             <p><placeName ref="#loc_china">China</placeName>, instead of a remote spot on the globe
                became to the class a real place absorbing all interest. They were especially
-               fascinated by the zigzag airplane views of the <placeName xml:id="loc_burma_road"
-                  >Burma Road</placeName><ref target="#note_burma_road">[13]</ref>.</p>
+               fascinated by the zigzag airplane views of the <placeName ref="#loc_burma_road">Burma
+                  Road</placeName>.</p>
 
             <p>"Can you feature that? Gosh, what a roller coaster that would make!" was <persName
                   ref="#char_abe">Abe</persName>'s comment.</p>
 
             <p>"Roller coaster is rignt. Did you see in the movies how the trucks got through with
-               the supplies to China before the fall of <placeName xml:id="loc_rangoon"
-                  >Rangoon</placeName><ref target="#note_rangoon">[14]</ref>?"</p>
+               the supplies to China before the fall of <placeName ref="#loc_rangoon"
+                  >Rangoon</placeName>?"</p>
 
             <p><persName ref="#char_brown">Miss Brown</persName>, recalling the children's panda
                stranded in China asked, "Ming, does your father know a good deal about wild animals?
@@ -242,23 +255,23 @@
 
             <p><persName ref="#char_ming_chin">Ming</persName> fairly jumped with surprise. The
                giant panda was one of his father's favorite subjects. "A giant panda! Many years
-               past my father go to <placeName xml:id="loc_shanghai">Shanghai</placeName> to see
-               giant panda American lady found.<ref target="#note_panda_lady">[15]</ref> It was
-               baby," and Ming cradled his hands to indicate the size.</p>
+               past my father go to <placeName ref="#loc_shanghai">Shanghai</placeName> to see giant
+               panda American lady found.<ref target="#note_panda_lady">[7]</ref> It was baby," and
+               Ming cradled his hands to indicate the size.</p>
 
             <p>"Giant pandas are very scarce," said <persName ref="#char_toji">Toji</persName>.</p>
 
             <p><persName ref="#char_james_smith">James</persName> was very alert to the trend of the
                conversation. "I read about that. They found it in the mountains of western China and
-               flew with it to Shanghai, then went by boat to <placeName xml:id="loc_san_francisco"
-                  >San Francisco</placeName>, and on to <placeName xml:id="loc_new_york">New
+               flew with it to Shanghai, then went by boat to <placeName ref="#loc_san_francisco"
+                  >San Francisco</placeName>, and on to <placeName ref="#loc_new_york">New
                   York</placeName>. What do you mean, Miss Brown, have they really found a way to
                bring our baby giant panda to us?"</p>
 
-            <p>"Yes, I have a friend connected with the zoo in <placeName xml:id="loc_woodland_park"
-                  >Woodland Park</placeName><ref target="#note_woodland_park">[16]</ref> who has for
-               months been trying to bring over the baby panda which they have secured for us, but
-               due to war re-strictions they are forbidden to take it out of China."</p>
+            <p>"Yes, I have a friend connected with the zoo in <placeName ref="#loc_woodland_park"
+                  >Woodland Park</placeName> who has for months been trying to bring over the baby
+               panda which they have secured for us, but due to war re-strictions they are forbidden
+               to take it out of China."</p>
 
             <p>"Well, pandas grow like <title level="a">Jack's beanstalk</title>."</p>
 
@@ -297,23 +310,22 @@
                "But there's a war over there. How's he going to get here? Boats aren't safe even if
                they were still running between China and the United States."</p>
 
-            <p><persName ref="#char_james_smith">James</persName> had the answer, "The clipper!<ref
-                  target="#note_clipper">[17]</ref> I read that pandas are good travelers even in
-               the air, and on water, too."</p>
+            <p><persName ref="#char_james_smith">James</persName> had the answer, "<seg>The
+                  clipper!</seg><ref target="#note_clipper">[8]</ref> I read that pandas are good
+               travelers even in the air, and on water, too."</p>
 
             <p><persName ref="#char_brown">Miss Brown</persName> settled the question. "You are both
                right. Our government has arranged the transportation of the panda and his keeper by
                land, water, and air. It believes the panda is of sufficient value to warrant the
                expense even in war time. The brave boys who were our own American Volunteers, the
-                  <orgName xml:id="org_flying_tigers">Flying Tigers</orgName><ref
-                  target="#note_flying_tigers">[18]</ref>, have been given the responsibility of
-               carrying the baby panda to some place on the coast."</p>
+                  <orgName ref="#org_flying_tigers">Flying Tigers</orgName>, have been given the
+               responsibility of carrying the baby panda to some place on the coast."</p>
 
             <p><persName ref="#char_james_smith">James</persName>, impatient to near tue rest,
                asked, "Where do they go from there, and how?"</p>
 
             <p>"They plan to start the long fourteen thousand mile journey by way of <placeName
-                  xml:id="loc_new_zealand">New Zealand</placeName>. Transports bring materials for
+                  ref="#loc_new_zealand">New Zealand</placeName>. Transports bring materials for
                China and on their return trip they will bring the precious panda. It's fortunate he
                is a good traveler."</p>
 
@@ -378,149 +390,185 @@
                <signed>END</signed>
             </closer>
          </div>
-         <div type="paratext" xml:id="back_matter">
-            <p>
-               <persName ref="#ella_evanson">Ella Evanson</persName>
-               <space quantity="26" unit="chars"/>
-               <measure type="wordCount" quantity="2300">Approximately 2300 Words</measure><lb/>
-               <address>
-                  <addrLine>502-12 Ave. North</addrLine>
-               </address>
-               <space quantity="21" unit="chars"/>
-               <seg type="submission_note">Usual Rates</seg><lb/>
-               <address>
-                  <addrLine>Seattle, Wash.</addrLine>
-               </address>
-               <space quantity="24" unit="chars"/>
-               <seg type="rights_note">First American Rights Only</seg>
-            </p>
-         </div>
       </body>
 
       <back>
-         <div type="notes">
-            <head>Notes</head>
-            <list>
-               <item xml:id="note_wash_school">
-                  <label>1.</label> George Washington School, referred to in this collection as
-                  Washington School, was a public junior high school in Seattle’s Central District
-                  where Ella Evanson taught seventh and eighth grade from 1928 until her retirement
-                  in 1956. The school was known for its commitment to democratic ideals and racial
-                  tolerance, serving students from Japanese American, Chinese American, Jewish,
-                  African American, and white families. <ref target="#evanson_archive"> Evanson
-                     Archive.</ref>
-               </item>
-               
-               <item xml:id="note_eo9066">
-                  <label>2.</label> Executive Order 9066, signed by President Franklin D. Roosevelt
-                  on 19 February 1942, authorized the Secretary of War and designated military
-                  commanders to establish military areas from which “any or all persons” might be
-                  excluded. Although no specific group was named, it was enforced primarily against
-                  people of Japanese ancestry, resulting in the incarceration of approximately
-                  120,000 individuals, the majority of whom were American citizens. <ref
-                     target="#archives_eo9066"> National Archives.</ref>
-               </item>
-               
-               <item xml:id="note_panda">
-                  <label>3.</label> The Baby Giant Panda Fund reflects the popular fascination with
-                  giant pandas in the United States in the late 1930s and early 1940s, when live
-                  pandas from China became major zoo attractions and objects of public fundraising.
-                  In the story, the children’s fundraising project connects classroom life in
-                  Seattle to trans-Pacific cultural exchange and wartime disruption. <ref
-                     target="#croke2005"> Croke 2005.</ref>
-               </item>
-               <item xml:id="note_brown">
-                  <label>4.</label> Miss Brown appears to be based on Ella C. Evanson, the teacher
-                  and writer associated with the classroom materials preserved in the Ella Evanson
-                  Scrapbooks. Evanson’s role as both educator and collector makes the text important
-                  as a literary artifact and as a record of classroom culture. <ref
-                     target="#evanson_archive"> Evanson Archive.</ref>
-               </item>
 
-               <item xml:id="note_gyp">
-                  <label>5.</label> The term “gyp” is preserved here as part of the historical text.
-                  It is now recognized as an offensive term linked to stereotypes about Romani
-                  people. Its presence in the text reflects the casual circulation of racialized
-                  language in the period and should be read critically. </item>
+         <div type="indexes">
+            <head>Indexes</head>
 
-               <item xml:id="note_toji_archetype">
-                  <label>6.</label> The name Toji may be connected to Tooji, the student author of
-                  “My Ambition,” another text associated with Evanson’s classroom archive. This
-                  connection suggests that Evanson may have drawn on student names, voices, or
-                  classroom experience in shaping her fiction. <ref target="#pak2002"> Pak
-                     2002.</ref>
-               </item>
+            <listPerson>
+               <head>Prosopography (List of Persons)</head>
+               <person xml:id="char_brown">
+                  <persName>Miss Brown</persName>
+                  <note>Appears to be based on Ella C. Evanson, the actual teacher at the Washington
+                     School who collected these student narratives. She actively documented the
+                     diverse and everyday experiences of her students during the World War II
+                     era.</note>
+               </person>
+               <person xml:id="char_toji">
+                  <persName>Toji</persName>
+                  <note>The name Toji may be connected to Tooji, the student author of “My
+                     Ambition,” another text associated with Evanson’s classroom archive. This
+                     suggests Evanson may have drawn on real student voices.</note>
+               </person>
+               <person xml:id="char_abe">
+                  <persName>Abe</persName>
+                  <note>The phrase “black-faced Abe” is preserved as part of the source text. It
+                     reflects the racial language of the historical document and should be read
+                     critically rather than as a neutral description.</note>
+               </person>
+               <person xml:id="char_james_smith">
+                  <persName>James Smith</persName>
+                  <note>A student in the class who acts as the treasurer of the Baby Giant Panda
+                     Fund.</note>
+               </person>
+               <person xml:id="char_sylvia">
+                  <persName>Sylvia</persName>
+                  <note>A vocal student in Miss Brown's class.</note>
+               </person>
+               <person xml:id="char_ming_chin">
+                  <persName>Ming Chin</persName>
+                  <note>The central Chinese student character whose family is separated by the
+                     Pacific War and whose father is a zoology professor in Hong Kong.</note>
+               </person>
+               <person xml:id="ella_evanson">
+                  <persName>Ella Evanson</persName>
+                  <note>The teacher, collector, and writer associated with the classroom materials
+                     preserved in the Ella Evanson Scrapbooks.</note>
+               </person>
+            </listPerson>
 
-               <item xml:id="note_japs_slur">
-                  <label>7.</label> This anti-Japanese slur is preserved because it appears in the
-                  source text and reflects wartime racial hostility after the attack on Pearl
-                  Harbor. Its presence shows how global conflict and anti-Japanese sentiment entered
-                  children’s classroom speech and social dynamics. <ref target="#warren1999"> Warren
-                     1999.</ref>
-               </item>
+            <listPlace>
+               <head>Gazetteer (List of Places)</head>
+               <place xml:id="loc_washington_school">
+                  <placeName>George Washington School</placeName>
+                  <note>Referred to in this collection as Washington School, it was a public junior
+                     high school in Seattle’s Central District where Ella Evanson taught. Known for
+                     its commitment to democratic ideals and racial tolerance. <ref
+                        target="#evanson_archive">Evanson Archive.</ref></note>
+               </place>
+               <place xml:id="loc_yesler_school">
+                  <placeName>Yesler School</placeName>
+                  <note>Refers to a Seattle public school context near the city’s Central District
+                     and International District neighborhoods.</note>
+               </place>
+               <place xml:id="loc_hong_kong">
+                  <placeName>Hong Kong</placeName>
+                  <note>Hong Kong fell to Japanese forces in December 1941, shortly after the attack
+                     on Pearl Harbor. This wartime context shapes Ming Chin’s fears.</note>
+               </place>
+               <place xml:id="loc_burma_road">
+                  <placeName>Burma Road</placeName>
+                  <note>A crucial wartime supply route used to transport materials to China during
+                     World War II.</note>
+               </place>
+               <place xml:id="loc_rangoon">
+                  <placeName>Rangoon</placeName>
+                  <note>Now Yangon, an important port and transport hub in Burma. Its fall in 1942
+                     disrupted Allied supply routes to China.</note>
+               </place>
+               <place xml:id="loc_woodland_park">
+                  <placeName>Woodland Park Zoo</placeName>
+                  <note>Refers to Woodland Park Zoo in Seattle, connecting local children’s
+                     fundraising to trans-Pacific wartime movement.</note>
+               </place>
+               <place xml:id="loc_seattle">
+                  <placeName>Seattle</placeName>
+                  <note>Seattle, Washington, the primary geographic setting of the narrative.</note>
+               </place>
+               <place xml:id="loc_china">
+                  <placeName>China</placeName>
+                  <note>The homeland of Ming Chin and the origin point of the baby giant
+                     panda.</note>
+               </place>
+               <place xml:id="loc_pike_street">
+                  <placeName>Pike Street</placeName>
+                  <note>A major thoroughfare in downtown Seattle, reflecting the working-class
+                     reality of Ming Chin's family.</note>
+               </place>
+               <place xml:id="loc_united_states">
+                  <placeName>United States</placeName>
+                  <note>The host country of the students.</note>
+               </place>
+               <place xml:id="loc_shanghai">
+                  <placeName>Shanghai</placeName>
+                  <note>A major coastal city in China, referenced as a historical transit point for
+                     giant pandas.</note>
+               </place>
+               <place xml:id="loc_san_francisco">
+                  <placeName>San Francisco</placeName>
+                  <note>A major port city on the West Coast of the United States.</note>
+               </place>
+               <place xml:id="loc_new_york">
+                  <placeName>New York</placeName>
+                  <note>A major city on the East Coast of the United States.</note>
+               </place>
+               <place xml:id="loc_new_zealand">
+                  <placeName>New Zealand</placeName>
+                  <note>Referenced as part of a long transoceanic detour caused by wartime
+                     disruptions.</note>
+               </place>
+            </listPlace>
 
-               <item xml:id="note_yesler">
-                  <label>8.</label> Yesler School refers to a Seattle public school context near the
-                  city’s Central District and International District neighborhoods. Its mention
-                  helps locate the story within a local geography of multiethnic schooling. </item>
+            <listOrg>
+               <head>List of Organizations</head>
+               <org xml:id="org_flying_tigers">
+                  <orgName>Flying Tigers</orgName>
+                  <note>The Flying Tigers were the American Volunteer Group that fought in China
+                     before the United States formally entered World War II. Their mention connects
+                     the project to wartime aviation.</note>
+               </org>
+            </listOrg>
+         </div>
 
-               <item xml:id="note_abe">
-                  <label>9.</label> The phrase “black-faced Abe” is preserved as part of the source
-                  text. It reflects the racial language of the historical document and should be
-                  read critically rather than as a neutral description. </item>
-
-               <item xml:id="note_hong_kong">
-                  <label>10.</label> Hong Kong fell to Japanese forces in December 1941, shortly
-                  after the attack on Pearl Harbor. This wartime context shapes Ming Chin’s fear
-                  that his father may be unable to reach the United States. </item>
-
-               <item xml:id="note_chinese_exclusion">
-                  <label>11.</label> James’s comment refers broadly to the history of Chinese
-                  exclusion in the United States, especially immigration restrictions that limited
-                  Chinese entry before the repeal of the Chinese Exclusion laws during World War II. </item>
-
-               <item xml:id="note_chinese_students">
-                  <label>12.</label> The text distinguishes Chinese students from other Chinese
-                  migrants, suggesting the special status of students within immigration regimes and
-                  educational exchange. </item>
-
-               <item xml:id="note_burma_road">
-                  <label>13.</label> The Burma Road was a crucial wartime supply route used to
-                  transport materials to China during the Second Sino-Japanese War and World War II.
-                  In the story, the children’s fascination with the Burma Road shows how wartime
-                  geography entered the classroom imagination. </item>
-
-               <item xml:id="note_rangoon">
-                  <label>14.</label> Rangoon, now Yangon, was an important port and transport hub in
-                  Burma. Its fall in 1942 disrupted Allied supply routes to China and intensified
-                  the wartime difficulty of moving people, goods, and animals across Asia. </item>
-
-               <item xml:id="note_panda_lady">
-                  <label>15.</label> The “American lady” likely refers to Ruth Harkness, who brought
-                  the first live giant panda to the United States in the 1930s. Her expedition
-                  helped produce American popular fascination with pandas and made the animal a
-                  symbol of adventure, rarity, and Sino-American connection. <ref
-                     target="#croke2005"> Croke 2005.</ref>
-               </item>
-
-               <item xml:id="note_woodland_park">
-                  <label>16.</label> Woodland Park refers to Woodland Park Zoo in Seattle. In the
-                  story, the zoo connects local children’s fundraising to trans-Pacific wartime
-                  movement and to the broader public culture of animal display. </item>
-
-               <item xml:id="note_clipper">
-                  <label>17.</label> “The clipper” refers to long-distance flying boats associated
-                  with transoceanic air travel, such as Pan American’s clipper service. The
-                  reference links the story’s panda rescue plot to the modern technologies of air
-                  transport. </item>
-
-               <item xml:id="note_flying_tigers">
-                  <label>18.</label> The Flying Tigers were the American Volunteer Group that fought
-                  in China before the United States formally entered World War II. In the story,
-                  their mention connects the children’s panda project to wartime aviation and the
-                  Sino-American alliance. </item>
-
-            </list>
+         <div type="endnotes">
+            <head>Historical Notes</head>
+            <note xml:id="note_eo9066"><label>1.</label> Executive Order 9066, signed by President
+               Franklin D. Roosevelt on 19 February 1942, authorized the Secretary of War to
+               establish military areas from which “any or all persons” might be excluded. It was
+               enforced primarily against people of Japanese ancestry, resulting in the
+               incarceration of approximately 120,000 individuals. In the context of the Evanson
+               archive, this history helps explain why classroom writing, student speech, and
+               discussions of loyalty cannot be separated from wartime racial exclusion. Frank Abe
+               and Tamiko Nimura’s <title level="m">We Hereby Refuse</title> further reminds readers
+               that Japanese Americans should not be understood only as victims of incarceration,
+               but also as historical actors who questioned, refused, and resisted the terms of
+               forced loyalty. This perspective helps frame Evanson’s classroom materials as records
+               of student agency, not simply as evidence of wartime racial tension. <ref
+                  target="#archives_eo9066">National Archives.</ref>; <ref target="#abe2021">Abe and
+                  Nimura 2021.</ref></note>
+            <note xml:id="note_panda"><label>2.</label> The Baby Giant Panda Fund reflects the
+               popular fascination with giant pandas in the United States in the late 1930s and
+               early 1940s, when live pandas from China became major zoo attractions. <ref
+                  target="#croke2005"> Croke 2005.</ref></note>
+            <note xml:id="note_gyp"><label>3.</label> The term “gyp” is preserved here as part of
+               the historical text. It is now recognized as an offensive term linked to stereotypes
+               about Romani people. Its presence reflects the casual circulation of racialized
+               language in the period.</note>
+            <note xml:id="note_japs_slur"><label>4.</label> This anti-Japanese slur is preserved
+               because it appears in the source text and reflects wartime racial hostility after the
+               attack on Pearl Harbor. <ref target="#warren1999"> Warren 1999.</ref></note>
+            <note xml:id="note_chinese_exclusion"><label>5.</label> James’s comment refers broadly
+               to the history of Chinese exclusion in the United States, especially immigration
+               restrictions that limited Chinese entry before the repeal of the Chinese Exclusion
+               laws during World War II.</note>
+            <note xml:id="note_chinese_students"><label>6.</label> The text distinguishes Chinese
+               students from other Chinese migrants, suggesting the special status of students
+               within immigration regimes and educational exchange. At the same time, Ming Chin’s
+               anxiety over his father’s delayed arrival places family separation at the emotional
+               center of the story. Although Ming’s situation is different from Japanese American
+               incarceration, Fugita and Fernandez’s study of Japanese American memory helps readers
+               see family separation, uncertainty, and disrupted belonging as broader wartime
+               experiences for Asian American communities on the West Coast. <ref
+                  target="#fugita2004">Fugita and Fernandez 2004</ref>.</note>
+            <note xml:id="note_panda_lady"><label>7.</label> The “American lady” likely refers to
+               Ruth Harkness, who brought the first live giant panda to the United States in the
+               1930s. <ref target="#croke2005"> Croke 2005.</ref></note>
+            <note xml:id="note_clipper"><label>8.</label> “The clipper” refers to long-distance
+               flying boats associated with transoceanic air travel, such as Pan American’s clipper
+               service. The reference links the story to the modern technologies of air
+               transport.</note>
          </div>
 
          <div type="bibliography">
@@ -591,7 +639,6 @@
             </listBibl>
          </div>
       </back>
-
 
    </text>
 </TEI>

@@ -825,10 +825,12 @@ kinesic {
 l {
   display: block;
   padding-left: 2em;
-  text-indent: 1em;
+  text-indent: -2em;
 }
-l[rend="indented"] {
-   text-indent: 50px;
+/* The issue is here: in the HTML, @rend is turned to the attribue @style. So you want these 
+conditionals to be based on the style attribute */
+l[style="indented"] {
+   text-indent: 4em;
 }
 p[rend="italicized"],
 l[rend="italicized"] {
@@ -897,10 +899,10 @@ lg {
   margin-bottom: 1em;
 }
 lg[rend="center"] {
-    align-content: center;
+    text-justify: center;
 }
 lg[rend="left"] {
-    justify-content: left;
+    text-justify: left;
 } /* also added from custom.css */
 link {
   /* Empty Rule Set */
