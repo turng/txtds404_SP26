@@ -50,15 +50,15 @@
          <head><emph>"BE AMERICAN"<lb/>By Carlos Bulosan</emph></head>
 
          <p>It was not<name type="#consorcio">Consorcio’s</name>fault. My cousin was an illiterate
-            peasant from the vast plains of<name type="place" ref="#luzon">Luzon</name>. When he
-            came off the boat in<name type="place" ref="#sanfrancisco">San Francisco</name>, he
+            peasant from the vast plains of<name type="place" ref="#luzon"> Luzon</name>. When he
+            came off the boat in<name type="place" ref="#sanfrancisco"> San Francisco</name>, he
             could neither read nor write English or Ilocano, our dialect. I met him when he arrived,
             and right away he had bright ideas in his head.</p>
          <p><said direct="true">“Cousin, I want to be American,” he told me. </said></p>
          <p><said direct="true">“Good,” I said. “That is the right thing to do. But you have plenty
                of time. You are planning to live permanently in the <name type="place"
                   ref="#america">United States</name>, are you not?”</said></p>
-         <p><said direct="true">“Sure, cousin,”he said. “But I want to be American right away. On
+         <p><said direct="true">“Sure, cousin,” he said. “But I want to be American right away. On
                the boat I say, ‘<name type="#consorcio">Consorcio</name>
                <choice>
                   <orig>stoody Engleesh</orig>
@@ -109,7 +109,7 @@
             <said direct="true">“Fine,” I said.</said>
          </p>
          <p>
-            <said direct="true">“You know what I done with <choice>
+            <said direct="true">“You know what I done with<choice>
                   <orig>mony</orig>
                   <reg>money</reg>
                </choice>?”</said></p>
@@ -199,14 +199,14 @@
             <lb/>But he asked me to find someone to take the place of my cousin's place, which
             I<lb/>did too, so we shook hands around and departed in the best of humor<lb/>I
                helped<name type="name" ref="#consorcio">Consorcio</name>register at the night
-            school, <corr>looked</corr> for another<lb/>job for him <corr>as janitor</corr>in an
-            apartment building. Then I left him,<lb/>wishing him the best of luck. <lb/>I worked in
+            school, <corr>looked</corr> for another<lb/> job for him <corr>as janitor</corr>in an
+            apartment building. Then I left him,<lb/> wishing him the best of luck. <lb/>I worked in
                <name type="place" ref="#alaska">Alaska</name>the next two years. When I returned to
             the mainland, I made it my duty to pass through<name type="place" ref="sanfrancisco">San
                Francisco</name>. But my</p>
          <pb n="5"/>
          <p><seg>"Be American" 5</seg></p>
-         <p>cousin had left his janitor job and the night school. I could not<lb/>find his new
+         <p>cousin had left his janitor job and the night school. I could not<lb/> find his new
             address, and it seemed that no one knew him well enough<lb/>in the Filipino
             community.</p>
          <p>I did not think much of his disappearance because we are a wander-<lb/>ing people que to
@@ -220,7 +220,7 @@
                Maria</name>or<lb/><name type="place" ref="salinas">Salinas</name>, depending on the
             freight mark again. And in the summertime<lb/> when I received a large barrel of salmon,
             I knew he was working in<lb/>the salmon canneries in<name type="place" ref="#alaska"
-               >Alaska</name>. There were no letters, no post cards<lb/>- nothing. But these
+               > Alaska</name>. There were no letters, no post cards<lb/>- nothing. But these
             surprising boxes, crates and barrels that arrived<lb/>periodically were the best letters
             in the world. What they contained <lb/>were lovingly distributed among my city friends.
             Similarly, when I<lb/>was in one of my own wanderings, which were done in cities and
@@ -240,7 +240,7 @@
          <p><seg>"Be American" 6</seg></p>
          <p>I wandered in and out of<name type="place" ref="losangeles">Los Angeles</name>the next
             two years. <lb/>At the beginning of the third year, when I was talking to the sleeping
-            birds<lb/>in Pershing Square, I felt a light hand on my shoulders. I was not<lb/>usually
+            birds<lb/> in Pershing Square, I felt a light hand on my shoulders. I was not<lb/>usually
             curious about hands, but it was well after midnight and the<lb/>cops were wandering in
             and out of the place. So I turned around -<lb/>and<corr>jound</corr>
             <name type="name" ref="#consorcio">Consorcio.</name></p>
@@ -439,7 +439,7 @@
          
          <head><emph>The Lonesome Mermaid</emph></head>
 
-         <p>Every once in a while<name type="person" ref="#mermaid"> the mermaid</name> emerged from
+         <p>Every once in a while <name type="person" ref="#mermaid"> the mermaid </name> emerged from
             the depths of the river<lb/>when the moon was full and claimed her victims. She would
             appear among us<lb/>in the person of a beautiful young woman, then suddenly disappear
             with her<lb/>new young man. We often wondered why she always took with her the
