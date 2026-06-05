@@ -451,3 +451,6 @@ div[type="notes"] h3,
   font-size: 0.88em !important;
   line-height: 1.7 !important;
 }
+#teibpToolbox {
+  display: none !important;
+}
