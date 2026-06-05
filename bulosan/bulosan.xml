@@ -134,7 +134,7 @@
          <p><said direct="true">“Well, I hope these big books will make you an American
                faster,”</said> I told him. </p>
          <pb n="3"/>
-         <ab>"Be American" 3</ab>
+         <seg>"Be American" 3</seg>
          <p><said direct="true">“Sure, cousin. How long I wait?”</said></p>
          <p><said direct="true">“Five years.”</said></p>
          <p><said direct="true">“<hi style="underlined">Five years?</hi>”</said> There was genuine
@@ -173,7 +173,7 @@
          <p>He looked sad. Then he said, <said direct="true">“I sold, cousin.”</said></p>
          <p><said direct="true">“Why?”</said></p>
          <pb n="4"/>
-         <ab>"Be American" 4</ab>
+         <seg>"Be American" 4</seg>
          <p><said direct="true">"I cannot read. I cannot understand. Words too big and too
                long."</said></p>
          <p><said direct="true">"You should begin with simple grammar books."</said></p>
@@ -190,8 +190,7 @@
          <p><said direct="true">"Free? I go now."</said></p>
          <p><said direct="true">"The school opens only at night."</said></p>
          <p><said direct="true">"I work night."</said></p>
-         <p><said direct="true">"Well, work in the daytime. Look for another job. You still want
-               <lb/>to be an American, don't you?"</said></p>
+         <p><said direct="true">"Well, work in the daytime. Look for another job. You still want to be an American, don't you?"</said></p>
          <p><said direct="true">"Sure. But I like boss-man. What to do?"</said></p>
          <p><said direct="true">"Tell him the truth."</said></p>
          <p><said direct="true">"You help me?"</said></p>
@@ -237,7 +236,7 @@
             barrels from far-<lb/>away <name type="place" ref="#alaska">Alaska</name>. So I did not
             know where I could locate him.</p>
          <pb n="6"/>
-         <ab>"Be American" 6</ab>
+         <seg>"Be American" 6</seg>
          <p>I wandered in and out of <name type="place" ref="losangeles">Los Angeles</name> the next
             two years. <lb/>At the beginning of the third year, when I was talking to the sleeping
             birds <lb/>in Pershing Square, I felt a light hand on my shoulders. I was not
@@ -269,7 +268,7 @@
          <p><said direct="true">"No finished school?"</said></p>
          <p>Silence.</p>
          <pb n="7"/>
-         <ab>"Be American" 7</ab>
+         <seg>"Be American" 7</seg>
          <p><said direct="true">"Not American citizen yet?"</said></p>
          <p><said direct="true">"You should have told me<ref target="BA7-1">?</ref>"</said></p>
          <p><said direct="true">"Told you what?"</said></p>
