@@ -846,3 +846,88 @@ div[type="paratext"] seg {
   padding: 0 !important;
   line-height: 1.55 !important;
 }
+/* =========================================================
+   Emergency paratext reset
+   Target the front_matter ID directly
+   ========================================================= */
+
+#front_matter,
+div#front_matter,
+*[id="front_matter"],
+*[xml\:id="front_matter"],
+div[type="paratext"],
+.paratext {
+  display: block !important;
+  position: static !important;
+  float: none !important;
+  clear: both !important;
+
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+
+  margin: 2.5em 0 3em 0 !important;
+  padding: 0 !important;
+
+  background: transparent !important;
+  background-color: transparent !important;
+  border: none !important;
+  border-left: none !important;
+  box-shadow: none !important;
+
+  overflow: visible !important;
+  box-sizing: border-box !important;
+
+  font-family: "Courier New", Courier, monospace !important;
+  font-size: 1em !important;
+  line-height: 1.55 !important;
+  color: #222 !important;
+}
+
+/* Remove box/background from every child inside the paratext */
+#front_matter *,
+div#front_matter *,
+*[id="front_matter"] *,
+*[xml\:id="front_matter"] *,
+div[type="paratext"] *,
+.paratext * {
+  background: transparent !important;
+  background-color: transparent !important;
+  border: none !important;
+  border-left: none !important;
+  box-shadow: none !important;
+
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+
+  font-family: "Courier New", Courier, monospace !important;
+  box-sizing: border-box !important;
+}
+
+/* Force the header to be a simple vertical block */
+#front_matter ab,
+#front_matter address,
+#front_matter addrLine,
+#front_matter persName,
+#front_matter measure,
+#front_matter seg,
+ab[type="typescript_header"],
+ab[type="left_header"],
+ab[type="right_header"] {
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+
+  margin: 0 0 0.6em 0 !important;
+  padding: 0 !important;
+
+  text-align: left !important;
+  line-height: 1.55 !important;
+}
+
+/* Make sure the two old header halves do not behave like columns */
+ab[type="left_header"],
+ab[type="right_header"] {
+  float: none !important;
+  clear: both !important;
+}
