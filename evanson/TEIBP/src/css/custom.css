@@ -265,10 +265,10 @@ div[type="editorial_intro"] {
 
 /* Style the typescript front/back matter as a separate paratext block */
 div[type="paratext"] {
+  width: 100% !important;
   max-width: 100% !important;
-  width: fit-content !important;
   box-sizing: border-box !important;
-  margin: 2.5em auto 3em auto !important;
+  margin: 2.5em 0 3em 0 !important;
   padding: 1.2em 1.5em !important;
   background: #f7f4ec !important;
   border-left: 4px solid #b99b63 !important;
