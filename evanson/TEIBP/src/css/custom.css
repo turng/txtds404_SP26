@@ -842,3 +842,80 @@ div[type="endnotes"] note {
     padding: 1.7em 1.4em !important;
   }
 }
+/* =========================================================
+   Fix paratext overflow
+   Keep the typescript header inside the page
+   Archival slip style
+   ========================================================= */
+
+div[type="paratext"] {
+  width: 92% !important;
+  max-width: 92% !important;
+  margin: 2.5em auto 3.5em auto !important;
+  padding: 2.2em 3em !important;
+  box-sizing: border-box !important;
+  background: #fffdf8 !important;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05) !important;
+  border: none !important;
+  overflow: hidden !important;
+}
+
+/* Two-column typescript header */
+ab[type="typescript_header"] {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr !important;
+  column-gap: 4em !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Left and right header blocks */
+ab[type="left_header"],
+ab[type="right_header"] {
+  display: block !important;
+  width: auto !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Keep right side aligned but not overflowing */
+ab[type="right_header"] {
+  text-align: left !important;
+}
+
+/* Typescript font for the paratext block */
+div[type="paratext"],
+div[type="paratext"] * {
+  font-family: "Courier New", Courier, monospace !important;
+  color: #222 !important;
+}
+
+/* Make lines compact like a typescript header */
+div[type="paratext"] ab,
+div[type="paratext"] address,
+div[type="paratext"] addrLine,
+div[type="paratext"] persName,
+div[type="paratext"] measure,
+div[type="paratext"] seg {
+  line-height: 1.55 !important;
+}
+
+/* Mobile: stack the two columns */
+@media screen and (max-width: 900px) {
+  div[type="paratext"] {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 1.5em 1.2em !important;
+  }
+
+  ab[type="typescript_header"] {
+    display: block !important;
+  }
+
+  ab[type="left_header"],
+  ab[type="right_header"] {
+    width: 100% !important;
+    margin-bottom: 1em !important;
+  }
+}
