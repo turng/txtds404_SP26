@@ -1,89 +1,91 @@
 /* =========================================================
-   Custom CSS for the Ming Chin TEI Boilerplate edition
+   Ming Chin TEI Boilerplate Custom CSS
    ========================================================= */
 
-
-/* =========================
-   General page style
-   ========================= */
+/* ---------- Page ---------- */
 
 html,
 body {
+  margin: 0 !important;
+  padding: 0 !important;
   background: #f4f1ea !important;
   color: #222 !important;
   font-family: Georgia, "Times New Roman", serif !important;
   font-size: 16px !important;
-  line-height: 1.6 !important;
-  margin: 0 !important;
-  padding: 0 !important;
+  line-height: 1.65 !important;
 }
 
-
-/* Main content container */
+/* Main page container */
 body > div:first-of-type,
 #main,
 #content,
+#teibpContent,
+#teibpContainer,
 .tei,
 article,
 main {
-  max-width: 880px !important;
+  width: 82vw !important;
+  max-width: 1100px !important;
+  min-width: 0 !important;
   margin: 3em auto !important;
   padding: 3em 4em !important;
   background: #fffdf8 !important;
+  box-sizing: border-box !important;
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08) !important;
+}
+
+/* Prevent full-width text lines */
+front,
+body > div:first-of-type > div,
+div[type="editorial_intro"],
+div[type="paratext"],
+div[type="story"],
+back,
+div[type="indexes"],
+div[type="endnotes"],
+div[type="bibliography"] {
+  max-width: 900px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
   box-sizing: border-box !important;
 }
 
-
-/* Avoid strange justified spacing */
-div,
-section,
-article,
-main,
-p,
-note,
-bibl {
-  text-align: left !important;
-  word-spacing: normal !important;
-  letter-spacing: normal !important;
+/* Hide toolbox */
+#teibpToolbox,
+div#teibpToolbox,
+.toolbox {
+  display: none !important;
 }
 
 
-/* =========================
-   Header, title, and byline
-   ========================= */
+/* ---------- Title area ---------- */
 
 h1 {
-  font-family: "Helvetica Neue", Arial, sans-serif !important;
-  font-size: 1.75em !important;
+  font-family: "Courier New", Courier, monospace !important;
+  font-size: 2em !important;
   line-height: 1.25 !important;
   font-weight: 700 !important;
   margin-top: 0 !important;
-  margin-bottom: 0.55em !important;
-  color: #2f2a24 !important;
-  letter-spacing: normal !important;
-  word-spacing: normal !important;
+  margin-bottom: 1.1em !important;
+  color: #222 !important;
 }
 
-
-/* Add space between title and encoded/curated line */
 .docAuthor,
 .byline,
 .editor,
 .respStmt,
 respStmt {
   display: block !important;
-  margin-top: 1.1em !important;
-  margin-bottom: 1.8em !important;
-  font-size: 0.95em !important;
-  line-height: 1.4 !important;
-  color: #555 !important;
+  font-family: Georgia, "Times New Roman", serif !important;
+  font-size: 1.05em !important;
+  line-height: 1.45 !important;
+  margin-top: 1em !important;
+  margin-bottom: 2em !important;
+  color: #444 !important;
 }
 
 
-/* =========================
-   Section headings
-   ========================= */
+/* ---------- Section headings ---------- */
 
 h2,
 h3,
@@ -94,82 +96,23 @@ div[type="endnotes"] > head,
 div[type="bibliography"] > head {
   display: block !important;
   font-family: "Helvetica Neue", Arial, sans-serif !important;
-  font-size: 1.3em !important;
+  font-size: 1.35em !important;
   font-weight: 600 !important;
   line-height: 1.3 !important;
-  margin-top: 2em !important;
-  margin-bottom: 0.8em !important;
+  margin-top: 2.2em !important;
+  margin-bottom: 1em !important;
   color: #3f3428 !important;
-  letter-spacing: normal !important;
-  word-spacing: normal !important;
   border-bottom: 1px solid #d6cdbc !important;
   padding-bottom: 0.25em !important;
 }
 
 
-/* Subsection headings: Prosopography, Gazetteer, List of Organizations */
-listPerson > head,
-listPlace > head,
-listOrg > head {
-  display: block !important;
-  font-family: "Helvetica Neue", Arial, sans-serif !important;
-  font-size: 1.15em !important;
-  font-weight: 600 !important;
-  line-height: 1.3 !important;
-  margin-top: 1.8em !important;
-  margin-bottom: 0.9em !important;
-  color: #3f3428 !important;
+/* ---------- Editorial introduction: serif ---------- */
+
+div[type="editorial_intro"],
+div[type="editorial_intro"] p {
+  font-family: Georgia, "Times New Roman", serif !important;
 }
-
-
-/* =========================
-   Paragraphs and text
-   ========================= */
-
-p {
-  font-size: 1em !important;
-  line-height: 1.65 !important;
-  margin: 0 0 1.1em 0 !important;
-}
-
-
-/* Light emphasis for encoded names and places */
-.persName,
-.placeName,
-.name {
-  font-weight: 600 !important;
-}
-
-
-/* =========================
-   Footnote references and links
-   ========================= */
-
-a[href^="#note"],
-ref[target^="#note"] {
-  font-size: 0.78em !important;
-  vertical-align: super !important;
-  color: #7a4f18 !important;
-  font-weight: 600 !important;
-  text-decoration: none !important;
-  padding-left: 0.08em !important;
-}
-
-a,
-ref {
-  color: #6c4a1f !important;
-  text-decoration: none !important;
-}
-
-a:hover,
-ref:hover {
-  text-decoration: underline !important;
-}
-
-
-/* =========================
-   Editorial introduction
-   ========================= */
 
 div[type="editorial_intro"] {
   margin-bottom: 3em !important;
@@ -177,26 +120,40 @@ div[type="editorial_intro"] {
   border-bottom: 2px solid #d6cdbc !important;
 }
 
+div[type="editorial_intro"] p {
+  font-size: 1em !important;
+  line-height: 1.7 !important;
+  margin: 0 0 1.25em 0 !important;
+}
 
-/* =========================
-   Front paratext / typescript header
-   ========================= */
+
+/* ---------- Paratext: typewriter ---------- */
+
+div[type="paratext"],
+div[type="paratext"] ab,
+div[type="paratext"] p,
+div[type="paratext"] persName,
+div[type="paratext"] addrLine,
+div[type="paratext"] measure,
+div[type="paratext"] seg {
+  font-family: "Courier New", Courier, monospace !important;
+}
 
 div[type="paratext"] {
-  max-width: 680px !important;
-  margin: 2.5em 0 3em 2em !important;
-  padding: 1.2em 1.5em !important;
-  background: #f7f4ec !important;
-  border-left: 4px solid #b99b63 !important;
-  font-size: 0.92em !important;
-  line-height: 1.45 !important;
-  box-sizing: border-box !important;
+  width: 100% !important;
+  max-width: 900px !important;
+  margin: 2.5em auto 3.5em auto !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: none !important;
+  font-size: 1.15em !important;
+  line-height: 1.55 !important;
 }
 
 ab[type="typescript_header"] {
   display: flex !important;
   justify-content: space-between !important;
-  gap: 2em !important;
+  gap: 4em !important;
   width: 100% !important;
 }
 
@@ -207,19 +164,24 @@ ab[type="right_header"] {
 }
 
 ab[type="right_header"] {
-  text-align: right !important;
-}
-
-div[type="paratext"] p,
-div[type="paratext"] ab {
-  margin: 0 !important;
-  line-height: 1.45 !important;
+  text-align: left !important;
 }
 
 
-/* =========================
-   Story section
-   ========================= */
+/* ---------- Story: typewriter ---------- */
+
+div[type="story"],
+div[type="story"] p,
+div[type="story"] head,
+div[type="story"] persName,
+div[type="story"] placeName,
+div[type="story"] orgName,
+div[type="story"] seg,
+div[type="story"] title,
+div[type="story"] closer,
+div[type="story"] signed {
+  font-family: "Courier New", Courier, monospace !important;
+}
 
 div[type="story"] {
   margin-top: 3em !important;
@@ -227,65 +189,73 @@ div[type="story"] {
   border-top: 2px solid #d6cdbc !important;
 }
 
-div[type="story"] h1,
-div[type="story"] h2,
-div[type="story"] h3,
-div[type="story"] .head,
 div[type="story"] > head {
-  font-family: "Helvetica Neue", Arial, sans-serif !important;
   font-size: 1.45em !important;
-  line-height: 1.25 !important;
   font-weight: 700 !important;
-  letter-spacing: 0.03em !important;
+  text-align: center !important;
   text-transform: uppercase !important;
-  margin-top: 0 !important;
-  margin-bottom: 1.2em !important;
-  color: #2f2a24 !important;
+  letter-spacing: 0.04em !important;
   border-bottom: none !important;
+  margin-bottom: 1.8em !important;
+}
+
+div[type="story"] p {
+  font-size: 1.05em !important;
+  line-height: 1.75 !important;
+  margin: 0 0 1.3em 0 !important;
 }
 
 
-/* END should not touch Indexes */
+/* ---------- END and back matter ---------- */
+
 closer {
   display: block !important;
-  margin-top: 2.8em !important;
-  margin-bottom: 5em !important;
+  margin-top: 3em !important;
+  margin-bottom: 6em !important;
 }
 
 signed {
   display: block !important;
-  font-size: 1.05em !important;
-  letter-spacing: 0.05em !important;
+  font-family: "Courier New", Courier, monospace !important;
+  font-size: 1.1em !important;
+  letter-spacing: 0.06em !important;
 }
-
-
-/* =========================
-   Back matter and indexes
-   ========================= */
 
 back {
   display: block !important;
   margin-top: 5em !important;
-  padding-top: 2em !important;
+  padding-top: 3em !important;
   border-top: 2px solid #d6cdbc !important;
 }
 
-div[type="indexes"] {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
 
-div[type="indexes"] > head {
-  margin-top: 0 !important;
-}
+/* ---------- Indexes, notes, bibliography: serif and no boxes ---------- */
 
-
-/* Index entries */
+div[type="indexes"],
+div[type="endnotes"],
+div[type="bibliography"],
 listPerson,
 listPlace,
-listOrg {
+listOrg,
+listBibl,
+person,
+place,
+org,
+note,
+bibl {
+  font-family: Georgia, "Times New Roman", serif !important;
+}
+
+listPerson > head,
+listPlace > head,
+listOrg > head {
   display: block !important;
-  margin-bottom: 2.5em !important;
+  font-family: "Helvetica Neue", Arial, sans-serif !important;
+  font-size: 1.15em !important;
+  font-weight: 600 !important;
+  margin-top: 1.8em !important;
+  margin-bottom: 1em !important;
+  color: #3f3428 !important;
 }
 
 person,
@@ -303,435 +273,9 @@ org > orgName {
   font-weight: 700 !important;
   margin-top: 1em !important;
   margin-bottom: 0.25em !important;
-  color: #2f2a24 !important;
 }
 
-
-/* Make index annotations normal paragraph notes, not cards */
-person > note,
-place > note,
-org > note,
-listPerson note,
-listPlace note,
-listOrg note {
-  display: block !important;
-  position: static !important;
-  float: none !important;
-  clear: both !important;
-  width: auto !important;
-  max-width: none !important;
-  margin: 0 0 1em 0 !important;
-  padding: 0 !important;
-  text-indent: 0 !important;
-  background: transparent !important;
-  border: none !important;
-  border-radius: 0 !important;
-  box-shadow: none !important;
-  font-size: 0.95em !important;
-  line-height: 1.55 !important;
-  color: #222 !important;
-  text-align: left !important;
-}
-
-
-/* Remove TEI Boilerplate pop-up/card styling if applied */
-.note,
-.notes,
-.noteContent,
-.annotation,
-.popup,
-.tooltip,
-aside.note,
-span.note,
-div.note {
-  position: static !important;
-  float: none !important;
-  clear: none !important;
-  width: auto !important;
-  max-width: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  background: transparent !important;
-  border: none !important;
-  border-radius: 0 !important;
-  box-shadow: none !important;
-  font-size: inherit !important;
-  line-height: inherit !important;
-  color: inherit !important;
-}
-
-
-/* =========================
-   Historical notes
-   ========================= */
-
-div[type="endnotes"],
-div[type="notes"],
-.notes {
-  margin-top: 3em !important;
-  padding-top: 1.5em !important;
-  border-top: 2px solid #d6cdbc !important;
-  font-size: 0.92em !important;
-  line-height: 1.5 !important;
-}
-
-div[type="endnotes"] note,
-div[type="notes"] note,
-div[type="notes"] item,
-.notes li,
-.notes p {
-  display: block !important;
-  margin-bottom: 1em !important;
-  padding-left: 1.8em !important;
-  text-indent: -1.8em !important;
-  line-height: 1.5 !important;
-}
-
-label {
-  font-weight: 700 !important;
-  margin-right: 0.4em !important;
-  color: #4b3a2a !important;
-}
-
-
-/* =========================
-   Bibliography
-   ========================= */
-
-div[type="bibliography"],
-.bibliography,
-.listBibl {
-  margin-top: 3em !important;
-  padding-top: 1.5em !important;
-  border-top: 2px solid #d6cdbc !important;
-  font-size: 0.92em !important;
-  line-height: 1.5 !important;
-}
-
-listBibl,
-.listBibl {
-  display: block !important;
-  margin-top: 1em !important;
-}
-
-bibl,
-.bibl,
-listBibl > bibl,
-.listBibl > .bibl {
-  display: block !important;
-  margin-bottom: 1.2em !important;
-  padding-left: 1.8em !important;
-  text-indent: -1.8em !important;
-  line-height: 1.45 !important;
-}
-
-bibl title,
-.bibl title,
-.titlem,
-.titlea,
-.titlej {
-  font-style: italic !important;
-}
-
-bibl author,
-bibl publisher,
-bibl pubPlace,
-bibl date {
-  display: inline !important;
-}
-
-
-/* =========================
-   Hide TEI Boilerplate toolbox
-   ========================= */
-
-#teibpToolbox,
-div#teibpToolbox,
-.toolbox {
-  display: none !important;
-}
-
-
-/* =========================
-   Responsive layout
-   ========================= */
-
-@media screen and (max-width: 900px) {
-  body {
-    font-size: 15px !important;
-  }
-
-  body > div:first-of-type,
-  #main,
-  #content,
-  .tei,
-  article,
-  main {
-    max-width: 94% !important;
-    margin: 1em auto !important;
-    padding: 2em !important;
-  }
-
-  h1 {
-    font-size: 1.45em !important;
-    line-height: 1.3 !important;
-  }
-
-  h2,
-  h3,
-  div[type="editorial_intro"] > head,
-  div[type="story"] > head,
-  div[type="indexes"] > head,
-  div[type="endnotes"] > head,
-  div[type="bibliography"] > head {
-    font-size: 1.15em !important;
-  }
-
-  div[type="paratext"] {
-    max-width: none !important;
-    margin: 2em 0 2.5em 0 !important;
-  }
-
-  ab[type="typescript_header"] {
-    display: block !important;
-  }
-
-  ab[type="left_header"],
-  ab[type="right_header"] {
-    width: 100% !important;
-    text-align: left !important;
-    margin-bottom: 0.8em !important;
-  }
-
-  closer {
-    margin-bottom: 4em !important;
-  }
-}
-
-/* =========================================================
-   Mixed style patch with page margins:
-   Title + paratext + story = typewriter
-   Editorial intro + notes + indexes + bibliography = serif
-   ========================================================= */
-
-
-/* ---------- A. Page container ---------- */
-
-html,
-body {
-  width: 100% !important;
-  max-width: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  background: #f4f1ea !important;
-}
-
-/* A centered paper-like page with visible margins */
-body > div:first-of-type,
-#main,
-#content,
-#teibpContent,
-#teibpContainer,
-.tei,
-article,
-main {
-  width: min(88vw, 1120px) !important;
-  max-width: 1120px !important;
-  margin: 3em auto !important;
-  padding: 3.2em 4.5em !important;
-  background: #fffdf8 !important;
-  box-sizing: border-box !important;
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08) !important;
-}
-
-
-/* ---------- B. Scholarly apparatus remains elegant serif ---------- */
-
-body,
-div[type="editorial_intro"],
-div[type="editorial_intro"] p,
-div[type="indexes"],
-div[type="indexes"] note,
-div[type="endnotes"],
-div[type="endnotes"] note,
-div[type="bibliography"],
-div[type="bibliography"] bibl,
-listPerson,
-listPlace,
-listOrg,
-listBibl,
-person,
-place,
-org,
-person > note,
-place > note,
-org > note,
-bibl,
-note {
-  font-family: Georgia, "Times New Roman", serif !important;
-  color: #222 !important;
-}
-
-
-/* Editorial intro paragraphs */
-div[type="editorial_intro"] p {
-  font-size: 1em !important;
-  line-height: 1.7 !important;
-  margin-bottom: 1.25em !important;
-}
-
-
-/* Apparatus section headings remain clean sans-serif */
-div[type="editorial_intro"] > head,
-div[type="indexes"] > head,
-div[type="endnotes"] > head,
-div[type="bibliography"] > head,
-listPerson > head,
-listPlace > head,
-listOrg > head {
-  font-family: "Helvetica Neue", Arial, sans-serif !important;
-  color: #3f3428 !important;
-}
-
-
-/* ---------- C. Main title in typewriter style ---------- */
-
-h1 {
-  font-family: "Courier New", Courier, monospace !important;
-  font-size: 2em !important;
-  line-height: 1.25 !important;
-  font-weight: 700 !important;
-  margin-bottom: 1.2em !important;
-  color: #222 !important;
-}
-
-/* Encoded and curated by line stays serif */
-.docAuthor,
-.byline,
-.editor,
-.respStmt,
-respStmt {
-  font-family: Georgia, "Times New Roman", serif !important;
-  font-size: 1.05em !important;
-  line-height: 1.45 !important;
-  margin-top: 1em !important;
-  margin-bottom: 2em !important;
-  color: #444 !important;
-}
-
-
-/* ---------- D. Paratext in typewriter style ---------- */
-
-div[type="paratext"],
-div[type="paratext"] p,
-div[type="paratext"] ab,
-div[type="paratext"] persName,
-div[type="paratext"] addrLine,
-div[type="paratext"] measure,
-div[type="paratext"] seg {
-  font-family: "Courier New", Courier, monospace !important;
-  color: #222 !important;
-}
-
-div[type="paratext"] {
-  max-width: none !important;
-  width: 100% !important;
-  margin: 2.5em 0 3.5em 0 !important;
-  padding: 0 !important;
-  background: transparent !important;
-  border-left: none !important;
-  font-size: 1.15em !important;
-  line-height: 1.55 !important;
-}
-
-ab[type="typescript_header"] {
-  display: flex !important;
-  justify-content: space-between !important;
-  align-items: flex-start !important;
-  gap: 4em !important;
-  width: 100% !important;
-}
-
-ab[type="left_header"],
-ab[type="right_header"] {
-  display: block !important;
-  width: 48% !important;
-}
-
-ab[type="right_header"] {
-  text-align: left !important;
-}
-
-
-/* ---------- E. Story text in typewriter style ---------- */
-
-div[type="story"],
-div[type="story"] p,
-div[type="story"] head,
-div[type="story"] persName,
-div[type="story"] placeName,
-div[type="story"] orgName,
-div[type="story"] seg,
-div[type="story"] title,
-div[type="story"] closer,
-div[type="story"] signed {
-  font-family: "Courier New", Courier, monospace !important;
-  color: #222 !important;
-}
-
-div[type="story"] {
-  margin-top: 3.5em !important;
-  padding-top: 2em !important;
-  border-top: 1px solid #c9c1b3 !important;
-}
-
-div[type="story"] > head,
-div[type="story"] h1,
-div[type="story"] h2,
-div[type="story"] h3,
-div[type="story"] .head {
-  font-family: "Courier New", Courier, monospace !important;
-  font-size: 1.55em !important;
-  font-weight: 700 !important;
-  text-transform: uppercase !important;
-  letter-spacing: 0.04em !important;
-  text-align: center !important;
-  border-bottom: none !important;
-  margin-bottom: 1.8em !important;
-}
-
-div[type="story"] p {
-  font-size: 1.08em !important;
-  line-height: 1.75 !important;
-  margin-bottom: 1.35em !important;
-}
-
-
-/* ---------- F. END separated from Indexes ---------- */
-
-closer {
-  display: block !important;
-  margin-top: 3em !important;
-  margin-bottom: 7em !important;
-}
-
-signed {
-  display: block !important;
-  font-family: "Courier New", Courier, monospace !important;
-  font-size: 1.1em !important;
-  letter-spacing: 0.06em !important;
-}
-
-back {
-  display: block !important;
-  margin-top: 5em !important;
-  padding-top: 3em !important;
-  border-top: 1px solid #c9c1b3 !important;
-}
-
-
-/* ---------- G. Notes and index annotations: remove boxes, keep serif ---------- */
-
+/* Remove all note/card boxes */
 person > note,
 place > note,
 org > note,
@@ -740,42 +284,6 @@ listPlace note,
 listOrg note,
 div[type="endnotes"] note,
 div[type="notes"] note,
-div[type="notes"] item,
-.notes li,
-.notes p {
-  display: block !important;
-  position: static !important;
-  float: none !important;
-  clear: both !important;
-
-  width: auto !important;
-  max-width: none !important;
-
-  margin: 0 0 1.1em 0 !important;
-  padding: 0 !important;
-  text-indent: 0 !important;
-
-  background: transparent !important;
-  border: none !important;
-  border-radius: 0 !important;
-  box-shadow: none !important;
-
-  font-family: Georgia, "Times New Roman", serif !important;
-  font-size: 0.95em !important;
-  line-height: 1.6 !important;
-  color: #222 !important;
-  text-align: left !important;
-}
-
-/* Historical notes can use hanging-indent footnote style */
-div[type="endnotes"] note {
-  padding-left: 1.8em !important;
-  text-indent: -1.8em !important;
-}
-
-
-/* General note-card override */
-note,
 .note,
 .notes,
 .noteContent,
@@ -785,56 +293,90 @@ note,
 aside.note,
 span.note,
 div.note {
+  display: block !important;
   position: static !important;
   float: none !important;
-  clear: none !important;
-
+  clear: both !important;
   width: auto !important;
   max-width: none !important;
-
+  margin: 0 0 1.1em 0 !important;
+  padding: 0 !important;
+  text-indent: 0 !important;
   background: transparent !important;
   border: none !important;
   border-radius: 0 !important;
   box-shadow: none !important;
-}
-
-
-/* ---------- H. Bibliography: serif, no box ---------- */
-
-div[type="bibliography"],
-.bibliography,
-.listBibl {
-  font-family: Georgia, "Times New Roman", serif !important;
-  margin-top: 3.5em !important;
-  padding-top: 2em !important;
-  border-top: 1px solid #c9c1b3 !important;
-  background: transparent !important;
-}
-
-bibl,
-.bibl,
-listBibl > bibl,
-.listBibl > .bibl {
-  display: block !important;
   font-family: Georgia, "Times New Roman", serif !important;
   font-size: 0.95em !important;
   line-height: 1.6 !important;
-  margin-bottom: 1.2em !important;
+  color: #222 !important;
+}
+
+/* Historical notes: hanging indent */
+div[type="endnotes"] note {
   padding-left: 1.8em !important;
   text-indent: -1.8em !important;
 }
 
-
-/* ---------- I. Hide toolbox ---------- */
-
-#teibpToolbox,
-div#teibpToolbox,
-.toolbox {
-  display: none !important;
+label {
+  font-weight: 700 !important;
+  color: #4b3a2a !important;
 }
 
 
-/* ---------- J. Mobile layout: leave margins, do not fill the whole screen ---------- */
+/* ---------- Bibliography ---------- */
+
+div[type="bibliography"] {
+  margin-top: 3em !important;
+  padding-top: 2em !important;
+  border-top: 2px solid #d6cdbc !important;
+}
+
+listBibl,
+bibl {
+  display: block !important;
+}
+
+bibl,
+.bibl,
+listBibl > bibl {
+  display: block !important;
+  margin-bottom: 1.2em !important;
+  padding-left: 1.8em !important;
+  text-indent: -1.8em !important;
+  font-size: 0.95em !important;
+  line-height: 1.6 !important;
+}
+
+bibl title {
+  font-style: italic !important;
+}
+
+
+/* ---------- Links and footnote numbers ---------- */
+
+a[href^="#note"],
+ref[target^="#note"] {
+  font-size: 0.78em !important;
+  vertical-align: super !important;
+  color: #7a4f18 !important;
+  font-weight: 700 !important;
+  text-decoration: none !important;
+}
+
+a,
+ref {
+  color: #6c4a1f !important;
+  text-decoration: none !important;
+}
+
+a:hover,
+ref:hover {
+  text-decoration: underline !important;
+}
+
+
+/* ---------- Mobile ---------- */
 
 @media screen and (max-width: 900px) {
   body > div:first-of-type,
@@ -845,14 +387,14 @@ div#teibpToolbox,
   .tei,
   article,
   main {
-    width: calc(100vw - 40px) !important;
+    width: calc(100vw - 36px) !important;
     max-width: none !important;
-    margin: 1.4em auto !important;
-    padding: 1.7em 1.5em !important;
+    margin: 1.5em auto !important;
+    padding: 1.7em 1.4em !important;
   }
 
   h1 {
-    font-size: 1.55em !important;
+    font-size: 1.45em !important;
     line-height: 1.35 !important;
   }
 
