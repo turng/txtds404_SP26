@@ -14,7 +14,7 @@ body {
   padding: 0 !important;
 }
 
-/ Main content container /
+/* Main content container */
 body > div:first-of-type,
 #main,
 #content,
@@ -29,7 +29,7 @@ main {
   box-sizing: border-box !important;
 }
 
-/ Avoid strange justified spacing /
+/* Avoid strange justified spacing */
 div,
 section,
 article,
@@ -40,9 +40,9 @@ p {
   letter-spacing: normal !important;
 }
 
-/ =========================
+/* =========================
    Titles and headings
-   ========================= /
+   ========================= */
 
 h1 {
   font-family: "Helvetica Neue", Arial, sans-serif !important;
@@ -232,16 +232,21 @@ listBibl bibl {
     font-size: 15px !important;
   }
 
-  body > div:first-of-type,
-  #main,
-  #content,
-  .tei,
-  article,
-  main {
-    max-width: 94% !important;
-    margin: 1em auto !important;
-    padding: 2em !important;
-  }
+/* Main content container: do not create an extra paper box */
+body > div:first-of-type,
+#main,
+#content,
+.tei,
+article,
+main {
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  box-sizing: border-box !important;
+}
+
 
   h1 {
     font-size: 1.45em !important;
@@ -792,9 +797,12 @@ div[type="paratext"] {
   max-width: 100% !important;
   margin: 2.5em 0 3em 0 !important;
   padding: 0 !important;
+
   background: transparent !important;
   border: none !important;
+  border-left: none !important;
   box-shadow: none !important;
+
   box-sizing: border-box !important;
 
   font-family: "Courier New", Courier, monospace !important;
@@ -803,13 +811,19 @@ div[type="paratext"] {
   color: #222 !important;
 }
 
-/* Make all paratext contents use typescript style */
-div[type="paratext"] * {
-  font-family: "Courier New", Courier, monospace !important;
-  box-sizing: border-box !important;
+/* Remove any inherited visual box from children */
+div[type="paratext"],
+div[type="paratext"] *,
+ab[type="typescript_header"],
+ab[type="left_header"],
+ab[type="right_header"] {
+  background: transparent !important;
+  border: none !important;
+  border-left: none !important;
+  box-shadow: none !important;
 }
 
-/* No two-column layout: everything becomes normal block text */
+/* No two-column layout */
 ab[type="typescript_header"],
 ab[type="left_header"],
 ab[type="right_header"] {
@@ -821,7 +835,7 @@ ab[type="right_header"] {
   text-align: left !important;
 }
 
-/* Keep lines compact */
+/* Compact line spacing */
 div[type="paratext"] ab,
 div[type="paratext"] address,
 div[type="paratext"] addrLine,
