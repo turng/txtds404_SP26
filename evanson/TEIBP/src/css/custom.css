@@ -743,4 +743,45 @@ div#teibpToolbox,
     margin-bottom: 1em !important;
   }
 }
+/* =========================================================
+   Override TEI Boilerplate html width
+   Fix left/right page alignment
+   ========================================================= */
 
+html {
+  width: auto !important;
+  max-width: none !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  background: #f4f1ea !important;
+}
+
+body {
+  width: auto !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: #f4f1ea !important;
+}
+
+/* Center the visible page */
+body > div:first-of-type,
+#main,
+#content,
+#teibpContent,
+#teibpContainer,
+.tei,
+article,
+main {
+  width: 84vw !important;
+  max-width: 1120px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-top: 3em !important;
+  margin-bottom: 3em !important;
+  padding: 3em 4em !important;
+  background: #fffdf8 !important;
+  box-sizing: border-box !important;
+}
