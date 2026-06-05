@@ -457,3 +457,228 @@ div#teibpToolbox,
 .toolbox {
   display: none !important;
 }
+/* =========================================================
+   Final layout patch for Ming Chin TEI edition
+   Add this section to the END of your CSS file
+   ========================================================= */
+
+
+/* ---------- Overall page alignment ---------- */
+
+body {
+  background-color: #eeeeee;
+}
+
+/* Main content width and centering */
+body > div,
+#main,
+main,
+.tei,
+.TEI {
+  max-width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Keep major TEI sections visually aligned */
+div[type="editorial_intro"],
+div[type="paratext"],
+div[type="story"],
+div[type="indexes"],
+div[type="endnotes"],
+div[type="bibliography"] {
+  max-width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* ---------- Main title area ---------- */
+
+/* Main document title */
+h1,
+.titleStmt title,
+teiHeader title,
+header h1 {
+  max-width: 900px;
+  font-size: 42px;
+  line-height: 1.15;
+  font-weight: 700;
+  margin-bottom: 18px;
+}
+
+/* Add space between title and “Encoded and curated by...” */
+.author,
+.respStmt,
+.titleStmt .respStmt,
+header .author,
+header p {
+  margin-top: 18px;
+  font-size: 22px;
+  line-height: 1.35;
+}
+
+/* If the title is too wide, force a cleaner two-line title area */
+header,
+.teiHeader,
+.titleStmt {
+  max-width: 950px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* ---------- Section headings ---------- */
+
+/* Make major section headings consistent */
+div[type="editorial_intro"] > head,
+div[type="story"] > head,
+div[type="indexes"] > head,
+div[type="endnotes"] > head,
+div[type="bibliography"] > head,
+body > div > head,
+back > div > head {
+  display: block;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 1.25;
+  margin-top: 48px;
+  margin-bottom: 28px;
+}
+
+/* Make subsection headings consistent, e.g. Prosopography, Gazetteer, List of Organizations */
+listPerson > head,
+listPlace > head,
+listOrg > head,
+listBibl > head {
+  display: block;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 1.3;
+  margin-top: 34px;
+  margin-bottom: 20px;
+}
+
+
+/* ---------- Editorial intro and story text ---------- */
+
+div[type="editorial_intro"] p,
+div[type="story"] p {
+  font-size: 20px;
+  line-height: 1.75;
+  margin-bottom: 24px;
+}
+
+/* Keep story title centered or visually distinct */
+div[type="story"] > head {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+
+/* ---------- Space after END before Indexes ---------- */
+
+closer,
+signed {
+  display: block;
+  margin-top: 42px;
+  margin-bottom: 90px;
+}
+
+/* Add extra separation before back matter */
+back,
+div[type="indexes"] {
+  display: block;
+  margin-top: 90px;
+  padding-top: 30px;
+  border-top: 1px solid #aaaaaa;
+}
+
+
+/* ---------- Indexes: make annotations normal, not boxed ---------- */
+
+/* Person/place/org names */
+person > persName,
+place > placeName,
+org > orgName {
+  display: block;
+  font-size: 22px;
+  font-weight: 500;
+  margin-top: 28px;
+  margin-bottom: 8px;
+}
+
+/* Remove card / box styling from index notes */
+person > note,
+place > note,
+org > note,
+listPerson note,
+listPlace note,
+listOrg note {
+  display: block;
+  max-width: none;
+  width: auto;
+  margin: 0 0 22px 0;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  background: transparent;
+  font-size: 18px;
+  line-height: 1.65;
+  text-align: left;
+}
+
+/* Prevent notes from floating or centering */
+note {
+  float: none !important;
+}
+
+/* If TEI Boilerplate has transformed notes into pop-up/card style */
+.note,
+.notes,
+.annotation,
+.popup,
+.tooltip,
+aside.note {
+  max-width: none;
+  width: auto;
+  margin: 0 0 22px 0;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  background: transparent;
+  font-size: 18px;
+  line-height: 1.65;
+  text-align: left;
+}
+
+
+/* ---------- Historical notes and bibliography ---------- */
+
+div[type="endnotes"] note {
+  display: block;
+  margin-bottom: 22px;
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+div[type="bibliography"] bibl {
+  display: block;
+  margin-bottom: 20px;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+
+/* ---------- Hide TEI Boilerplate toolbox if needed ---------- */
+
+#teibpToolbox,
+div#teibpToolbox,
+.toolbox {
+  display: none !important;
+}
