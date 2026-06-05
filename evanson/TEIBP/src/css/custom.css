@@ -1,9 +1,13 @@
-/* Custom CSS for the Ming Chin TEI Boilerplate edition /
+/* =========================================================
+   Custom CSS for the Ming Chin TEI Boilerplate edition
+   ========================================================= */
 
-/ =========================
+
+/* =========================
    General page style
-   ========================= /
+   ========================= */
 
+html,
 body {
   background: #f4f1ea !important;
   color: #222 !important;
@@ -14,7 +18,8 @@ body {
   padding: 0 !important;
 }
 
-/ Main content container /
+
+/* Main content container */
 body > div:first-of-type,
 #main,
 #content,
@@ -29,20 +34,24 @@ main {
   box-sizing: border-box !important;
 }
 
-/ Avoid strange justified spacing /
+
+/* Avoid strange justified spacing */
 div,
 section,
 article,
 main,
-p {
+p,
+note,
+bibl {
   text-align: left !important;
   word-spacing: normal !important;
   letter-spacing: normal !important;
 }
 
-/ =========================
-   Titles and headings
-   ========================= /
+
+/* =========================
+   Header, title, and byline
+   ========================= */
 
 h1 {
   font-family: "Helvetica Neue", Arial, sans-serif !important;
@@ -50,14 +59,40 @@ h1 {
   line-height: 1.25 !important;
   font-weight: 700 !important;
   margin-top: 0 !important;
-  margin-bottom: 0.9em !important;
+  margin-bottom: 0.55em !important;
   color: #2f2a24 !important;
   letter-spacing: normal !important;
   word-spacing: normal !important;
 }
 
+
+/* Add space between title and encoded/curated line */
+.docAuthor,
+.byline,
+.editor,
+.respStmt,
+respStmt {
+  display: block !important;
+  margin-top: 1.1em !important;
+  margin-bottom: 1.8em !important;
+  font-size: 0.95em !important;
+  line-height: 1.4 !important;
+  color: #555 !important;
+}
+
+
+/* =========================
+   Section headings
+   ========================= */
+
 h2,
-h3 {
+h3,
+div[type="editorial_intro"] > head,
+div[type="story"] > head,
+div[type="indexes"] > head,
+div[type="endnotes"] > head,
+div[type="bibliography"] > head {
+  display: block !important;
   font-family: "Helvetica Neue", Arial, sans-serif !important;
   font-size: 1.3em !important;
   font-weight: 600 !important;
@@ -71,16 +106,25 @@ h3 {
   padding-bottom: 0.25em !important;
 }
 
-h4,
-h5,
-h6 {
+
+/* Subsection headings: Prosopography, Gazetteer, List of Organizations */
+listPerson > head,
+listPlace > head,
+listOrg > head {
+  display: block !important;
   font-family: "Helvetica Neue", Arial, sans-serif !important;
+  font-size: 1.15em !important;
+  font-weight: 600 !important;
+  line-height: 1.3 !important;
+  margin-top: 1.8em !important;
+  margin-bottom: 0.9em !important;
   color: #3f3428 !important;
 }
 
-/ =========================
+
+/* =========================
    Paragraphs and text
-   ========================= /
+   ========================= */
 
 p {
   font-size: 1em !important;
@@ -88,28 +132,19 @@ p {
   margin: 0 0 1.1em 0 !important;
 }
 
-/ Header metadata /
-.docAuthor,
-.byline,
-.editor,
-.respStmt {
-  font-size: 0.95em !important;
-  line-height: 1.4 !important;
-  color: #555 !important;
-}
 
-/ Light emphasis for encoded names and places /
+/* Light emphasis for encoded names and places */
 .persName,
 .placeName,
 .name {
   font-weight: 600 !important;
 }
 
-/ =========================
-   Footnote references
-   ========================= /
 
-/ Make note references look like footnote numbers /
+/* =========================
+   Footnote references and links
+   ========================= */
+
 a[href^="#note"],
 ref[target^="#note"] {
   font-size: 0.78em !important;
@@ -120,40 +155,228 @@ ref[target^="#note"] {
   padding-left: 0.08em !important;
 }
 
-/ General link style /
-a {
+a,
+ref {
   color: #6c4a1f !important;
   text-decoration: none !important;
 }
 
-a:hover {
+a:hover,
+ref:hover {
   text-decoration: underline !important;
 }
 
-/ =========================
-   Notes section
-   ========================= /
 
-/ Notes section in the back matter /
+/* =========================
+   Editorial introduction
+   ========================= */
+
+div[type="editorial_intro"] {
+  margin-bottom: 3em !important;
+  padding-bottom: 2em !important;
+  border-bottom: 2px solid #d6cdbc !important;
+}
+
+
+/* =========================
+   Front paratext / typescript header
+   ========================= */
+
+div[type="paratext"] {
+  max-width: 680px !important;
+  margin: 2.5em 0 3em 2em !important;
+  padding: 1.2em 1.5em !important;
+  background: #f7f4ec !important;
+  border-left: 4px solid #b99b63 !important;
+  font-size: 0.92em !important;
+  line-height: 1.45 !important;
+  box-sizing: border-box !important;
+}
+
+ab[type="typescript_header"] {
+  display: flex !important;
+  justify-content: space-between !important;
+  gap: 2em !important;
+  width: 100% !important;
+}
+
+ab[type="left_header"],
+ab[type="right_header"] {
+  display: block !important;
+  width: 48% !important;
+}
+
+ab[type="right_header"] {
+  text-align: right !important;
+}
+
+div[type="paratext"] p,
+div[type="paratext"] ab {
+  margin: 0 !important;
+  line-height: 1.45 !important;
+}
+
+
+/* =========================
+   Story section
+   ========================= */
+
+div[type="story"] {
+  margin-top: 3em !important;
+  padding-top: 2em !important;
+  border-top: 2px solid #d6cdbc !important;
+}
+
+div[type="story"] h1,
+div[type="story"] h2,
+div[type="story"] h3,
+div[type="story"] .head,
+div[type="story"] > head {
+  font-family: "Helvetica Neue", Arial, sans-serif !important;
+  font-size: 1.45em !important;
+  line-height: 1.25 !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.03em !important;
+  text-transform: uppercase !important;
+  margin-top: 0 !important;
+  margin-bottom: 1.2em !important;
+  color: #2f2a24 !important;
+  border-bottom: none !important;
+}
+
+
+/* END should not touch Indexes */
+closer {
+  display: block !important;
+  margin-top: 2.8em !important;
+  margin-bottom: 5em !important;
+}
+
+signed {
+  display: block !important;
+  font-size: 1.05em !important;
+  letter-spacing: 0.05em !important;
+}
+
+
+/* =========================
+   Back matter and indexes
+   ========================= */
+
+back {
+  display: block !important;
+  margin-top: 5em !important;
+  padding-top: 2em !important;
+  border-top: 2px solid #d6cdbc !important;
+}
+
+div[type="indexes"] {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+div[type="indexes"] > head {
+  margin-top: 0 !important;
+}
+
+
+/* Index entries */
+listPerson,
+listPlace,
+listOrg {
+  display: block !important;
+  margin-bottom: 2.5em !important;
+}
+
+person,
+place,
+org {
+  display: block !important;
+  margin-bottom: 1.4em !important;
+}
+
+person > persName,
+place > placeName,
+org > orgName {
+  display: block !important;
+  font-size: 1.05em !important;
+  font-weight: 700 !important;
+  margin-top: 1em !important;
+  margin-bottom: 0.25em !important;
+  color: #2f2a24 !important;
+}
+
+
+/* Make index annotations normal paragraph notes, not cards */
+person > note,
+place > note,
+org > note,
+listPerson note,
+listPlace note,
+listOrg note {
+  display: block !important;
+  position: static !important;
+  float: none !important;
+  clear: both !important;
+  width: auto !important;
+  max-width: none !important;
+  margin: 0 0 1em 0 !important;
+  padding: 0 !important;
+  text-indent: 0 !important;
+  background: transparent !important;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  font-size: 0.95em !important;
+  line-height: 1.55 !important;
+  color: #222 !important;
+  text-align: left !important;
+}
+
+
+/* Remove TEI Boilerplate pop-up/card styling if applied */
+.note,
+.notes,
+.noteContent,
+.annotation,
+.popup,
+.tooltip,
+aside.note,
+span.note,
+div.note {
+  position: static !important;
+  float: none !important;
+  clear: none !important;
+  width: auto !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  font-size: inherit !important;
+  line-height: inherit !important;
+  color: inherit !important;
+}
+
+
+/* =========================
+   Historical notes
+   ========================= */
+
+div[type="endnotes"],
 div[type="notes"],
 .notes {
   margin-top: 3em !important;
   padding-top: 1.5em !important;
-  border-top: 1px solid #c9c1b3 !important;
+  border-top: 2px solid #d6cdbc !important;
   font-size: 0.92em !important;
   line-height: 1.5 !important;
 }
 
-/ Notes heading /
-div[type="notes"] head,
-.notes h2,
-.notes h3 {
-  font-family: "Helvetica Neue", Arial, sans-serif !important;
-  font-size: 1.25em !important;
-  color: #3f3428 !important;
-}
-
-/ Individual notes /
+div[type="endnotes"] note,
+div[type="notes"] note,
 div[type="notes"] item,
 .notes li,
 .notes p {
@@ -164,66 +387,72 @@ div[type="notes"] item,
   line-height: 1.5 !important;
 }
 
-/ Note labels: 1., 2., etc. /
 label {
   font-weight: 700 !important;
   margin-right: 0.4em !important;
   color: #4b3a2a !important;
 }
 
-/ Prevent old inline notes from becoming large boxes /
-.note,
-.noteContent,
-span.note,
-div.note {
-  display: inline !important;
-  float: none !important;
-  clear: none !important;
-  width: auto !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  background: transparent !important;
-  border: none !important;
-  box-shadow: none !important;
-  font-size: inherit !important;
-  line-height: inherit !important;
-  color: inherit !important;
-}
 
-/ =========================
+/* =========================
    Bibliography
-   ========================= /
+   ========================= */
 
 div[type="bibliography"],
 .bibliography,
 .listBibl {
   margin-top: 3em !important;
   padding-top: 1.5em !important;
-  border-top: 1px solid #c9c1b3 !important;
+  border-top: 2px solid #d6cdbc !important;
   font-size: 0.92em !important;
   line-height: 1.5 !important;
 }
 
-.bibl,
-listBibl bibl {
+listBibl,
+.listBibl {
   display: block !important;
-  margin-bottom: 1em !important;
-  padding-left: 1.5em !important;
-  text-indent: -1.5em !important;
+  margin-top: 1em !important;
 }
 
-/ =========================
-   TEI Boilerplate toolbox
-   ========================= /
+bibl,
+.bibl,
+listBibl > bibl,
+.listBibl > .bibl {
+  display: block !important;
+  margin-bottom: 1.2em !important;
+  padding-left: 1.8em !important;
+  text-indent: -1.8em !important;
+  line-height: 1.45 !important;
+}
+
+bibl title,
+.bibl title,
+.titlem,
+.titlea,
+.titlej {
+  font-style: italic !important;
+}
+
+bibl author,
+bibl publisher,
+bibl pubPlace,
+bibl date {
+  display: inline !important;
+}
+
+
+/* =========================
+   Hide TEI Boilerplate toolbox
+   ========================= */
 
 #teibpToolbox,
+div#teibpToolbox,
 .toolbox {
-  font-family: "Helvetica Neue", Arial, sans-serif !important;
-  font-size: 0.85em !important;
-  opacity: 0.75 !important;
+  display: none !important;
 }
 
-/ =========================
+
+/* =========================
    Responsive layout
    ========================= */
 
@@ -245,215 +474,36 @@ listBibl bibl {
 
   h1 {
     font-size: 1.45em !important;
+    line-height: 1.3 !important;
   }
 
   h2,
-  h3 {
+  h3,
+  div[type="editorial_intro"] > head,
+  div[type="story"] > head,
+  div[type="indexes"] > head,
+  div[type="endnotes"] > head,
+  div[type="bibliography"] > head {
     font-size: 1.15em !important;
   }
-}
-/* =========================
-   Visual section divisions
-   ========================= */
 
-/* Separate editorial introduction from the edition text */
-div[type="editorial_intro"] {
-  margin-bottom: 3em !important;
-  padding-bottom: 2em !important;
-  border-bottom: 2px solid #d6cdbc !important;
-}
+  div[type="paratext"] {
+    max-width: none !important;
+    margin: 2em 0 2.5em 0 !important;
+  }
 
-/* Style the typescript front/back matter as a separate paratext block */
-div[type="paratext"] {
-  max-width: 620px !important;
-  margin: 2.5em 0 3em 2em !important;
-  padding: 1.2em 1.5em !important;
-  background: #f7f4ec !important;
-  border-left: 4px solid #b99b63 !important;
-  font-size: 0.92em !important;
-  line-height: 1.45 !important;
-}
+  ab[type="typescript_header"] {
+    display: block !important;
+  }
 
-/* Keep paratext compact */
-div[type="paratext"] p,
-div[type="paratext"] ab {
-  margin: 0 !important;
-  line-height: 1.45 !important;
-}
+  ab[type="left_header"],
+  ab[type="right_header"] {
+    width: 100% !important;
+    text-align: left !important;
+    margin-bottom: 0.8em !important;
+  }
 
-/* Separate main story from paratext */
-div[type="story"] {
-  margin-top: 3em !important;
-  padding-top: 2em !important;
-  border-top: 2px solid #d6cdbc !important;
-}
-
-/* Make the story title smaller and cleaner */
-div[type="story"] h1,
-div[type="story"] h2,
-div[type="story"] h3,
-div[type="story"] .head {
-  font-family: "Helvetica Neue", Arial, sans-serif !important;
-  font-size: 1.45em !important;
-  line-height: 1.25 !important;
-  font-weight: 700 !important;
-  letter-spacing: 0.03em !important;
-  text-transform: uppercase !important;
-  margin-top: 0 !important;
-  margin-bottom: 1.2em !important;
-  color: #2f2a24 !important;
-}
-
-/* Back matter as closing paratext */
-div[subtype="back_matter"] {
-  margin-top: 3em !important;
-  border-left-color: #8f7a55 !important;
-}
-/* =========================
-   Bibliography formatting
-   ========================= */
-
-/* Make the bibliography section visually separate */
-div[type="bibliography"],
-.bibliography {
-  margin-top: 3em !important;
-  padding-top: 1.5em !important;
-  border-top: 2px solid #d6cdbc !important;
-}
-
-/* Force each bibliographic entry onto its own line/block */
-listBibl,
-.listBibl {
-  display: block !important;
-  margin-top: 1em !important;
-}
-
-/* TEI Boilerplate may output bibl as inline, so force block display */
-bibl,
-.bibl,
-listBibl > bibl,
-.listBibl > .bibl {
-  display: block !important;
-  margin-bottom: 1.2em !important;
-  padding-left: 1.8em !important;
-  text-indent: -1.8em !important;
-  line-height: 1.45 !important;
-}
-
-/* Make bibliography text slightly smaller than main text */
-div[type="bibliography"] bibl,
-.bibliography .bibl,
-listBibl bibl,
-.listBibl .bibl {
-  font-size: 0.9em !important;
-}
-
-/* Keep titles italic, but avoid excessive spacing */
-bibl title,
-.bibl title,
-.titlem,
-.titlea,
-.titlej {
-  font-style: italic !important;
-}
-
-/* Add punctuation-like spacing between bibliographic components */
-bibl author::after,
-.bibl .author::after {
-  content: ". " !important;
-}
-
-bibl title::after,
-.bibl .title::after {
-  content: ". " !important;
-}
-
-bibl publisher::after,
-.bibl .publisher::after {
-  content: ", " !important;
-}
-
-bibl pubPlace::after,
-.bibl .pubPlace::after {
-  content: ", " !important;
-}
-
-/* =========================
-   Front matter two-column typescript header
-   ========================= */
-
-ab[type="typescript_header"] {
-  display: grid !important;
-  grid-template-columns: 1fr 1fr !important;
-  column-gap: 4em !important;
-  font-family: "Courier New", Courier, monospace !important;
-  line-height: 1.8 !important;
-  margin: 0 !important;
-}
-
-ab[type="typescript_header"] ab[type="left_header"],
-ab[type="typescript_header"] ab[type="right_header"] {
-  display: block !important;
-}
-
-ab[type="typescript_header"] address {
-  font-style: normal !important;
-  display: block !important;
-}
-
-ab[type="typescript_header"] addrLine {
-  display: block !important;
-}
-
-ab[type="typescript_header"] lb::after {
-  content: "\A" !important;
-  white-space: pre !important;
-}
-
-/* =========================
-   Separate Notes from main text
-   ========================= */
-
-div[type="notes"],
-.notes {
-  margin-top: 4em !important;
-  padding-top: 2em !important;
-  border-top: 2px solid #d6cdbc !important;
-}
-
-/* Make Notes heading look like a section heading */
-div[type="notes"] > head,
-div[type="notes"] h2,
-div[type="notes"] h3,
-.notes h2,
-.notes h3 {
-  display: block !important;
-  font-family: "Helvetica Neue", Arial, sans-serif !important;
-  font-size: 1.45em !important;
-  line-height: 1.25 !important;
-  font-weight: 700 !important;
-  margin-top: 0 !important;
-  margin-bottom: 1.2em !important;
-  color: #2f2a24 !important;
-  border-bottom: none !important;
-  padding-bottom: 0 !important;
-}
-/* =========================
-   Front matter paratext smaller text
-   ========================= */
-
-#front_matter {
-  font-size: 0.88em !important;
-}
-
-#front_matter .typescript_header,
-#front_matter ab[type="typescript_header"] {
-  font-size: 0.88em !important;
-  line-height: 1.7 !important;
-}
-
-div#teibpToolbox,
-#teibpToolbox,
-.toolbox {
-  display: none !important;
+  closer {
+    margin-bottom: 4em !important;
+  }
 }
