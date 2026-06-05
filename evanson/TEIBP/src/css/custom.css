@@ -783,61 +783,45 @@ div[type="endnotes"] note {
 }
 
 /* =========================================================
-   Paratext block: contained within TEI page
+   Simple paratext style: no box, no two-column layout
    ========================================================= */
 
 div[type="paratext"] {
   display: block !important;
   width: 100% !important;
   max-width: 100% !important;
-  margin: 2.5em 0 3.5em 0 !important;
-  padding: 1.6em 2em !important;
-  box-sizing: border-box !important;
-
-  background: #f7f4ec !important;
-  border-left: 4px solid #b99b63 !important;
+  margin: 2.5em 0 3em 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: none !important;
   box-shadow: none !important;
+  box-sizing: border-box !important;
 
   font-family: "Courier New", Courier, monospace !important;
   font-size: 1em !important;
   line-height: 1.55 !important;
   color: #222 !important;
-
-  overflow: hidden !important;
 }
 
+/* Make all paratext contents use typescript style */
 div[type="paratext"] * {
   font-family: "Courier New", Courier, monospace !important;
   box-sizing: border-box !important;
 }
 
-/* Two-column layout that cannot exceed the box */
-ab[type="typescript_header"] {
-  display: grid !important;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) !important;
-  column-gap: 1.8em !important;
-  width: 100% !important;
-  max-width: 100% !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  box-sizing: border-box !important;
-}
-
+/* No two-column layout: everything becomes normal block text */
+ab[type="typescript_header"],
 ab[type="left_header"],
 ab[type="right_header"] {
   display: block !important;
-  width: auto !important;
+  width: 100% !important;
   max-width: 100% !important;
-  min-width: 0 !important;
-  margin: 0 !important;
+  margin: 0 0 1em 0 !important;
   padding: 0 !important;
-  box-sizing: border-box !important;
-}
-
-ab[type="right_header"] {
   text-align: left !important;
 }
 
+/* Keep lines compact */
 div[type="paratext"] ab,
 div[type="paratext"] address,
 div[type="paratext"] addrLine,
@@ -847,23 +831,4 @@ div[type="paratext"] seg {
   margin: 0 !important;
   padding: 0 !important;
   line-height: 1.55 !important;
-}
-
-/* Mobile: stack the two columns */
-@media screen and (max-width: 900px) {
-  div[type="paratext"] {
-    width: 100% !important;
-    max-width: 100% !important;
-    padding: 1.4em 1.2em !important;
-  }
-
-  ab[type="typescript_header"] {
-    display: block !important;
-  }
-
-  ab[type="left_header"],
-  ab[type="right_header"] {
-    width: 100% !important;
-    margin-bottom: 1em !important;
-  }
 }
