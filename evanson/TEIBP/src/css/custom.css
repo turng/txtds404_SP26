@@ -507,23 +507,26 @@ div#teibpToolbox,
     margin-bottom: 4em !important;
   }
 }
+
 /* =========================================================
-   Mixed style patch:
+   Mixed style patch with page margins:
    Title + paratext + story = typewriter
    Editorial intro + notes + indexes + bibliography = serif
    ========================================================= */
 
 
-/* ---------- A. Wider page: make content fill the browser better ---------- */
+/* ---------- A. Page container ---------- */
 
 html,
 body {
   width: 100% !important;
   max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
   background: #f4f1ea !important;
 }
 
-/* Wider page container */
+/* A centered paper-like page with visible margins */
 body > div:first-of-type,
 #main,
 #content,
@@ -532,16 +535,17 @@ body > div:first-of-type,
 .tei,
 article,
 main {
-  width: calc(100vw - 96px) !important;
-  max-width: 1280px !important;
-  margin: 2em auto !important;
-  padding: 3em 5em !important;
+  width: min(88vw, 1120px) !important;
+  max-width: 1120px !important;
+  margin: 3em auto !important;
+  padding: 3.2em 4.5em !important;
   background: #fffdf8 !important;
   box-sizing: border-box !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08) !important;
 }
 
 
-/* ---------- B. Keep scholarly apparatus in elegant serif ---------- */
+/* ---------- B. Scholarly apparatus remains elegant serif ---------- */
 
 body,
 div[type="editorial_intro"],
@@ -601,7 +605,7 @@ h1 {
   color: #222 !important;
 }
 
-/* Encoded and curated by line can stay serif for elegance */
+/* Encoded and curated by line stays serif */
 .docAuthor,
 .byline,
 .editor,
@@ -726,7 +730,7 @@ back {
 }
 
 
-/* ---------- G. Historical Notes and Index notes: remove boxes, keep serif ---------- */
+/* ---------- G. Notes and index annotations: remove boxes, keep serif ---------- */
 
 person > note,
 place > note,
@@ -830,7 +834,7 @@ div#teibpToolbox,
 }
 
 
-/* ---------- J. Mobile layout ---------- */
+/* ---------- J. Mobile layout: leave margins, do not fill the whole screen ---------- */
 
 @media screen and (max-width: 900px) {
   body > div:first-of-type,
@@ -841,10 +845,10 @@ div#teibpToolbox,
   .tei,
   article,
   main {
-    width: calc(100vw - 32px) !important;
+    width: calc(100vw - 40px) !important;
     max-width: none !important;
-    margin: 1em auto !important;
-    padding: 1.8em !important;
+    margin: 1.4em auto !important;
+    padding: 1.7em 1.5em !important;
   }
 
   h1 {
