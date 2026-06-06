@@ -51,123 +51,89 @@
       <body>
          <pb n="1"/>
          <head><emph> "BE AMERICAN" <lb/> By Carlos Bulosan </emph></head>
-         <p>It was not <name type="#consorcio"> Consorcio’s </name>fault. <lb/> My cousin was an
-            illiterate peasant from the vast plains of <name type="place" ref="#luzon">Luzon</name>.
-            <lb/> When he came off the boat in <name type="place" ref="#sanfrancisco">San
-            Francisco</name>, he could neither read nor write English or Ilocano, our dialect. <lb/> I met
-            him when he arrived, and right away he had bright ideas in his head.</p>
+         <p>It was not <name type="#consorcio"> Consorcio’s </name>fault. My cousin was an illiterate peasant 
+		    <lb/>from the vast plains of <name type="place" ref="#luzon">Luzon</name>. When he came off the boat in <name type="place" ref="#sanfrancisco">San Fran-
+		    <lb/>cisco</name>, he could neither read nor write English or Ilocano, our dialect. 
+		    <lb/>I met him when he arrived, and right away he had bright ideas in his 
+		    <lb/>head.</p>
          <p><said direct="true">“Cousin, I want to be American,” he told me. </said></p>
-         <p><said direct="true">“Good,” I said. “That is the right thing to do. But you have plenty
-               of time. You are planning to live permanently in the <name type="place"
-                  ref="#america">United States</name>, are you not?”</said></p>
-         <p><said direct="true">“Sure, cousin,”</said> he said. <said direct="true">“But I want to
-               be American right away. <lb/>On the boat I say, ‘<name type="#consorcio">Consorcio</name>
-               <choice>
-                  <orig>stoody Engleesh</orig>
-                  <reg>will study English</reg>
-               </choice> right away.’ <choice>
-                  <orig>Good ideeyas</orig>
-                  <reg>Good ideas</reg>
-               </choice>, eh, cousin?”</said></p>
-         <p><said direct="true">“It is,”</said> I said. <said direct="true">“But the first thing for
-               you to do is look for a job.”</said></p>
-         <p>
-            <said direct="true"> “Sure, cousin. You have <choice>
-                  <orig>joob</orig>
-                  <reg>job</reg>
-               </choice> for me?”</said></p>
-         <p> I did. I took him to a countryman of ours who owned a small restaurant on Kearny
-            Street. He had not done any dishwashing in the <name type="place" ref="#luzon"
-               >Philippines</name>, so he broke a few dishes before he realized that the dishes were
-            not coconut shells that he could flagrantly throw around the place, the way he used to
-            do in his village where coconut shells were plates and carved trunks of trees were
-            platters and his fingers were spoons. He had never seen bread and butter before, so he
-            lost some weight before he realized that he had to eat these basic things like the rest
-            of us, and be an American, which was his own idea in the first place. He had never slept
-            in a bed with a mattress before, so he had to suf- <pb n="2"/>
-            <seg>"Be American" 2</seg> fer from severe cold before he realized that he had to sleep
-            inside of the bed, under the blankets, but not on top of the spread, which was what we
-            had done during his first two weeks in <name type="place" ref="#america">America</name>.
-            And of course he had never worn shoes before, so he had to suffer a few blisters on both
-            feet before he realized that he had to walk light-footed, easy, and even graceful, but
-            not the way he used to do it in his village, which was like wrestling with a carabao or
-            goat. <lb/>All these natural things he had to learn during his first two weeks. But he
-            talked about his Americanization with great confidence.</p>
+         <p><said direct="true">“Good,” I said. “That is the right thing to do. But you have 
+			<lb/>plenty of time. You are planning to live permanently in the <name type="place" ref="#america">United 
+			<lb/>States</name>, are you not?”</said></p>
+         <p><said direct="true">“Sure, cousin,”</said> he said. <said direct="true">“But I want to be American right away. On 
+			 <lb/>the boat I say, ‘<name type="#consorcio">Consorcio</name> <choice><orig>stoody Engleesh</orig><reg>study English</reg></choice> right away.’ <choice> <orig>Good ideeyas</orig><reg>Good ideas</reg></choice>, 
+			 <lb/>eh, cousin?”</said></p>
+         <p><said direct="true">“It is,”</said> I said. <said direct="true">“But the first thing for you to do is look for 
+			 <lb/>a job.”</said></p>
+         <p><said direct="true"> “Sure, cousin. You have <choice><orig>joob</orig><reg>job</reg></choice> for me?”</said></p>
+         <p> I did. I took him to a countryman of ours who owned a small res-
+			 <lb/>taurant on Kearny Street. He had not done any dishwashing in the 
+			 <lb/><name type="place" ref="#luzon">Philippines</name>, so he broke a few dishes before he realized that the dishes 
+			 <lb/>were not coconut shells that he could flagrantly throw around the place,
+			 <lb/>the way he used to do in his village where coconut shells were plates 
+			 <lb/>and carved trunks of trees were platters and his fingers were spoons. 
+			 <lb/>He had never seen bread and butter before, so he lost some weight be-
+			 <lb/>fore he realized that he had to eat these basic things like the rest
+			 <lb/>of us, and be an American, which was his own idea in the first place.
+			 <lb/>He had never slept in a bed with a mattress before, so he had to suf- 
+			<pb n="2"/> 
+			<seg>"Be American" 2</seg> 
+			 <lb/>fer from severe cold before he realized that he had to sleep inside 
+			 <lb/>of the bed, under the blankets, but not on top of the spread, which was 
+			 <lb/>what we had done during his first two weeks in <name type="place" ref="#america">America</name>. And of course 
+			 <lb/>he had never worn shoes before, so he had to suffer a few blisters on 
+			 <lb/>both feet before he realized that he had to walk light-footed, easy, 
+			 <lb/> and even graceful, but not the way he used to do it in his village, 
+			 <lb/>which was like wrestling with a carabao or goat. </p>
+		<p> All these natural things he had to learn during his first two weeks. 
+			 <lb/>But he talked about his Americanization with great confidence.</p>
          <p><said direct="true">“You see, cousin,”</said> he told me, <said direct="true">“I have
-               earned <choice>
-                  <orig>mony</orig>
-                  <reg>money</reg>
-               </choice> quick. I poot and hoot <choice>
-                  <orig>dashes</orig>
-                  <reg>dishes</reg>
-               </choice> in the sink, wash-wash, day come, day out, week gone - <choice>
-                  <orig>mony</orig>
-                  <reg>money</reg>
-               </choice>! Simple?”</said>
-         </p>
-         <p>
-            <said direct="true">“Fine,”</said> I said. </p>
-         <p>
-            <said direct="true">“You know what I done with <choice>
-                  <orig>mony</orig>
-                  <reg>money</reg>
-               </choice>?”</said></p>
-         <p>
-            <said direct="true">“No.”</said>
-         </p>
-         <p>
-            <said direct="true">“I spent all.”</said>
-         </p>
-         <p>
-            <said direct="true">“On what?” </said>
-         </p>
-         <p>
-            <said direct="true">“Books. Come see my room.”</said>
-         </p>
-         <p>I went with him to his small room at the back of the restaurant where he was working,
-            near the washrooms. And sure enough, he had lined the four walls of his room with big
-            books. I looked at the titles. He had a cheap edition of the classics, books on science,
-            law and mathematics. He even had some brochures on political and govern-mental matters.
-            All were books that a student or even a professor would take time to read. <lb/>I turned
-            to my cousin. He was smiling with pride.</p>
-         <p><said direct="true">“Well, I hope these big books will make you an American
-               faster,”</said> I told him. </p>
+               earned <choice><orig>mony</orig><reg>money</reg></choice> quick. I <choice><orig>poot</orig><reg>put</reg></choice> 
+			 <lb/> the <choice><orig>hoot dashes</orig><reg>hot dishes</reg></choice> in the sink, wash-wash, day come, day out, week gone 
+			 <lb/> - <choice><orig>mony</orig><reg>money</reg></choice>! Simple?”</said></p>
+         <p><said direct="true">“Fine,”</said> I said. </p>
+         <p><said direct="true">“You know what I done with <choice><orig>mony</orig><reg>money</reg></choice>?”</said></p>
+         <p><said direct="true">“No.”</said></p>
+         <p><said direct="true">“I spent all.”</said></p>
+         <p><said direct="true">“On what?” </said></p>
+         <p><said direct="true">“Books. Come see my room.”</said></p>
+         <p>I went with him to his small room at the back of the restaurant 
+			 <lb/>where he was working, near the washrooms. And sure enough, he had 
+			 <lb>lined the four walls of his room with big books. I looked at the ti-
+			 <lb>tles. He had a cheap edition of the classics, books on science, law 
+			 <lb>and mathematics. He even had some brochures on political and govern-
+			 <lb>mental matters. All were books that a student or even a professor 
+			 <lb> would take time to read.</p>
+		 <p>I turned to my cousin. He was smiling with pride.</p>
+         <p><said direct="true">“Well, I hope these big books will make you an American faster,”</said> 
+			 <lb/>I told him. </p>
          <pb n="3"/>
          <seg>"Be American" 3</seg>
          <p><said direct="true">“Sure, cousin. How long I wait?”</said></p>
          <p><said direct="true">“Five years.”</said></p>
-         <p><said direct="true">“<hi style="underlined">Five years?</hi>”</said> There was genuine
-            surprise in his dark peasant face. <said direct="true">“Too long. I do not wait. I make
-               faster - one year.”</said></p>
+         <p><said direct="true">“<hi style="underlined">Five years?</hi>”</said> There was genuine surprise in his dark peasant face. 
+			 <lb/><said direct="true">“Too long. I do not wait. I make faster - one year.”</said></p>
          <p><said direct="true">“It is the law,”</said> I assured him.</p>
-         <p><said direct="true">“No good law. One year enough for <name type="#consorcio">
-                  Consorcio. </name>He make good American citizen.”</said></p>
+         <p><said direct="true">“No good law. One year enough for <name type="#consorcio">Consorcio</name>. He make good Ame-
+			 <lb/>rican citizen.”</said></p>
          <p><said direct="true">“There is nothing you can do about it.”</said></p>
          <p><said direct="true">“I change law.”</said></p>
          <p><said direct="true">“Go ahead.”</said></p>
          <p><said direct="true">“You see, cousin.”</said></p>
-         <p>But he was puzzled. So I left him. I left <name type="place" ref="#sanfrancisco">San
-               Francisco</name>. When I saw him a year later, he was no longer washing dishes. But
-            he still had the pardonable naivete of a peasant from the plains of <name type="place"
-               ref="#luzon">Luzon</name>.</p>
+         <p>But he was puzzled. So I left him. I left <name type="place" ref="#sanfrancisco">San Francisco</name>. 
+			 <lb/>When I saw him a year later, he was no longer washing dishes. But he still 
+			 <lb/>had the pardonable naivete of a peasant from the plains of <name type="place" ref="#luzon">Luzon</name>.</p>
          <p><said direct="true">“Where are you working now?”</said> I asked him.</p>
-         <p><said direct="true">“Bakery,”</said> he said. <said direct="true">“I make <choice>
-                  <orig>da</orig>
-                  <reg>the</reg>
-               </choice> bread. I make <choice>
-                  <orig>da donot</orig>
-                  <reg>the donut</reg>
-               </choice>. I made <choice>
-                  <orig>da pys</orig>
-                  <reg>the pies</reg>
-               </choice>.”</said></p>
+         <p><said direct="true">“Bakery,”</said> he said. <said direct="true">“I make <choice><orig>da</orig><reg>the</reg></choice> bread. I make <choice><orig>da donot</orig><reg>the donut</reg></choice>. I made 
+			 <lb/><choice><orig>da pys</orig><reg>the pies</reg></choice>.”</said></p>
          <p><said direct="true">“Where?”</said></p>
          <p><said direct="true">“Come, cousin. I show you.”</said></p>
-         <p>It was a small shop, a three-men affair. <name type="#consorcio">Consorcio </name> was
-            the handy-boy in the place, scrubbing the floor, washing the pots and pans; and he was
-            also the messenger. The owner was the baker, while his wife was the saleswoman. My
-            cousin lived at the back of the building, near the washrooms. He had a cot in the corner
-            of a dark room. But the books were gone.</p>
+         <p>It was a small shop, a three-men affair. <name type="#consorcio">Consorcio </name> was the handy-
+			 <lb/>boy in the place, scrubbing the floor, washing the pots and pans; and 
+			 <lb/>he was also the messenger. The owner was the baker, while his wife 
+			 <lb/>was the saleswoman. My cousin lived at the back of the building, 
+			 <lb/>near the washrooms. He had a cot in the corner of a dark room. But 
+			 <lb/>the books were gone.</p>
          <p><said direct="true">“What happened to your books?”</said> I asked him.</p>
          <p>He looked sad. Then he said, <said direct="true">“I sold, cousin.”</said></p>
          <p><said direct="true">“Why?”</said></p>
