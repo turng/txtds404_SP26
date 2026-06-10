@@ -1,0 +1,20 @@
+img {
+   width:50%;
+   height:50%;
+   text-align:center;
+}
+
+p {
+   font-family:Georgia; 
+}
+
+
+#verse {
+   font-family:Georgia; 
+}
+
+#heading {
+    font-size:28pt;
+    font-variant:small-caps;
+    font-family:Georgia;   
+}
